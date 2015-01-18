@@ -4810,8 +4810,6 @@
       2 103.228.128.251
       2 101.69.161.195
       2 101.64.236.194
-      1 Binary file /home/hk47/legacy/research/logs/transfer.mulesystems.com/kippo.log.66 matches
-      1 Binary file /home/hk47/legacy/research/logs/transfer.mulesystems.com/kippo.log.239 matches
       1 98.126.68.194
       1 94.79.200.246
       1 94.79.192.203
