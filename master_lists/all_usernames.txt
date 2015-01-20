@@ -2,6 +2,7 @@
 *****
 1
 123
+12345
 123456
 54.173.55.206
 54.173.55.212
@@ -235,6 +236,7 @@ andrei
 andrew
 andy
 angel
+anna
 anonymous
 apache
 app
@@ -248,11 +250,13 @@ at
 audit
 backup
 balls
+baltasar
 bash
 biadmin
 bill
 bin
 Binary file 
+blank
 bnc
 bob
 book
@@ -277,6 +281,7 @@ cisco
 client
 cmd
 cmsftp
+coach
 codec
 com
 commando
@@ -304,11 +309,13 @@ demo
 denied
 dev
 device
+digital
 D-Link
 dpiuser
 dreamer
 dspace
 dulap
+ebay
 ec2-user
 edit
 ems
@@ -341,6 +348,7 @@ haxor
 health
 hello
 help
+helpdesk
 hk
 hmsftp
 homepage
@@ -369,10 +377,12 @@ jacob
 jboss
 jenkins
 Jewel
+joggler
 john
 karaf
 kathi
 kayten
+kelly
 kernel
 killer
 kim
@@ -393,6 +403,7 @@ luke
 m
 mail
 mailman
+mailtest
 manager
 mantis
 maria
@@ -416,6 +427,7 @@ more
 morris_likes_boys
 morris_still_likes_boys
 music
+musique
 mysql
 mythtv
 nagios
@@ -425,6 +437,7 @@ network
 new
 newadmin
 news
+nginx
 nice
 nick
 nickname
@@ -456,11 +469,13 @@ password
 pat
 paul
 pe
+peter
 pgsql
 Phoenix
 pi
 pico
 pisica
+pizza
 pl
 play
 PlcmSpIp
@@ -472,6 +487,7 @@ postmaster
 print
 printul
 prova
+prueba
 psybnc
 public
 qq
@@ -481,6 +497,7 @@ rajeev
 rajiv
 rancid
 ravi
+reboot
 reception
 recovery
 redhat
@@ -504,6 +521,7 @@ samba
 sandeep
 sanjay
 sara
+sarah
 sauser
 sbkim
 scan
@@ -524,6 +542,7 @@ slview
 smecher
 smmsp
 smtp
+software
 splunk
 squid
 ssh
@@ -534,6 +553,7 @@ stan
 station
 stef
 stephen
+steve
 steven
 student
 sunny
@@ -543,6 +563,7 @@ suporte
 support
 susan
 suva
+svn
 swmaster
 sybase
 sysmngr
@@ -556,6 +577,7 @@ telnet
 temp
 test
 test1
+test2
 test3
 tester
 testftp
@@ -601,6 +623,7 @@ webadmin
 weblogic
 webmaster
 webpop
+webtest
 webuser
 word
 work
