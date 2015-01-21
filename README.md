@@ -5,7 +5,7 @@ This is a centralized repository for threat data collected by the Animus threat 
 master files which include all data collected historically by the honeypot sensors distributed around the Internet.  
 
 Currently, Animus threat reports only contain data on SSH threat actors and tactics. Other methods and vulnerabilities are currently being developed. 
-
+--------------------
 ### Features
 
 #### C2 Mass Scan
@@ -17,9 +17,9 @@ Animus mass scans the Internet once per week to locate known-malicious command a
 Once Animus discovers a C2 server using software it knows how to communicate with, it will connect to the C2 server and begin logging distributed denial-of-service target IP addresses. This allows Animus to track who different 
 adversary groups are targeting with denial-of-service attacks in real time.  
 
-##### Threatbot
+#### Threatbot
 
-Animus collects all data in a centralized repository. This repository can be queried on a per-IP basis via a Twitter bot, (@threatbot)[https://twitter.com/threatbot].  
+Animus collects all data in a centralized repository. This repository can be queried on a per-IP basis via a Twitter bot, [@threatbot](https://twitter.com/threatbot).  
 
 Threatbot will parse one or more IP addresses in a tweet, query the Animus database, and response back with a summarized report of that IP address. This report includes first sighting of attacks from the IP address and most recent 
 attacks from this IP address.
@@ -37,4 +37,4 @@ Additionally, Animus will begin to publish malware signatures and download links
 
 ### Contact
 
-If you have any questions or feedback about the Animus threat intelligence system, don't hesitate to reach out to the main developer via (email)[mailto:andrew@morris.guru] or (Twitter)[https://twitter.com/andrew___morris].
+If you have any questions or feedback about the Animus threat intelligence system, don't hesitate to reach out to the main developer via [email](mailto:andrew@morris.guru) or [Twitter](https://twitter.com/andrew___morris).
