@@ -10,20 +10,20 @@ Currently, Animus threat reports only contain data on SSH threat actors and tact
 
 Current version: 0.1.1 - Added malware URLs to Animus Threat Report
 
-#### Malware Artifact Reporting
+##### Malware Artifact Reporting
 
 Animus threat reports include a list of all URLs attackers attempted to download malware from.  
 
-#### C2 Mass Scan
+##### C2 Mass Scan
 
 Animus mass scans the Internet once per week to locate known-malicious command and control servers which can serve as indicators of compromise (IOCs). 
 
-#### DDOS Target Tracking
+##### DDOS Target Tracking
 
 Once Animus discovers a C2 server using software it knows how to communicate with, it will connect to the C2 server and begin logging distributed denial-of-service target IP addresses. This allows Animus to track who different 
 adversary groups are targeting with denial-of-service attacks in real time.  
 
-#### Threatbot
+##### Threatbot
 
 Animus collects all data in a centralized repository. This repository can be queried on a per-IP basis via a Twitter bot, [@threatbot](https://twitter.com/threatbot).  
 
@@ -34,21 +34,21 @@ Threatbot will tweet once per day with a link to the daily Animus threat report.
 
 Threatbot will tweet once per day with a summary of malware URLs captured
 
-### TODO
+#### TODO
 
 Animus will be expanding the threat reports to include data on the following threats:
 * Shellshock
 * Heartbleed
 * Wordpress attacks
 
-### Version History
+## Version History
 
 Current: ```0.1.1```  
 
 * 0.1.1 - Added malware URLs to Animus Threat Report
 * 0.1.0 - Initial version, publish reports on SSH attacker IP addresses and surrounding metadata.
 
-### Contact
+## Contact
 
 If you have any questions or feedback about the Animus threat intelligence system, don't hesitate to reach out to the main developer via [email](mailto:andrew@morris.guru) or [Twitter](https://twitter.com/andrew___morris).  
 
