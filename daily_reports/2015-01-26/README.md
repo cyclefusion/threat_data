@@ -12,7 +12,7 @@ FFB1 47C1 326E A063
 ### Summary
 
 Date: January 26, 2015  
-Total attacks today: 18224  
+Total attacks today: 18354  
 Malware samples identified: 10 
 
 #### IP addresses
@@ -38,12 +38,13 @@ http://buhenge.com/z2
 http://buhenge.com/z3
 http://buhenge.com/z4
 http://buhenge.com/z5
-``echo
+```
+
 #### Passwords
 The following are the top 25 passwords today, including the frequency of usage:
 ```
-    244 admin
-    100 qwerty
+    248 admin
+    102 qwerty
      92 1234567890
      91 root
      88 toor
@@ -58,6 +59,7 @@ The following are the top 25 passwords today, including the frequency of usage:
      85 12345678
      84 root1234
      84 passw0rd
+     84 1qaz@WSX
      84 1qaz2wsx
      84 142536
      84 123qwe!@#
@@ -66,13 +68,12 @@ The following are the top 25 passwords today, including the frequency of usage:
      83 123456
      83 12345
      82 redhat
-     82 qwe123
 ```
 
 #### Usernames
 The following are the top 3 usernames today, including the frequency of usage:
 ```
-  16690 root
+  16820 root
    1523 admin
       5 www
 ```
@@ -80,9 +81,9 @@ The following are the top 3 usernames today, including the frequency of usage:
 #### SSH Library Version
 The following are the top 5 SSH library versions today, including the frequency of usage:
 ```
-    915 SSH-2.0-libssh2_1.4.2
+    924 SSH-2.0-libssh2_1.4.2
     287 SSH-2.0-libssh2_1.4.3
-     88 SSH-2.0-PuTTY_Release_0.63cn
+     94 SSH-2.0-PuTTY_Release_0.63cn
      43 SSH-2.0-PuTTY_Release_0.63cn3
      33 SSH-2.0-PUTTY
 ```
