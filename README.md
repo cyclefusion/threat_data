@@ -8,7 +8,7 @@ Currently, Animus threat reports only contain data on SSH threat actors and tact
 
 ## Features
 
-Current version: 0.1.1 - Added malware URLs to Animus Threat Report
+Current version: ```0.1.1``` - Added malware URLs to Animus Threat Report
 
 ##### Malware Artifact Reporting
 
