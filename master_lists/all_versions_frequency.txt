@@ -1,9 +1,9 @@
 1789613 SSH-2.0-PUTTY
-  87335 SSH-2.0-libssh2_1.4.2
+  87662 SSH-2.0-libssh2_1.4.2
   34955 SSH-2.0-libssh2_1.4.3
   17607 SSH-2.0-PuTTY_Release_0.63
   13874 SSH-2.0-libssh2_1.4.1
-   5561 SSH-2.0-PuTTY_Release_0.63cn
+   5578 SSH-2.0-PuTTY_Release_0.63cn
    4850 SSH-2.0-JSCH-0.1.51
    2073 SSH-2.0-PuTTY_Release_0.63cn3
     550 SSH-2.0-Granados-1.0
@@ -16,7 +16,7 @@
     142 SSH-2.0-PuTTY_Local:_May_14_2009_21:12:18
     125 SSH-2.0-dropbear_0.47
      91 SSH-2.0-1.91
-     65 SSH-2.0-paramiko_1.15.1
+     66 SSH-2.0-paramiko_1.15.1
      49 SSH-2.0-libssh2_1.4.0
      48 SSH-2.0-paramiko_1.14.0
      37 SSH-1.99-3.2.9
