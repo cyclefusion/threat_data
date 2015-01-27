@@ -12,7 +12,7 @@ FFB1 47C1 326E A063
 ### Summary
 
 Date: January 26, 2015  
-Total attacks today: 18354  
+Total attacks today: 20555  
 Malware samples identified: 10 
 
 #### IP addresses
@@ -22,12 +22,12 @@ The following are the top 10 attacker IP addresses today, including the frequenc
    1165 122.225.109.100
    1011 61.174.51.214
     891 61.174.51.212
+    887 61.174.51.202
     880 122.225.109.211
     773 61.174.51.213
     771 122.225.109.112
     746 61.174.51.207
     713 122.225.97.92
-    675 122.225.109.213
 ```
 
 #### Attempted URL Downloads
@@ -43,47 +43,47 @@ http://buhenge.com/z5
 #### Passwords
 The following are the top 25 passwords today, including the frequency of usage:
 ```
-    248 admin
-    102 qwerty
-     92 1234567890
-     91 root
-     88 toor
-     88 admin123
-     87 password
-     87 123.com
-     86 root123
-     86 225588
-     86 1q2w3e4r
-     85 P@ssw0rd
-     85 Passw0rd
-     85 12345678
-     84 root1234
-     84 passw0rd
-     84 1qaz@WSX
-     84 1qaz2wsx
-     84 142536
-     84 123qwe!@#
-     84 1234
-     83 qweasd
-     83 123456
-     83 12345
-     82 redhat
+    286 admin
+    114 qwerty
+    101 1234567890
+    100 root
+     98 toor
+     98 admin123
+     97 root123
+     96 password
+     96 225588
+     96 123.com
+     95 root1234
+     95 Passw0rd
+     95 123qwe!@#
+     94 1qaz@WSX
+     94 1qaz2wsx
+     94 1q2w3e4r
+     94 123456
+     94 1234
+     93 qweasd
+     93 P@ssw0rd
+     93 passw0rd
+     93 manager
+     93 cisco
+     93 142536
+     93 12345678
 ```
 
 #### Usernames
 The following are the top 3 usernames today, including the frequency of usage:
 ```
-  16820 root
-   1523 admin
+  18789 root
+   1755 admin
       5 www
 ```
 
 #### SSH Library Version
 The following are the top 5 SSH library versions today, including the frequency of usage:
 ```
-    924 SSH-2.0-libssh2_1.4.2
+   1053 SSH-2.0-libssh2_1.4.2
     287 SSH-2.0-libssh2_1.4.3
-     94 SSH-2.0-PuTTY_Release_0.63cn
+    104 SSH-2.0-PuTTY_Release_0.63cn
      43 SSH-2.0-PuTTY_Release_0.63cn3
      33 SSH-2.0-PUTTY
 ```
