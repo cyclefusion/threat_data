@@ -1,3 +1,4 @@
+
 -------------
 *****
 1
@@ -213,6 +214,7 @@ add
 address
 adm
 admin
+Admin
 admin1
 admin2
 administraator
@@ -559,6 +561,7 @@ student
 sunny
 sunsun
 super
+supervisor
 suporte
 support
 susan

@@ -9,30 +9,30 @@
    5035 http://219.135.56.219:9162/fdsfsfvff
    5035 http://219.135.56.219:9162/dsgregd
    5035 http://219.135.56.219:9162/byv832
-    694 http://cs.frade8c.com:9162/root
-    347 http://cs.frade8c.com:9162/vrgshth
-    347 http://cs.frade8c.com:9162/udevd
-    347 http://cs.frade8c.com:9162/smarvtd
-    347 http://cs.frade8c.com:9162/sjfedjr
-    347 http://cs.frade8c.com:9162/rewgtf3er4t
-    347 http://cs.frade8c.com:9162/nhgbhhj
-    347 http://cs.frade8c.com:9162/jdhe
-    347 http://cs.frade8c.com:9162/fdsfsfvff
-    347 http://cs.frade8c.com:9162/dsgregd
-    347 http://cs.frade8c.com:9162/byv832
-    127 http://buhenge.com/z1
-     47 http://buhenge.com/z2
+    910 http://cs.frade8c.com:9162/root
+    455 http://cs.frade8c.com:9162/vrgshth
+    455 http://cs.frade8c.com:9162/udevd
+    455 http://cs.frade8c.com:9162/smarvtd
+    455 http://cs.frade8c.com:9162/sjfedjr
+    455 http://cs.frade8c.com:9162/rewgtf3er4t
+    455 http://cs.frade8c.com:9162/nhgbhhj
+    455 http://cs.frade8c.com:9162/jdhe
+    455 http://cs.frade8c.com:9162/fdsfsfvff
+    455 http://cs.frade8c.com:9162/dsgregd
+    455 http://cs.frade8c.com:9162/byv832
+    128 http://buhenge.com/z1
+     48 http://buhenge.com/z2
      45 http://23.234.60.140/install/8002
      31 http://23.234.60.140/install/8001
-     22 http://buhenge.com/z5
+     23 http://buhenge.com/z5
      22 http://23.234.60.140/install/8003
      21 http://23.234.60.140/install/8007
      18 http://www.frade8c.com:9162/root
      18 http://23.234.60.140/install/8008
+     17 http://buhenge.com/z4
      17 http://23.234.60.140/install/48513
      16 http://23.228.102.152:1818/bulong
-     15 http://buhenge.com/z4
-     14 http://buhenge.com/z3
+     15 http://buhenge.com/z3
      13 http://115.29.165.174:53621/ssh77
      12 http://buhenge.com/2821
      12 http://23.234.60.140/install/8004
@@ -65,6 +65,7 @@
       4 http://183.60.202.9:1560/qwe0x03qa0
       4 http://121.40.85.20:8181/xdp
       4 http://115.29.165.174:38886/ssh77
+      2 http://buhenge.com/z6
       2 http://buhenge.com/p1
       2 http://buhenge.com/m1
       2 http://buhenge.com/2836
