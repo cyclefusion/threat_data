@@ -9,26 +9,26 @@
    5035 http://219.135.56.219:9162/fdsfsfvff
    5035 http://219.135.56.219:9162/dsgregd
    5035 http://219.135.56.219:9162/byv832
-   1044 http://cs.frade8c.com:9162/root
-    522 http://cs.frade8c.com:9162/vrgshth
-    522 http://cs.frade8c.com:9162/udevd
-    522 http://cs.frade8c.com:9162/smarvtd
-    522 http://cs.frade8c.com:9162/sjfedjr
-    522 http://cs.frade8c.com:9162/rewgtf3er4t
-    522 http://cs.frade8c.com:9162/nhgbhhj
-    522 http://cs.frade8c.com:9162/jdhe
-    522 http://cs.frade8c.com:9162/fdsfsfvff
-    522 http://cs.frade8c.com:9162/dsgregd
-    522 http://cs.frade8c.com:9162/byv832
-    129 http://buhenge.com/z1
+   1142 http://cs.frade8c.com:9162/root
+    571 http://cs.frade8c.com:9162/vrgshth
+    571 http://cs.frade8c.com:9162/udevd
+    571 http://cs.frade8c.com:9162/smarvtd
+    571 http://cs.frade8c.com:9162/sjfedjr
+    571 http://cs.frade8c.com:9162/rewgtf3er4t
+    571 http://cs.frade8c.com:9162/nhgbhhj
+    571 http://cs.frade8c.com:9162/jdhe
+    571 http://cs.frade8c.com:9162/fdsfsfvff
+    571 http://cs.frade8c.com:9162/dsgregd
+    571 http://cs.frade8c.com:9162/byv832
+    132 http://buhenge.com/z1
      49 http://buhenge.com/z2
      45 http://23.234.60.140/install/8002
      31 http://23.234.60.140/install/8001
      24 http://buhenge.com/z5
      22 http://23.234.60.140/install/8003
      21 http://23.234.60.140/install/8007
+     20 http://buhenge.com/z4
      18 http://www.frade8c.com:9162/root
-     18 http://buhenge.com/z4
      18 http://23.234.60.140/install/8008
      17 http://23.234.60.140/install/48513
      16 http://buhenge.com/z3
@@ -53,13 +53,13 @@
       9 http://23.234.60.140/install/8000
       8 http://ftp.rxxiaoao.com/install/n8007.rar
       7 http://23.234.60.140/install/8005
+      6 http://buhenge.com/z6
       6 http://94.102.63.155/res.html
       6 http://204.44.104.93:8080/iten64
       6 http://183.61.164.167:8018/12316
       6 http://124.115.16.31:8009/xqq
       6 http://100.42.30.34/lex
       5 http://23.234.60.140:8081/install/8007
-      4 http://buhenge.com/z6
       4 http://60.173.10.177:8080/14.17
       4 http://23.234.60.140:8081/install/8006
       4 http://204.44.104.93:8080/lin32

@@ -1,15 +1,15 @@
-6764954 root
- 287544 admin
+6776829 root
+ 288819 admin
    1588 test
    1511 ubnt
    1434 user
-    998 support
+   1010 support
     827 guest
-    680 oracle
+    749 oracle
     589 PlcmSpIp
     564 pi
     547 ftp
-    499 ubuntu
+    514 ubuntu
     494 ftpuser
     439 default
     404 vyatta
@@ -168,6 +168,7 @@
       4 user3
       4 user2
       4 suporte
+      4 shell
       4 sauser
       4 saadmin
       4 PARC
@@ -392,7 +393,6 @@
       1 slview
       1 shoutcast
       1 shop
-      1 shell
       1 shark
       1 sh
       1 sgi
