@@ -1,5 +1,5 @@
-6776829 root
- 288819 admin
+6790232 root
+ 289885 admin
    1588 test
    1511 ubnt
    1434 user
@@ -101,6 +101,7 @@
      12 server
      12 public
      12 music
+     12 linux
      12 lily
      12 helpdesk
      11 tech
@@ -111,7 +112,6 @@
      10 sharon
      10 play
      10 mailman
-     10 linux
       9 webtest
       9 test2
       9 svn
