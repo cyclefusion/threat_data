@@ -9,27 +9,27 @@
    5035 http://219.135.56.219:9162/fdsfsfvff
    5035 http://219.135.56.219:9162/dsgregd
    5035 http://219.135.56.219:9162/byv832
-   1348 http://cs.frade8c.com:9162/root
-    674 http://cs.frade8c.com:9162/vrgshth
-    674 http://cs.frade8c.com:9162/udevd
-    674 http://cs.frade8c.com:9162/smarvtd
-    674 http://cs.frade8c.com:9162/sjfedjr
-    674 http://cs.frade8c.com:9162/rewgtf3er4t
-    674 http://cs.frade8c.com:9162/nhgbhhj
-    674 http://cs.frade8c.com:9162/jdhe
-    674 http://cs.frade8c.com:9162/fdsfsfvff
-    674 http://cs.frade8c.com:9162/dsgregd
-    674 http://cs.frade8c.com:9162/byv832
-    134 http://buhenge.com/z1
-     52 http://buhenge.com/z2
+   1404 http://cs.frade8c.com:9162/root
+    702 http://cs.frade8c.com:9162/vrgshth
+    702 http://cs.frade8c.com:9162/udevd
+    702 http://cs.frade8c.com:9162/smarvtd
+    702 http://cs.frade8c.com:9162/sjfedjr
+    702 http://cs.frade8c.com:9162/rewgtf3er4t
+    702 http://cs.frade8c.com:9162/nhgbhhj
+    702 http://cs.frade8c.com:9162/jdhe
+    702 http://cs.frade8c.com:9162/fdsfsfvff
+    702 http://cs.frade8c.com:9162/dsgregd
+    702 http://cs.frade8c.com:9162/byv832
+    135 http://buhenge.com/z1
+     55 http://buhenge.com/z2
      45 http://23.234.60.140/install/8002
      31 http://23.234.60.140/install/8001
      24 http://buhenge.com/z5
+     24 http://buhenge.com/z4
      22 http://23.234.60.140/install/8003
-     21 http://buhenge.com/z4
      21 http://23.234.60.140/install/8007
+     19 http://buhenge.com/z3
      18 http://www.frade8c.com:9162/root
-     18 http://buhenge.com/z3
      18 http://23.234.60.140/install/8008
      17 http://23.234.60.140/install/48513
      16 http://23.228.102.152:1818/bulong
@@ -37,6 +37,7 @@
      12 http://buhenge.com/2821
      12 http://23.234.60.140/install/8004
      11 http://162.218.30.75:1818/ssh33
+     10 http://buhenge.com/z6
      10 http://23.234.60.140/install/8006
      10 http://204.44.104.93:8080/iten32
       9 http://www.frade8c.com:9162/whitptabil
@@ -52,7 +53,6 @@
       9 http://ftp.rxxiaoao.com/install/n8005.rar
       9 http://23.234.60.140/install/8000
       8 http://ftp.rxxiaoao.com/install/n8007.rar
-      8 http://buhenge.com/z6
       7 http://23.234.60.140/install/8005
       6 http://94.102.63.155/res.html
       6 http://204.44.104.93:8080/iten64
