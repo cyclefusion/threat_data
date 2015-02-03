@@ -12,12 +12,16 @@ FFB1 47C1 326E A063
 ### Summary
 
 Date: February 03, 2015  
-Total attacks today: 80  
+Total attacks today: 3928  
 Attempted Malware Downloads: 2 
 
 #### IP addresses
 The following are the top 10 attacker IP addresses today, including the frequency of usage:
 ```
+   2913 103.41.124.27
+    671 222.186.34.161
+    132 103.41.124.54
+    132 103.41.124.104
      78 120.210.205.252
       1 23.102.232.112
       1 112.78.3.196
@@ -39,14 +43,31 @@ The following are the top 25 passwords today, including the frequency of usage:
      13 qiaoge183.60
      13 Electra@123!
      13 
-      1 54.174.47.89
-      1 104.239.132.185
+      9 qazwsx
+      9 p@$$w0rd
+      9 Password01
+      9 p@55w0rd
+      9 00000000
+      8 welcome1
+      8 talent
+      8 rootadmin
+      8 root123456
+      8 root01
+      8 root00
+      8 r00tr00t
+      8 qazwsxedc
+      8 q1w2e3
+      8 password1234
+      8 p4ssw0rd
+      8 operator
+      8 merlin
+      8 mariah
 ```
 
 #### Usernames
 The following are the top 3 usernames today, including the frequency of usage:
 ```
-      6 root
+   3854 root
       6 guest
       6 Alex996
 ```
@@ -54,6 +75,7 @@ The following are the top 3 usernames today, including the frequency of usage:
 #### SSH Library Version
 The following are the top 5 SSH library versions today, including the frequency of usage:
 ```
-     26 SSH-2.0-libssh2_1.4.3
+   1064 SSH-2.0-PUTTY
+    163 SSH-2.0-libssh2_1.4.3
       3 SSH-2.0-libssh2_1.4.1
 ```

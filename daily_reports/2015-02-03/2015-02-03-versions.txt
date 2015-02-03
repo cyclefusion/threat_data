@@ -1,2 +1,3 @@
 SSH-2.0-libssh2_1.4.1
 SSH-2.0-libssh2_1.4.3
+SSH-2.0-PUTTY
