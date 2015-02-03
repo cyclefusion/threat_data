@@ -14,6 +14,9 @@ http://122.224.55.86:8080/npc1
 http://124.115.16.31:8009/xqq
 http://162.218.30.75:1818/ssh33
 http://162.218.30.75:1818/ssh66
+http://176.102.38.77/search/e.php?h=cloudemotions.com/'
+http://176.102.38.77/search/e.php?h=cloudemotions.com/cgi-bin/'
+http://176.102.38.77/search/e.php?h=cloudemotions.com/cgi-sys/entropysearch.cgi'
 http://182.254.247.118:8080/WIND
 http://183.60.197.231:5156/mazi
 http://183.60.202.9:1560/qwe0x03qa0
@@ -103,3 +106,4 @@ http://www.frade8c.com:9162/root
 http://www.frade8c.com:9162/sfewfesfs
 http://www.frade8c.com:9162/smarvtd
 http://www.frade8c.com:9162/whitptabil
+http://www.majestic12.co.uk/bot.php?+)
