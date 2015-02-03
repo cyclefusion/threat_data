@@ -6,9 +6,25 @@ master files which include all data collected historically by the honeypot senso
 
 Currently, Animus threat reports only contain data on SSH threat actors and tactics. Other methods and vulnerabilities are currently being developed.  
 
+## Stats
+
+The following are some numbers surrounding Animus activity to date. These stats were last updated on February 03, 2015. All activity 
+is fully automated.
+* Attacker IP addresses collected: 5796
+* Total SSH attempts observed: 7208804
+* Unique malware samples captured: 32
+* Malicious domains identified: 0
+* Unique passwords collected from sensors: 612598
+* Unique usernames collected from sensors: 659
+* SSH library versions observed from SSH bruteforce tools: 55
+
 ## Features
 
 Current version: ```0.1.1``` - Added malware URLs to Animus Threat Report  
+
+##### Attacker IP address threat feed
+
+Animus publishes daily reports containing attacker IP addresses which can be preemptively blocked in your environment  
 
 ##### Malware Artifact Reporting
 
@@ -51,6 +67,8 @@ Current: ```0.1.1```
 ## Contact
 
 If you have any questions or feedback about the Animus threat intelligence system, don't hesitate to reach out to the main developer via [email](mailto:andrew@morris.guru) or [Twitter](https://twitter.com/andrew___morris).  
+
+### License
 
 All rights reserved by Andrew Morris under Creative Commons Non-Commercial 4.0 license, 2014-2015.  
 Contact me if you'd like to use this data for commercial purposes.  
