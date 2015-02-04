@@ -1,5 +1,7 @@
 http://100.42.30.34/lex
 http://104.194.20.23:8080/2222
+http://115.239.248.55:8080/ssh88
+http://115.239.248.55:8080/sshd
 http://115.29.165.174:38886/ssh77
 http://115.29.165.174:53621/ssh77
 http://117.21.173.30:6868/26ssh22
@@ -95,6 +97,7 @@ http://cs.frade8c.com:9162/udevd
 http://cs.frade8c.com:9162/vrgshth
 http://ftp.rxxiaoao.com/install/n8005.rar
 http://ftp.rxxiaoao.com/install/n8007.rar
+http://ftp.rxxiaoao.com/install/n8008.rar
 http://www.frade8c.com:9162/byv832
 http://www.frade8c.com:9162/fdsfsfvff
 http://www.frade8c.com:9162/gdmorpen
