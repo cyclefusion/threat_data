@@ -12,70 +12,91 @@ FFB1 47C1 326E A063
 ### Summary
 
 Date: February 03, 2015  
-Total attacks today: 3928  
-Attempted Malware Downloads: 2 
+Total attacks today: 77189  
+Attempted Malware Downloads: 69 
 
 #### IP addresses
 The following are the top 10 attacker IP addresses today, including the frequency of usage:
 ```
-   2913 103.41.124.27
-    671 222.186.34.161
-    132 103.41.124.54
-    132 103.41.124.104
-     78 120.210.205.252
-      1 23.102.232.112
-      1 112.78.3.196
+   5790 103.41.124.40
+   5106 103.41.124.103
+   4140 103.41.124.52
+   3051 103.41.124.32
+   2952 103.41.124.66
+   2946 103.41.124.62
+   2946 103.41.124.16
+   2940 103.41.124.64
+   2937 103.41.124.24
+   2937 103.41.124.112
 ```
 
 #### Attempted URL Downloads
 The following are URLs attackers attempted to download and execute once they compromising a honeypot sensor:
 ```
 http://23.234.60.140/install/8005
+http://23.234.60.140/install/8007
+http://buhenge.com/z2
+http://buhenge.com/z3
+http://buhenge.com/z4
 http://buhenge.com/z5
+http://buhenge.com/z6
+http://cs.frade8c.com:9162/byv832
+http://cs.frade8c.com:9162/dsgregd
+http://cs.frade8c.com:9162/fdsfsfvff
+http://cs.frade8c.com:9162/jdhe
+http://cs.frade8c.com:9162/nhgbhhj
+http://cs.frade8c.com:9162/rewgtf3er4t
+http://cs.frade8c.com:9162/root
+http://cs.frade8c.com:9162/sjfedjr
+http://cs.frade8c.com:9162/smarvtd
+http://cs.frade8c.com:9162/udevd
+http://cs.frade8c.com:9162/vrgshth
 ```
 
 #### Passwords
 The following are the top 25 passwords today, including the frequency of usage:
 ```
-     13 XZxzxz123
-     13 XZsawq21
-     13 root
-     13 qiaoge183.60
-     13 Electra@123!
-     13 
-      9 qazwsx
-      9 p@$$w0rd
-      9 Password01
-      9 p@55w0rd
-      9 00000000
-      8 welcome1
-      8 talent
-      8 rootadmin
-      8 root123456
-      8 root01
-      8 root00
-      8 r00tr00t
-      8 qazwsxedc
-      8 q1w2e3
-      8 password1234
-      8 p4ssw0rd
-      8 operator
-      8 merlin
-      8 mariah
+     23 admin
+     23 
+     20 instruments
+     20 fret
+     20 firewall
+     20 ferrari355
+     20 como
+     20 abcd@123
+     19 root123456
+     19 root
+     19 maulik
+     19 manager
+     19 1234567890
+     18 p4ssw0rd
+     18 abc@123
+     17 lalala
+     16 zxcv1234zxcv
+     16 yu520
+     16 yan52
+     16 ww1
+     16 WINDOWSserver2003@
+     16 wang1
+     16 virushan
+     16 ved
+     16 uucp;uucp2
 ```
 
 #### Usernames
 The following are the top 3 usernames today, including the frequency of usage:
 ```
-   3854 root
-      6 guest
-      6 Alex996
+  77059 root
+     22 admin
+     15 ubuntu
 ```
 
 #### SSH Library Version
 The following are the top 5 SSH library versions today, including the frequency of usage:
 ```
-   1064 SSH-2.0-PUTTY
-    163 SSH-2.0-libssh2_1.4.3
-      3 SSH-2.0-libssh2_1.4.1
+  24966 SSH-2.0-PUTTY
+    268 SSH-2.0-libssh2_1.4.3
+     76 SSH-2.0-libssh2_1.4.2
+     30 SSH-2.0-libssh2_1.4.1
+     22 SSH-2.0-paramiko_1.13.0
 ```
