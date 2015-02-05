@@ -12,22 +12,22 @@ FFB1 47C1 326E A063
 ### Summary
 
 Date: February 04, 2015  
-Total attacks today: 4415  
-Attempted Malware Downloads: 93 
+Total attacks today: 5312  
+Attempted Malware Downloads: 117 
 
 #### IP addresses
 The following are the top 10 attacker IP addresses today, including the frequency of usage:
 ```
     586 218.2.0.137
     562 115.239.228.12
+    530 218.2.0.127
     499 222.187.220.246
     381 115.239.228.16
-    334 115.239.228.15
+    337 115.239.228.15
     321 115.231.218.131
-    240 115.239.228.14
+    291 115.239.228.14
     117 115.239.228.34
     109 103.41.124.108
-    108 54.93.71.143
 ```
 
 #### Attempted URL Downloads
@@ -59,47 +59,47 @@ http://ftp.rxxiaoao.com/install/n8008.rar
 #### Passwords
 The following are the top 25 passwords today, including the frequency of usage:
 ```
-    109 123456
-     99 root
-     94 password
-     94 admin
-     75 1
-     74 insecure
-     71 toor
-     70 1234
-     68 123
-     67 redhat
-     66 ubuntu
-     62 centos6svm.root123
-     60 crossfire
+    116 123456
+    110 root
+    108 admin
+    101 password
+     79 1
+     77 1234
+     76 insecure
+     73 toor
+     71 123
+     70 redhat
+     68 ubuntu
+     63 centos6svm.root123
+     62 crossfire
      37 
-     27 wubao
-     25 jiamima
-     18 default
-     14 internet123
-     14 administrator
-     11 test
-     11 -
-     10 12345
-      9 master
-      8 root123
-      8 qwerty
+     29 wubao
+     26 jiamima
+     24 default
+     16 internet123
+     16 administrator
+     16 12345
+     14 test
+     12 root123
+     12 oracle
+     12 admin123
+     12 123456789
 ```
 
 #### Usernames
 The following are the top 3 usernames today, including the frequency of usage:
 ```
-   4154 root
-     59 oracle
-     26 ubuntu
+   4831 root
+    184 admin
+     63 oracle
 ```
 
 #### SSH Library Version
 The following are the top 5 SSH library versions today, including the frequency of usage:
 ```
-   1078 SSH-2.0-PUTTY
-    101 SSH-2.0-libssh2_1.4.3
-     81 SSH-2.0-libssh2_1.4.1
-     45 SSH-2.0-libssh2_1.4.2
+   1152 SSH-2.0-PUTTY
+    139 SSH-2.0-libssh2_1.4.1
+    118 SSH-2.0-libssh2_1.4.3
+     74 SSH-2.0-libssh2_1.4.2
      37 SSH-2.0-JSCH-0.1.51
 ```

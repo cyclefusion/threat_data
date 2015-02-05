@@ -18,6 +18,7 @@ apache
 arbab
 backup
 Berwyn
+bob
 Burnsville
 christian
 cisco
@@ -28,6 +29,7 @@ default
 dreamer
 Emerson
 Fall
+fluffy
 ftp
 ftpuser
 games
@@ -36,6 +38,8 @@ Henry
 info
 jack
 karaf
+library
+linux
 log
 lp
 Lynn
@@ -51,6 +55,7 @@ root
 sales
 sebastian
 send
+shell
 smtp
 sshd
 support
@@ -61,9 +66,11 @@ ts3
 ts3srv
 ubnt
 ubuntu
+unix
 upload
 user
 vyatta
+webadmin
 webmaster
 www
 xbian
