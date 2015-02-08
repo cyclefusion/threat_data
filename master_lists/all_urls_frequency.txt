@@ -9,38 +9,38 @@
    5035 http://219.135.56.219:9162/fdsfsfvff
    5035 http://219.135.56.219:9162/dsgregd
    5035 http://219.135.56.219:9162/byv832
-   1534 http://cs.frade8c.com:9162/root
-    767 http://cs.frade8c.com:9162/vrgshth
-    767 http://cs.frade8c.com:9162/udevd
-    767 http://cs.frade8c.com:9162/smarvtd
-    767 http://cs.frade8c.com:9162/sjfedjr
-    767 http://cs.frade8c.com:9162/rewgtf3er4t
-    767 http://cs.frade8c.com:9162/nhgbhhj
-    767 http://cs.frade8c.com:9162/jdhe
-    767 http://cs.frade8c.com:9162/fdsfsfvff
-    767 http://cs.frade8c.com:9162/dsgregd
-    767 http://cs.frade8c.com:9162/byv832
+   1572 http://cs.frade8c.com:9162/root
+    786 http://cs.frade8c.com:9162/vrgshth
+    786 http://cs.frade8c.com:9162/udevd
+    786 http://cs.frade8c.com:9162/smarvtd
+    786 http://cs.frade8c.com:9162/sjfedjr
+    786 http://cs.frade8c.com:9162/rewgtf3er4t
+    786 http://cs.frade8c.com:9162/nhgbhhj
+    786 http://cs.frade8c.com:9162/jdhe
+    786 http://cs.frade8c.com:9162/fdsfsfvff
+    786 http://cs.frade8c.com:9162/dsgregd
+    786 http://cs.frade8c.com:9162/byv832
     244 http://202.191.121.230/ou.pl;perl
     244 http://202.191.121.230/ou.pl
     186 http://61.218.226.170/
-    143 http://buhenge.com/z1
+    145 http://buhenge.com/z1
+     63 http://buhenge.com/z2
      62 http://gilbertsoto.com/t3.log;perl
      62 http://gilbertsoto.com/t3.log
-     62 http://buhenge.com/z2
      45 http://23.234.60.140/install/8002
      42 http://allproutah.com/t3.log;perl
      42 http://allproutah.com/t3.log
      40 http://202.202.121.27/bot.txt;perl
      40 http://202.202.121.27/bot.txt
-     31 http://buhenge.com/z5
+     33 http://buhenge.com/z5
+     31 http://buhenge.com/z4
      31 http://23.234.60.140/install/8001
-     28 http://buhenge.com/z4
-     25 http://buhenge.com/z3
+     28 http://buhenge.com/z3
      22 http://23.234.60.140/install/8007
      22 http://23.234.60.140/install/8003
+     20 http://buhenge.com/z6
      18 http://www.frade8c.com:9162/root
      18 http://23.234.60.140/install/8008
-     17 http://buhenge.com/z6
      17 http://23.234.60.140/install/48513
      16 http://23.228.102.152:1818/bulong
      14 http://23.234.60.140/install/8005
