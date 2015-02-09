@@ -349,6 +349,7 @@ commando
 console
 contact
 copy
+crafty
 cusadmin
 customer
 daemon
@@ -704,6 +705,7 @@ suva
 svn
 swmaster
 sybase
+syslog
 sysmngr
 sysop
 tar
