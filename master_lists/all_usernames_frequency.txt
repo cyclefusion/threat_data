@@ -1,24 +1,24 @@
-7142613 root
- 292513 admin
+7218327 root
+ 292569 admin
    1740 test
-   1618 ubnt
-   1497 user
-   1108 support
+   1629 ubnt
+   1505 user
+   1119 support
    1100 oracle
-    996 guest
+   1008 guest
     675 ubuntu
-    643 pi
-    639 PlcmSpIp
+    652 pi
+    640 PlcmSpIp
     618 ftp
-    555 ftpuser
+    556 ftpuser
     456 default
     440 www
     438 nagios
     406 vyatta
-    335 info
+    345 info
     314 administrator
     301 alex
-    296 cisco
+    297 cisco
     284 backup
     265 aaron
     264 bob
@@ -67,9 +67,9 @@
      41 mike
      39 office
      39 lpa
+     37 webmaster
      37 nobody
      36 webadmin
-     35 webmaster
      32 manager
      31 student
      30 monitor
@@ -159,6 +159,7 @@
      11 hadoop
      11 alan
      10 zebra
+     10 username
      10 network
      10 help
      10 adrian
@@ -171,7 +172,6 @@
       9 chris
       9 albert
       9 al
-      8 username
       8 testftp
       8 test3
       8 swmaster

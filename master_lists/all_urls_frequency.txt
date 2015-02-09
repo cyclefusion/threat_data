@@ -9,34 +9,34 @@
    5035 http://219.135.56.219:9162/fdsfsfvff
    5035 http://219.135.56.219:9162/dsgregd
    5035 http://219.135.56.219:9162/byv832
-   1574 http://cs.frade8c.com:9162/root
-    787 http://cs.frade8c.com:9162/vrgshth
-    787 http://cs.frade8c.com:9162/udevd
-    787 http://cs.frade8c.com:9162/smarvtd
-    787 http://cs.frade8c.com:9162/sjfedjr
-    787 http://cs.frade8c.com:9162/rewgtf3er4t
-    787 http://cs.frade8c.com:9162/nhgbhhj
-    787 http://cs.frade8c.com:9162/jdhe
-    787 http://cs.frade8c.com:9162/fdsfsfvff
-    787 http://cs.frade8c.com:9162/dsgregd
-    787 http://cs.frade8c.com:9162/byv832
+   1578 http://cs.frade8c.com:9162/root
+    789 http://cs.frade8c.com:9162/vrgshth
+    789 http://cs.frade8c.com:9162/udevd
+    789 http://cs.frade8c.com:9162/smarvtd
+    789 http://cs.frade8c.com:9162/sjfedjr
+    789 http://cs.frade8c.com:9162/rewgtf3er4t
+    789 http://cs.frade8c.com:9162/nhgbhhj
+    789 http://cs.frade8c.com:9162/jdhe
+    789 http://cs.frade8c.com:9162/fdsfsfvff
+    789 http://cs.frade8c.com:9162/dsgregd
+    789 http://cs.frade8c.com:9162/byv832
     244 http://202.191.121.230/ou.pl;perl
     244 http://202.191.121.230/ou.pl
     186 http://61.218.226.170/
-    147 http://buhenge.com/z1
-     70 http://buhenge.com/z2
+    149 http://buhenge.com/z1
+     71 http://buhenge.com/z2
      62 http://gilbertsoto.com/t3.log;perl
      62 http://gilbertsoto.com/t3.log
      45 http://23.234.60.140/install/8002
      40 http://202.202.121.27/bot.txt;perl
      40 http://202.202.121.27/bot.txt
-     33 http://buhenge.com/z5
-     33 http://buhenge.com/z4
+     36 http://buhenge.com/z4
+     35 http://buhenge.com/z5
+     31 http://buhenge.com/z3
      31 http://23.234.60.140/install/8001
-     29 http://buhenge.com/z3
+     24 http://buhenge.com/z6
      22 http://23.234.60.140/install/8007
      22 http://23.234.60.140/install/8003
-     21 http://buhenge.com/z6
      21 http://74.208.174.4/ou.pl;perl
      21 http://74.208.174.4/ou.pl
      18 http://www.frade8c.com:9162/root
@@ -50,8 +50,7 @@
      12 http://23.234.60.140/install/8004
      12 http://209.236.71.188/midx;perl
      12 http://209.236.71.188/midx
-     11 http://allproutah.com/t3.log;perl
-     11 http://allproutah.com/t3.log
+     11 http://ftp.rxxiaoao.com/install/n8002.rar
      11 http://162.218.30.75:1818/ssh33
      10 http://ftp.rxxiaoao.com/install/n8003.rar
      10 http://ftp.rxxiaoao.com/install/n8000.rar

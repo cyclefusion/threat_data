@@ -89,8 +89,6 @@ http://74.208.174.4/ou.pl
 http://74.208.174.4/ou.pl;perl
 http://94.102.63.155/res.html
 http://98.126.15.42:88/escds
-http://allproutah.com/t3.log
-http://allproutah.com/t3.log;perl
 http://buhenge.com/2821
 http://buhenge.com/2828a6
 http://buhenge.com/2836
@@ -114,6 +112,7 @@ http://cs.frade8c.com:9162/smarvtd
 http://cs.frade8c.com:9162/udevd
 http://cs.frade8c.com:9162/vrgshth
 http://ftp.rxxiaoao.com/install/n8000.rar
+http://ftp.rxxiaoao.com/install/n8002.rar
 http://ftp.rxxiaoao.com/install/n8003.rar
 http://ftp.rxxiaoao.com/install/n8005.rar
 http://ftp.rxxiaoao.com/install/n8007.rar
