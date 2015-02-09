@@ -1,0 +1,13 @@
+admin
+cisco
+ftpuser
+guest
+info
+pi
+PlcmSpIp
+root
+support
+ubnt
+user
+username
+webmaster
