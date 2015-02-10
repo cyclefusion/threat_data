@@ -9,22 +9,22 @@
    5035 http://219.135.56.219:9162/fdsfsfvff
    5035 http://219.135.56.219:9162/dsgregd
    5035 http://219.135.56.219:9162/byv832
-   1578 http://cs.frade8c.com:9162/root
-    789 http://cs.frade8c.com:9162/vrgshth
-    789 http://cs.frade8c.com:9162/udevd
-    789 http://cs.frade8c.com:9162/smarvtd
-    789 http://cs.frade8c.com:9162/sjfedjr
-    789 http://cs.frade8c.com:9162/rewgtf3er4t
-    789 http://cs.frade8c.com:9162/nhgbhhj
-    789 http://cs.frade8c.com:9162/jdhe
-    789 http://cs.frade8c.com:9162/fdsfsfvff
-    789 http://cs.frade8c.com:9162/dsgregd
-    789 http://cs.frade8c.com:9162/byv832
+   1582 http://cs.frade8c.com:9162/root
+    791 http://cs.frade8c.com:9162/vrgshth
+    791 http://cs.frade8c.com:9162/udevd
+    791 http://cs.frade8c.com:9162/smarvtd
+    791 http://cs.frade8c.com:9162/sjfedjr
+    791 http://cs.frade8c.com:9162/rewgtf3er4t
+    791 http://cs.frade8c.com:9162/nhgbhhj
+    791 http://cs.frade8c.com:9162/jdhe
+    791 http://cs.frade8c.com:9162/fdsfsfvff
+    791 http://cs.frade8c.com:9162/dsgregd
+    791 http://cs.frade8c.com:9162/byv832
     244 http://202.191.121.230/ou.pl;perl
     244 http://202.191.121.230/ou.pl
     186 http://61.218.226.170/
-    149 http://buhenge.com/z1
-     71 http://buhenge.com/z2
+    152 http://buhenge.com/z1
+     72 http://buhenge.com/z2
      62 http://play.marketplay.eu/apache23;chmod
      62 http://play.marketplay.eu/apache23
      62 http://gilbertsoto.com/t3.log;perl
@@ -32,11 +32,11 @@
      45 http://23.234.60.140/install/8002
      40 http://202.202.121.27/bot.txt;perl
      40 http://202.202.121.27/bot.txt
-     36 http://buhenge.com/z4
-     35 http://buhenge.com/z5
-     31 http://buhenge.com/z3
+     37 http://buhenge.com/z5
+     37 http://buhenge.com/z4
+     33 http://buhenge.com/z3
      31 http://23.234.60.140/install/8001
-     24 http://buhenge.com/z6
+     27 http://buhenge.com/z6
      22 http://23.234.60.140/install/8007
      22 http://23.234.60.140/install/8003
      21 http://74.208.174.4/ou.pl;perl
