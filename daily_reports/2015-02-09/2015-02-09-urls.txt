@@ -1,3 +1,8 @@
+http://115.29.165.174:25663/32
+http://115.29.165.174:25663/64
+http://115.29.165.174:25663/ss32
+http://115.29.165.174:25663/ss64
+http://115.29.165.174:25663/.sshdd
 http://buhenge.com/z1
 http://buhenge.com/z2
 http://buhenge.com/z3

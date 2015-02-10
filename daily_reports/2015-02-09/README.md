@@ -12,27 +12,32 @@ FFB1 47C1 326E A063
 ### Summary
 
 Date: February 09, 2015  
-Total attacks today: 78793  
-Attempted Malware Downloads: 49 
+Total attacks today: 155808  
+Attempted Malware Downloads: 57 
 
 #### IP addresses
 The following are the top 10 attacker IP addresses today, including the frequency of usage:
 ```
+  15853 103.41.124.29
    9894 103.41.124.55
    9447 103.41.124.21
    6739 103.41.124.26
    5902 103.41.124.20
-   5706 103.41.124.41
-   5421 103.41.124.16
-   5238 103.41.124.51
-   5013 103.41.124.50
-   4949 103.41.124.54
-   4902 103.41.124.58
+   5727 103.41.124.41
+   5679 103.41.124.52
+   5664 103.41.124.50
+   5631 103.41.124.101
+   5439 103.41.124.112
 ```
 
 #### Attempted URL Downloads
 The following are URLs attackers attempted to download and execute once they compromising a honeypot sensor:
 ```
+http://115.29.165.174:25663/32
+http://115.29.165.174:25663/64
+http://115.29.165.174:25663/ss32
+http://115.29.165.174:25663/ss64
+http://115.29.165.174:25663/.sshdd
 http://buhenge.com/z1
 http://buhenge.com/z2
 http://buhenge.com/z3
@@ -56,47 +61,47 @@ http://ftp.rxxiaoao.com/install/n8002.rar
 #### Passwords
 The following are the top 25 passwords today, including the frequency of usage:
 ```
-     29 admin
-     27 qwerty
-     22 ubnt
-     22 root
-     20 raspberry
-     20 info
-     19 admin123
-     18 1234
-     17 guest
-     16 puppet
-     16 patrick
-     16 cannon
-     15 default
-     15 badboy
-     15 agesci
-     15 9023
-     15 7418529630
-     14 zhaojia
-     14 xuanxuan
-     14 whiskey
-     14 wangjin
-     14 vixen
-     14 sunxiao
-     14 suckit
-     14 snacks
+    250 
+     69  -*
+     66 admin
+     51 root
+     45 ubnt
+     44 support
+     38 guest
+     37 raspberry
+     33 password
+     30 foo
+     30 fabien
+     28 qwerty
+     27 london01
+     27 asteriskftp
+     26 administrator
+     24 test
+     23 user
+     23 salaam
+     22 Passw0rd4H
+     21 zxcvbnm123456
+     21 zhongxing123
+     21 xsw2zaq1
+     21 reset
+     21 qwerty1234567
+     21 puppet
 ```
 
 #### Usernames
 The following are the top 3 usernames today, including the frequency of usage:
 ```
-  78658 root
-     57 admin
-     14 guest
+ 155244 root
+    137 admin
+     54 support
 ```
 
 #### SSH Library Version
 The following are the top 5 SSH library versions today, including the frequency of usage:
 ```
-  25883 SSH-2.0-PUTTY
-    370 SSH-2.0-libssh2_1.4.3
-    100 SSH-2.0-libssh2_1.4.1
-     13 SSH-2.0-libssh2_1.4.2
-      2 SSH-2.0-PuTTY_Release_0.63cn
+  50497 SSH-2.0-PUTTY
+   1126 SSH-2.0-libssh2_1.4.3
+    140 SSH-2.0-JSCH-0.1.51
+    119 SSH-2.0-libssh2_1.4.1
+     14 SSH-2.0-Granados-1.0
 ```
