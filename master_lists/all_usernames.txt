@@ -595,6 +595,7 @@ party
 password
 pat
 patrick
+patrol
 paul
 pe
 peter
@@ -667,6 +668,7 @@ sebastian
 sef
 send
 server
+setup
 sex
 sgi
 sh
@@ -685,6 +687,7 @@ squid
 ssh
 sshd
 sshpro
+sshusr
 sss
 stan
 station

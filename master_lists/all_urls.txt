@@ -2,6 +2,11 @@ http://100.42.30.34/lex
 http://104.194.20.23:8080/2222
 http://115.239.248.55:8080/ssh88
 http://115.239.248.55:8080/sshd
+http://115.29.165.174:25663/32
+http://115.29.165.174:25663/64
+http://115.29.165.174:25663/ss32
+http://115.29.165.174:25663/ss64
+http://115.29.165.174:25663/.sshdd
 http://115.29.165.174:38886/ssh77
 http://115.29.165.174:53621/ssh77
 http://115.29.165.174:65326/32
@@ -119,6 +124,8 @@ http://ftp.rxxiaoao.com/install/n8007.rar
 http://ftp.rxxiaoao.com/install/n8008.rar
 http://gilbertsoto.com/t3.log
 http://gilbertsoto.com/t3.log;perl
+http://play.marketplay.eu/apache23
+http://play.marketplay.eu/apache23;chmod
 http://stanislaw.altervista.org/2.php
 http://www.frade8c.com:9162/byv832
 http://www.frade8c.com:9162/fdsfsfvff

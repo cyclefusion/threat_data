@@ -25,6 +25,8 @@
     186 http://61.218.226.170/
     149 http://buhenge.com/z1
      71 http://buhenge.com/z2
+     62 http://play.marketplay.eu/apache23;chmod
+     62 http://play.marketplay.eu/apache23
      62 http://gilbertsoto.com/t3.log;perl
      62 http://gilbertsoto.com/t3.log
      45 http://23.234.60.140/install/8002
@@ -46,11 +48,11 @@
      14 http://23.234.60.140/install/8005
      13 http://115.29.165.174:53621/ssh77
      12 http://ftp.rxxiaoao.com/install/n8005.rar
+     12 http://ftp.rxxiaoao.com/install/n8002.rar
      12 http://buhenge.com/2821
      12 http://23.234.60.140/install/8004
      12 http://209.236.71.188/midx;perl
      12 http://209.236.71.188/midx
-     11 http://ftp.rxxiaoao.com/install/n8002.rar
      11 http://162.218.30.75:1818/ssh33
      10 http://ftp.rxxiaoao.com/install/n8003.rar
      10 http://ftp.rxxiaoao.com/install/n8000.rar
@@ -117,6 +119,8 @@
       2 http://117.21.225.131:9999/26ssh666666
       2 http://115.29.165.174:65326/.sshdd
       2 http://115.29.165.174:65326/32
+      2 http://115.29.165.174:25663/.sshdd
+      2 http://115.29.165.174:25663/32
       2 http://115.239.248.55:8080/sshd
       2 http://104.194.20.23:8080/2222
       1 http://www.majestic12.co.uk/bot.php?+)
@@ -132,3 +136,6 @@
       1 http://115.29.165.174:65326/ss64
       1 http://115.29.165.174:65326/ss32
       1 http://115.29.165.174:65326/64
+      1 http://115.29.165.174:25663/ss64
+      1 http://115.29.165.174:25663/ss32
+      1 http://115.29.165.174:25663/64

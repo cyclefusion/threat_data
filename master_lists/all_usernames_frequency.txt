@@ -1,21 +1,21 @@
-7218327 root
- 292569 admin
-   1740 test
-   1629 ubnt
-   1505 user
-   1119 support
-   1100 oracle
-   1008 guest
+7297404 root
+ 292652 admin
+   1770 test
+   1666 ubnt
+   1536 user
+   1214 oracle
+   1163 support
+   1046 guest
+    680 pi
     675 ubuntu
-    652 pi
-    640 PlcmSpIp
-    618 ftp
-    556 ftpuser
+    655 PlcmSpIp
+    630 ftp
+    580 ftpuser
     456 default
-    440 www
+    450 www
     438 nagios
-    406 vyatta
-    345 info
+    415 vyatta
+    349 info
     314 administrator
     301 alex
     297 cisco
@@ -40,7 +40,7 @@
     187 ts3
     185 sebastian
     178 send
-    160 adam
+    175 adam
     129 dreamer
     116 arbab
     113 xbmc
@@ -122,6 +122,7 @@
      15 musique
      15 mailtest
      15 kelly
+     15 fluffy
      15 administrador
      15 account
      15 abraham
@@ -129,15 +130,19 @@
      14 tester
      14 super
      14 sharon
-     14 fluffy
      14 amanda
      14 admin2
+     13 zxin10
      13 admin1
+     12 username
      12 svn
      12 supervisor
+     12 sshusr
      12 software
      12 shell
+     12 setup
      12 sarah
+     12 patrol
      12 Lynn
      12 Henry
      12 Fall
@@ -159,7 +164,6 @@
      11 hadoop
      11 alan
      10 zebra
-     10 username
      10 network
      10 help
      10 adrian
@@ -500,7 +504,6 @@
       2 54.173.58.105
       2 54.173.58.101
       1 zxvf
-      1 zxin10
       1 Zmeu
       1 zabbix
       1 za
