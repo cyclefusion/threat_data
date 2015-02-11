@@ -9,39 +9,36 @@
    5035 http://219.135.56.219:9162/fdsfsfvff
    5035 http://219.135.56.219:9162/dsgregd
    5035 http://219.135.56.219:9162/byv832
-   1582 http://cs.frade8c.com:9162/root
-    791 http://cs.frade8c.com:9162/vrgshth
-    791 http://cs.frade8c.com:9162/udevd
-    791 http://cs.frade8c.com:9162/smarvtd
-    791 http://cs.frade8c.com:9162/sjfedjr
-    791 http://cs.frade8c.com:9162/rewgtf3er4t
-    791 http://cs.frade8c.com:9162/nhgbhhj
-    791 http://cs.frade8c.com:9162/jdhe
-    791 http://cs.frade8c.com:9162/fdsfsfvff
-    791 http://cs.frade8c.com:9162/dsgregd
-    791 http://cs.frade8c.com:9162/byv832
-    244 http://202.191.121.230/ou.pl;perl
-    244 http://202.191.121.230/ou.pl
+   1586 http://cs.frade8c.com:9162/root
+    793 http://cs.frade8c.com:9162/vrgshth
+    793 http://cs.frade8c.com:9162/udevd
+    793 http://cs.frade8c.com:9162/smarvtd
+    793 http://cs.frade8c.com:9162/sjfedjr
+    793 http://cs.frade8c.com:9162/rewgtf3er4t
+    793 http://cs.frade8c.com:9162/nhgbhhj
+    793 http://cs.frade8c.com:9162/jdhe
+    793 http://cs.frade8c.com:9162/fdsfsfvff
+    793 http://cs.frade8c.com:9162/dsgregd
+    793 http://cs.frade8c.com:9162/byv832
+    488 http://202.191.121.230/ou.pl
     186 http://61.218.226.170/
     152 http://buhenge.com/z1
+    124 http://play.marketplay.eu/apache23
+    124 http://gilbertsoto.com/t3.log
+     80 http://202.202.121.27/bot.txt
      72 http://buhenge.com/z2
-     62 http://play.marketplay.eu/apache23;chmod
-     62 http://play.marketplay.eu/apache23
-     62 http://gilbertsoto.com/t3.log;perl
-     62 http://gilbertsoto.com/t3.log
      45 http://23.234.60.140/install/8002
-     40 http://202.202.121.27/bot.txt;perl
-     40 http://202.202.121.27/bot.txt
+     42 http://74.208.174.4/ou.pl
      37 http://buhenge.com/z5
      37 http://buhenge.com/z4
      33 http://buhenge.com/z3
      31 http://23.234.60.140/install/8001
      27 http://buhenge.com/z6
+     24 http://209.236.71.188/midx
      22 http://23.234.60.140/install/8007
      22 http://23.234.60.140/install/8003
-     21 http://74.208.174.4/ou.pl;perl
-     21 http://74.208.174.4/ou.pl
      18 http://www.frade8c.com:9162/root
+     18 http://ftp.rxxiaoao.com/install/n8008.rar
      18 http://23.234.60.140/install/8008
      17 http://23.234.60.140/install/48513
      16 http://23.228.102.152:1818/bulong
@@ -51,8 +48,6 @@
      12 http://ftp.rxxiaoao.com/install/n8002.rar
      12 http://buhenge.com/2821
      12 http://23.234.60.140/install/8004
-     12 http://209.236.71.188/midx;perl
-     12 http://209.236.71.188/midx
      11 http://162.218.30.75:1818/ssh33
      10 http://ftp.rxxiaoao.com/install/n8003.rar
      10 http://ftp.rxxiaoao.com/install/n8000.rar
@@ -71,7 +66,6 @@
       9 http://23.234.60.140/install/8000
       8 http://ftp.rxxiaoao.com/install/n8007.rar
       7 http://stanislaw.altervista.org/2.php
-      6 http://ftp.rxxiaoao.com/install/n8008.rar
       6 http://94.102.63.155/res.html
       6 http://204.44.104.93:8080/iten64
       6 http://183.61.164.167:8018/12316
@@ -109,6 +103,7 @@
       2 http://204.44.104.93:8080/bin.sh
       2 http://198.2.209.133:7899/cao1.exe
       2 http://198.200.53.79:899/cymei
+      2 http://185.11.147.246/tst2.pl
       2 http://183.61.254.11:8080/L24_24011
       2 http://183.60.197.231:5156/mazi
       2 http://182.254.247.118:8080/WIND
@@ -125,8 +120,6 @@
       2 http://104.194.20.23:8080/2222
       1 http://www.majestic12.co.uk/bot.php?+)
       1 http://98.126.15.42:88/escds
-      1 http://185.11.147.246/tst2.pl;perl
-      1 http://185.11.147.246/tst2.pl
       1 http://176.102.38.77/search/e.php?h=cloudemotions.com/cgi-sys/entropysearch.cgi'
       1 http://176.102.38.77/search/e.php?h=cloudemotions.com/cgi-bin/'
       1 http://176.102.38.77/search/e.php?h=cloudemotions.com/'
