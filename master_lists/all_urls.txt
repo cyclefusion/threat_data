@@ -111,10 +111,12 @@ http://cs.frade8c.com:9162/sjfedjr
 http://cs.frade8c.com:9162/smarvtd
 http://cs.frade8c.com:9162/udevd
 http://cs.frade8c.com:9162/vrgshth
+http://download.microsoft.com/download/win2000platform/SP/SP3/NT5/EN-US/W2Ksp3.exe
 http://ftp.rxxiaoao.com/install/n8000.rar
 http://ftp.rxxiaoao.com/install/n8002.rar
 http://ftp.rxxiaoao.com/install/n8003.rar
 http://ftp.rxxiaoao.com/install/n8005.rar
+http://ftp.rxxiaoao.com/install/n8006.rar
 http://ftp.rxxiaoao.com/install/n8007.rar
 http://ftp.rxxiaoao.com/install/n8008.rar
 http://gilbertsoto.com/t3.log

@@ -7,6 +7,9 @@ SSH-2.0-Go
 SSH-2.0-Granados-1.0
 SSH-2.0-JSCH-0.1.44
 SSH-2.0-JSCH-0.1.51
+SSH-2.0-libssh-0.1
+SSH-2.0-libssh-0.2
+SSH-2.0-libssh-0.5.2
 SSH-2.0-libssh2_1.0
 SSH-2.0-libssh2_1.2.2
 SSH-2.0-libssh2_1.2.6
@@ -21,6 +24,7 @@ SSH-2.0-libssh2_1.4.4-20141103
 SSH-2.0-MEDUSA_1.0
 SSH-2.0-Nmap-SSH2-Hostkey
 SSH-2.0-nsssh2_4.0.0031
+SSH-2.0-OpenSSH_4.3
 SSH-2.0-OpenSSH_5.2
 SSH-2.0-OpenSSH_5.3
 SSH-2.0-OpenSSH_5.5p1
