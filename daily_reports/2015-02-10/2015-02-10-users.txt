@@ -1,4 +1,7 @@
+
 admin
+alex
+aron
 bob
 christian
 cisco
@@ -17,10 +20,12 @@ john
 karaf
 log
 lp
+master
 nagios
 oracle
 pi
 root
+sharon
 support
 test
 ubnt

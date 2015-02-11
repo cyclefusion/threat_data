@@ -12,22 +12,22 @@ FFB1 47C1 326E A063
 ### Summary
 
 Date: February 10, 2015  
-Total attacks today: 95082  
-Attempted Malware Downloads: 36 
+Total attacks today: 266518  
+Attempted Malware Downloads: 72 
 
 #### IP addresses
 The following are the top 10 attacker IP addresses today, including the frequency of usage:
 ```
-   5667 103.41.124.42
-   5381 103.41.124.36
-   5215 103.41.124.19
-   5187 103.41.124.27
-   5132 103.41.124.38
-   5067 103.41.124.22
-   4504 103.41.124.18
-   4262 103.41.124.111
-   3546 103.41.124.14
-   3537 103.41.124.47
+  17185 103.41.124.27
+  16208 103.41.124.51
+  12723 103.41.124.42
+  10414 103.41.124.112
+   9083 103.41.124.111
+   8539 103.41.124.62
+   8151 103.41.124.20
+   8017 103.41.124.63
+   8004 103.41.124.38
+   7903 103.41.124.53
 ```
 
 #### Attempted URL Downloads
@@ -50,52 +50,53 @@ http://cs.frade8c.com:9162/sjfedjr
 http://cs.frade8c.com:9162/smarvtd
 http://cs.frade8c.com:9162/udevd
 http://cs.frade8c.com:9162/vrgshth
+http://ftp.rxxiaoao.com/install/n8008.rar
 ```
 
 #### Passwords
 The following are the top 25 passwords today, including the frequency of usage:
 ```
-    131 
-    112 root123
-     80 admin
-     75 123456
-     72 root
+    238 
+    115 root123
+     86 admin
+     85 kodak
+     81 123456
+     77 julemand
+     76 alexis123
+     75 root
+     75 nessus
+     75 davis123
+     75 core123
+     73 U@15979&#%&
+     68 glenn123
+     68 changethis
      67 raspberry
-     61 password
-     59 user
-     59 123qwe
-     58 P@55w0rd!
-     57 rootpass
-     57 p@ssw0rd
-     56 welc0me
-     56 superuser
-     56 qwerzxcv
-     56 public
-     56 power
-     56 poptarts
-     56 openelec
-     56 changeme
-     56 casa
-     56 calvin
-     56 alpine
-     56 4444
-     56 1234
+     67 changeme
+     65 password
+     64 ola
+     64 123qwe
+     63 xerox123
+     62 www!@#
+     61 user
+     60 1qaz@WSX#EDC
+     60 1234
+     59 P@$$w0rd
 ```
 
 #### Usernames
 The following are the top 3 usernames today, including the frequency of usage:
 ```
-  94830 root
+ 264302 root
+   1945 
      98 oracle
-     27 guest
 ```
 
 #### SSH Library Version
 The following are the top 5 SSH library versions today, including the frequency of usage:
 ```
-  31775 SSH-2.0-PUTTY
-     78 SSH-2.0-libssh2_1.4.3
-     77 SSH-2.0-libssh2_1.4.1
-     20 SSH-2.0-JSCH-0.1.51
-     18 SSH-2.0-libssh2_1.4.2
+  88371 SSH-2.0-PUTTY
+    856 SSH-2.0-libssh2_1.4.3
+     88 SSH-2.0-libssh2_1.4.1
+     36 SSH-2.0-libssh2_1.4.2
+     30 SSH-2.0-Granados-1.0
 ```
