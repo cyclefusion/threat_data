@@ -12,22 +12,22 @@ FFB1 47C1 326E A063
 ### Summary
 
 Date: February 11, 2015  
-Total attacks today: 121122  
+Total attacks today: 275993  
 Attempted Malware Downloads: 28 
 
 #### IP addresses
 The following are the top 10 attacker IP addresses today, including the frequency of usage:
 ```
-  13090 103.41.124.63
-   8392 103.41.124.27
-   6333 103.41.124.22
-   5625 103.41.124.65
-   5474 103.41.124.29
-   5466 103.41.124.20
-   5454 103.41.124.28
-   5269 103.41.124.52
-   4242 103.41.124.66
-   3837 103.41.124.15
+  13909 103.41.124.63
+  13686 103.41.124.29
+  12900 103.41.124.41
+  12621 103.41.124.20
+   9538 103.41.124.52
+   9213 103.41.124.27
+   8568 103.41.124.43
+   8336 103.41.124.22
+   8301 103.41.124.48
+   8044 103.41.124.44
 ```
 
 #### Attempted URL Downloads
@@ -46,47 +46,47 @@ http://ftp.rxxiaoao.com/install/n8006.rar
 #### Passwords
 The following are the top 25 passwords today, including the frequency of usage:
 ```
-    137 123456
-    121 root123
-    115 password
-     92 
-     87 changeme
-     83 1234
-     80 root
-     78 admin
-     78 123qwe
-     78 123
-     76 pulamea22
-     73 terminater
-     73 0p9o8i7u6y5t4r3e
-     72 asdxzc
-     67 p@ssw0rd
-     63 user
-     61 welc0me
-     61 tm
-     60 abc123$
-     59 rootpass
-     59 oraclepass
-     59 nivek
-     59 NB16hrah55E2.
-     59 mysql2
-     59 link@cdb4169
+    669 
+    170 123456
+    158 password
+    152 root123
+    120 root
+    119 admin
+    113 pulamea22
+    111 1234
+    105 changeme
+    102 123qwe
+     98 123
+     93 zen
+     85 p@ssw0rd
+     83 4rfv
+     80 user
+     79 a1b2c3d
+     78 kanjinel123sad
+     77 oceans12
+     76 welc0me
+     76 nima
+     76 erhard
+     75 z12xc3
+     75 sususussuweb1111
+     75 ikuo
+     75 et5ey6ri7t87br6ev54tc3rawdfs
 ```
 
 #### Usernames
 The following are the top 3 usernames today, including the frequency of usage:
 ```
- 119634 root
-     81 ubuntu
-     62 test
+ 274123 root
+    104 postgres
+    103 oracle
 ```
 
 #### SSH Library Version
 The following are the top 5 SSH library versions today, including the frequency of usage:
 ```
-  39084 SSH-2.0-PUTTY
-   2861 SSH-2.0-libssh-0.1
-    319 SSH-2.0-libssh-0.2
-    313 SSH-2.0-libssh2_1.4.3
-    177 SSH-2.0-libssh-0.5.2
+  90169 SSH-2.0-PUTTY
+   3183 SSH-2.0-libssh-0.1
+    654 SSH-2.0-libssh2_1.4.3
+    499 SSH-2.0-libssh-0.2
+    307 SSH-2.0-libssh-0.6.3
 ```
