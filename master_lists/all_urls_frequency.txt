@@ -22,18 +22,18 @@
     795 http://cs.frade8c.com:9162/byv832
     488 http://202.191.121.230/ou.pl
     186 http://61.218.226.170/
-    154 http://buhenge.com/z1
+    155 http://buhenge.com/z1
     124 http://play.marketplay.eu/apache23
     124 http://gilbertsoto.com/t3.log
      80 http://202.202.121.27/bot.txt
-     74 http://buhenge.com/z2
+     75 http://buhenge.com/z2
+     45 http://buhenge.com/z4
      45 http://23.234.60.140/install/8002
+     42 http://buhenge.com/z5
      42 http://74.208.174.4/ou.pl
-     41 http://buhenge.com/z4
-     39 http://buhenge.com/z5
-     34 http://buhenge.com/z3
+     35 http://buhenge.com/z3
      31 http://23.234.60.140/install/8001
-     28 http://buhenge.com/z6
+     30 http://buhenge.com/z6
      24 http://209.236.71.188/midx
      22 http://23.234.60.140/install/8007
      22 http://23.234.60.140/install/8003
