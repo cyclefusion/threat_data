@@ -9,31 +9,31 @@
    5035 http://219.135.56.219:9162/fdsfsfvff
    5035 http://219.135.56.219:9162/dsgregd
    5035 http://219.135.56.219:9162/byv832
-   1592 http://cs.frade8c.com:9162/root
-    796 http://cs.frade8c.com:9162/vrgshth
-    796 http://cs.frade8c.com:9162/udevd
-    796 http://cs.frade8c.com:9162/smarvtd
-    796 http://cs.frade8c.com:9162/sjfedjr
-    796 http://cs.frade8c.com:9162/rewgtf3er4t
-    796 http://cs.frade8c.com:9162/nhgbhhj
-    796 http://cs.frade8c.com:9162/jdhe
-    796 http://cs.frade8c.com:9162/fdsfsfvff
-    796 http://cs.frade8c.com:9162/dsgregd
-    796 http://cs.frade8c.com:9162/byv832
+   1598 http://cs.frade8c.com:9162/root
+    799 http://cs.frade8c.com:9162/vrgshth
+    799 http://cs.frade8c.com:9162/udevd
+    799 http://cs.frade8c.com:9162/smarvtd
+    799 http://cs.frade8c.com:9162/sjfedjr
+    799 http://cs.frade8c.com:9162/rewgtf3er4t
+    799 http://cs.frade8c.com:9162/nhgbhhj
+    799 http://cs.frade8c.com:9162/jdhe
+    799 http://cs.frade8c.com:9162/fdsfsfvff
+    799 http://cs.frade8c.com:9162/dsgregd
+    799 http://cs.frade8c.com:9162/byv832
     488 http://202.191.121.230/ou.pl
     186 http://61.218.226.170/
-    155 http://buhenge.com/z1
+    157 http://buhenge.com/z1
     124 http://play.marketplay.eu/apache23
     124 http://gilbertsoto.com/t3.log
      80 http://202.202.121.27/bot.txt
-     75 http://buhenge.com/z2
-     45 http://buhenge.com/z4
+     78 http://buhenge.com/z2
+     47 http://buhenge.com/z4
      45 http://23.234.60.140/install/8002
-     42 http://buhenge.com/z5
+     43 http://buhenge.com/z5
      42 http://74.208.174.4/ou.pl
-     35 http://buhenge.com/z3
+     38 http://buhenge.com/z3
+     31 http://buhenge.com/z6
      31 http://23.234.60.140/install/8001
-     30 http://buhenge.com/z6
      24 http://209.236.71.188/midx
      22 http://23.234.60.140/install/8007
      22 http://23.234.60.140/install/8003
@@ -83,6 +83,7 @@
       4 http://121.40.85.20:8181/xdp
       4 http://115.29.165.174:38886/ssh77
       4 http://115.239.248.55:8080/ssh88
+      4 http://106.185.24.106/5&&chmod
       3 http://74.208.166.12/bot.txt
       2 http://download.microsoft.com/download/win2000platform/SP/SP3/NT5/EN-US/W2Ksp3.exe
       2 http://buhenge.com/p1
@@ -135,3 +136,5 @@
       1 http://115.29.165.174:25663/ss64
       1 http://115.29.165.174:25663/ss32
       1 http://115.29.165.174:25663/64
+      1 http://106.185.24.106/5
+      1 http://106.185.24.106/4&&chmod

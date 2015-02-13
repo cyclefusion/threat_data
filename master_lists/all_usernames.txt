@@ -628,6 +628,7 @@ games
 gandalf
 gao
 garden
+garrysmod
 gary
 gast
 gateway
@@ -662,6 +663,7 @@ guest1
 guest3
 guset
 gusr
+gwaf
 gyaseen
 hacker
 hacluster
@@ -675,6 +677,7 @@ hans
 harry
 harvey
 haxor
+hduser
 health
 hello
 help
@@ -700,6 +703,7 @@ hugues
 hxhtftp
 hy
 ibm
+ibmuser
 icache
 ice
 icecube
@@ -971,6 +975,7 @@ newadmin
 news
 newsletter
 newuser
+nexus
 nforge
 nfsnobod
 nginx
@@ -1161,6 +1166,7 @@ rootkit
 roto
 rpm
 rsync
+rtorrent
 rtorres
 ruben
 rumeno
@@ -1227,6 +1233,7 @@ smtp
 socks
 software
 somesecguy
+sonar
 sophia
 sophie
 soporte
@@ -1339,6 +1346,7 @@ ts3
 ts3srv
 tsminst1
 ttt
+tuxedo
 tyler
 ubnt
 ubuntu
@@ -1440,6 +1448,7 @@ xbian
 xbmc
 xbox
 xiang
+xiaow
 xliu
 xvf
 xVIRal
@@ -1460,6 +1469,7 @@ zhangyan
 zimbra
 Zmeu
 zoe
+zsofi
 zx
 zxin10
 zxvf
