@@ -12,22 +12,22 @@ FFB1 47C1 326E A063
 ### Summary
 
 Date: February 12, 2015  
-Total attacks today: 118067  
-Attempted Malware Downloads: 37 
+Total attacks today: 241280  
+Attempted Malware Downloads: 59 
 
 #### IP addresses
 The following are the top 10 attacker IP addresses today, including the frequency of usage:
 ```
-   7768 103.41.124.33
-   6374 111.73.46.22
-   6333 103.41.124.65
-   5753 103.41.124.26
-   5743 103.41.124.32
-   5715 103.41.124.38
-   4782 103.41.124.36
-   4760 103.41.124.48
-   4194 103.41.124.46
-   4149 103.41.124.45
+  12084 103.41.124.16
+  11815 103.41.124.33
+  11523 103.41.124.100
+  10173 103.41.124.26
+   9197 103.41.124.48
+   8978 103.41.124.32
+   8918 103.41.124.36
+   7768 103.41.124.66
+   7652 103.41.124.13
+   7290 103.41.124.50
 ```
 
 #### Attempted URL Downloads
@@ -50,52 +50,53 @@ http://cs.frade8c.com:9162/sjfedjr
 http://cs.frade8c.com:9162/smarvtd
 http://cs.frade8c.com:9162/udevd
 http://cs.frade8c.com:9162/vrgshth
+http://ftp.rxxiaoao.com/install/n8001.rar
 ```
 
 #### Passwords
 The following are the top 25 passwords today, including the frequency of usage:
 ```
-    163 
-    125 123456
-    121 password
-    103 1234
-     82 1
-     79 qwe123
+    249 
+    152 123456
+    128 password
+    108 1234
+     90 qwe123
+     85 1
+     81 root
+     80 test
+     79 admin
      78 12345
-     71 letmein
-     70 test
-     69 root
-     64 123
-     62 admin
-     54 qwerty
-     43 qwe
-     43 123456.123.520
-     38 123456789
-     37 qwertyuiop
-     36 dorin1234dorin
-     36 alinutzuhacker
-     35 mobilenetgames
-     35 asteriskpbx321
-     35 asteriskpbx123
-     35 123deployer123
-     35 1234567!@#$%^&
-     34 zzidc!@#215244
+     74 letmein
+     66 123
+     63 qwerty
+     58 animallover
+     57 bongo1
+     57 akash
+     51 p0o9i8,.
+     50 @1q2w3e@
+     50 @123qwe@
+     50 052687604360
+     49 AAAaaa111
+     48 pentium1
+     48 100asp.com
+     47 qwertasdfgzxcvb
+     47 00000000000000
 ```
 
 #### Usernames
 The following are the top 3 usernames today, including the frequency of usage:
 ```
- 108710 root
-   1851 admin
-   1224 postgres
+ 231497 root
+   1860 admin
+   1233 postgres
 ```
 
 #### SSH Library Version
 The following are the top 5 SSH library versions today, including the frequency of usage:
 ```
-  36107 SSH-2.0-PUTTY
-   2984 SSH-2.0-libssh-0.1
-   1386 SSH-2.0-libssh2_1.4.3
-    212 SSH-2.0-libssh-0.6.3
-    174 SSH-2.0-libssh-0.2
+  76688 SSH-2.0-PUTTY
+   3725 SSH-2.0-libssh-0.1
+   1480 SSH-2.0-libssh2_1.4.3
+   1304 SSH-2.0-libssh-0.6.3
+    591 SSH-2.0-libssh-0.2
 ```
