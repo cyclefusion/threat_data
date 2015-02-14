@@ -12,22 +12,22 @@ FFB1 47C1 326E A063
 ### Summary
 
 Date: February 13, 2015  
-Total attacks today: 60757  
-Attempted Malware Downloads: 54 
+Total attacks today: 83814  
+Attempted Malware Downloads: 69 
 
 #### IP addresses
 The following are the top 10 attacker IP addresses today, including the frequency of usage:
 ```
    4884 103.41.124.24
-   3878 103.41.124.30
+   4787 103.41.124.30
+   3613 103.41.124.41
    3609 103.41.124.58
-   3570 103.41.124.41
    3543 103.41.124.19
-   2151 103.41.124.43
-   2148 103.41.124.39
-   2118 103.41.124.49
-   2118 103.41.124.46
-   2102 103.41.124.40
+   2849 103.41.124.18
+   2529 103.41.124.63
+   2470 103.41.124.43
+   2410 103.41.124.33
+   2245 103.41.124.113
 ```
 
 #### Attempted URL Downloads
@@ -53,52 +53,53 @@ http://cs.frade8c.com:9162/sjfedjr
 http://cs.frade8c.com:9162/smarvtd
 http://cs.frade8c.com:9162/udevd
 http://cs.frade8c.com:9162/vrgshth
+http://ftp.rxxiaoao.com/install/n8007.rar
 ```
 
 #### Passwords
 The following are the top 25 passwords today, including the frequency of usage:
 ```
-    268 admin
-    130 ubnt
-     50 
-     20 root123
+    449 admin
+    211 ubnt
+     92 
+     41 123456
+     39 root
+     33 root123
+     32 changeme
+     30 qwerty
+     25 a
+     24 asdf!234
+     23 p@ssw0rd
+     22 redhat
+     21 fff1fff
+     20 123
+     19 tester2
      19 teledna
      19 shoppass
+     19 rooting
      19 pruebas
      19 pentium1
      19 hljcms3
-     18 123456
+     18 ubuntu
+     18 sysadmin
+     18 password
      17 zsofika
-     17 zse4rfv
-     17 zenaide
-     17 zelmiro1
-     17 zelmira1
-     17 zaccheo
-     17 zabibear
-     17 YY2zH5Qa
-     17 yosihiro
-     17 yamilex
-     17 xxaallxx
-     17 xena93
-     17 W#Z@j,..
-     17 @WSX#EDC
-     17 wstokes
 ```
 
 #### Usernames
 The following are the top 3 usernames today, including the frequency of usage:
 ```
-  60313 root
-    131 admin
-    126 ubnt
+  82759 root
+    229 admin
+    205 ubnt
 ```
 
 #### SSH Library Version
 The following are the top 5 SSH library versions today, including the frequency of usage:
 ```
-  19989 SSH-2.0-PUTTY
-    944 SSH-2.0-libssh-0.6.3
-    504 SSH-2.0-libssh2_1.4.1
-    221 SSH-2.0-libssh-0.1
-    192 SSH-2.0-libssh-0.2
+  25684 SSH-2.0-PUTTY
+   3474 SSH-2.0-libssh-0.1
+   2319 SSH-2.0-libssh-0.6.3
+    777 SSH-2.0-libssh2_1.4.1
+    527 SSH-2.0-libssh-0.2
 ```
