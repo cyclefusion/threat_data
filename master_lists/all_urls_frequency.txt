@@ -25,14 +25,14 @@
     157 http://buhenge.com/z1
     124 http://play.marketplay.eu/apache23
     124 http://gilbertsoto.com/t3.log
+     81 http://buhenge.com/z2
      80 http://202.202.121.27/bot.txt
-     78 http://buhenge.com/z2
-     47 http://buhenge.com/z4
+     49 http://buhenge.com/z4
+     47 http://buhenge.com/z5
      45 http://23.234.60.140/install/8002
-     43 http://buhenge.com/z5
      42 http://74.208.174.4/ou.pl
-     38 http://buhenge.com/z3
-     31 http://buhenge.com/z6
+     40 http://buhenge.com/z3
+     32 http://buhenge.com/z6
      31 http://23.234.60.140/install/8001
      24 http://209.236.71.188/midx
      22 http://23.234.60.140/install/8007
@@ -43,8 +43,8 @@
      17 http://23.234.60.140/install/48513
      16 http://23.228.102.152:1818/bulong
      14 http://23.234.60.140/install/8005
+     13 http://ftp.rxxiaoao.com/install/n8005.rar
      13 http://115.29.165.174:53621/ssh77
-     12 http://ftp.rxxiaoao.com/install/n8005.rar
      12 http://ftp.rxxiaoao.com/install/n8002.rar
      12 http://buhenge.com/2821
      12 http://23.234.60.140/install/8004
@@ -76,6 +76,7 @@
       5 http://23.234.60.140:8081/install/8007
       4 http://60.173.10.177:8080/14.17
       4 http://23.234.60.140:8081/install/8006
+      4 http://210.56.50.13:8080/npc
       4 http://204.44.104.93:8080/npc
       4 http://204.44.104.93:8080/lin32
       4 http://183.60.202.9:1560/qwe0x03qa0
@@ -85,6 +86,7 @@
       4 http://115.239.248.55:8080/ssh88
       4 http://106.185.24.106/5&&chmod
       3 http://74.208.166.12/bot.txt
+      3 http://106.185.24.106/4&&chmod
       2 http://download.microsoft.com/download/win2000platform/SP/SP3/NT5/EN-US/W2Ksp3.exe
       2 http://buhenge.com/p1
       2 http://buhenge.com/m1
@@ -103,6 +105,7 @@
       2 http://210.77.96.165:1111/Linux2.6
       2 http://210.77.96.165:1111/Linux2.4
       2 http://210.77.96.165:1111/dd-wrt
+      2 http://210.56.50.13:8080/bin.sh
       2 http://204.44.104.93:8080/npc1
       2 http://204.44.104.93:8080/bin.sh
       2 http://198.2.209.133:7899/cao1.exe
@@ -137,4 +140,3 @@
       1 http://115.29.165.174:25663/ss32
       1 http://115.29.165.174:25663/64
       1 http://106.185.24.106/5
-      1 http://106.185.24.106/4&&chmod
