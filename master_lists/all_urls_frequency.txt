@@ -9,17 +9,17 @@
    5035 http://219.135.56.219:9162/fdsfsfvff
    5035 http://219.135.56.219:9162/dsgregd
    5035 http://219.135.56.219:9162/byv832
-   1598 http://cs.frade8c.com:9162/root
-    799 http://cs.frade8c.com:9162/vrgshth
-    799 http://cs.frade8c.com:9162/udevd
-    799 http://cs.frade8c.com:9162/smarvtd
-    799 http://cs.frade8c.com:9162/sjfedjr
-    799 http://cs.frade8c.com:9162/rewgtf3er4t
-    799 http://cs.frade8c.com:9162/nhgbhhj
-    799 http://cs.frade8c.com:9162/jdhe
-    799 http://cs.frade8c.com:9162/fdsfsfvff
-    799 http://cs.frade8c.com:9162/dsgregd
-    799 http://cs.frade8c.com:9162/byv832
+   1600 http://cs.frade8c.com:9162/root
+    800 http://cs.frade8c.com:9162/vrgshth
+    800 http://cs.frade8c.com:9162/udevd
+    800 http://cs.frade8c.com:9162/smarvtd
+    800 http://cs.frade8c.com:9162/sjfedjr
+    800 http://cs.frade8c.com:9162/rewgtf3er4t
+    800 http://cs.frade8c.com:9162/nhgbhhj
+    800 http://cs.frade8c.com:9162/jdhe
+    800 http://cs.frade8c.com:9162/fdsfsfvff
+    800 http://cs.frade8c.com:9162/dsgregd
+    800 http://cs.frade8c.com:9162/byv832
     488 http://202.191.121.230/ou.pl
     186 http://61.218.226.170/
     157 http://buhenge.com/z1
@@ -48,6 +48,7 @@
      12 http://ftp.rxxiaoao.com/install/n8002.rar
      12 http://buhenge.com/2821
      12 http://23.234.60.140/install/8004
+     11 http://ftp.rxxiaoao.com/install/n8007.rar
      11 http://162.218.30.75:1818/ssh33
      10 http://ftp.rxxiaoao.com/install/n8006.rar
      10 http://ftp.rxxiaoao.com/install/n8003.rar
@@ -66,7 +67,6 @@
       9 http://www.frade8c.com:9162/fdsfsfvff
       9 http://www.frade8c.com:9162/byv832
       9 http://23.234.60.140/install/8000
-      8 http://ftp.rxxiaoao.com/install/n8007.rar
       7 http://stanislaw.altervista.org/2.php
       6 http://94.102.63.155/res.html
       6 http://204.44.104.93:8080/iten64
