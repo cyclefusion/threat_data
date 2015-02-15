@@ -22,35 +22,35 @@
     800 http://cs.frade8c.com:9162/byv832
     488 http://202.191.121.230/ou.pl
     186 http://61.218.226.170/
-    157 http://buhenge.com/z1
+    158 http://buhenge.com/z1
     124 http://play.marketplay.eu/apache23
-    124 http://gilbertsoto.com/t3.log
-     81 http://buhenge.com/z2
+     85 http://buhenge.com/z2
      80 http://202.202.121.27/bot.txt
-     49 http://buhenge.com/z4
-     47 http://buhenge.com/z5
+     62 http://gilbertsoto.com/t3.log
+     52 http://buhenge.com/z4
+     48 http://buhenge.com/z5
      45 http://23.234.60.140/install/8002
      42 http://74.208.174.4/ou.pl
      40 http://buhenge.com/z3
-     32 http://buhenge.com/z6
+     40 http://185.63.253.93/.lu.pl
+     34 http://buhenge.com/z6
+     32 http://188.212.103.234/private/auto/.xtkarmx
      31 http://23.234.60.140/install/8001
      24 http://209.236.71.188/midx
+     24 http://188.212.103.234/private/auto/.xtki686x
      22 http://23.234.60.140/install/8007
      22 http://23.234.60.140/install/8003
+     21 http://23.234.60.140/install/8004
      18 http://www.frade8c.com:9162/root
      18 http://ftp.rxxiaoao.com/install/n8008.rar
      18 http://23.234.60.140/install/8008
      17 http://23.234.60.140/install/48513
      16 http://ftp.rxxiaoao.com/install/n8005.rar
      16 http://23.228.102.152:1818/bulong
-     16 http://188.212.103.234/private/auto/.xtki686x
-     16 http://188.212.103.234/private/auto/.xtkarmx
-     16 http://185.63.253.93/.lu.pl
      14 http://23.234.60.140/install/8005
      13 http://115.29.165.174:53621/ssh77
      12 http://ftp.rxxiaoao.com/install/n8002.rar
      12 http://buhenge.com/2821
-     12 http://23.234.60.140/install/8004
      11 http://ftp.rxxiaoao.com/install/n8007.rar
      11 http://162.218.30.75:1818/ssh33
      10 http://ftp.rxxiaoao.com/install/n8006.rar
@@ -75,6 +75,7 @@
       6 http://204.44.104.93:8080/iten64
       6 http://183.61.164.167:8018/12316
       6 http://124.115.16.31:8009/xqq
+      6 http://106.185.24.106/5
       6 http://100.42.30.34/lex
       5 http://23.234.60.140:8081/install/8007
       4 http://60.173.10.177:8080/14.17
@@ -87,9 +88,8 @@
       4 http://121.40.85.20:8181/xdp
       4 http://115.29.165.174:38886/ssh77
       4 http://115.239.248.55:8080/ssh88
-      4 http://106.185.24.106/5&&chmod
       3 http://74.208.166.12/bot.txt
-      3 http://106.185.24.106/4&&chmod
+      3 http://106.185.24.106/4
       2 http://download.microsoft.com/download/win2000platform/SP/SP3/NT5/EN-US/W2Ksp3.exe
       2 http://buhenge.com/p1
       2 http://buhenge.com/m1
@@ -142,4 +142,3 @@
       1 http://115.29.165.174:25663/ss64
       1 http://115.29.165.174:25663/ss32
       1 http://115.29.165.174:25663/64
-      1 http://106.185.24.106/5
