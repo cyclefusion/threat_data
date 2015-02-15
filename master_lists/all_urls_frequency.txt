@@ -41,9 +41,12 @@
      18 http://ftp.rxxiaoao.com/install/n8008.rar
      18 http://23.234.60.140/install/8008
      17 http://23.234.60.140/install/48513
+     16 http://ftp.rxxiaoao.com/install/n8005.rar
      16 http://23.228.102.152:1818/bulong
+     16 http://188.212.103.234/private/auto/.xtki686x
+     16 http://188.212.103.234/private/auto/.xtkarmx
+     16 http://185.63.253.93/.lu.pl
      14 http://23.234.60.140/install/8005
-     13 http://ftp.rxxiaoao.com/install/n8005.rar
      13 http://115.29.165.174:53621/ssh77
      12 http://ftp.rxxiaoao.com/install/n8002.rar
      12 http://buhenge.com/2821
