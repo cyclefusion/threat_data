@@ -12,22 +12,22 @@ FFB1 47C1 326E A063
 ### Summary
 
 Date: February 15, 2015  
-Total attacks today: 18985  
-Attempted Malware Downloads: 69 
+Total attacks today: 40899  
+Attempted Malware Downloads: 103 
 
 #### IP addresses
 The following are the top 10 attacker IP addresses today, including the frequency of usage:
 ```
+   2004 217.33.254.66
+   1895 54.93.53.238
+   1579 62.210.141.191
+   1315 103.41.124.49
    1287 103.41.124.12
+   1284 103.41.124.42
+   1117 103.41.124.39
+    929 103.41.124.31
     847 103.41.124.44
     801 103.41.124.16
-    798 62.210.244.18
-    698 103.41.124.39
-    670 103.41.124.40
-    651 103.41.124.21
-    642 103.41.124.59
-    642 103.41.124.51
-    642 103.41.124.42
 ```
 
 #### Attempted URL Downloads
@@ -37,6 +37,8 @@ http://106.185.24.106/5
 http://185.63.253.93/.lu.pl
 http://188.212.103.234/private/auto/.xtkarmx
 http://188.212.103.234/private/auto/.xtki686x
+http://210.56.50.13:8080/bin.sh
+http://210.56.50.13:8080/npc
 http://23.234.60.140/install/8004
 http://buhenge.com/z1
 http://buhenge.com/z2
@@ -48,47 +50,47 @@ http://buhenge.com/z6
 #### Passwords
 The following are the top 25 passwords today, including the frequency of usage:
 ```
-    329 admin
-    170 123456
-    162 ubnt
-    112 123qwe
-     97 1q2w3e4r
-     96 qwe123
-     73 password
-     72 qwerty
-     52 root
-     33 
-     26 test
-     25 root123
-     25 apache
-     24 administrator
-     23 master
-     22 123
-     21 user
-     21 redhat
-     21 1234
-     19 oracle
-     19 linux
-     19 12345678
-     17 test123
-     17 mysql
-     15 p@ssw0rd
+    703 
+    518 admin
+    346 123456
+    239 ubnt
+    206 password
+    169 qwe123
+    128 qwerty
+    128 123qwe
+    107 1q2w3e4r
+    102 test
+     99 1234
+     98 12345
+     93 root
+     93 123
+     86 1
+     51 letmein
+     45 administrator
+     44 test123
+     42 root123
+     42 abc123
+     39 user
+     39 qwe
+     33 1234567
+     32 a
+     32 12345678
 ```
 
 #### Usernames
 The following are the top 3 usernames today, including the frequency of usage:
 ```
-  17399 root
-    243 admin
-    156 ubnt
+  34174 root
+    848 admin
+    236 ubnt
 ```
 
 #### SSH Library Version
 The following are the top 5 SSH library versions today, including the frequency of usage:
 ```
-   4756 SSH-2.0-PUTTY
-   1451 SSH-2.0-libssh-0.1
-   1057 SSH-2.0-libssh-0.5.2
-    754 SSH-2.0-libssh2_1.4.1
-    607 SSH-2.0-libssh-0.6.3
+   8435 SSH-2.0-PUTTY
+   5539 SSH-2.0-libssh-0.1
+   3467 SSH-2.0-libssh-0.6.3
+   1180 SSH-2.0-libssh2_1.4.1
+   1058 SSH-2.0-libssh-0.5.2
 ```
