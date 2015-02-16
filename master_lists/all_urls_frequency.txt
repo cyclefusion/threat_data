@@ -22,27 +22,26 @@
     800 http://cs.frade8c.com:9162/byv832
     488 http://202.191.121.230/ou.pl
     186 http://61.218.226.170/
-    158 http://buhenge.com/z1
+    160 http://buhenge.com/z1
     124 http://play.marketplay.eu/apache23
-     85 http://buhenge.com/z2
+     89 http://buhenge.com/z2
      80 http://202.202.121.27/bot.txt
-     62 http://gilbertsoto.com/t3.log
-     56 http://185.63.253.93/.lu.pl
-     52 http://buhenge.com/z4
-     48 http://buhenge.com/z5
+     57 http://185.63.253.93/.lu.pl
+     53 http://buhenge.com/z4
+     51 http://buhenge.com/z5
      45 http://23.234.60.140/install/8002
      42 http://74.208.174.4/ou.pl
      40 http://buhenge.com/z3
      39 http://188.212.103.234/private/auto/.xtkarmx
-     34 http://buhenge.com/z6
+     35 http://buhenge.com/z6
      31 http://23.234.60.140/install/8001
      31 http://188.212.103.234/private/auto/.xtki686x
      24 http://209.236.71.188/midx
+     22 http://ftp.rxxiaoao.com/install/n8008.rar
      22 http://23.234.60.140/install/8007
      22 http://23.234.60.140/install/8003
      21 http://23.234.60.140/install/8004
      18 http://www.frade8c.com:9162/root
-     18 http://ftp.rxxiaoao.com/install/n8008.rar
      18 http://23.234.60.140/install/8008
      17 http://23.234.60.140/install/48513
      16 http://ftp.rxxiaoao.com/install/n8005.rar
