@@ -27,17 +27,17 @@
      85 http://buhenge.com/z2
      80 http://202.202.121.27/bot.txt
      62 http://gilbertsoto.com/t3.log
+     56 http://185.63.253.93/.lu.pl
      52 http://buhenge.com/z4
      48 http://buhenge.com/z5
      45 http://23.234.60.140/install/8002
      42 http://74.208.174.4/ou.pl
      40 http://buhenge.com/z3
-     40 http://185.63.253.93/.lu.pl
+     39 http://188.212.103.234/private/auto/.xtkarmx
      34 http://buhenge.com/z6
-     32 http://188.212.103.234/private/auto/.xtkarmx
      31 http://23.234.60.140/install/8001
+     31 http://188.212.103.234/private/auto/.xtki686x
      24 http://209.236.71.188/midx
-     24 http://188.212.103.234/private/auto/.xtki686x
      22 http://23.234.60.140/install/8007
      22 http://23.234.60.140/install/8003
      21 http://23.234.60.140/install/8004
@@ -70,6 +70,7 @@
       9 http://www.frade8c.com:9162/fdsfsfvff
       9 http://www.frade8c.com:9162/byv832
       9 http://23.234.60.140/install/8000
+      8 http://210.56.50.13:8080/npc
       7 http://stanislaw.altervista.org/2.php
       6 http://94.102.63.155/res.html
       6 http://204.44.104.93:8080/iten64
@@ -80,7 +81,7 @@
       5 http://23.234.60.140:8081/install/8007
       4 http://60.173.10.177:8080/14.17
       4 http://23.234.60.140:8081/install/8006
-      4 http://210.56.50.13:8080/npc
+      4 http://210.56.50.13:8080/bin.sh
       4 http://204.44.104.93:8080/npc
       4 http://204.44.104.93:8080/lin32
       4 http://183.60.202.9:1560/qwe0x03qa0
@@ -108,7 +109,6 @@
       2 http://210.77.96.165:1111/Linux2.6
       2 http://210.77.96.165:1111/Linux2.4
       2 http://210.77.96.165:1111/dd-wrt
-      2 http://210.56.50.13:8080/bin.sh
       2 http://204.44.104.93:8080/npc1
       2 http://204.44.104.93:8080/bin.sh
       2 http://198.2.209.133:7899/cao1.exe
