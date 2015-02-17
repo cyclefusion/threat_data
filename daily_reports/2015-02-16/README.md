@@ -12,28 +12,29 @@ FFB1 47C1 326E A063
 ### Summary
 
 Date: February 16, 2015  
-Total attacks today: 20557  
-Attempted Malware Downloads: 18 
+Total attacks today: 35644  
+Attempted Malware Downloads: 28 
 
 #### IP addresses
 The following are the top 10 attacker IP addresses today, including the frequency of usage:
 ```
+   1911 103.41.124.20
    1290 187.177.136.34
-   1269 103.41.124.20
+   1284 103.41.124.15
+   1278 103.41.124.47
+   1253 62.210.244.18
    1190 221.214.1.66
+   1166 103.41.124.12
+   1044 103.41.124.48
+    990 103.41.124.66
     919 103.41.124.33
-    712 103.41.124.58
-    710 104.130.11.75
-    673 103.41.124.16
-    645 103.41.124.17
-    642 103.41.124.62
-    642 103.41.124.54
 ```
 
 #### Attempted URL Downloads
 The following are URLs attackers attempted to download and execute once they compromising a honeypot sensor:
 ```
 http://185.63.253.93/.lu.pl
+http://188.212.103.234/private/auto/.xtkarmx
 http://buhenge.com/z1
 http://buhenge.com/z2
 http://buhenge.com/z4
@@ -45,47 +46,47 @@ http://ftp.rxxiaoao.com/install/n8008.rar
 #### Passwords
 The following are the top 25 passwords today, including the frequency of usage:
 ```
-    748 root
-    273 admin
-    166 123456
-    123 ubnt
-     97 password
-     64 bin
-     46 1234
-     44 123qwe
-     40 12345
-     38 qwe123
-     38 1q2w3e4r
-     37 123
-     35 qwerty
-     28 test
-     26 user
-     24 guest
-     23 oracle
-     22 test123
-     22 root123
-     21 a
-     20 password123
-     20 fff1fff
-     20 
-     19 12345678
-     18 azerty
+    778 root
+    580 admin
+    322 123456
+    262 ubnt
+    160 123qwe
+    149 1q2w3e4r
+    146 qwe123
+    142 password
+     70 1234
+     67 bin
+     60 12345
+     56 123
+     50 qwerty
+     47 test
+     40 guest
+     40 12345678
+     38 a
+     37 test123
+     34 user
+     34 oracle
+     34 
+     33 fff1fff
+     30 administrator
+     29 123456789
+     28 default
 ```
 
 #### Usernames
 The following are the top 3 usernames today, including the frequency of usage:
 ```
-  17419 root
-    252 admin
-    119 ubnt
+  30557 root
+   1007 admin
+    258 ubnt
 ```
 
 #### SSH Library Version
 The following are the top 5 SSH library versions today, including the frequency of usage:
 ```
-   4966 SSH-2.0-PUTTY
-   3994 SSH-2.0-libssh-0.1
-   1822 SSH-2.0-libssh-0.6.3
-    452 SSH-2.0-libssh2_1.4.1
-    448 SSH-2.0-libssh-0.2
+   8964 SSH-2.0-PUTTY
+   5487 SSH-2.0-libssh-0.1
+   2645 SSH-2.0-libssh-0.6.3
+   1165 SSH-2.0-libssh-0.2
+    934 SSH-2.0-libssh2_1.4.1
 ```
