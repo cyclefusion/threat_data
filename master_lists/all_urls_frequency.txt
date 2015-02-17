@@ -22,18 +22,19 @@
     800 http://cs.frade8c.com:9162/byv832
     488 http://202.191.121.230/ou.pl
     186 http://61.218.226.170/
-    160 http://buhenge.com/z1
+    163 http://buhenge.com/z1
     124 http://play.marketplay.eu/apache23
-     89 http://buhenge.com/z2
+     93 http://buhenge.com/z2
      80 http://202.202.121.27/bot.txt
-     57 http://185.63.253.93/.lu.pl
-     53 http://buhenge.com/z4
-     51 http://buhenge.com/z5
+     62 http://energybrands.eu/cata.txt
+     61 http://185.63.253.93/.lu.pl
+     55 http://buhenge.com/z4
+     52 http://buhenge.com/z5
      49 http://188.212.103.234/private/auto/.xtkarmx
      45 http://23.234.60.140/install/8002
      42 http://74.208.174.4/ou.pl
      40 http://buhenge.com/z3
-     35 http://buhenge.com/z6
+     36 http://buhenge.com/z6
      31 http://23.234.60.140/install/8001
      31 http://188.212.103.234/private/auto/.xtki686x
      24 http://ftp.rxxiaoao.com/install/n8008.rar
@@ -51,8 +52,8 @@
      12 http://ftp.rxxiaoao.com/install/n8002.rar
      12 http://buhenge.com/2821
      11 http://ftp.rxxiaoao.com/install/n8007.rar
+     11 http://ftp.rxxiaoao.com/install/n8006.rar
      11 http://162.218.30.75:1818/ssh33
-     10 http://ftp.rxxiaoao.com/install/n8006.rar
      10 http://ftp.rxxiaoao.com/install/n8003.rar
      10 http://ftp.rxxiaoao.com/install/n8001.rar
      10 http://ftp.rxxiaoao.com/install/n8000.rar
@@ -70,15 +71,16 @@
       9 http://www.frade8c.com:9162/byv832
       9 http://23.234.60.140/install/8000
       8 http://210.56.50.13:8080/npc
+      8 http://106.185.24.106/5
       7 http://stanislaw.altervista.org/2.php
       6 http://94.102.63.155/res.html
       6 http://204.44.104.93:8080/iten64
       6 http://183.61.164.167:8018/12316
       6 http://124.115.16.31:8009/xqq
-      6 http://106.185.24.106/5
       6 http://100.42.30.34/lex
       5 http://23.234.60.140:8081/install/8007
       4 http://60.173.10.177:8080/14.17
+      4 http://39.109.0.113:1111/Mm
       4 http://23.234.60.140:8081/install/8006
       4 http://210.56.50.13:8080/bin.sh
       4 http://204.44.104.93:8080/npc
@@ -98,6 +100,7 @@
       2 http://61.147.103.173:8080/9999
       2 http://60.173.10.177:10020/sperhong
       2 http://50.116.13.237/profile
+      2 http://39.109.0.113:1111/32.64
       2 http://222.186.34.215:8989/msql
       2 http://222.186.31.73:8123/.azui
       2 http://222.186.31.11:60/lan2.6
