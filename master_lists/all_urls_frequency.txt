@@ -29,15 +29,15 @@
      57 http://185.63.253.93/.lu.pl
      53 http://buhenge.com/z4
      51 http://buhenge.com/z5
+     49 http://188.212.103.234/private/auto/.xtkarmx
      45 http://23.234.60.140/install/8002
      42 http://74.208.174.4/ou.pl
      40 http://buhenge.com/z3
-     39 http://188.212.103.234/private/auto/.xtkarmx
      35 http://buhenge.com/z6
      31 http://23.234.60.140/install/8001
      31 http://188.212.103.234/private/auto/.xtki686x
+     24 http://ftp.rxxiaoao.com/install/n8008.rar
      24 http://209.236.71.188/midx
-     22 http://ftp.rxxiaoao.com/install/n8008.rar
      22 http://23.234.60.140/install/8007
      22 http://23.234.60.140/install/8003
      21 http://23.234.60.140/install/8004
