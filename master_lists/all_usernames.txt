@@ -458,6 +458,7 @@ allo
 aloy
 alpha
 alpine
+altagracia
 altibase
 alumni
 alupigus
@@ -475,6 +476,7 @@ amavisd
 amber
 amelia
 amelie
+amendoza
 america
 ameteamtefute312
 amiga
@@ -483,6 +485,7 @@ amitj
 amix
 amour
 amssys
+amstelecom
 amy
 an93l5m1st3ry
 ana
@@ -524,6 +527,7 @@ Antwerp
 anu
 apache
 apc
+ap-northeast-1
 apollo
 app
 appadmin
@@ -659,6 +663,7 @@ basti
 batal
 Baubau332w0rgvi
 bauer
+bautista
 bb
 bbb
 bbiwy6820s
@@ -737,8 +742,10 @@ branburica
 brandon
 brenda
 brett
+brianamj
 brianna
 bridge
+brigida
 briz
 brooke
 brooklyn
@@ -792,6 +799,8 @@ carol
 caroline
 carrie
 carsten
+carta
+cartas
 Casa15am
 cassandra
 cat
@@ -813,7 +822,9 @@ centos
 central
 ces
 cfalk
+cgarcia
 cgi
+cgi-bin
 ch
 chandimal
 chandu
@@ -875,15 +886,18 @@ codecmpeg4
 cod_server
 colsen
 com
+comerciais
 comi
 commando
 compart
 complex
+computer
 confixx
 connect
 connor
 conrad
 console
+consultoria
 contact
 controller
 coolwellac
@@ -899,6 +913,7 @@ cosy
 coupon
 courier
 courtney
+cpanel24
 Cr1ss.Cr0ss
 cr4zyg0d$
 crafty
@@ -970,12 +985,14 @@ dbuser
 $DBUser
 dcalvin
 dd
+ddo
 de
 dean
 debbie
 debian
 debug
 ded4u
+dedlogistica
 dee2007
 deepak
 default
@@ -1011,6 +1028,7 @@ dicianuqwe
 digital
 digital1
 dima
+dinesh
 director
 displays
 divine
@@ -1021,6 +1039,10 @@ Dm-050
 dmuser
 dnz5057007770
 doarunfloc
+dobranich
+dobrowski
+dobry
+dobson
 dodo
 dogma808
 domotec2011antiqpass
@@ -1042,6 +1064,7 @@ drugs4you3and2fuck6you
 drugstefute1423
 ds
 ds24xaV7
+dsantiago
 DsaQ80247
 dspace
 ds*#tgg3jH3abtM9
@@ -1062,6 +1085,7 @@ E913Jpg1
 E9em7M76
 eastcom999
 ebay
+ec2-54-65-96-68
 ec2-user
 e"$cmd"
 economist
@@ -1277,6 +1301,7 @@ h1s0lut10n
 h2ckt3ch
 H8002CB091-F97DADAE79214C0
 hacker
+hacking
 hacluster
 hadoop
 haibis
@@ -1432,6 +1457,7 @@ JESSI1506
 jessica
 jetta
 Jewel
+jfparra
 jillian
 jim3thes18tvl@thestival.gr
 jimmy
@@ -1463,6 +1489,7 @@ joomla
 jordan
 jorge
 jose
+joseluis
 joseph
 josh
 joshua
@@ -1470,6 +1497,7 @@ joyce
 jparksu
 jpcirrus
 js
+jsuarez
 jthj43njfmk
 juan
 judy
@@ -1569,6 +1597,7 @@ ktkim
 kukubau47
 kukutyin
 kultur
+Kunal
 kundan
 kutise
 kuulei97
@@ -1612,6 +1641,7 @@ leo
 leonardo
 letustalk0
 lex
+lgonzalez
 liam
 library
 libssl-dev
@@ -1724,6 +1754,7 @@ manfred1
 mani
 mantis
 marc
+marcia
 marcus
 marek
 maria
@@ -1848,6 +1879,7 @@ monika
 monitor
 moodle
 mora
+moralez
 more
 morgan
 moritz
@@ -1860,6 +1892,7 @@ mp3
 mpi
 mr
 mrlong
+mromero
 mrtg
 ms
 Ms1*187kR!~
@@ -1948,12 +1981,15 @@ nico
 nicole
 nicu
 niels
+nieves
 nikhil
+nilesh
 nina
 NK11oxte
 NKtfgCjQRr9TtjfRPmJdIINGOODWETRUST
 nl803q4
 nLi52xTdexi84vMP
+nlopez
 NLx2.
 nms
 nmsuser
@@ -2093,6 +2129,7 @@ peace
 pedro
 pelle
 penny
+perla
 pervuhina
 peschel
 pestetotpestradapoeziaemafiamamuie
@@ -2116,6 +2153,7 @@ phpbb
 physics
 pi
 pico
+piedad
 pieper
 pileaenrique1978
 pink
@@ -2164,11 +2202,13 @@ postgres7
 postgres8
 postgres9
 postmaster
+ppazmino
 ppp&953
 pr0j3ct
 premium
 premix
 president
+primaveras
 print
 printul
 priv8qwer!!
@@ -2186,6 +2226,7 @@ P@ssw0rd420$69!
 psybnc
 pub
 public
+puiu
 pula
 pulaverde
 PuzzlePirates_dnaT
@@ -2213,6 +2254,7 @@ rack
 radio
 radiomail
 radu
+rahul
 rahulb
 raj
 rajeev
@@ -2260,6 +2302,7 @@ rob
 robert
 roberto
 robot
+rocio
 roland
 roller
 roma
@@ -2272,6 +2315,7 @@ root1234psybnc
 root:20102010
 root@82.173.193.128
 rootkit
+rosario
 rot
 roto
 rpc
@@ -2295,6 +2339,8 @@ S4nd3r0V0cal
 Sa514535
 saadmin
 sabin
+sachin
+sadmin
 safas64y4y
 safetp
 sajdnauhfiufauinf
@@ -2302,6 +2348,7 @@ sakura
 sakurai
 salamdesalam
 sales
+salvatore
 sam
 sam932bw
 samantha
@@ -2319,7 +2366,9 @@ sasha
 satBxxX123
 sauser
 savannah
+sbassi
 sbear
+sbin
 sbkim
 sc
 sc1ent1f1c5556
@@ -2343,6 +2392,7 @@ sem
 senaka
 send
 serge
+sergio
 server
 service
 services
@@ -2378,8 +2428,10 @@ silent@4
 silverspoon00
 simon
 SiNceR1234SiNceR
+sir
 sirhack123
 sirsi
+sistemas
 sjec1863
 sjlee
 SK!587eN9a@Y61e3iOG63!Nsv81E7hL4
@@ -2401,6 +2453,7 @@ sms123sms
 smtp
 snapshot
 snf@#$dohold#@$32
+sniff
 snort
 snow786just188
 socks
@@ -2463,6 +2516,7 @@ sua
 sugetzipula
 sugicocaru1$@121
 sugipixultot
+sunil
 sunisp4321
 SUNISP7890
 sunny
@@ -2648,6 +2702,8 @@ uspro
 usuario
 usuario1
 usuario2
+utilidad
+utilidades
 uucp
 UzAbAmy$Yv
 v0ip2011

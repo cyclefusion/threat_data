@@ -22,19 +22,19 @@
     800 http://cs.frade8c.com:9162/byv832
     488 http://202.191.121.230/ou.pl
     186 http://61.218.226.170/
-    163 http://buhenge.com/z1
+    166 http://buhenge.com/z1
     124 http://play.marketplay.eu/apache23
-     93 http://buhenge.com/z2
+     94 http://buhenge.com/z2
      80 http://202.202.121.27/bot.txt
      68 http://185.63.253.93/.lu.pl
      62 http://energybrands.eu/cata.txt
-     55 http://buhenge.com/z4
-     51 http://buhenge.com/z5
+     57 http://buhenge.com/z4
+     53 http://buhenge.com/z5
      50 http://188.212.103.234/private/auto/.xtkarmx
      45 http://23.234.60.140/install/8002
      42 http://74.208.174.4/ou.pl
      40 http://buhenge.com/z3
-     36 http://buhenge.com/z6
+     37 http://buhenge.com/z6
      31 http://23.234.60.140/install/8001
      31 http://188.212.103.234/private/auto/.xtki686x
      24 http://ftp.rxxiaoao.com/install/n8008.rar
@@ -47,7 +47,7 @@
      17 http://23.234.60.140/install/48513
      16 http://ftp.rxxiaoao.com/install/n8005.rar
      16 http://23.228.102.152:1818/bulong
-     14 http://ftp.rxxiaoao.com/install/n8006.rar
+     15 http://ftp.rxxiaoao.com/install/n8006.rar
      14 http://23.234.60.140/install/8005
      13 http://115.29.165.174:53621/ssh77
      12 http://ftp.rxxiaoao.com/install/n8002.rar
@@ -102,6 +102,7 @@
       2 http://61.147.103.173:8080/9999
       2 http://60.173.10.177:10020/sperhong
       2 http://50.116.13.237/profile
+      2 http://39.109.0.113:1111/mm64
       2 http://39.109.0.113:1111/32.64
       2 http://222.186.34.215:8989/msql
       2 http://222.186.31.73:8123/.azui
@@ -134,6 +135,11 @@
       2 http://104.194.20.23:8080/2222
       1 http://www.majestic12.co.uk/bot.php?+)
       1 http://98.126.15.42:88/escds
+      1 http://39.109.0.113:8520/jj
+      1 http://39.109.0.113:8520/eee
+      1 http://39.109.0.113:1111/TS64
+      1 http://39.109.0.113:1111/666
+      1 http://39.109.0.113:1111/32Mm
       1 http://217.160.204.156/bot.txt
       1 http://176.102.38.77/search/e.php?h=cloudemotions.com/cgi-sys/entropysearch.cgi'
       1 http://176.102.38.77/search/e.php?h=cloudemotions.com/cgi-bin/'
