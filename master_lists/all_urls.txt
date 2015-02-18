@@ -59,6 +59,7 @@ http://210.77.96.165:1111/Linux2.6
 http://210.77.96.165:1111/linux-arm
 http://210.77.96.165:1111/linux-mips
 http://216.99.156.165:6597/.azui
+http://217.160.204.156/bot.txt
 http://218.75.153.137:8080/lin32
 http://219.135.56.219:9162/byv832
 http://219.135.56.219:9162/dsgregd
@@ -131,6 +132,8 @@ http://ftp.rxxiaoao.com/install/n8006.rar
 http://ftp.rxxiaoao.com/install/n8007.rar
 http://ftp.rxxiaoao.com/install/n8008.rar
 http://play.marketplay.eu/apache23
+http://root-arhive.serveftp.com/emech/system2.jpg
+http://root-arhive.serveftp.com/scanner/gosh.jpg
 http://stanislaw.altervista.org/2.php
 http://www.frade8c.com:9162/byv832
 http://www.frade8c.com:9162/fdsfsfvff

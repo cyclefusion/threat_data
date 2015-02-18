@@ -615,6 +615,8 @@ aylmer
 azabuuuuuu.cad
 azpi135
 aztarctl09
+azureadmin
+azureuser
 b
 b1g3stb3n
 b52u241!
@@ -663,6 +665,7 @@ bbiwy6820s
 bbk
 bcd1234
 bd
+bea
 bebelusa
 bebetovarupecapu
 beckmann
@@ -1714,6 +1717,7 @@ man
 mana
 manager
 manchester
+mandru
 mandy
 manfred
 manfred1
@@ -2172,6 +2176,7 @@ production
 profile
 project
 prova
+provteam
 proxenetu11111pasparoot
 proxy
 prueba
@@ -2247,6 +2252,7 @@ richard
 riley
 Riverview
 rk
+rm
 rm3jrvgmcc423835
 rme5968079
 ro0t
@@ -2293,6 +2299,7 @@ safas64y4y
 safetp
 sajdnauhfiufauinf
 sakura
+sakurai
 salamdesalam
 sales
 sam
