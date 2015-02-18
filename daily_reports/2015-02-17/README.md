@@ -12,22 +12,22 @@ FFB1 47C1 326E A063
 ### Summary
 
 Date: February 17, 2015  
-Total attacks today: 40795  
-Attempted Malware Downloads: 27 
+Total attacks today: 88120  
+Attempted Malware Downloads: 45 
 
 #### IP addresses
 The following are the top 10 attacker IP addresses today, including the frequency of usage:
 ```
-   2043 222.186.34.36
-   2021 62.210.139.133
-   1864 203.232.210.195
-   1838 103.41.124.54
-   1755 103.41.124.49
-   1602 103.41.124.55
-   1553 103.41.124.51
-   1247 103.41.124.33
-   1240 103.41.124.18
-   1161 103.41.124.26
+   3429 103.41.124.26
+   3063 103.41.124.42
+   2894 103.41.124.64
+   2591 103.41.124.54
+   2588 103.41.124.46
+   2581 103.41.124.20
+   2580 103.41.124.30
+   2550 103.41.124.100
+   2447 103.41.124.45
+   2259 103.41.124.52
 ```
 
 #### Attempted URL Downloads
@@ -41,55 +41,57 @@ http://39.109.0.113:1111/Mm
 http://buhenge.com/z1
 http://buhenge.com/z2
 http://buhenge.com/z4
-http://buhenge.com/z5
 http://buhenge.com/z6
+http://download.microsoft.com/download/win2000platform/SP/SP3/NT5/EN-US/W2Ksp3.exe
 http://ftp.rxxiaoao.com/install/n8006.rar
+http://root-arhive.serveftp.com/emech/system2.jpg
+http://root-arhive.serveftp.com/scanner/gosh.jpg
 ```
 
 #### Passwords
 The following are the top 25 passwords today, including the frequency of usage:
 ```
-    247 admin
-    233 
-    161 123456
-    112 password
-    111 ubnt
-     92 qwe123
-     82 1
-     73 1234
-     73 123
-     66 test
-     58 12345
-     54 letmein
-     43 qwerty
-     42 123qwe
-     40 root123
-     39 qwe
-     31 fff1fff
-     31 abc123
-     30 root
-     29 123qwe123
-     28 user
-     27 cba123
-     25 qwertyuiop
-     25 qwaszx123
-     25 changeme
+    323 
+    255 admin
+    204 123456
+    124 password
+    113 ubnt
+    103 qwe123
+     92 1
+     85 123
+     79 1234
+     76 test
+     67 12345
+     63 qwerty
+     56 letmein
+     52 123qwe
+     45 root123
+     45 root
+     44 abc123
+     42 qwe
+     42 fff1fff
+     40 1q2w3e4r
+     34 girlpower
+     33 user
+     33 p@ssw0rd
+     33 changeme
+     31 qwertyuiop
 ```
 
 #### Usernames
 The following are the top 3 usernames today, including the frequency of usage:
 ```
-  38439 root
-    130 admin
-    109 ubnt
+  85484 root
+    138 admin
+    111 ubnt
 ```
 
 #### SSH Library Version
 The following are the top 5 SSH library versions today, including the frequency of usage:
 ```
-  10741 SSH-2.0-PUTTY
-   3469 SSH-2.0-libssh-0.6.3
-   2235 SSH-2.0-libssh-0.1
-    545 SSH-2.0-libssh2_1.4.3
-    498 SSH-2.0-libssh-0.5.2
+  26011 SSH-2.0-PUTTY
+   4803 SSH-2.0-libssh-0.6.3
+   3114 SSH-2.0-libssh-0.1
+    841 SSH-2.0-libssh-0.5.2
+    807 SSH-2.0-libssh-0.2
 ```
