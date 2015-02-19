@@ -34,7 +34,7 @@
      45 http://23.234.60.140/install/8002
      42 http://74.208.174.4/ou.pl
      40 http://buhenge.com/z3
-     37 http://buhenge.com/z6
+     38 http://buhenge.com/z6
      31 http://23.234.60.140/install/8001
      31 http://188.212.103.234/private/auto/.xtki686x
      24 http://ftp.rxxiaoao.com/install/n8008.rar
