@@ -12,22 +12,22 @@ FFB1 47C1 326E A063
 ### Summary
 
 Date: February 18, 2015  
-Total attacks today: 36879  
-Attempted Malware Downloads: 14 
+Total attacks today: 73169  
+Attempted Malware Downloads: 15 
 
 #### IP addresses
 The following are the top 10 attacker IP addresses today, including the frequency of usage:
 ```
-   2508 103.41.124.58
-   2206 103.41.124.36
+   3380 103.41.124.36
+   3264 103.41.124.58
+   2889 103.41.124.63
+   2447 103.41.124.113
+   2412 103.41.124.33
+   2383 94.189.239.232
+   2034 103.41.124.22
+   2019 103.41.124.40
+   1959 103.41.124.38
    1740 103.41.124.64
-   1709 103.41.124.113
-   1482 103.41.124.38
-   1452 103.41.124.63
-   1450 103.41.124.53
-   1392 103.41.124.39
-   1392 103.41.124.22
-   1377 103.41.124.40
 ```
 
 #### Attempted URL Downloads
@@ -48,47 +48,47 @@ http://buhenge.com/z6
 #### Passwords
 The following are the top 25 passwords today, including the frequency of usage:
 ```
-     66 123456
-     43 
-     38 admin
-     30 root
-     25 oracle
-     24 webmaster
-     24 12345678
-     22 test
-     22 postgres
-     21 linux
-     21 1234
-     19 qwerty
-     18 123456789
-     17 user
-     17 ubnt
-     17 123
-     16 ubuntu
-     16 rootroot
-     16 p4sst3mp
-     16 nagios
-     16 gamedesire
-     16 12qwaszx
-     14 guest
-     14 default
-     14 changeme
+    186 123456
+    137 root
+    114 
+    110 admin
+     81 password
+     78 test
+     58 1234
+     54 oracle
+     51 qwerty
+     45 12345678
+     44 guest
+     42 webmaster
+     42 12345
+     41 changeme
+     38 ubnt
+     38 linux
+     37 123
+     36 honeypot
+     34 support
+     34 postgres
+     34 123456789
+     32 user
+     31 redhat
+     31 abc123
+     30 a
 ```
 
 #### Usernames
 The following are the top 3 usernames today, including the frequency of usage:
 ```
-  35904 root
-    160 bin
-     52 oracle
+  68422 root
+    705 admin
+    586 
 ```
 
 #### SSH Library Version
 The following are the top 5 SSH library versions today, including the frequency of usage:
 ```
-  11255 SSH-2.0-PUTTY
-   2044 SSH-2.0-libssh-0.1
-   1020 SSH-2.0-libssh-0.6.3
-    131 SSH-2.0-libssh2_1.4.3
-     88 SSH-2.0-libssh-0.2
+  20745 SSH-2.0-PUTTY
+   5995 SSH-2.0-libssh-0.1
+   2585 SSH-2.0-libssh-0.6.3
+   1364 SSH-2.0-libssh2_1.0
+    615 SSH-2.0-Erlang
 ```
