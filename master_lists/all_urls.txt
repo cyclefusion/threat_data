@@ -20,6 +20,7 @@ http://117.21.173.30:6868/26ssh22
 http://117.21.173.30:6868/azwen
 http://117.21.225.131:9999/26ssh666666
 http://121.40.85.20:8181/xdp
+http://122.10.85.54/
 http://122.224.4.157:1111/dos32
 http://122.224.4.157:1111/dos64
 http://122.224.55.86:8080/bin.sh
@@ -31,6 +32,9 @@ http://162.218.30.75:1818/ssh66
 http://176.102.38.77/search/e.php?h=cloudemotions.com/'
 http://176.102.38.77/search/e.php?h=cloudemotions.com/cgi-bin/'
 http://176.102.38.77/search/e.php?h=cloudemotions.com/cgi-sys/entropysearch.cgi'
+http://178.33.196.164/
+http://178.33.196.164:443/
+http://178.33.196.164:53/
 http://182.254.247.118:8080/WIND
 http://183.60.197.231:5156/mazi
 http://183.60.202.9:1560/qwe0x03qa0
@@ -97,6 +101,7 @@ http://39.109.0.113:1111/TS64
 http://39.109.0.113:8520/eee
 http://39.109.0.113:8520/jj
 http://50.116.13.237/profile
+http://5.175.181.46/a/ssh5.5p1.jpg
 http://60.173.10.177:10020/sperhong
 http://60.173.10.177:8080/14.17
 http://61.147.103.173:8080/9999

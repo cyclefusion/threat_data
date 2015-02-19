@@ -24,17 +24,17 @@
     186 http://61.218.226.170/
     166 http://buhenge.com/z1
     124 http://play.marketplay.eu/apache23
-     94 http://buhenge.com/z2
+     97 http://buhenge.com/z2
      80 http://202.202.121.27/bot.txt
      68 http://185.63.253.93/.lu.pl
      62 http://energybrands.eu/cata.txt
-     57 http://buhenge.com/z4
-     53 http://buhenge.com/z5
+     59 http://buhenge.com/z4
+     54 http://buhenge.com/z5
      50 http://188.212.103.234/private/auto/.xtkarmx
      45 http://23.234.60.140/install/8002
+     42 http://buhenge.com/z3
      42 http://74.208.174.4/ou.pl
-     40 http://buhenge.com/z3
-     38 http://buhenge.com/z6
+     39 http://buhenge.com/z6
      31 http://23.234.60.140/install/8001
      31 http://188.212.103.234/private/auto/.xtki686x
      24 http://ftp.rxxiaoao.com/install/n8008.rar
@@ -93,6 +93,11 @@
       4 http://115.29.165.174:38886/ssh77
       4 http://115.239.248.55:8080/ssh88
       3 http://74.208.166.12/bot.txt
+      3 http://217.160.204.156/bot.txt
+      3 http://178.33.196.164:53/
+      3 http://178.33.196.164:443/
+      3 http://178.33.196.164/
+      3 http://122.10.85.54/
       3 http://106.185.24.106/4
       2 http://root-arhive.serveftp.com/scanner/gosh.jpg
       2 http://buhenge.com/p1
@@ -101,6 +106,7 @@
       2 http://buhenge.com/2828a6
       2 http://61.147.103.173:8080/9999
       2 http://60.173.10.177:10020/sperhong
+      2 http://5.175.181.46/a/ssh5.5p1.jpg
       2 http://50.116.13.237/profile
       2 http://39.109.0.113:1111/mm64
       2 http://39.109.0.113:1111/32.64
@@ -140,7 +146,6 @@
       1 http://39.109.0.113:1111/TS64
       1 http://39.109.0.113:1111/666
       1 http://39.109.0.113:1111/32Mm
-      1 http://217.160.204.156/bot.txt
       1 http://176.102.38.77/search/e.php?h=cloudemotions.com/cgi-sys/entropysearch.cgi'
       1 http://176.102.38.77/search/e.php?h=cloudemotions.com/cgi-bin/'
       1 http://176.102.38.77/search/e.php?h=cloudemotions.com/'
