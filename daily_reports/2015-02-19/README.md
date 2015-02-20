@@ -12,27 +12,28 @@ FFB1 47C1 326E A063
 ### Summary
 
 Date: February 19, 2015  
-Total attacks today: 41992  
-Attempted Malware Downloads: 23 
+Total attacks today: 78334  
+Attempted Malware Downloads: 53 
 
 #### IP addresses
 The following are the top 10 attacker IP addresses today, including the frequency of usage:
 ```
+   2808 103.41.124.38
    2574 103.41.124.17
+   2487 103.41.124.104
    2219 103.41.124.50
+   2166 103.41.124.32
    2145 103.41.124.113
-   1842 103.41.124.104
-   1801 103.41.124.43
-   1497 103.41.124.37
-   1443 103.41.124.29
-   1395 103.41.124.64
-   1386 103.41.124.30
-   1286 103.41.124.15
+   2139 103.41.124.19
+   2037 103.41.124.62
+   2007 103.41.124.27
+   1985 103.41.124.100
 ```
 
 #### Attempted URL Downloads
 The following are URLs attackers attempted to download and execute once they compromising a honeypot sensor:
 ```
+http://106.185.24.106/4
 http://122.10.85.54/
 http://178.33.196.164/
 http://178.33.196.164:443/
@@ -43,52 +44,53 @@ http://buhenge.com/z3
 http://buhenge.com/z4
 http://buhenge.com/z5
 http://buhenge.com/z6
+http://ftp.rxxiaoao.com/install/n8001.rar
 ```
 
 #### Passwords
 The following are the top 25 passwords today, including the frequency of usage:
 ```
-     42 
+    121 admin
+     72 
+     66 root
+     61 test
+     57 support
+     53 info
+     51 ubnt
+     51 guest
+     43 123456
      29  -*
-     27 root
-     27 admin
-     21 123456
-     18 user1234
-     18 london01
-     18 good1234
-     18 Daisuke
-     17 test
-     17 raerae
-     17 landuidc
-     17 colibri
-     15 p3pp3r
-     14 zaqxsw123
-     14 qwerty
-     14 pixiedust
-     14 pinguino
-     14 password
-     14 matchbox20
-     14 magento
-     14 ilikecheese
-     14 hunter123
-     14 house123
-     14 homesweethome
+     26 qwerty
+     25 sms123
+     25 lance123
+     23 password
+     22 changeme
+     21 user1234
+     21 softnixteam
+     20 YPdkEFcKXmFK
+     20 london01
+     20 ioana
+     20 good1234
+     20 Daisuke
+     20 aoyun
+     19 raerae
+     19 landuidc
 ```
 
 #### Usernames
 The following are the top 3 usernames today, including the frequency of usage:
 ```
-  41443 root
-     41 test
-     31 admin
+  77085 root
+    122 test
+     91 admin
 ```
 
 #### SSH Library Version
 The following are the top 5 SSH library versions today, including the frequency of usage:
 ```
-  13438 SSH-2.0-PUTTY
-   1020 SSH-2.0-libssh-0.6.3
-    609 SSH-2.0-libssh-0.1
-    118 SSH-2.0-libssh2_1.4.3
-    110 SSH-2.0-libssh2_1.4.1
+  24907 SSH-2.0-PUTTY
+   1945 SSH-2.0-libssh-0.6.3
+   1284 SSH-2.0-libssh-0.1
+    424 SSH-2.0-libssh2_1.4.1
+    220 SSH-2.0-libssh2_1.4.3
 ```
