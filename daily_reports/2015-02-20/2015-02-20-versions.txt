@@ -1,6 +1,8 @@
+SSH-1.99-3.2.9
 SSH-2.0-JSCH-0.1.51
 SSH-2.0-libssh-0.1
 SSH-2.0-libssh-0.11
+SSH-2.0-libssh-0.2
 SSH-2.0-libssh-0.5.2
 SSH-2.0-libssh-0.6.0
 SSH-2.0-libssh-0.6.3
@@ -15,3 +17,4 @@ SSH-2.0-PuTTY_Release_0.61
 SSH-2.0-PuTTY_Release_0.62
 SSH-2.0-PuTTY_Release_0.63
 SSH-2.0-Renci.SshNet.SshClient.0.0.1
+SSH-2.0-WinSCP_release_5.5.6
