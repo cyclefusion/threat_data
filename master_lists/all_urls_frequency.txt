@@ -45,9 +45,9 @@
      21 http://23.234.60.140/install/8004
      18 http://www.frade8c.com:9162/root
      18 http://23.234.60.140/install/8008
+     17 http://ftp.rxxiaoao.com/install/n8000.rar
      17 http://23.234.60.140/install/48513
      16 http://ftp.rxxiaoao.com/install/n8005.rar
-     16 http://ftp.rxxiaoao.com/install/n8000.rar
      16 http://23.228.102.152:1818/bulong
      15 http://ftp.rxxiaoao.com/install/n8006.rar
      15 http://178.33.196.164:53/
@@ -100,6 +100,7 @@
       4 http://115.29.165.174:38886/ssh77
       4 http://115.239.248.55:8080/ssh88
       3 http://74.208.166.12/bot.txt
+      3 http://39.109.0.113:8520/eee
       3 http://217.160.204.156/bot.txt
       2 http://root-arhive.serveftp.com/scanner/gosh.jpg
       2 http://buhenge.com/p1
@@ -145,7 +146,7 @@
       1 http://www.majestic12.co.uk/bot.php?+)
       1 http://98.126.15.42:88/escds
       1 http://39.109.0.113:8520/jj
-      1 http://39.109.0.113:8520/eee
+      1 http://39.109.0.113:8520/33mm
       1 http://39.109.0.113:1111/TS64
       1 http://39.109.0.113:1111/666
       1 http://39.109.0.113:1111/32Mm
