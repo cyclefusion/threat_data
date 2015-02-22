@@ -112,7 +112,6 @@ http://60.173.10.177:8080/14.17
 http://61.147.103.173:8080/9999
 http://61.218.226.170/
 http://74.208.166.12/bot.txt
-http://74.208.174.4/ou.pl
 http://94.102.63.155/res.html
 http://98.126.15.42:88/escds
 http://buhenge.com/2821
@@ -147,7 +146,6 @@ http://ftp.rxxiaoao.com/install/n8005.rar
 http://ftp.rxxiaoao.com/install/n8006.rar
 http://ftp.rxxiaoao.com/install/n8007.rar
 http://ftp.rxxiaoao.com/install/n8008.rar
-http://play.marketplay.eu/apache23
 http://root-arhive.serveftp.com/emech/system2.jpg
 http://root-arhive.serveftp.com/scanner/gosh.jpg
 http://stanislaw.altervista.org/2.php
