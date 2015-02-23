@@ -1,14 +1,14 @@
-  10066 http://219.135.56.219:9162/root
-   5033 http://219.135.56.219:9162/vrgshth
-   5033 http://219.135.56.219:9162/udevd
-   5033 http://219.135.56.219:9162/smarvtd
-   5033 http://219.135.56.219:9162/sjfedjr
-   5033 http://219.135.56.219:9162/rewgtf3er4t
-   5033 http://219.135.56.219:9162/nhgbhhj
-   5033 http://219.135.56.219:9162/jdhe
-   5033 http://219.135.56.219:9162/fdsfsfvff
-   5033 http://219.135.56.219:9162/dsgregd
-   5033 http://219.135.56.219:9162/byv832
+  10070 http://219.135.56.219:9162/root
+   5035 http://219.135.56.219:9162/vrgshth
+   5035 http://219.135.56.219:9162/udevd
+   5035 http://219.135.56.219:9162/smarvtd
+   5035 http://219.135.56.219:9162/sjfedjr
+   5035 http://219.135.56.219:9162/rewgtf3er4t
+   5035 http://219.135.56.219:9162/nhgbhhj
+   5035 http://219.135.56.219:9162/jdhe
+   5035 http://219.135.56.219:9162/fdsfsfvff
+   5035 http://219.135.56.219:9162/dsgregd
+   5035 http://219.135.56.219:9162/byv832
    1600 http://cs.frade8c.com:9162/root
     800 http://cs.frade8c.com:9162/vrgshth
     800 http://cs.frade8c.com:9162/udevd
@@ -23,16 +23,16 @@
     488 http://202.191.121.230/ou.pl
     186 http://61.218.226.170/
     173 http://buhenge.com/z1
-     98 http://buhenge.com/z2
+     99 http://buhenge.com/z2
      84 http://185.63.253.93/.lu.pl
      80 http://202.202.121.27/bot.txt
-     66 http://buhenge.com/z4
+     68 http://buhenge.com/z4
      62 http://energybrands.eu/cata.txt
      59 http://buhenge.com/z5
      50 http://188.212.103.234/private/auto/.xtkarmx
-     45 http://buhenge.com/z3
+     47 http://buhenge.com/z3
      45 http://23.234.60.140/install/8002
-     41 http://buhenge.com/z6
+     44 http://buhenge.com/z6
      31 http://23.234.60.140/install/8001
      31 http://188.212.103.234/private/auto/.xtki686x
      26 http://ftp.rxxiaoao.com/install/n8002.rar
@@ -41,6 +41,7 @@
      24 http://209.236.71.188/midx
      22 http://23.234.60.140/install/8007
      22 http://23.234.60.140/install/8003
+     21 http://ftp.rxxiaoao.com/install/n8005.rar
      21 http://23.234.60.140/install/8004
      18 http://www.frade8c.com:9162/root
      18 http://23.234.60.140/install/8008
@@ -50,7 +51,6 @@
      18 http://122.10.85.54/
      17 http://ftp.rxxiaoao.com/install/n8000.rar
      17 http://23.234.60.140/install/48513
-     16 http://ftp.rxxiaoao.com/install/n8005.rar
      16 http://23.228.102.152:1818/bulong
      15 http://ftp.rxxiaoao.com/install/n8006.rar
      14 http://23.234.60.140/install/8005
@@ -61,6 +61,7 @@
      11 http://162.218.30.75:1818/ssh33
      10 http://23.234.60.140/install/8006
      10 http://204.44.104.93:8080/iten32
+     10 http://106.185.24.106/5
       9 http://www.frade8c.com:9162/whitptabil
       9 http://www.frade8c.com:9162/smarvtd
       9 http://www.frade8c.com:9162/sfewfesfs
@@ -72,7 +73,7 @@
       9 http://www.frade8c.com:9162/fdsfsfvff
       9 http://www.frade8c.com:9162/byv832
       9 http://23.234.60.140/install/8000
-      9 http://106.185.24.106/5
+      8 http://root-arhive.serveftp.com/emech/system2.jpg
       8 http://210.56.50.13:8080/npc
       8 http://106.185.24.106/4
       7 http://stanislaw.altervista.org/2.php
@@ -82,8 +83,9 @@
       6 http://124.115.16.31:8009/xqq
       6 http://100.42.30.34/lex
       5 http://23.234.60.140:8081/install/8007
-      4 http://root-arhive.serveftp.com/emech/system2.jpg
       4 http://download.microsoft.com/download/win2000platform/SP/SP3/NT5/EN-US/W2Ksp3.exe
+      4 http://ctrlcenter.pw/iz/payw
+      4 http://ctrlcenter.pw/iz/payc
       4 http://60.173.10.177:8080/14.17
       4 http://39.109.0.113:8520/eee
       4 http://39.109.0.113:1111/Mm
