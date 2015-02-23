@@ -1,14 +1,14 @@
-  10070 http://219.135.56.219:9162/root
-   5035 http://219.135.56.219:9162/vrgshth
-   5035 http://219.135.56.219:9162/udevd
-   5035 http://219.135.56.219:9162/smarvtd
-   5035 http://219.135.56.219:9162/sjfedjr
-   5035 http://219.135.56.219:9162/rewgtf3er4t
-   5035 http://219.135.56.219:9162/nhgbhhj
-   5035 http://219.135.56.219:9162/jdhe
-   5035 http://219.135.56.219:9162/fdsfsfvff
-   5035 http://219.135.56.219:9162/dsgregd
-   5035 http://219.135.56.219:9162/byv832
+  10066 http://219.135.56.219:9162/root
+   5033 http://219.135.56.219:9162/vrgshth
+   5033 http://219.135.56.219:9162/udevd
+   5033 http://219.135.56.219:9162/smarvtd
+   5033 http://219.135.56.219:9162/sjfedjr
+   5033 http://219.135.56.219:9162/rewgtf3er4t
+   5033 http://219.135.56.219:9162/nhgbhhj
+   5033 http://219.135.56.219:9162/jdhe
+   5033 http://219.135.56.219:9162/fdsfsfvff
+   5033 http://219.135.56.219:9162/dsgregd
+   5033 http://219.135.56.219:9162/byv832
    1600 http://cs.frade8c.com:9162/root
     800 http://cs.frade8c.com:9162/vrgshth
     800 http://cs.frade8c.com:9162/udevd
@@ -24,8 +24,8 @@
     186 http://61.218.226.170/
     173 http://buhenge.com/z1
      98 http://buhenge.com/z2
+     84 http://185.63.253.93/.lu.pl
      80 http://202.202.121.27/bot.txt
-     74 http://185.63.253.93/.lu.pl
      66 http://buhenge.com/z4
      62 http://energybrands.eu/cata.txt
      59 http://buhenge.com/z5
@@ -37,6 +37,7 @@
      31 http://188.212.103.234/private/auto/.xtki686x
      26 http://ftp.rxxiaoao.com/install/n8002.rar
      24 http://ftp.rxxiaoao.com/install/n8008.rar
+     24 http://ftp.rxxiaoao.com/install/n8003.rar
      24 http://209.236.71.188/midx
      22 http://23.234.60.140/install/8007
      22 http://23.234.60.140/install/8003
@@ -47,7 +48,6 @@
      18 http://178.33.196.164:443/
      18 http://178.33.196.164/
      18 http://122.10.85.54/
-     17 http://ftp.rxxiaoao.com/install/n8003.rar
      17 http://ftp.rxxiaoao.com/install/n8000.rar
      17 http://23.234.60.140/install/48513
      16 http://ftp.rxxiaoao.com/install/n8005.rar
@@ -148,6 +148,7 @@
       1 http://39.109.0.113:1111/TS64
       1 http://39.109.0.113:1111/666
       1 http://39.109.0.113:1111/32Mm
+      1 http://185.63.253.93/.xtkarmx
       1 http://183.136.213.96:8090/10991'
       1 http://176.102.38.77/search/e.php?h=cloudemotions.com/cgi-sys/entropysearch.cgi'
       1 http://176.102.38.77/search/e.php?h=cloudemotions.com/cgi-bin/'
