@@ -23,6 +23,7 @@
     488 http://202.191.121.230/ou.pl
     186 http://61.218.226.170/
     173 http://buhenge.com/z1
+    118 http://202.191.121.230/mzer.pl
      99 http://buhenge.com/z2
      84 http://185.63.253.93/.lu.pl
      80 http://202.202.121.27/bot.txt
@@ -43,12 +44,12 @@
      22 http://23.234.60.140/install/8003
      21 http://ftp.rxxiaoao.com/install/n8005.rar
      21 http://23.234.60.140/install/8004
+     21 http://178.33.196.164:53/
+     21 http://178.33.196.164:443/
+     21 http://178.33.196.164/
+     21 http://122.10.85.54/
      18 http://www.frade8c.com:9162/root
      18 http://23.234.60.140/install/8008
-     18 http://178.33.196.164:53/
-     18 http://178.33.196.164:443/
-     18 http://178.33.196.164/
-     18 http://122.10.85.54/
      17 http://ftp.rxxiaoao.com/install/n8000.rar
      17 http://23.234.60.140/install/48513
      16 http://23.228.102.152:1818/bulong
@@ -82,10 +83,10 @@
       6 http://183.61.164.167:8018/12316
       6 http://124.115.16.31:8009/xqq
       6 http://100.42.30.34/lex
+      5 http://ctrlcenter.pw/iz/payw
+      5 http://ctrlcenter.pw/iz/payc
       5 http://23.234.60.140:8081/install/8007
       4 http://download.microsoft.com/download/win2000platform/SP/SP3/NT5/EN-US/W2Ksp3.exe
-      4 http://ctrlcenter.pw/iz/payw
-      4 http://ctrlcenter.pw/iz/payc
       4 http://60.173.10.177:8080/14.17
       4 http://39.109.0.113:8520/eee
       4 http://39.109.0.113:1111/Mm

@@ -51,6 +51,7 @@ http://188.212.103.234/private/auto/.xtkarmx
 http://188.212.103.234/private/auto/.xtki686x
 http://198.200.53.79:899/cymei
 http://198.2.209.133:7899/cao1.exe
+http://202.191.121.230/mzer.pl
 http://202.191.121.230/ou.pl
 http://202.202.121.27/bot.txt
 http://204.44.104.93:8080/bin.sh
