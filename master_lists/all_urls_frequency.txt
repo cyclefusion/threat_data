@@ -22,21 +22,22 @@
     800 http://cs.frade8c.com:9162/byv832
     488 http://202.191.121.230/ou.pl
     186 http://61.218.226.170/
-    173 http://buhenge.com/z1
+    175 http://buhenge.com/z1
     118 http://202.191.121.230/mzer.pl
-     99 http://buhenge.com/z2
+    100 http://buhenge.com/z2
      84 http://185.63.253.93/.lu.pl
      80 http://202.202.121.27/bot.txt
-     68 http://buhenge.com/z4
+     69 http://buhenge.com/z4
      62 http://energybrands.eu/cata.txt
-     59 http://buhenge.com/z5
+     60 http://buhenge.com/z5
+     50 http://buhenge.com/z3
      50 http://188.212.103.234/private/auto/.xtkarmx
-     47 http://buhenge.com/z3
      45 http://23.234.60.140/install/8002
      44 http://buhenge.com/z6
      31 http://23.234.60.140/install/8001
      31 http://188.212.103.234/private/auto/.xtki686x
      26 http://ftp.rxxiaoao.com/install/n8002.rar
+     26 http://ftp.rxxiaoao.com/install/n8000.rar
      24 http://ftp.rxxiaoao.com/install/n8008.rar
      24 http://ftp.rxxiaoao.com/install/n8003.rar
      24 http://209.236.71.188/midx
@@ -50,7 +51,6 @@
      21 http://122.10.85.54/
      18 http://www.frade8c.com:9162/root
      18 http://23.234.60.140/install/8008
-     17 http://ftp.rxxiaoao.com/install/n8000.rar
      17 http://23.234.60.140/install/48513
      16 http://23.228.102.152:1818/bulong
      15 http://ftp.rxxiaoao.com/install/n8006.rar
@@ -78,13 +78,13 @@
       8 http://210.56.50.13:8080/npc
       8 http://106.185.24.106/4
       7 http://stanislaw.altervista.org/2.php
+      6 http://ctrlcenter.pw/iz/payw
+      6 http://ctrlcenter.pw/iz/payc
       6 http://94.102.63.155/res.html
       6 http://204.44.104.93:8080/iten64
       6 http://183.61.164.167:8018/12316
       6 http://124.115.16.31:8009/xqq
       6 http://100.42.30.34/lex
-      5 http://ctrlcenter.pw/iz/payw
-      5 http://ctrlcenter.pw/iz/payc
       5 http://23.234.60.140:8081/install/8007
       4 http://download.microsoft.com/download/win2000platform/SP/SP3/NT5/EN-US/W2Ksp3.exe
       4 http://60.173.10.177:8080/14.17

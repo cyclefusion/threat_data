@@ -32,6 +32,8 @@
 1
 10
 100muie100
+104.236.214.8
+104.237.205.150
 104.239.132.162
 104.239.132.183
 104.239.132.187
@@ -113,6 +115,7 @@
 35Zulrhd3EEs
 36993699
 3CI9rgCoxE
+3comcso
 3gunite&*!@.110
 3Swohik5jipehecDogs9P725606691
 4
@@ -393,6 +396,7 @@ abies
 abigail
 Abilene
 abraham
+acc
 access
 Access
 account
@@ -421,6 +425,7 @@ adduser
 adela
 adele
 adeline
+adfexc
 adi
 adidas
 adinalove86
@@ -444,6 +449,7 @@ Administrator
 administrators
 administretor
 admins
+adminttd
 admissions
 ado23t07oasidas
 adolf
@@ -468,6 +474,7 @@ agricultivatur222
 agsadmin
 agus
 ahBahtem6
+ahmad
 ahmad750785
 ahmed
 ahto
@@ -513,6 +520,7 @@ alexis
 alexxutzu1$@121
 alfonso14luis
 alfred
+ali
 aliang
 alias
 alice
@@ -531,6 +539,7 @@ alliance
 allison
 allo
 almacen
+almox
 aloy
 alpha
 alpine
@@ -538,6 +547,7 @@ altagracia
 altibase
 altunin
 alumni
+aluno
 alupigus
 alx
 aly
@@ -589,7 +599,9 @@ andrei
 andres
 andrew
 andreyd
+andri
 andy
+ane
 ange
 angel
 angela
@@ -721,6 +733,7 @@ astral
 astrid
 asus
 at
+at4400
 aT8dukiz
 Atacama6602
 atb
@@ -798,6 +811,7 @@ baeza
 bagabu
 BaHadS2010
 bailey
+balanca
 balashov
 baldwin
 balls
@@ -836,6 +850,7 @@ bb
 bbb
 bbiwy6820s
 bbk
+bbsd-client
 bcd1234
 bd
 bea
@@ -1082,6 +1097,7 @@ cecile
 cecilia
 cedric
 celine
+cellit
 cellphone
 centos
 central
@@ -1089,6 +1105,7 @@ cerasela
 ces
 cezar
 cfalk
+cgadmin
 cgarcia
 cgi
 cgi-bin
@@ -1146,6 +1163,7 @@ ciorap
 ciprian
 circo2gffs3
 cisco
+Cisco
 cisco123
 cit_dnjsdlfwjstjstjqj
 cityline
@@ -1180,6 +1198,7 @@ club
 cludwig
 cm
 CM
+cmaker
 cmd
 cms
 cmsftp
@@ -1208,11 +1227,13 @@ com
 comblaze
 comcast
 comerciais
+comercial
 comi
 commando
 compaq
 compart
 complex
+compras
 computer
 cona
 confixx
@@ -1228,6 +1249,7 @@ contat
 contempo
 control
 controller
+convidado
 coolwellac
 cooper
 cop
@@ -1259,6 +1281,7 @@ cpanel24
 cpter1
 Cr1ss.Cr0ss
 cr4zyg0d$
+craft
 crafty
 craig
 craigh
@@ -1362,6 +1385,7 @@ datacomo_v$$w
 date
 dave
 david
+davox
 davy
 dax
 day
@@ -1400,6 +1424,7 @@ dedlogistica
 dee2007
 deepak
 default
+deisimar
 delaminepentrutinesurioara
 delia
 delta
@@ -1422,6 +1447,7 @@ derek
 design
 desiree
 desktop
+desliga
 destiny
 details3
 deutch
@@ -1438,8 +1464,12 @@ df
 dff
 dh351gan
 dhcp
+dhiren
+dhs3mt
+dhs3pms
 diabet
 diaconusanduboris
+diag
 diana
 diana4ever
 diane
@@ -1524,6 +1554,7 @@ DsaQ80247
 dsawicki
 dspace
 ds*#tgg3jH3abtM9
+DTA
 dtn
 dtstariq
 dtv@ldap
@@ -1631,6 +1662,7 @@ erika
 erin
 ernest
 ernie
+esau
 eseQpJgDrU
 eshore
 esther
@@ -1651,6 +1683,7 @@ evara
 everyone
 evil
 ex1003
+exclusive_table
 exim
 Exit
 !ey8deK3
@@ -1753,6 +1786,7 @@ friend
 friends
 fritz
 frog
+frontdesk
 frsn!@ppliance?
 Fruct3D3P@dur3
 fsaut01
@@ -1813,6 +1847,7 @@ geography
 george
 georgia
 gerda
+gerencia
 gerlinda
 german
 gerri
@@ -2016,6 +2051,7 @@ htdocs
 html
 htpd
 http
+HTTP
 http2
 httpd
 httpd2
@@ -2091,9 +2127,11 @@ ingres
 ingrid
 init
 install
+intel
 inter
 interior
 internet
+IntraStack
 intraweb
 invite
 INXBnQfC
@@ -2248,6 +2286,7 @@ joggler
 johanna
 johannes
 john
+jojan
 jojo
 Joker!3k
 jon
@@ -2351,6 +2390,7 @@ kenny
 kent
 kentr890
 kerli
+kermit
 kernel
 kernoops
 kerstin
@@ -2409,6 +2449,7 @@ Kunal
 kundan
 kuroiwa
 kurt
+kushal
 kutise
 kuulei97
 kwk2268
@@ -2424,6 +2465,7 @@ l3tsm@k3m0n3y
 L3X@Manag3r
 La23KSwe
 lab
+labor
 laboratory
 lacrimilepizdii
 lady
@@ -2486,6 +2528,7 @@ lillian
 lily
 limitado
 limoni
+limpa
 LimtrackVsnecsuS
 linda
 lindsey
@@ -2544,6 +2587,7 @@ lshora
 lu
 lu9729ujms
 lubeca
+lubos
 luc
 luca
 lucas
@@ -2634,6 +2678,7 @@ mantis6
 mantis7
 mantis8
 mantis9
+manuf
 mar
 marc
 marcela
@@ -2691,6 +2736,7 @@ mcedit
 mckenna
 mckey
 mcp3000**ca
+MDaemon
 mdb
 MDh0me15good
 me90an
@@ -2724,6 +2770,7 @@ mexal
 mf
 mfarmerr
 m.freedomail.com
+MGR
 #MgV?32>
 mia
 MiAlma1990
@@ -2757,6 +2804,7 @@ mingle
 minigee
 minigeee
 miniroot
+mira
 miracle
 miraz
 mirc32bibicu
@@ -2825,6 +2873,8 @@ msi
 msp
 msql
 msr
+mtch
+mtcl
 MTech_h@t202
 mtsadmin
 mu8tu?eF
@@ -2899,9 +2949,13 @@ net
 netdump
 neteco
 netinfo
+netlogon
+netman
+netrangr
 netstat
 netuser
 network
+NETWORK
 neu
 Nev3rG0nnaS4y
 nevada
@@ -2926,6 +2980,7 @@ nickname
 nico
 nicoara
 nicole
+NICONEX
 nicu
 niels
 nieves
@@ -2992,6 +3047,8 @@ office1
 officeinn
 offline
 oficce
+oficina
+oi-dev
 ok
 okshdtksanf
 oldrecoverkgdVG0J52
@@ -3003,6 +3060,7 @@ olivia
 olke
 omcuser
 omega
+ondra
 online
 oo
 open
@@ -3016,6 +3074,7 @@ operador
 operadors
 operations
 operator
+opmondb
 oprami4
 oprea
 oprofile
@@ -3111,6 +3170,7 @@ PAvtJJ4t
 Pa$$w0rd
 payment
 paypal
+PBX
 pc
 pc01
 pc02
@@ -3141,6 +3201,7 @@ peters
 petrilaspania1978
 peyton
 Pf0t3nw3g
+PFCUser
 P^$@FD49SD@#)_*^!
 pfeifer
 pferde
@@ -3182,6 +3243,7 @@ PlcmSpIp2
 plesk
 plesk-root
 plmplmplmde
+plugins
 pluntke
 pluto
 Pmarvel2009
@@ -3229,6 +3291,7 @@ pr0j3ct
 preist
 premium
 premix
+prensa
 present
 president
 press
@@ -3241,10 +3304,12 @@ processor
 product
 production
 professional
+professor
 profile
 programmer
 programs
 project
+projects
 promo
 protocol
 prova
@@ -3321,6 +3386,7 @@ ranjith
 raoul
 rapi
 raptor
+rashiya
 rasika
 ratan
 rate
@@ -3331,6 +3397,7 @@ raw
 razvan
 rbuth41
 RD6NJLFkExgi
+readonly
 reagan
 real
 rebecca
@@ -3353,6 +3420,7 @@ replica
 repos
 resim
 resin
+respaldos
 restart
 resume
 retsu
@@ -3390,6 +3458,7 @@ rocio
 rock
 rodica
 rodney
+rodrigo
 roger
 roland
 roller
@@ -3407,6 +3476,7 @@ root
 Root
 root01
 root1234psybnc
+root2
 root:20102010
 root@82.173.193.128
 rootkit
@@ -3477,6 +3547,7 @@ sandra
 sandy
 saned
 sanjay
+santosh
 sapdb
 sara
 sarah
@@ -3749,11 +3820,13 @@ sunos
 sunservice
 sunsun
 super
+superadmin
 superman
 supervisor
 suporte
 support
 support123
+suraj
 suriya
 surya
 susan
@@ -3779,6 +3852,7 @@ sys
 sysadm
 sysadmin
 syscheck
+SYSDBA
 syslog
 sysmanager
 sysmngr
@@ -3813,6 +3887,7 @@ teamspeak
 teamspeak3
 tear
 tech
+tech5i
 techiweb
 TECHNAcmo24
 technic
@@ -3896,6 +3971,7 @@ thijs
 thomas
 three
 thursday
+tiago
 tibero
 tiffany
 TiganilAFloriNTeleormaN
@@ -4056,6 +4132,7 @@ vbox
 vcs
 velma
 velvet
+vendas
 ventas
 vF7ioRC7
 vgmmgvblanco57
@@ -4092,12 +4169,14 @@ vmware
 vnc
 vnetoo@26server
 voice
+volition
 vova
 vpn
 vpsadmin
 vscan
 vsip123
 vsr7773
+vt100
 VuarFj8U
 vv
 vvip1
@@ -4105,6 +4184,7 @@ vvipri1
 vvipri2
 vwalker
 vyatta
+vyos
 VZUilm6vVcPf
 w
 W1nn1ETh3P00h
@@ -4206,6 +4286,7 @@ workshop
 worlddomination
 wormer112
 wp
+WP
 wrestling
 wrongp
 w@terloo19051954
