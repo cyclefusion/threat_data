@@ -27,13 +27,13 @@
     100 http://buhenge.com/z2
      96 http://185.63.253.93/.lu.pl
      80 http://202.202.121.27/bot.txt
-     69 http://buhenge.com/z4
+     70 http://buhenge.com/z4
+     63 http://buhenge.com/z5
      62 http://energybrands.eu/cata.txt
-     60 http://buhenge.com/z5
-     50 http://buhenge.com/z3
+     51 http://buhenge.com/z3
      50 http://188.212.103.234/private/auto/.xtkarmx
+     47 http://buhenge.com/z6
      45 http://23.234.60.140/install/8002
-     44 http://buhenge.com/z6
      31 http://23.234.60.140/install/8001
      31 http://188.212.103.234/private/auto/.xtki686x
      26 http://ftp.rxxiaoao.com/install/n8002.rar
@@ -54,7 +54,7 @@
      17 http://23.234.60.140/install/48513
      16 http://23.228.102.152:1818/bulong
      15 http://ftp.rxxiaoao.com/install/n8006.rar
-     14 http://23.234.60.140/install/8005
+     15 http://23.234.60.140/install/8005
      13 http://ftp.rxxiaoao.com/install/n8001.rar
      13 http://115.29.165.174:53621/ssh77
      12 http://buhenge.com/2821
@@ -80,6 +80,7 @@
       8 http://210.56.50.13:8080/npc
       8 http://106.185.24.106/4
       7 http://stanislaw.altervista.org/2.php
+      7 http://45.56.89.67/5
       6 http://94.102.63.155/res.html
       6 http://204.44.104.93:8080/iten64
       6 http://183.61.164.167:8018/12316
