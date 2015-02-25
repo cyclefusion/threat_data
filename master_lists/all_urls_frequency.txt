@@ -25,7 +25,7 @@
     175 http://buhenge.com/z1
     118 http://202.191.121.230/mzer.pl
     100 http://buhenge.com/z2
-     84 http://185.63.253.93/.lu.pl
+     96 http://185.63.253.93/.lu.pl
      80 http://202.202.121.27/bot.txt
      69 http://buhenge.com/z4
      62 http://energybrands.eu/cata.txt
@@ -41,14 +41,14 @@
      24 http://ftp.rxxiaoao.com/install/n8008.rar
      24 http://ftp.rxxiaoao.com/install/n8003.rar
      24 http://209.236.71.188/midx
+     24 http://178.33.196.164:53/
+     24 http://178.33.196.164:443/
+     24 http://178.33.196.164/
+     24 http://122.10.85.54/
      22 http://23.234.60.140/install/8007
      22 http://23.234.60.140/install/8003
      21 http://ftp.rxxiaoao.com/install/n8005.rar
      21 http://23.234.60.140/install/8004
-     21 http://178.33.196.164:53/
-     21 http://178.33.196.164:443/
-     21 http://178.33.196.164/
-     21 http://122.10.85.54/
      18 http://www.frade8c.com:9162/root
      18 http://23.234.60.140/install/8008
      17 http://23.234.60.140/install/48513
@@ -60,6 +60,8 @@
      12 http://buhenge.com/2821
      11 http://ftp.rxxiaoao.com/install/n8007.rar
      11 http://162.218.30.75:1818/ssh33
+     10 http://ctrlcenter.pw/iz/payw
+     10 http://ctrlcenter.pw/iz/payc
      10 http://23.234.60.140/install/8006
      10 http://204.44.104.93:8080/iten32
      10 http://106.185.24.106/5
@@ -78,8 +80,6 @@
       8 http://210.56.50.13:8080/npc
       8 http://106.185.24.106/4
       7 http://stanislaw.altervista.org/2.php
-      6 http://ctrlcenter.pw/iz/payw
-      6 http://ctrlcenter.pw/iz/payc
       6 http://94.102.63.155/res.html
       6 http://204.44.104.93:8080/iten64
       6 http://183.61.164.167:8018/12316
@@ -103,6 +103,7 @@
       4 http://115.239.248.55:8080/ssh88
       3 http://74.208.166.12/bot.txt
       3 http://217.160.204.156/bot.txt
+      3 http://185.63.253.93/.xtkarmx
       2 http://root-arhive.serveftp.com/scanner/gosh.jpg
       2 http://buhenge.com/p1
       2 http://buhenge.com/m1
@@ -151,7 +152,7 @@
       1 http://39.109.0.113:1111/TS64
       1 http://39.109.0.113:1111/666
       1 http://39.109.0.113:1111/32Mm
-      1 http://185.63.253.93/.xtkarmx
+      1 http://185.63.253.93/.xtki686x
       1 http://183.136.213.96:8090/10991'
       1 http://176.102.38.77/search/e.php?h=cloudemotions.com/cgi-sys/entropysearch.cgi'
       1 http://176.102.38.77/search/e.php?h=cloudemotions.com/cgi-bin/'
