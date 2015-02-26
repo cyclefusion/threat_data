@@ -153,7 +153,10 @@ http://ftp.rxxiaoao.com/install/n8006.rar
 http://ftp.rxxiaoao.com/install/n8007.rar
 http://ftp.rxxiaoao.com/install/n8008.rar
 http://root-arhive.serveftp.com/emech/system2.jpg
+http://root-arhive.serveftp.com/flood/global/udp.tgz
+http://root-arhive.serveftp.com/psybnc/psybnc-linux.jpg
 http://root-arhive.serveftp.com/scanner/gosh.jpg
+http://r.o.o.t.hi2.ro/private/psybnc.c
 http://stanislaw.altervista.org/2.php
 http://www.frade8c.com:9162/byv832
 http://www.frade8c.com:9162/fdsfsfvff

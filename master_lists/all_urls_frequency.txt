@@ -48,13 +48,13 @@
      22 http://23.234.60.140/install/8007
      22 http://23.234.60.140/install/8003
      21 http://ftp.rxxiaoao.com/install/n8005.rar
+     21 http://23.234.60.140/install/8005
      21 http://23.234.60.140/install/8004
      18 http://www.frade8c.com:9162/root
      18 http://23.234.60.140/install/8008
      17 http://23.234.60.140/install/48513
      16 http://23.228.102.152:1818/bulong
      15 http://ftp.rxxiaoao.com/install/n8006.rar
-     15 http://23.234.60.140/install/8005
      13 http://ftp.rxxiaoao.com/install/n8001.rar
      13 http://115.29.165.174:53621/ssh77
      12 http://buhenge.com/2821
@@ -81,13 +81,13 @@
       8 http://106.185.24.106/4
       7 http://stanislaw.altervista.org/2.php
       7 http://45.56.89.67/5
+      6 http://download.microsoft.com/download/win2000platform/SP/SP3/NT5/EN-US/W2Ksp3.exe
       6 http://94.102.63.155/res.html
       6 http://204.44.104.93:8080/iten64
       6 http://183.61.164.167:8018/12316
       6 http://124.115.16.31:8009/xqq
       6 http://100.42.30.34/lex
       5 http://23.234.60.140:8081/install/8007
-      4 http://download.microsoft.com/download/win2000platform/SP/SP3/NT5/EN-US/W2Ksp3.exe
       4 http://60.173.10.177:8080/14.17
       4 http://39.109.0.113:8520/eee
       4 http://39.109.0.113:1111/Mm
@@ -105,7 +105,10 @@
       3 http://74.208.166.12/bot.txt
       3 http://217.160.204.156/bot.txt
       3 http://185.63.253.93/.xtkarmx
+      2 http://r.o.o.t.hi2.ro/private/psybnc.c
       2 http://root-arhive.serveftp.com/scanner/gosh.jpg
+      2 http://root-arhive.serveftp.com/psybnc/psybnc-linux.jpg
+      2 http://root-arhive.serveftp.com/flood/global/udp.tgz
       2 http://buhenge.com/p1
       2 http://buhenge.com/m1
       2 http://buhenge.com/2836
