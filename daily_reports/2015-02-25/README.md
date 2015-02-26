@@ -12,22 +12,22 @@ FFB1 47C1 326E A063
 ### Summary
 
 Date: February 25, 2015  
-Total attacks today: 46835  
-Attempted Malware Downloads: 16 
+Total attacks today: 123974  
+Attempted Malware Downloads: 30 
 
 #### IP addresses
 The following are the top 10 attacker IP addresses today, including the frequency of usage:
 ```
-   2161 103.41.124.14
-   2073 103.41.124.103
-   2046 103.41.124.42
-   2046 103.41.124.35
-   1964 103.41.124.45
-   1899 103.41.124.40
-   1681 103.41.124.53
-   1620 103.41.124.102
-   1532 103.41.124.30
-   1503 103.41.124.51
+   5340 103.41.124.28
+   5271 103.41.124.14
+   5045 103.41.124.35
+   4700 103.41.124.12
+   4659 103.41.124.103
+   4002 103.41.124.104
+   3954 103.41.124.42
+   3929 103.41.124.101
+   3405 103.41.124.56
+   3281 103.41.124.45
 ```
 
 #### Attempted URL Downloads
@@ -39,52 +39,56 @@ http://buhenge.com/z3
 http://buhenge.com/z4
 http://buhenge.com/z5
 http://buhenge.com/z6
+http://download.microsoft.com/download/win2000platform/SP/SP3/NT5/EN-US/W2Ksp3.exe
+http://root-arhive.serveftp.com/flood/global/udp.tgz
+http://root-arhive.serveftp.com/psybnc/psybnc-linux.jpg
+http://r.o.o.t.hi2.ro/private/psybnc.c
 ```
 
 #### Passwords
 The following are the top 25 passwords today, including the frequency of usage:
 ```
-     74 password
-     73 raspberry
-     68 default
-     67 1234
-     64 admin
-     61 123456
-     49 root
-     49 changeme
-     49 12345678
-     44 root123
-     41 alpine
-     40 user
-     40 openelec
-     34 vyatta
-     32 administrator
-     32 123456789
-     29 1234567890
-     28 test
-     28 12345
-     26 aaron
-     25 PlcmSpIp
-     25 cisco
-     25 1234567
-     24 info
-     24 david
+    232 123456
+    153 password
+    150 123qwe
+    133 1234
+    125 admin
+    120 12345678
+    112 qwe123
+    108 raspberry
+    105 default
+     97 123456789
+     96 1q2w3e4r
+     87 12345
+     76 root
+     76 qwerty
+     72 ftp
+     62 test
+     62 changeme
+     60 root123
+     58 vyatta
+     57 1qaz2wsx
+     56 user
+     55 openelec
+     55 alpine
+     55 111111
+     54 1qaz
 ```
 
 #### Usernames
 The following are the top 3 usernames today, including the frequency of usage:
 ```
-  45400 root
-    160 admin
-     40 default
+ 119269 root
+    218 admin
+    126 postgres
 ```
 
 #### SSH Library Version
 The following are the top 5 SSH library versions today, including the frequency of usage:
 ```
-  14456 SSH-2.0-PUTTY
-   1102 SSH-2.0-libssh2_1.4.1
-    612 SSH-2.0-libssh-0.6.3
-    586 SSH-2.0-libssh-0.1
-    220 SSH-2.0-libssh2_1.4.3
+  38165 SSH-2.0-PUTTY
+   5191 SSH-2.0-libssh-0.1
+   1740 SSH-2.0-libssh2_1.4.1
+   1508 SSH-2.0-libssh-0.6.3
+    225 SSH-2.0-libssh2_1.4.3
 ```
