@@ -24,15 +24,15 @@
     186 http://61.218.226.170/
     175 http://buhenge.com/z1
     118 http://202.191.121.230/mzer.pl
-    100 http://buhenge.com/z2
+    102 http://buhenge.com/z2
      96 http://185.63.253.93/.lu.pl
      80 http://202.202.121.27/bot.txt
-     70 http://buhenge.com/z4
-     63 http://buhenge.com/z5
+     71 http://buhenge.com/z4
+     66 http://buhenge.com/z5
      62 http://energybrands.eu/cata.txt
-     51 http://buhenge.com/z3
+     52 http://buhenge.com/z3
      50 http://188.212.103.234/private/auto/.xtkarmx
-     47 http://buhenge.com/z6
+     48 http://buhenge.com/z6
      45 http://23.234.60.140/install/8002
      31 http://23.234.60.140/install/8001
      31 http://188.212.103.234/private/auto/.xtki686x
@@ -64,6 +64,7 @@
      10 http://ctrlcenter.pw/iz/payc
      10 http://23.234.60.140/install/8006
      10 http://204.44.104.93:8080/iten32
+     10 http://185.63.253.93/new
      10 http://106.185.24.106/5
       9 http://www.frade8c.com:9162/whitptabil
       9 http://www.frade8c.com:9162/smarvtd
