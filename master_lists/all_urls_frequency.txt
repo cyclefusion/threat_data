@@ -1,14 +1,14 @@
-  10070 http://219.135.56.219:9162/root
-   5035 http://219.135.56.219:9162/vrgshth
-   5035 http://219.135.56.219:9162/udevd
-   5035 http://219.135.56.219:9162/smarvtd
-   5035 http://219.135.56.219:9162/sjfedjr
-   5035 http://219.135.56.219:9162/rewgtf3er4t
-   5035 http://219.135.56.219:9162/nhgbhhj
-   5035 http://219.135.56.219:9162/jdhe
-   5035 http://219.135.56.219:9162/fdsfsfvff
-   5035 http://219.135.56.219:9162/dsgregd
-   5035 http://219.135.56.219:9162/byv832
+  10066 http://219.135.56.219:9162/root
+   5033 http://219.135.56.219:9162/vrgshth
+   5033 http://219.135.56.219:9162/udevd
+   5033 http://219.135.56.219:9162/smarvtd
+   5033 http://219.135.56.219:9162/sjfedjr
+   5033 http://219.135.56.219:9162/rewgtf3er4t
+   5033 http://219.135.56.219:9162/nhgbhhj
+   5033 http://219.135.56.219:9162/jdhe
+   5033 http://219.135.56.219:9162/fdsfsfvff
+   5033 http://219.135.56.219:9162/dsgregd
+   5033 http://219.135.56.219:9162/byv832
    1600 http://cs.frade8c.com:9162/root
     800 http://cs.frade8c.com:9162/vrgshth
     800 http://cs.frade8c.com:9162/udevd
@@ -24,13 +24,13 @@
     186 http://61.218.226.170/
     175 http://buhenge.com/z1
     118 http://202.191.121.230/mzer.pl
-    102 http://buhenge.com/z2
-     96 http://185.63.253.93/.lu.pl
+    105 http://185.63.253.93/.lu.pl
+    103 http://buhenge.com/z2
      80 http://202.202.121.27/bot.txt
      71 http://buhenge.com/z4
-     66 http://buhenge.com/z5
+     67 http://buhenge.com/z5
      62 http://energybrands.eu/cata.txt
-     52 http://buhenge.com/z3
+     53 http://buhenge.com/z3
      50 http://23.234.60.140/install/8002
      50 http://188.212.103.234/private/auto/.xtkarmx
      48 http://buhenge.com/z6
@@ -45,13 +45,13 @@
      24 http://ftp.rxxiaoao.com/install/n8008.rar
      24 http://ftp.rxxiaoao.com/install/n8003.rar
      24 http://209.236.71.188/midx
+     22 http://23.234.60.140/install/8008
      22 http://23.234.60.140/install/8007
      22 http://23.234.60.140/install/8003
      21 http://ftp.rxxiaoao.com/install/n8005.rar
      21 http://23.234.60.140/install/8005
      21 http://23.234.60.140/install/8004
      18 http://www.frade8c.com:9162/root
-     18 http://23.234.60.140/install/8008
      17 http://23.234.60.140/install/48513
      16 http://23.228.102.152:1818/bulong
      15 http://ftp.rxxiaoao.com/install/n8006.rar
