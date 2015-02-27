@@ -1,14 +1,14 @@
-2592188 SSH-2.0-PUTTY
-  93306 SSH-2.0-libssh2_1.4.2
-  68030 SSH-2.0-libssh-0.1
-  49635 SSH-2.0-libssh2_1.4.3
-  37882 SSH-2.0-libssh-0.6.3
-  25275 SSH-2.0-libssh2_1.4.1
-  17672 SSH-2.0-PuTTY_Release_0.63
-   8145 SSH-2.0-libssh-0.2
-   6966 SSH-2.0-JSCH-0.1.51
+2608785 SSH-2.0-PUTTY
+  93311 SSH-2.0-libssh2_1.4.2
+  70934 SSH-2.0-libssh-0.1
+  49820 SSH-2.0-libssh2_1.4.3
+  38882 SSH-2.0-libssh-0.6.3
+  25486 SSH-2.0-libssh2_1.4.1
+  17673 SSH-2.0-PuTTY_Release_0.63
+   8397 SSH-2.0-libssh-0.2
+   7008 SSH-2.0-JSCH-0.1.51
    6044 SSH-2.0-PuTTY_Release_0.63cn
-   5069 SSH-2.0-libssh-0.5.2
+   5811 SSH-2.0-libssh-0.5.2
    2074 SSH-2.0-PuTTY_Release_0.63cn3
    1578 SSH-2.0-libssh2_1.0
     869 SSH-2.0-Granados-1.0
@@ -17,13 +17,13 @@
     419 SSH-2.0-paramiko_1.8.1
     236 SSH-2.0-paramiko_1.7.5
     226 SSH-2.0-PuTTY_Release_0.62
-    214 SSH-2.0-libssh-0.6.0
+    226 SSH-2.0-libssh-0.6.0
     199 SSH-2.0-JSCH-0.1.44
     169 SSH-2.0-PuTTY_Local:_May_14_2009_21:12:18
     164 SSH-2.0-OpenSSH_5.2
     159 SSH-2.0-OpenSSH_6.2
     125 SSH-2.0-dropbear_0.47
-    118 SSH-2.0-OpenSSH_4.3
+    119 SSH-2.0-OpenSSH_4.3
     114 SSH-2.0-1.91
      95 SSH-2.0-paramiko_1.15.1
      95 SSH-2.0-OpenSSH_5.5p1
@@ -32,7 +32,7 @@
      67 SSH-2.0-paramiko_1.14.0
      53 SSH-2.0-libssh2_1.2.8
      51 SSH-2.0-paramiko_1.13.0
-     48 SSH-2.0-OpenSSH_3.9p1
+     49 SSH-2.0-OpenSSH_3.9p1
      48 SSH-1.99-3.2.9
      46 SSH-2.0-libssh-0.4.8
      30 SSH-2.0-libssh-0.6.1
@@ -55,6 +55,7 @@
       7 SSH-2.0-nsssh2_4.0.0031
       6 SSH-2.0-WinSCP_release_5.5.6
       6 SSH-2.0-libssh2_1.2.6
+      6 SSH-2.0-libssh-0.4.2
       5 SSH-2.0-WinSCP_release_5.5.3
       5 SSH-2.0-SecureCRT_7.3.1
       5 SSH-2.0-Nmap-SSH2-Hostkey
@@ -62,7 +63,6 @@
       4 SSH-2.0-OpenSSH_6.0p1
       3 SSH-2.0-libssh2_1.2.7
       3 SSH-2.0-libssh-0.5.0
-      3 SSH-2.0-libssh-0.4.2
       2 SSH-2.0-WinSCP_release_5.1.4
       2 SSH-2.0-PuTTY_Local:_Jul_11_2013_01:54:07
       2 SSH-2.0-OpenSSH_5.3

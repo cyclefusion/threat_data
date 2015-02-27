@@ -31,20 +31,20 @@
      66 http://buhenge.com/z5
      62 http://energybrands.eu/cata.txt
      52 http://buhenge.com/z3
+     50 http://23.234.60.140/install/8002
      50 http://188.212.103.234/private/auto/.xtkarmx
      48 http://buhenge.com/z6
-     45 http://23.234.60.140/install/8002
      31 http://23.234.60.140/install/8001
      31 http://188.212.103.234/private/auto/.xtki686x
+     27 http://178.33.196.164:53/
+     27 http://178.33.196.164:443/
+     27 http://178.33.196.164/
+     27 http://122.10.85.54/
      26 http://ftp.rxxiaoao.com/install/n8002.rar
      26 http://ftp.rxxiaoao.com/install/n8000.rar
      24 http://ftp.rxxiaoao.com/install/n8008.rar
      24 http://ftp.rxxiaoao.com/install/n8003.rar
      24 http://209.236.71.188/midx
-     24 http://178.33.196.164:53/
-     24 http://178.33.196.164:443/
-     24 http://178.33.196.164/
-     24 http://122.10.85.54/
      22 http://23.234.60.140/install/8007
      22 http://23.234.60.140/install/8003
      21 http://ftp.rxxiaoao.com/install/n8005.rar
