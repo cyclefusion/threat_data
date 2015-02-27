@@ -12,30 +12,35 @@ FFB1 47C1 326E A063
 ### Summary
 
 Date: February 26, 2015  
-Total attacks today: 55485  
-Attempted Malware Downloads: 20 
+Total attacks today: 109102  
+Attempted Malware Downloads: 37 
 
 #### IP addresses
 The following are the top 10 attacker IP addresses today, including the frequency of usage:
 ```
-   3657 103.41.124.19
+   5705 103.41.124.19
+   3781 103.41.124.27
    3303 103.41.124.113
-   2295 103.41.124.54
-   2291 209.235.35.149
-   2181 103.41.124.28
-   1916 103.41.124.25
-   1861 103.41.124.66
-   1773 103.41.124.111
-   1690 103.41.124.27
-   1467 103.41.124.48
+   3261 103.41.124.52
+   3220 103.41.124.45
+   2997 103.41.124.54
+   2818 103.41.124.34
+   2676 103.41.124.38
+   2667 103.41.124.49
+   2653 103.41.124.16
 ```
 
 #### Attempted URL Downloads
 The following are URLs attackers attempted to download and execute once they compromising a honeypot sensor:
 ```
+http://122.10.85.54/
+http://178.33.196.164/
+http://178.33.196.164:443/
+http://178.33.196.164:53/
 http://185.63.253.93/.lu.pl
 http://185.63.253.93/new
 http://188.212.103.234/private/auto/.xtkarmx
+http://23.234.60.140/install/8002
 http://buhenge.com/z2
 http://buhenge.com/z3
 http://buhenge.com/z4
@@ -46,47 +51,47 @@ http://buhenge.com/z6
 #### Passwords
 The following are the top 25 passwords today, including the frequency of usage:
 ```
-   5732 root
-    305 123456
-    166 password
-    128 
-    123 123
-     64 1234
-     58 admin
-     53 123qwe
-     53 12345678
-     43 user
-     43 raspberry
-     43 changeme
-     40 root123
-     39 test
-     39 qwe123
-     39 1q2w3e4r
-     37 12345
-     36 qwerty
-     34 oracle
-     32 -
-     31 default
-     27 abc123
-     27 123456789
-     24 alpine
-     23 openelec
+  14327 root
+    406 123456
+    251 password
+    193 123
+    179 
+     88 test
+     85 oracle
+     85 1234
+     81 admin
+     73 user
+     66 12345678
+     63 backup
+     62 12345
+     61 qwerty
+     55 qwe123
+     55 123qwe
+     53 raspberry
+     53 changeme
+     52 123456789
+     50 -
+     49 default
+     46 root123
+     46 info
+     46 download
+     43 1q2w3e4r
 ```
 
 #### Usernames
 The following are the top 3 usernames today, including the frequency of usage:
 ```
-  52315 root
-    203 admin
-    118 oracle
+ 103843 root
+    248 admin
+    177 oracle
 ```
 
 #### SSH Library Version
 The following are the top 5 SSH library versions today, including the frequency of usage:
 ```
-  16273 SSH-2.0-PUTTY
-   3367 SSH-2.0-libssh-0.1
-    604 SSH-2.0-libssh-0.5.2
-    564 SSH-2.0-libssh2_1.4.1
-    455 SSH-2.0-libssh-0.6.3
+  32789 SSH-2.0-PUTTY
+   5941 SSH-2.0-libssh-0.1
+   1309 SSH-2.0-libssh-0.6.3
+    749 SSH-2.0-libssh2_1.4.1
+    730 SSH-2.0-libssh-0.5.2
 ```
