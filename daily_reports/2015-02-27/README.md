@@ -12,22 +12,22 @@ FFB1 47C1 326E A063
 ### Summary
 
 Date: February 27, 2015  
-Total attacks today: 82041  
-Attempted Malware Downloads: 20 
+Total attacks today: 166030  
+Attempted Malware Downloads: 43 
 
 #### IP addresses
 The following are the top 10 attacker IP addresses today, including the frequency of usage:
 ```
-   5304 103.41.124.25
-   4941 103.41.124.52
-   4910 103.41.124.20
-   4806 103.41.124.36
-   4116 103.41.124.58
-   3966 103.41.124.113
-   3849 103.41.124.30
-   3366 103.41.124.17
-   2727 103.41.124.27
-   2634 103.41.124.62
+   8322 103.41.124.52
+   8318 103.41.124.36
+   6594 103.41.124.25
+   6438 103.41.124.113
+   6402 103.41.124.49
+   6242 103.41.124.47
+   6041 103.41.124.40
+   5413 103.41.124.50
+   5411 103.41.124.20
+   5385 103.41.124.30
 ```
 
 #### Attempted URL Downloads
@@ -39,6 +39,7 @@ http://178.33.196.164:443/
 http://178.33.196.164:53/
 http://185.63.253.93/.lu.pl
 http://23.234.60.140/install/8008
+http://68.64.167.10/4
 http://buhenge.com/z2
 http://buhenge.com/z3
 http://buhenge.com/z5
@@ -47,47 +48,47 @@ http://buhenge.com/z5
 #### Passwords
 The following are the top 25 passwords today, including the frequency of usage:
 ```
-  11982 root
-    215 admin
-    153 123456
-     78 123qwe
-     72 1q2w3e4r
+  26104 root
+    228 admin
+    171 123456
+     83 123qwe
+     74 1q2w3e4r
      70 qwe123
-     48 password
-     42 default
-     40 1234
-     38 12345678
-     36 test
-     32 guest
-     29 qwerty
-     25 scholly
-     25 schneide
-     25 schnee
-     25 schnauze
-     25 schnarf
-     25 schmutz
-     25 schmulka
-     25 schmukka
-     25 schmooze
-     25 schmoops
-     25 schmoo1
-     25 schmo
+     63 test
+     60 qwerty
+     58 guest
+     58 123456789
+     55 password
+     46 default
+     46 12345678
+     43 1234
+     39 games
+     36 a
+     35 oracle
+     35 12345
+     33 unknown9
+     33 postgres
+     29 changeme
+     27 rootme
+     27 administrator
+     26 powerpc
+     26 nomore532
 ```
 
 #### Usernames
 The following are the top 3 usernames today, including the frequency of usage:
 ```
-  79706 root
-    739 admin
-     69 test
+ 162950 root
+    753 admin
+     99 test
 ```
 
 #### SSH Library Version
 The following are the top 5 SSH library versions today, including the frequency of usage:
 ```
-  25875 SSH-2.0-PUTTY
-   1733 SSH-2.0-libssh-0.1
-    618 SSH-2.0-libssh-0.5.2
-    521 SSH-2.0-libssh2_1.4.3
-    427 SSH-2.0-libssh2_1.4.1
+  53039 SSH-2.0-PUTTY
+   2310 SSH-2.0-libssh-0.1
+   1426 SSH-2.0-libssh-0.6.3
+   1032 SSH-2.0-libssh2_1.4.3
+    687 SSH-2.0-libssh-0.5.2
 ```
