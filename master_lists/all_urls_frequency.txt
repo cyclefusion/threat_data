@@ -23,29 +23,29 @@
     488 http://202.191.121.230/ou.pl
     186 http://61.218.226.170/
     175 http://buhenge.com/z1
-    118 http://202.191.121.230/mzer.pl
+    120 http://202.191.121.230/mzer.pl
     105 http://185.63.253.93/.lu.pl
     103 http://buhenge.com/z2
      80 http://202.202.121.27/bot.txt
      71 http://buhenge.com/z4
      67 http://buhenge.com/z5
      62 http://energybrands.eu/cata.txt
-     53 http://buhenge.com/z3
+     55 http://buhenge.com/z3
      50 http://23.234.60.140/install/8002
      50 http://188.212.103.234/private/auto/.xtkarmx
      48 http://buhenge.com/z6
      31 http://23.234.60.140/install/8001
      31 http://188.212.103.234/private/auto/.xtki686x
-     27 http://178.33.196.164:53/
-     27 http://178.33.196.164:443/
-     27 http://178.33.196.164/
-     27 http://122.10.85.54/
+     30 http://23.234.60.140/install/8008
+     30 http://178.33.196.164:53/
+     30 http://178.33.196.164:443/
+     30 http://178.33.196.164/
+     30 http://122.10.85.54/
      26 http://ftp.rxxiaoao.com/install/n8002.rar
      26 http://ftp.rxxiaoao.com/install/n8000.rar
      24 http://ftp.rxxiaoao.com/install/n8008.rar
      24 http://ftp.rxxiaoao.com/install/n8003.rar
      24 http://209.236.71.188/midx
-     22 http://23.234.60.140/install/8008
      22 http://23.234.60.140/install/8007
      22 http://23.234.60.140/install/8003
      21 http://ftp.rxxiaoao.com/install/n8005.rar
@@ -152,6 +152,7 @@
       2 http://104.194.20.23:8080/2222
       1 http://www.majestic12.co.uk/bot.php?+)
       1 http://98.126.15.42:88/escds
+      1 http://68.64.167.10/4
       1 http://39.109.0.113:8520/jj
       1 http://39.109.0.113:8520/33mm
       1 http://39.109.0.113:1111/TS64
