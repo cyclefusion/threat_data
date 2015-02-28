@@ -22,19 +22,19 @@
     800 http://cs.frade8c.com:9162/byv832
     488 http://202.191.121.230/ou.pl
     186 http://61.218.226.170/
-    175 http://buhenge.com/z1
+    176 http://buhenge.com/z1
     120 http://202.191.121.230/mzer.pl
+    105 http://buhenge.com/z2
     105 http://185.63.253.93/.lu.pl
-    103 http://buhenge.com/z2
      80 http://202.202.121.27/bot.txt
-     71 http://buhenge.com/z4
-     67 http://buhenge.com/z5
+     72 http://buhenge.com/z4
+     68 http://buhenge.com/z5
      62 http://energybrands.eu/cata.txt
      55 http://buhenge.com/z3
      50 http://23.234.60.140/install/8002
      50 http://188.212.103.234/private/auto/.xtkarmx
      48 http://buhenge.com/z6
-     31 http://23.234.60.140/install/8001
+     39 http://23.234.60.140/install/8001
      31 http://188.212.103.234/private/auto/.xtki686x
      30 http://23.234.60.140/install/8008
      30 http://178.33.196.164:53/
@@ -110,6 +110,8 @@
       2 http://root-arhive.serveftp.com/scanner/gosh.jpg
       2 http://root-arhive.serveftp.com/psybnc/psybnc-linux.jpg
       2 http://root-arhive.serveftp.com/flood/global/udp.tgz
+      2 http://moe.psybnc.org/Moe.tar.gz
+      2 http://dldir1.qq.com/qqfile/qq/QQ6.3/12390/QQ6.3.exe
       2 http://buhenge.com/p1
       2 http://buhenge.com/m1
       2 http://buhenge.com/2836

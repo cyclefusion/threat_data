@@ -144,6 +144,7 @@ http://cs.frade8c.com:9162/udevd
 http://cs.frade8c.com:9162/vrgshth
 http://ctrlcenter.pw/iz/payc
 http://ctrlcenter.pw/iz/payw
+http://dldir1.qq.com/qqfile/qq/QQ6.3/12390/QQ6.3.exe
 http://download.microsoft.com/download/win2000platform/SP/SP3/NT5/EN-US/W2Ksp3.exe
 http://energybrands.eu/cata.txt
 http://ftp.rxxiaoao.com/install/n8000.rar
@@ -154,6 +155,7 @@ http://ftp.rxxiaoao.com/install/n8005.rar
 http://ftp.rxxiaoao.com/install/n8006.rar
 http://ftp.rxxiaoao.com/install/n8007.rar
 http://ftp.rxxiaoao.com/install/n8008.rar
+http://moe.psybnc.org/Moe.tar.gz
 http://root-arhive.serveftp.com/emech/system2.jpg
 http://root-arhive.serveftp.com/flood/global/udp.tgz
 http://root-arhive.serveftp.com/psybnc/psybnc-linux.jpg
