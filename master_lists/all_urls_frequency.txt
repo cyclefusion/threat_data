@@ -35,12 +35,12 @@
      50 http://188.212.103.234/private/auto/.xtkarmx
      48 http://buhenge.com/z6
      39 http://23.234.60.140/install/8001
+     33 http://178.33.196.164:53/
+     33 http://178.33.196.164:443/
+     33 http://178.33.196.164/
+     33 http://122.10.85.54/
      31 http://188.212.103.234/private/auto/.xtki686x
      30 http://23.234.60.140/install/8008
-     30 http://178.33.196.164:53/
-     30 http://178.33.196.164:443/
-     30 http://178.33.196.164/
-     30 http://122.10.85.54/
      26 http://ftp.rxxiaoao.com/install/n8002.rar
      26 http://ftp.rxxiaoao.com/install/n8000.rar
      24 http://ftp.rxxiaoao.com/install/n8008.rar
@@ -106,6 +106,10 @@
       3 http://74.208.166.12/bot.txt
       3 http://217.160.204.156/bot.txt
       3 http://185.63.253.93/.xtkarmx
+      2 http://wget.clan.su/v.txt>
+      2 http://wget.clan.su/v.txt
+      2 http://wget.clan.su/moe.tar.gz>
+      2 http://wget.clan.su/moe.tar.gz
       2 http://r.o.o.t.hi2.ro/private/psybnc.c
       2 http://root-arhive.serveftp.com/scanner/gosh.jpg
       2 http://root-arhive.serveftp.com/psybnc/psybnc-linux.jpg
@@ -153,6 +157,8 @@
       2 http://115.239.248.55:8080/sshd
       2 http://104.194.20.23:8080/2222
       1 http://www.majestic12.co.uk/bot.php?+)
+      1 http://wget.clan.su/v.txt)
+      1 http://wget.clan.su/moe.tar.gz)
       1 http://98.126.15.42:88/escds
       1 http://68.64.167.10/4
       1 http://39.109.0.113:8520/jj
