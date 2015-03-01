@@ -24,16 +24,16 @@
     186 http://61.218.226.170/
     176 http://buhenge.com/z1
     120 http://202.191.121.230/mzer.pl
-    105 http://buhenge.com/z2
+    106 http://buhenge.com/z2
     105 http://185.63.253.93/.lu.pl
      80 http://202.202.121.27/bot.txt
-     72 http://buhenge.com/z4
+     75 http://buhenge.com/z4
      68 http://buhenge.com/z5
      62 http://energybrands.eu/cata.txt
      55 http://buhenge.com/z3
      50 http://23.234.60.140/install/8002
      50 http://188.212.103.234/private/auto/.xtkarmx
-     48 http://buhenge.com/z6
+     49 http://buhenge.com/z6
      39 http://23.234.60.140/install/8001
      33 http://178.33.196.164:53/
      33 http://178.33.196.164:443/
@@ -51,6 +51,7 @@
      21 http://ftp.rxxiaoao.com/install/n8005.rar
      21 http://23.234.60.140/install/8005
      21 http://23.234.60.140/install/8004
+     19 http://23.234.60.140/install/8000
      18 http://www.frade8c.com:9162/root
      17 http://23.234.60.140/install/48513
      16 http://23.228.102.152:1818/bulong
@@ -58,6 +59,7 @@
      13 http://ftp.rxxiaoao.com/install/n8001.rar
      13 http://115.29.165.174:53621/ssh77
      12 http://buhenge.com/2821
+     12 http://45.56.89.67/5
      11 http://ftp.rxxiaoao.com/install/n8007.rar
      11 http://162.218.30.75:1818/ssh33
      10 http://ctrlcenter.pw/iz/payw
@@ -76,12 +78,11 @@
       9 http://www.frade8c.com:9162/gdmorpen
       9 http://www.frade8c.com:9162/fdsfsfvff
       9 http://www.frade8c.com:9162/byv832
-      9 http://23.234.60.140/install/8000
       8 http://root-arhive.serveftp.com/emech/system2.jpg
+      8 http://93.184.66.196/.ztx.pl
       8 http://210.56.50.13:8080/npc
       8 http://106.185.24.106/4
       7 http://stanislaw.altervista.org/2.php
-      7 http://45.56.89.67/5
       6 http://download.microsoft.com/download/win2000platform/SP/SP3/NT5/EN-US/W2Ksp3.exe
       6 http://94.102.63.155/res.html
       6 http://204.44.104.93:8080/iten64
@@ -104,7 +105,6 @@
       4 http://115.29.165.174:38886/ssh77
       4 http://115.239.248.55:8080/ssh88
       3 http://74.208.166.12/bot.txt
-      3 http://217.160.204.156/bot.txt
       3 http://185.63.253.93/.xtkarmx
       2 http://wget.clan.su/v.txt>
       2 http://wget.clan.su/v.txt
@@ -130,6 +130,7 @@
       2 http://222.186.31.73:8123/.azui
       2 http://222.186.31.11:60/lan2.6
       2 http://218.75.153.137:8080/lin32
+      2 http://217.160.204.156/bot.txt
       2 http://216.99.156.165:6597/.azui
       2 http://210.77.96.165:1111/linux-mips
       2 http://210.77.96.165:1111/linux-arm
