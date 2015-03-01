@@ -12,27 +12,31 @@ FFB1 47C1 326E A063
 ### Summary
 
 Date: February 28, 2015  
-Total attacks today: 121875  
-Attempted Malware Downloads: 17 
+Total attacks today: 237290  
+Attempted Malware Downloads: 39 
 
 #### IP addresses
 The following are the top 10 attacker IP addresses today, including the frequency of usage:
 ```
-   6597 103.41.124.63
-   5488 103.41.124.13
-   4902 103.41.124.112
-   4827 103.41.124.113
-   4689 103.41.124.29
-   4361 103.41.124.44
-   4164 103.41.124.17
-   3933 103.41.124.104
-   3560 103.41.124.20
-   3457 103.41.124.34
+   9675 103.41.124.63
+   8100 103.41.124.40
+   7555 103.41.124.13
+   7443 103.41.124.113
+   6735 103.41.124.33
+   6678 103.41.124.17
+   6393 103.41.124.112
+   5251 103.41.124.45
+   5218 103.41.124.29
+   5206 103.41.124.104
 ```
 
 #### Attempted URL Downloads
 The following are URLs attackers attempted to download and execute once they compromising a honeypot sensor:
 ```
+http://122.10.85.54/
+http://178.33.196.164/
+http://178.33.196.164:443/
+http://178.33.196.164:53/
 http://23.234.60.140/install/8001
 http://buhenge.com/z1
 http://buhenge.com/z2
@@ -40,52 +44,58 @@ http://buhenge.com/z4
 http://buhenge.com/z5
 http://dldir1.qq.com/qqfile/qq/QQ6.3/12390/QQ6.3.exe
 http://moe.psybnc.org/Moe.tar.gz
+http://wget.clan.su/moe.tar.gz
+http://wget.clan.su/moe.tar.gz>
+http://wget.clan.su/moe.tar.gz)
+http://wget.clan.su/v.txt
+http://wget.clan.su/v.txt>
+http://wget.clan.su/v.txt)
 ```
 
 #### Passwords
 The following are the top 25 passwords today, including the frequency of usage:
 ```
-  18460 root
-    120 123456
+  38052 root
+    148 123456
+    111 
+     95 test
      83 1q2w3e4r
-     80 123qwe
+     81 123qwe
      73 qwe123
-     70 
-     47 test
-     29 curca
-     29 cupery
-     29 cupcakes
-     29 cupboard
-     29 cumes
-     29 culwick
-     29 culibra
-     29 culango
-     29 cubil
-     29 cuartel
-     29 csmith
-     29 crumplin
-     29 crumes
-     29 cruez
-     29 crotta
-     29 crombach
-     29 croffie
-     29 cristia
+     71 guest
+     63 password
+     61 games
+     45 qwerty
+     45 admin
+     40 default
+     39 curca
+     39 cupery
+     39 cupcakes
+     39 cupboard
+     39 cumes
+     39 culwick
+     39 culibra
+     39 culango
+     39 cubil
+     39 cuartel
+     39 csmith
+     39 crumplin
 ```
 
 #### Usernames
 The following are the top 3 usernames today, including the frequency of usage:
 ```
- 119938 root
-     82 postgres
-     68 oracle
+ 233918 root
+    383 admin
+    149 oracle
 ```
 
 #### SSH Library Version
 The following are the top 5 SSH library versions today, including the frequency of usage:
 ```
-  39046 SSH-2.0-PUTTY
-   2474 SSH-2.0-libssh-0.1
-    842 SSH-2.0-libssh-0.6.3
-    342 SSH-2.0-libssh2_1.4.3
-    213 SSH-2.0-libssh-0.5.2
+  76495 SSH-2.0-PUTTY
+   4657 SSH-2.0-libssh-0.1
+   2000 SSH-2.0-libssh-0.6.3
+    389 SSH-2.0-libssh2_1.4.3
+    257 SSH-2.0-libssh2_1.4.1
 ```
