@@ -12,6 +12,7 @@ SSH-2.0-OpenSSH_3.9p1
 SSH-2.0-OpenSSH_4.3
 SSH-2.0-paramiko_1.15.2
 SSH-2.0-PUTTY
+SSH-2.0-PuTTY_Release_0.60
 SSH-2.0-PuTTY_Release_0.63
 SSH-2.0-PuTTY_Release_0.63cn3
 SSH-2.0-Renci.SshNet.SshClient.0.0.1

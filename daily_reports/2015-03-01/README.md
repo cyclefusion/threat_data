@@ -12,22 +12,22 @@ FFB1 47C1 326E A063
 ### Summary
 
 Date: March 01, 2015  
-Total attacks today: 100041  
-Attempted Malware Downloads: 28 
+Total attacks today: 140206  
+Attempted Malware Downloads: 29 
 
 #### IP addresses
 The following are the top 10 attacker IP addresses today, including the frequency of usage:
 ```
-   4933 103.41.124.52
-   4927 103.41.124.37
-   4411 103.41.124.55
+   5946 103.41.124.52
+   5257 103.41.124.37
+   4419 103.41.124.55
+   4341 103.41.124.48
+   4261 103.41.124.32
+   3895 103.41.124.30
    3667 103.41.124.65
-   3600 103.41.124.48
-   3340 103.41.124.30
-   3088 103.41.124.36
-   3060 103.41.124.13
-   3058 103.41.124.32
-   2939 103.41.124.27
+   3603 103.41.124.36
+   3513 103.41.124.27
+   3468 103.41.124.61
 ```
 
 #### Attempted URL Downloads
@@ -44,47 +44,47 @@ http://buhenge.com/z6
 #### Passwords
 The following are the top 25 passwords today, including the frequency of usage:
 ```
-   9540 root
-    106 123456
-     88 
-     44 123qwe
-     41 test
-     40 -
-     35 qwe123
-     35 1q2w3e4r
-     27 www-data;data-www
-     27 web-pass
-     27 uandme
-     27 twingo
-     27 Tuscany
-     27 Turkish
-     27 tumelo
-     27 tumadre
-     27 tulip
-     27 tttttttttt
-     27 tsadmin123
-     27 trueblood
-     27 trivium
-     27 tribes
-     27 trees
-     27 trade123
-     27 tracy1
+  16124 root
+    284 123456
+    119 test
+    102 password
+    100 123qwe
+     89 
+     83 123
+     78 admin
+     73 1q2w3e4r
+     72 guest
+     69 qwe123
+     65 12345
+     64 games
+     60 qwerty
+     49 1234
+     47 ftpuser
+     45 ubuntu
+     41 -
+     35 1
+     34 nagios
+     33 oracle
+     32 www
+     30 tester
+     29 a
+     28 n0acc3ss
 ```
 
 #### Usernames
 The following are the top 3 usernames today, including the frequency of usage:
 ```
-  98735 root
-     73 test
-     66 ubuntu
+ 136407 root
+    191 test
+     99 admin
 ```
 
 #### SSH Library Version
 The following are the top 5 SSH library versions today, including the frequency of usage:
 ```
-  32025 SSH-2.0-PUTTY
-   1718 SSH-2.0-libssh-0.1
-   1413 SSH-2.0-libssh-0.6.3
-    427 SSH-2.0-libssh2_1.4.3
-    181 SSH-2.0-libssh-0.2
+  44437 SSH-2.0-PUTTY
+   4627 SSH-2.0-libssh-0.1
+   1571 SSH-2.0-libssh-0.6.3
+    553 SSH-2.0-libssh-0.2
+    531 SSH-2.0-libssh2_1.4.3
 ```
