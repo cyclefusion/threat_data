@@ -22,18 +22,17 @@
     800 http://cs.frade8c.com:9162/byv832
     488 http://202.191.121.230/ou.pl
     186 http://61.218.226.170/
-    176 http://buhenge.com/z1
+    177 http://buhenge.com/z1
     120 http://202.191.121.230/mzer.pl
-    106 http://buhenge.com/z2
+    108 http://buhenge.com/z2
     105 http://185.63.253.93/.lu.pl
      80 http://202.202.121.27/bot.txt
-     75 http://buhenge.com/z4
+     76 http://buhenge.com/z4
      68 http://buhenge.com/z5
-     62 http://energybrands.eu/cata.txt
-     55 http://buhenge.com/z3
+     57 http://buhenge.com/z3
+     50 http://buhenge.com/z6
      50 http://23.234.60.140/install/8002
      50 http://188.212.103.234/private/auto/.xtkarmx
-     49 http://buhenge.com/z6
      39 http://23.234.60.140/install/8001
      33 http://178.33.196.164:53/
      33 http://178.33.196.164:443/
@@ -60,6 +59,7 @@
      13 http://115.29.165.174:53621/ssh77
      12 http://buhenge.com/2821
      12 http://45.56.89.67/5
+     12 http://151.236.44.210/ft.exe
      11 http://ftp.rxxiaoao.com/install/n8007.rar
      11 http://162.218.30.75:1818/ssh33
      10 http://ctrlcenter.pw/iz/payw
@@ -130,7 +130,6 @@
       2 http://222.186.31.73:8123/.azui
       2 http://222.186.31.11:60/lan2.6
       2 http://218.75.153.137:8080/lin32
-      2 http://217.160.204.156/bot.txt
       2 http://216.99.156.165:6597/.azui
       2 http://210.77.96.165:1111/linux-mips
       2 http://210.77.96.165:1111/linux-arm
