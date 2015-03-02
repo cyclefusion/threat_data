@@ -51,7 +51,7 @@
      21 http://ftp.rxxiaoao.com/install/n8005.rar
      21 http://23.234.60.140/install/8005
      21 http://23.234.60.140/install/8004
-     19 http://23.234.60.140/install/8000
+     20 http://23.234.60.140/install/8000
      18 http://www.frade8c.com:9162/root
      17 http://23.234.60.140/install/48513
      16 http://23.228.102.152:1818/bulong
