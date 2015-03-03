@@ -42,11 +42,11 @@
      30 http://23.234.60.140/install/8008
      26 http://ftp.rxxiaoao.com/install/n8002.rar
      26 http://ftp.rxxiaoao.com/install/n8000.rar
+     25 http://23.234.60.140/install/8003
      24 http://ftp.rxxiaoao.com/install/n8008.rar
      24 http://ftp.rxxiaoao.com/install/n8003.rar
      24 http://209.236.71.188/midx
      22 http://23.234.60.140/install/8007
-     22 http://23.234.60.140/install/8003
      21 http://ftp.rxxiaoao.com/install/n8005.rar
      21 http://23.234.60.140/install/8005
      21 http://23.234.60.140/install/8004
