@@ -24,14 +24,14 @@
     186 http://61.218.226.170/
     177 http://buhenge.com/z1
     120 http://202.191.121.230/mzer.pl
-    108 http://buhenge.com/z2
-    105 http://185.63.253.93/.lu.pl
+    109 http://buhenge.com/z2
+    109 http://185.63.253.93/.lu.pl
      80 http://202.202.121.27/bot.txt
-     76 http://buhenge.com/z4
-     68 http://buhenge.com/z5
+     77 http://buhenge.com/z4
+     70 http://buhenge.com/z5
+     60 http://23.234.60.140/install/8002
      57 http://buhenge.com/z3
-     50 http://buhenge.com/z6
-     50 http://23.234.60.140/install/8002
+     52 http://buhenge.com/z6
      50 http://188.212.103.234/private/auto/.xtkarmx
      39 http://23.234.60.140/install/8001
      33 http://178.33.196.164:53/
@@ -54,12 +54,12 @@
      18 http://www.frade8c.com:9162/root
      17 http://23.234.60.140/install/48513
      16 http://23.228.102.152:1818/bulong
+     16 http://151.236.44.210/ft.exe
      15 http://ftp.rxxiaoao.com/install/n8006.rar
      13 http://ftp.rxxiaoao.com/install/n8001.rar
+     13 http://45.56.89.67/5
      13 http://115.29.165.174:53621/ssh77
      12 http://buhenge.com/2821
-     12 http://45.56.89.67/5
-     12 http://151.236.44.210/ft.exe
      11 http://ftp.rxxiaoao.com/install/n8007.rar
      11 http://162.218.30.75:1818/ssh33
      10 http://ctrlcenter.pw/iz/payw
@@ -83,6 +83,7 @@
       8 http://210.56.50.13:8080/npc
       8 http://106.185.24.106/4
       7 http://stanislaw.altervista.org/2.php
+      7 http://185.63.253.93/.xtkarmx
       6 http://download.microsoft.com/download/win2000platform/SP/SP3/NT5/EN-US/W2Ksp3.exe
       6 http://94.102.63.155/res.html
       6 http://204.44.104.93:8080/iten64
@@ -94,6 +95,8 @@
       4 http://39.109.0.113:8520/eee
       4 http://39.109.0.113:1111/Mm
       4 http://23.234.60.140:8081/install/8006
+      4 http://218.244.148.238:8080/npc1
+      4 http://218.244.148.238:8080/npc
       4 http://210.56.50.13:8080/bin.sh
       4 http://204.44.104.93:8080/npc
       4 http://204.44.104.93:8080/lin32
@@ -105,7 +108,6 @@
       4 http://115.29.165.174:38886/ssh77
       4 http://115.239.248.55:8080/ssh88
       3 http://74.208.166.12/bot.txt
-      3 http://185.63.253.93/.xtkarmx
       2 http://wget.clan.su/v.txt>
       2 http://wget.clan.su/v.txt
       2 http://wget.clan.su/moe.tar.gz>
@@ -130,6 +132,7 @@
       2 http://222.186.31.73:8123/.azui
       2 http://222.186.31.11:60/lan2.6
       2 http://218.75.153.137:8080/lin32
+      2 http://218.244.148.238:8080/bin.sh
       2 http://216.99.156.165:6597/.azui
       2 http://210.77.96.165:1111/linux-mips
       2 http://210.77.96.165:1111/linux-arm
@@ -166,6 +169,7 @@
       1 http://39.109.0.113:1111/TS64
       1 http://39.109.0.113:1111/666
       1 http://39.109.0.113:1111/32Mm
+      1 http://23.234.60.140/install/8002]
       1 http://185.63.253.93/.xtki686x
       1 http://183.136.213.96:8090/10991'
       1 http://176.102.38.77/search/e.php?h=cloudemotions.com/cgi-sys/entropysearch.cgi'
