@@ -1,0 +1,4 @@
+http://23.234.60.140/install/8003
+http://93.174.93.45/ktx-mipsel
+http://93.174.93.45/mips-ktx
+http://buhenge.com/z1
