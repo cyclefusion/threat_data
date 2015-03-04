@@ -12,22 +12,22 @@ FFB1 47C1 326E A063
 ### Summary
 
 Date: March 03, 2015  
-Total attacks today: 60257  
-Attempted Malware Downloads: 36 
+Total attacks today: 137566  
+Attempted Malware Downloads: 40 
 
 #### IP addresses
 The following are the top 10 attacker IP addresses today, including the frequency of usage:
 ```
-   2595 103.41.124.21
-   2244 103.41.124.41
-   2239 103.41.124.36
-   1961 103.41.124.61
-   1865 103.41.124.112
-   1700 64.34.169.223
-   1665 103.41.124.25
-   1570 103.41.124.64
-   1518 103.41.124.14
-   1479 103.41.124.42
+   4930 103.41.124.50
+   3640 103.41.124.36
+   3525 103.41.124.41
+   3382 103.41.124.103
+   3372 103.41.124.13
+   3369 103.41.124.104
+   3311 103.41.124.21
+   3108 103.41.124.61
+   3097 103.41.124.45
+   2979 103.41.124.65
 ```
 
 #### Attempted URL Downloads
@@ -45,52 +45,54 @@ http://buhenge.com/z2
 http://buhenge.com/z4
 http://buhenge.com/z5
 http://buhenge.com/z6
+http://download.microsoft.com/download/win2000platform/SP/SP3/NT5/EN-US/W2Ksp3.exe
+http://root-arhive.serveftp.com/scanner/mass.jpg
 ```
 
 #### Passwords
 The following are the top 25 passwords today, including the frequency of usage:
 ```
-   5999 root
-    241 changeme
-    241 123456
-    173 password
-    168 123
-    161 www
-    124 tomcat
-    119 test
-     97 default
-     80 123qwe
-     78 1qaz2wsx
-     73 admin
-     71 abc123
-     70 guest
-     65 alpine
-     55 oracle
-     52 games
-     37 ftp
-     37 1234
-     34 web
-     34 qwerty
-     34 mysql
-     34 
-     30 12345
-     26 postgres
+  13391 root
+    705 123456
+    652 changeme
+    524 password
+    340 123
+    330 admin
+    232 www
+    223 1
+    213 1234
+    197 insecure
+    189 redhat
+    178 ubuntu
+    176 toor
+    168 test
+    158 centos6svm.root123
+    157 default
+    153 
+    126 tomcat
+    120 123qwe
+     96 alpine
+     88 guest
+     87 1qaz2wsx
+     84 oracle
+     80 abc123
+     63 qwerty
 ```
 
 #### Usernames
 The following are the top 3 usernames today, including the frequency of usage:
 ```
-  56273 root
+ 129398 root
+    443 admin
     286 voip2
-    283 mulesystems
 ```
 
 #### SSH Library Version
 The following are the top 5 SSH library versions today, including the frequency of usage:
 ```
-  17104 SSH-2.0-PUTTY
-   5242 SSH-2.0-libssh-0.1
-   2353 SSH-2.0-libssh-0.6.3
-    519 SSH-2.0-libssh2_1.4.1
-    497 SSH-2.0-OpenSSH_4.3
+  40724 SSH-2.0-PUTTY
+   8223 SSH-2.0-libssh-0.1
+   3458 SSH-2.0-libssh-0.6.3
+    976 SSH-2.0-libssh2_1.4.1
+    765 SSH-2.0-OpenSSH_4.3
 ```
