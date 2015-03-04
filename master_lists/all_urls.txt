@@ -120,6 +120,7 @@ http://60.173.10.177:10020/sperhong
 http://60.173.10.177:8080/14.17
 http://61.147.103.173:8080/9999
 http://61.218.226.170/
+http://64.32.12.152/gnu-bash-max-race
 http://68.64.167.10/4
 http://74.208.166.12/bot.txt
 http://93.184.66.196/.ztx.pl
@@ -164,6 +165,7 @@ http://root-arhive.serveftp.com/emech/system2.jpg
 http://root-arhive.serveftp.com/flood/global/udp.tgz
 http://root-arhive.serveftp.com/psybnc/psybnc-linux.jpg
 http://root-arhive.serveftp.com/scanner/gosh.jpg
+http://root-arhive.serveftp.com/scanner/mass.jpg
 http://r.o.o.t.hi2.ro/private/psybnc.c
 http://stanislaw.altervista.org/2.php
 http://wget.clan.su/moe.tar.gz

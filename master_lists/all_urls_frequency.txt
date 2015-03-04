@@ -26,6 +26,7 @@
     120 http://202.191.121.230/mzer.pl
     109 http://buhenge.com/z2
     109 http://185.63.253.93/.lu.pl
+    104 http://64.32.12.152/gnu-bash-max-race
      80 http://202.202.121.27/bot.txt
      77 http://buhenge.com/z4
      70 http://buhenge.com/z5
@@ -79,12 +80,12 @@
       9 http://www.frade8c.com:9162/fdsfsfvff
       9 http://www.frade8c.com:9162/byv832
       8 http://root-arhive.serveftp.com/emech/system2.jpg
+      8 http://download.microsoft.com/download/win2000platform/SP/SP3/NT5/EN-US/W2Ksp3.exe
       8 http://93.184.66.196/.ztx.pl
       8 http://210.56.50.13:8080/npc
       8 http://106.185.24.106/4
       7 http://stanislaw.altervista.org/2.php
       7 http://185.63.253.93/.xtkarmx
-      6 http://download.microsoft.com/download/win2000platform/SP/SP3/NT5/EN-US/W2Ksp3.exe
       6 http://94.102.63.155/res.html
       6 http://204.44.104.93:8080/iten64
       6 http://183.61.164.167:8018/12316
@@ -113,6 +114,7 @@
       2 http://wget.clan.su/moe.tar.gz>
       2 http://wget.clan.su/moe.tar.gz
       2 http://r.o.o.t.hi2.ro/private/psybnc.c
+      2 http://root-arhive.serveftp.com/scanner/mass.jpg
       2 http://root-arhive.serveftp.com/scanner/gosh.jpg
       2 http://root-arhive.serveftp.com/psybnc/psybnc-linux.jpg
       2 http://root-arhive.serveftp.com/flood/global/udp.tgz
