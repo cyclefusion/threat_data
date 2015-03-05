@@ -99,6 +99,7 @@ http://23.234.60.140/install/8001
 http://23.234.60.140/install/8002
 http://23.234.60.140/install/8002]
 http://23.234.60.140/install/8003
+http://23.234.60.140/install/8003]
 http://23.234.60.140/install/8004
 http://23.234.60.140/install/8005
 http://23.234.60.140/install/8006
@@ -139,6 +140,8 @@ http://buhenge.com/z3
 http://buhenge.com/z4
 http://buhenge.com/z5
 http://buhenge.com/z6
+http://cachefly.cachefly.net/100mb.test
+http://cachefly.cachefly.net/100mb.test]
 http://cs.frade8c.com:9162/byv832
 http://cs.frade8c.com:9162/dsgregd
 http://cs.frade8c.com:9162/fdsfsfvff

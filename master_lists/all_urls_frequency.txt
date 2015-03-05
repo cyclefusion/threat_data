@@ -35,13 +35,13 @@
      52 http://buhenge.com/z6
      50 http://188.212.103.234/private/auto/.xtkarmx
      39 http://23.234.60.140/install/8001
-     33 http://178.33.196.164:53/
-     33 http://178.33.196.164:443/
-     33 http://178.33.196.164/
-     33 http://122.10.85.54/
+     34 http://178.33.196.164:53/
+     34 http://178.33.196.164:443/
+     34 http://178.33.196.164/
+     34 http://122.10.85.54/
+     32 http://23.234.60.140/install/8003
      31 http://188.212.103.234/private/auto/.xtki686x
      30 http://23.234.60.140/install/8008
-     27 http://23.234.60.140/install/8003
      26 http://ftp.rxxiaoao.com/install/n8002.rar
      26 http://ftp.rxxiaoao.com/install/n8000.rar
      24 http://ftp.rxxiaoao.com/install/n8008.rar
@@ -61,6 +61,7 @@
      13 http://45.56.89.67/5
      13 http://115.29.165.174:53621/ssh77
      12 http://buhenge.com/2821
+     12 http://93.184.66.196/.ztx.pl
      11 http://ftp.rxxiaoao.com/install/n8007.rar
      11 http://162.218.30.75:1818/ssh33
      10 http://ctrlcenter.pw/iz/payw
@@ -81,7 +82,6 @@
       9 http://www.frade8c.com:9162/byv832
       8 http://root-arhive.serveftp.com/emech/system2.jpg
       8 http://download.microsoft.com/download/win2000platform/SP/SP3/NT5/EN-US/W2Ksp3.exe
-      8 http://93.184.66.196/.ztx.pl
       8 http://210.56.50.13:8080/npc
       8 http://106.185.24.106/4
       7 http://stanislaw.altervista.org/2.php
@@ -110,6 +110,7 @@
       4 http://121.40.85.20:8181/xdp
       4 http://115.29.165.174:38886/ssh77
       4 http://115.239.248.55:8080/ssh88
+      3 http://cachefly.cachefly.net/100mb.test
       3 http://74.208.166.12/bot.txt
       2 http://wget.clan.su/v.txt>
       2 http://wget.clan.su/v.txt
@@ -166,6 +167,7 @@
       1 http://www.majestic12.co.uk/bot.php?+)
       1 http://wget.clan.su/v.txt)
       1 http://wget.clan.su/moe.tar.gz)
+      1 http://cachefly.cachefly.net/100mb.test]
       1 http://98.126.15.42:88/escds
       1 http://68.64.167.10/4
       1 http://39.109.0.113:8520/jj
@@ -173,6 +175,7 @@
       1 http://39.109.0.113:1111/TS64
       1 http://39.109.0.113:1111/666
       1 http://39.109.0.113:1111/32Mm
+      1 http://23.234.60.140/install/8003]
       1 http://23.234.60.140/install/8002]
       1 http://185.63.253.93/.xtki686x
       1 http://183.136.213.96:8090/10991'
