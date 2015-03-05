@@ -126,6 +126,7 @@ http://68.64.167.10/4
 http://74.208.166.12/bot.txt
 http://93.174.93.45/ktx-mipsel
 http://93.174.93.45/mips-ktx
+http://93.184.66.196/.xml.pl
 http://93.184.66.196/.ztx.pl
 http://94.102.63.155/res.html
 http://98.126.15.42:88/escds

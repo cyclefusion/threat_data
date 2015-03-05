@@ -22,16 +22,16 @@
     800 http://cs.frade8c.com:9162/byv832
     488 http://202.191.121.230/ou.pl
     186 http://61.218.226.170/
-    179 http://buhenge.com/z1
+    180 http://buhenge.com/z1
     120 http://202.191.121.230/mzer.pl
-    109 http://buhenge.com/z2
+    111 http://buhenge.com/z2
     109 http://185.63.253.93/.lu.pl
     104 http://64.32.12.152/gnu-bash-max-race
      80 http://202.202.121.27/bot.txt
-     77 http://buhenge.com/z4
+     78 http://buhenge.com/z4
      70 http://buhenge.com/z5
      60 http://23.234.60.140/install/8002
-     57 http://buhenge.com/z3
+     59 http://buhenge.com/z3
      52 http://buhenge.com/z6
      50 http://188.212.103.234/private/auto/.xtkarmx
      39 http://23.234.60.140/install/8001
@@ -39,9 +39,9 @@
      34 http://178.33.196.164:443/
      34 http://178.33.196.164/
      34 http://122.10.85.54/
+     33 http://23.234.60.140/install/8008
      32 http://23.234.60.140/install/8003
      31 http://188.212.103.234/private/auto/.xtki686x
-     30 http://23.234.60.140/install/8008
      26 http://ftp.rxxiaoao.com/install/n8002.rar
      26 http://ftp.rxxiaoao.com/install/n8000.rar
      24 http://ftp.rxxiaoao.com/install/n8008.rar
@@ -82,9 +82,11 @@
       9 http://www.frade8c.com:9162/byv832
       8 http://root-arhive.serveftp.com/emech/system2.jpg
       8 http://download.microsoft.com/download/win2000platform/SP/SP3/NT5/EN-US/W2Ksp3.exe
+      8 http://93.184.66.196/.xml.pl
       8 http://210.56.50.13:8080/npc
       8 http://106.185.24.106/4
       7 http://stanislaw.altervista.org/2.php
+      7 http://93.174.93.45/ktx-mipsel
       7 http://185.63.253.93/.xtkarmx
       6 http://94.102.63.155/res.html
       6 http://204.44.104.93:8080/iten64
@@ -93,7 +95,6 @@
       6 http://100.42.30.34/lex
       5 http://23.234.60.140:8081/install/8007
       4 http://93.174.93.45/mips-ktx
-      4 http://93.174.93.45/ktx-mipsel
       4 http://60.173.10.177:8080/14.17
       4 http://39.109.0.113:8520/eee
       4 http://39.109.0.113:1111/Mm
