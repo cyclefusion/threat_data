@@ -12,77 +12,83 @@ FFB1 47C1 326E A063
 ### Summary
 
 Date: March 04, 2015  
-Total attacks today: 42520  
-Attempted Malware Downloads: 12 
+Total attacks today: 89339  
+Attempted Malware Downloads: 24 
 
 #### IP addresses
 The following are the top 10 attacker IP addresses today, including the frequency of usage:
 ```
-   2133 103.41.124.16
-   1716 103.41.124.51
-   1655 103.41.124.29
-   1498 103.41.124.28
-   1497 103.41.124.31
-   1485 103.41.124.49
-   1442 103.41.124.64
-   1424 103.41.124.25
-   1404 103.41.124.55
-   1395 103.41.124.101
+   3164 103.41.124.25
+   3123 103.41.124.29
+   2984 103.41.124.65
+   2958 103.41.124.51
+   2582 103.41.124.34
+   2388 103.41.124.55
+   2326 103.41.124.38
+   2267 103.41.124.30
+   2235 103.41.124.49
+   2145 103.41.124.52
 ```
 
 #### Attempted URL Downloads
 The following are URLs attackers attempted to download and execute once they compromising a honeypot sensor:
 ```
+http://122.10.85.54/
+http://178.33.196.164/
+http://178.33.196.164:443/
+http://178.33.196.164:53/
 http://23.234.60.140/install/8003
+http://23.234.60.140/install/8003]
 http://93.174.93.45/ktx-mipsel
 http://93.174.93.45/mips-ktx
 http://buhenge.com/z1
+http://cachefly.cachefly.net/100mb.test
 ```
 
 #### Passwords
 The following are the top 25 passwords today, including the frequency of usage:
 ```
-   6711 root
-    237 changeme
-    129 www
-     67 123qwe
-     64 alpine
-     63 123456
-     60 default
-     60 admin
-     59 123456789
-     44 ubnt
-     44 password
-     43 support
-     42 operator
-     41 sysadmin
-     38 sql
-     38 1q2w3e4r
-     37 
-     36 asteriskftp
-     35 qwe123
-     35 1qaz2wsx
-     33 abc123
-     31 apache
-     30 qwerty
-     24 deploy
-     22  -*
+  12691 root
+    393 changeme
+    248 admin
+    194 www
+    181 123456
+    171 password
+    141 
+    120 default
+    105 123qwe
+     99 123456789
+     98 alpine
+     79 1qaz2wsx
+     79 123
+     76 support
+     74 ubnt
+     74 redhat
+     74 1234
+     73 1
+     71 abc123
+     69 ubuntu
+     66 toor
+     66 insecure
+     65 sysadmin
+     65 operator
+     62 git
 ```
 
 #### Usernames
 The following are the top 3 usernames today, including the frequency of usage:
 ```
-  41029 root
-    167 admin
-    131 www
+  85689 root
+    426 admin
+    196 www
 ```
 
 #### SSH Library Version
 The following are the top 5 SSH library versions today, including the frequency of usage:
 ```
-  13112 SSH-2.0-PUTTY
-   1194 SSH-2.0-libssh-0.1
-    455 SSH-2.0-libssh2_1.4.1
-    453 SSH-2.0-libssh-0.2
-    450 SSH-2.0-OpenSSH_4.3
+  27449 SSH-2.0-PUTTY
+   2644 SSH-2.0-libssh-0.1
+   1199 SSH-2.0-libssh-0.2
+    730 SSH-2.0-libssh2_1.4.1
+    721 SSH-2.0-OpenSSH_4.3
 ```
