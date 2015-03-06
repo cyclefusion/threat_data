@@ -12,29 +12,34 @@ FFB1 47C1 326E A063
 ### Summary
 
 Date: March 05, 2015  
-Total attacks today: 64617  
-Attempted Malware Downloads: 26 
+Total attacks today: 139470  
+Attempted Malware Downloads: 68 
 
 #### IP addresses
 The following are the top 10 attacker IP addresses today, including the frequency of usage:
 ```
-   4519 103.41.124.31
-   2573 103.41.124.66
-   2247 103.41.124.35
-   1875 103.41.124.38
-   1836 103.41.124.21
-   1833 103.41.124.58
-   1818 103.41.124.34
-   1815 103.41.124.111
-   1782 103.41.124.36
-   1648 103.41.124.37
+   5905 103.41.124.31
+   5383 103.41.124.66
+   5358 103.41.124.38
+   4027 103.41.124.63
+   4012 103.41.124.40
+   3423 103.41.124.55
+   3315 103.41.124.34
+   3016 103.41.124.44
+   2985 103.41.124.49
+   2966 103.41.124.53
 ```
 
 #### Attempted URL Downloads
 The following are URLs attackers attempted to download and execute once they compromising a honeypot sensor:
 ```
 http://23.234.60.140/install/8008
+http://23.234.60.140/install/8008]
+http://61.160.247.14:7711/Maintain.sh
+http://61.160.247.14:7711/Maintain.sh]
 http://93.174.93.45/ktx-mipsel
+http://93.184.66.196/.ppc
+http://93.184.66.196/.ppw
 http://93.184.66.196/.xml.pl
 http://93.184.66.196/.ztx.pl
 http://buhenge.com/z1
@@ -43,52 +48,54 @@ http://buhenge.com/z3
 http://buhenge.com/z4
 http://cachefly.cachefly.net/100mb.test
 http://cachefly.cachefly.net/100mb.test]
+http://kiss4u.go.ro/smoke.tgz
+http://kiss4u.go.ro/smoke.tgz]
 ```
 
 #### Passwords
 The following are the top 25 passwords today, including the frequency of usage:
 ```
-  11800 root
-    239 changeme
-    128 www
-     98 default
-     66 alpine
-     52 teamspeak
-     51 admin
-     39 oracle
-     34 123456
-     31 user
-     31 sysadmin
-     31 postgres
-     31 
-     30 ubnt
-     30 password
-     29 support
-     29 123456789
-     26 sql
-     24 operator
-     21 asteriskftp
-     20 guest
-     19 nagios
-     18 svn
-     17 test123
-     16 webmaster
+  24427 root
+    366 changeme
+    192 www
+    143 default
+    119 
+    111 admin
+     83 123456
+     74 password
+     74 alpine
+     55 teamspeak
+     51 ubnt
+     46 oracle
+     43 support
+     40 -
+     39 123456789
+     38 kritika
+     38 1
+     36 user
+     35 toor
+     35 sysadmin
+     35 redhat
+     35 postgres
+     35 hateyou
+     34 ghost123
+     34 Gaylord
 ```
 
 #### Usernames
 The following are the top 3 usernames today, including the frequency of usage:
 ```
-  62988 root
-    128 www
-     96 admin
+ 136555 root
+    192 www
+    154 admin
 ```
 
 #### SSH Library Version
 The following are the top 5 SSH library versions today, including the frequency of usage:
 ```
-  19538 SSH-2.0-PUTTY
+  43014 SSH-2.0-PUTTY
    1785 SSH-2.0-libssh-0.6.3
-   1050 SSH-2.0-libssh-0.2
-    550 SSH-2.0-libssh-0.1
-    494 SSH-2.0-OpenSSH_4.3
+   1753 SSH-2.0-libssh-0.2
+   1718 SSH-2.0-libssh-0.1
+    982 SSH-2.0-libssh2_1.4.3
 ```
