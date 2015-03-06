@@ -91,12 +91,14 @@ http://219.135.56.219:9162/vrgshth
 http://222.186.31.11:60/lan2.6
 http://222.186.31.73:8123/.azui
 http://222.186.34.215:8989/msql
+http://222.186.56.46:9987/data5
 http://23.228.102.152:1818/bulong
 http://23.234.60.140:8081/install/8006
 http://23.234.60.140:8081/install/8007
 http://23.234.60.140/install/48513
 http://23.234.60.140/install/8000
 http://23.234.60.140/install/8001
+http://23.234.60.140/install/8001]
 http://23.234.60.140/install/8002
 http://23.234.60.140/install/8002]
 http://23.234.60.140/install/8003
@@ -128,7 +130,10 @@ http://61.218.226.170/
 http://64.32.12.152/gnu-bash-max-race
 http://68.64.167.10/4
 http://74.208.166.12/bot.txt
+http://93.174.93.45/ktx-armer
+http://93.174.93.45/ktx-i686er
 http://93.174.93.45/ktx-mipsel
+http://93.174.93.45/.lu.pl
 http://93.174.93.45/mips-ktx
 http://93.184.66.196/.ppc
 http://93.184.66.196/.ppw

@@ -1,14 +1,14 @@
-  10042 http://219.135.56.219:9162/root
-   5021 http://219.135.56.219:9162/vrgshth
-   5021 http://219.135.56.219:9162/udevd
-   5021 http://219.135.56.219:9162/smarvtd
-   5021 http://219.135.56.219:9162/sjfedjr
-   5021 http://219.135.56.219:9162/rewgtf3er4t
-   5021 http://219.135.56.219:9162/nhgbhhj
-   5021 http://219.135.56.219:9162/jdhe
-   5021 http://219.135.56.219:9162/fdsfsfvff
-   5021 http://219.135.56.219:9162/dsgregd
-   5021 http://219.135.56.219:9162/byv832
+  10066 http://219.135.56.219:9162/root
+   5033 http://219.135.56.219:9162/vrgshth
+   5033 http://219.135.56.219:9162/udevd
+   5033 http://219.135.56.219:9162/smarvtd
+   5033 http://219.135.56.219:9162/sjfedjr
+   5033 http://219.135.56.219:9162/rewgtf3er4t
+   5033 http://219.135.56.219:9162/nhgbhhj
+   5033 http://219.135.56.219:9162/jdhe
+   5033 http://219.135.56.219:9162/fdsfsfvff
+   5033 http://219.135.56.219:9162/dsgregd
+   5033 http://219.135.56.219:9162/byv832
    1600 http://cs.frade8c.com:9162/root
     800 http://cs.frade8c.com:9162/vrgshth
     800 http://cs.frade8c.com:9162/udevd
@@ -22,20 +22,20 @@
     800 http://cs.frade8c.com:9162/byv832
     488 http://202.191.121.230/ou.pl
     186 http://61.218.226.170/
-    180 http://buhenge.com/z1
+    182 http://buhenge.com/z1
     120 http://202.191.121.230/mzer.pl
-    111 http://buhenge.com/z2
+    114 http://buhenge.com/z2
     109 http://185.63.253.93/.lu.pl
     104 http://64.32.12.152/gnu-bash-max-race
      80 http://202.202.121.27/bot.txt
      78 http://buhenge.com/z4
-     70 http://buhenge.com/z5
+     71 http://buhenge.com/z5
+     61 http://buhenge.com/z3
      60 http://23.234.60.140/install/8002
-     59 http://buhenge.com/z3
      52 http://buhenge.com/z6
+     52 http://23.234.60.140/install/8001
      50 http://188.212.103.234/private/auto/.xtkarmx
      48 http://23.234.60.140/install/8008
-     39 http://23.234.60.140/install/8001
      34 http://178.33.196.164:53/
      34 http://178.33.196.164:443/
      34 http://178.33.196.164/
@@ -83,6 +83,7 @@
       9 http://www.frade8c.com:9162/byv832
       8 http://root-arhive.serveftp.com/emech/system2.jpg
       8 http://download.microsoft.com/download/win2000platform/SP/SP3/NT5/EN-US/W2Ksp3.exe
+      8 http://93.174.93.45/mips-ktx
       8 http://210.56.50.13:8080/npc
       8 http://106.185.24.106/4
       7 http://stanislaw.altervista.org/2.php
@@ -97,7 +98,9 @@
       4 http://ctrlcenter.pw/iz/.z.pl
       4 http://93.184.66.196/.ppw
       4 http://93.184.66.196/.ppc
-      4 http://93.174.93.45/mips-ktx
+      4 http://93.174.93.45/.lu.pl
+      4 http://93.174.93.45/ktx-i686er
+      4 http://93.174.93.45/ktx-armer
       4 http://60.173.10.177:8080/14.17
       4 http://39.109.0.113:8520/eee
       4 http://39.109.0.113:1111/Mm
@@ -141,6 +144,7 @@
       2 http://50.116.13.237/profile
       2 http://39.109.0.113:1111/mm64
       2 http://39.109.0.113:1111/32.64
+      2 http://222.186.56.46:9987/data5
       2 http://222.186.34.215:8989/msql
       2 http://222.186.31.73:8123/.azui
       2 http://222.186.31.11:60/lan2.6
@@ -187,6 +191,7 @@
       1 http://39.109.0.113:1111/32Mm
       1 http://23.234.60.140/install/8003]
       1 http://23.234.60.140/install/8002]
+      1 http://23.234.60.140/install/8001]
       1 http://185.63.253.93/.xtki686x
       1 http://183.136.213.96:8090/10991'
       1 http://176.102.38.77/search/e.php?h=cloudemotions.com/cgi-sys/entropysearch.cgi'
