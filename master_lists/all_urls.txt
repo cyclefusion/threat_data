@@ -46,6 +46,7 @@ http://183.60.202.9:1560/qwe0x03qa0
 http://183.61.164.167:8018/12316
 http://183.61.254.11:8080/L24_24011
 http://185.11.147.246/tst2.pl
+http://185.61.137.109//.xml.pl
 http://185.63.253.93/.lu.pl
 http://185.63.253.93/new
 http://185.63.253.93/.xtkarmx
@@ -105,6 +106,7 @@ http://23.234.60.140/install/8005
 http://23.234.60.140/install/8006
 http://23.234.60.140/install/8007
 http://23.234.60.140/install/8008
+http://23.234.60.140/install/8008]
 http://39.109.0.113:1111/32.64
 http://39.109.0.113:1111/32Mm
 http://39.109.0.113:1111/666
@@ -120,12 +122,16 @@ http://5.175.181.46/a/ssh5.5p1.jpg
 http://60.173.10.177:10020/sperhong
 http://60.173.10.177:8080/14.17
 http://61.147.103.173:8080/9999
+http://61.160.247.14:7711/Maintain.sh
+http://61.160.247.14:7711/Maintain.sh]
 http://61.218.226.170/
 http://64.32.12.152/gnu-bash-max-race
 http://68.64.167.10/4
 http://74.208.166.12/bot.txt
 http://93.174.93.45/ktx-mipsel
 http://93.174.93.45/mips-ktx
+http://93.184.66.196/.ppc
+http://93.184.66.196/.ppw
 http://93.184.66.196/.xml.pl
 http://93.184.66.196/.ztx.pl
 http://94.102.63.155/res.html
@@ -156,6 +162,7 @@ http://cs.frade8c.com:9162/udevd
 http://cs.frade8c.com:9162/vrgshth
 http://ctrlcenter.pw/iz/payc
 http://ctrlcenter.pw/iz/payw
+http://ctrlcenter.pw/iz/.z.pl
 http://dldir1.qq.com/qqfile/qq/QQ6.3/12390/QQ6.3.exe
 http://download.microsoft.com/download/win2000platform/SP/SP3/NT5/EN-US/W2Ksp3.exe
 http://ftp.rxxiaoao.com/install/n8000.rar
@@ -166,6 +173,8 @@ http://ftp.rxxiaoao.com/install/n8005.rar
 http://ftp.rxxiaoao.com/install/n8006.rar
 http://ftp.rxxiaoao.com/install/n8007.rar
 http://ftp.rxxiaoao.com/install/n8008.rar
+http://kiss4u.go.ro/smoke.tgz
+http://kiss4u.go.ro/smoke.tgz]
 http://moe.psybnc.org/Moe.tar.gz
 http://root-arhive.serveftp.com/emech/system2.jpg
 http://root-arhive.serveftp.com/flood/global/udp.tgz

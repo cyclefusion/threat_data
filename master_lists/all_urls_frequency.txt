@@ -1,14 +1,14 @@
-  10066 http://219.135.56.219:9162/root
-   5033 http://219.135.56.219:9162/vrgshth
-   5033 http://219.135.56.219:9162/udevd
-   5033 http://219.135.56.219:9162/smarvtd
-   5033 http://219.135.56.219:9162/sjfedjr
-   5033 http://219.135.56.219:9162/rewgtf3er4t
-   5033 http://219.135.56.219:9162/nhgbhhj
-   5033 http://219.135.56.219:9162/jdhe
-   5033 http://219.135.56.219:9162/fdsfsfvff
-   5033 http://219.135.56.219:9162/dsgregd
-   5033 http://219.135.56.219:9162/byv832
+  10042 http://219.135.56.219:9162/root
+   5021 http://219.135.56.219:9162/vrgshth
+   5021 http://219.135.56.219:9162/udevd
+   5021 http://219.135.56.219:9162/smarvtd
+   5021 http://219.135.56.219:9162/sjfedjr
+   5021 http://219.135.56.219:9162/rewgtf3er4t
+   5021 http://219.135.56.219:9162/nhgbhhj
+   5021 http://219.135.56.219:9162/jdhe
+   5021 http://219.135.56.219:9162/fdsfsfvff
+   5021 http://219.135.56.219:9162/dsgregd
+   5021 http://219.135.56.219:9162/byv832
    1600 http://cs.frade8c.com:9162/root
     800 http://cs.frade8c.com:9162/vrgshth
     800 http://cs.frade8c.com:9162/udevd
@@ -34,12 +34,12 @@
      59 http://buhenge.com/z3
      52 http://buhenge.com/z6
      50 http://188.212.103.234/private/auto/.xtkarmx
+     48 http://23.234.60.140/install/8008
      39 http://23.234.60.140/install/8001
      34 http://178.33.196.164:53/
      34 http://178.33.196.164:443/
      34 http://178.33.196.164/
      34 http://122.10.85.54/
-     33 http://23.234.60.140/install/8008
      32 http://23.234.60.140/install/8003
      31 http://188.212.103.234/private/auto/.xtki686x
      26 http://ftp.rxxiaoao.com/install/n8002.rar
@@ -54,6 +54,7 @@
      20 http://23.234.60.140/install/8000
      18 http://www.frade8c.com:9162/root
      17 http://23.234.60.140/install/48513
+     16 http://93.184.66.196/.xml.pl
      16 http://23.228.102.152:1818/bulong
      16 http://151.236.44.210/ft.exe
      15 http://ftp.rxxiaoao.com/install/n8006.rar
@@ -82,7 +83,6 @@
       9 http://www.frade8c.com:9162/byv832
       8 http://root-arhive.serveftp.com/emech/system2.jpg
       8 http://download.microsoft.com/download/win2000platform/SP/SP3/NT5/EN-US/W2Ksp3.exe
-      8 http://93.184.66.196/.xml.pl
       8 http://210.56.50.13:8080/npc
       8 http://106.185.24.106/4
       7 http://stanislaw.altervista.org/2.php
@@ -94,6 +94,9 @@
       6 http://124.115.16.31:8009/xqq
       6 http://100.42.30.34/lex
       5 http://23.234.60.140:8081/install/8007
+      4 http://ctrlcenter.pw/iz/.z.pl
+      4 http://93.184.66.196/.ppw
+      4 http://93.184.66.196/.ppc
       4 http://93.174.93.45/mips-ktx
       4 http://60.173.10.177:8080/14.17
       4 http://39.109.0.113:8520/eee
@@ -104,6 +107,7 @@
       4 http://210.56.50.13:8080/bin.sh
       4 http://204.44.104.93:8080/npc
       4 http://204.44.104.93:8080/lin32
+      4 http://185.61.137.109//.xml.pl
       4 http://183.60.202.9:1560/qwe0x03qa0
       4 http://183.136.213.96:8090/Internet
       4 http://183.136.213.96:8090/10991
@@ -111,8 +115,11 @@
       4 http://121.40.85.20:8181/xdp
       4 http://115.29.165.174:38886/ssh77
       4 http://115.239.248.55:8080/ssh88
+      3 http://kiss4u.go.ro/smoke.tgz
       3 http://cachefly.cachefly.net/100mb.test
       3 http://74.208.166.12/bot.txt
+      3 http://61.160.247.14:7711/Maintain.sh
+      3 http://23.234.60.140/install/8008]
       2 http://wget.clan.su/v.txt>
       2 http://wget.clan.su/v.txt
       2 http://wget.clan.su/moe.tar.gz>
@@ -168,9 +175,11 @@
       1 http://www.majestic12.co.uk/bot.php?+)
       1 http://wget.clan.su/v.txt)
       1 http://wget.clan.su/moe.tar.gz)
+      1 http://kiss4u.go.ro/smoke.tgz]
       1 http://cachefly.cachefly.net/100mb.test]
       1 http://98.126.15.42:88/escds
       1 http://68.64.167.10/4
+      1 http://61.160.247.14:7711/Maintain.sh]
       1 http://39.109.0.113:8520/jj
       1 http://39.109.0.113:8520/33mm
       1 http://39.109.0.113:1111/TS64
