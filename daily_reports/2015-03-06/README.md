@@ -12,27 +12,31 @@ FFB1 47C1 326E A063
 ### Summary
 
 Date: March 06, 2015  
-Total attacks today: 110709  
-Attempted Malware Downloads: 48 
+Total attacks today: 228234  
+Attempted Malware Downloads: 76 
 
 #### IP addresses
 The following are the top 10 attacker IP addresses today, including the frequency of usage:
 ```
-   3973 103.41.124.51
-   3657 103.41.124.29
-   3545 103.41.124.21
-   3394 103.41.124.33
-   3122 103.41.124.52
-   3094 103.41.124.65
-   3051 103.41.124.31
-   3004 103.41.124.18
-   3001 103.41.124.50
-   3001 103.41.124.37
+   7208 103.41.124.29
+   6645 103.41.124.48
+   6502 103.41.124.51
+   6435 103.41.124.33
+   6297 103.41.124.52
+   5813 103.41.124.21
+   5745 103.41.124.18
+   5616 103.41.124.41
+   5375 103.41.124.45
+   5350 103.41.124.50
 ```
 
 #### Attempted URL Downloads
 The following are URLs attackers attempted to download and execute once they compromising a honeypot sensor:
 ```
+http://122.10.85.54/
+http://178.33.196.164/
+http://178.33.196.164:443/
+http://178.33.196.164:53/
 http://185.61.137.109//.xml.pl
 http://222.186.56.46:9987/data5
 http://23.234.60.140/install/8001
@@ -41,6 +45,7 @@ http://93.174.93.45/ktx-armer
 http://93.174.93.45/ktx-i686er
 http://93.174.93.45/.lu.pl
 http://93.174.93.45/mips-ktx
+http://93.174.93.45/x64-ktx
 http://buhenge.com/z1
 http://buhenge.com/z2
 http://buhenge.com/z3
@@ -51,47 +56,47 @@ http://ctrlcenter.pw/iz/.z.pl
 #### Passwords
 The following are the top 25 passwords today, including the frequency of usage:
 ```
-  13488 root
-    218 changeme
-    142 default
-    134 www
-    114 
-    111 admin
-    111 123456
-     77 12345
-     75 1234
-     71 ubnt
-     67 user
-     59 toor
-     58 raspberry
-     56 password
-     52 superuser
-     51 root123
-     51 abc123
-     50 admin123
-     49 p@ssw0rd
-     49 passw0rd
-     49 000000
-     47 rootpass
-     45 123qwe
-     40 binet
-     40 4444
+  28795 root
+    337 changeme
+    198 www
+    192 default
+    166 admin
+    133 123456
+    117 
+     88 12345
+     86 password
+     85 1234
+     84 ubnt
+     81 user
+     79 -
+     72 webmaster
+     62 toor
+     61 123456789
+     59 raspberry
+     57 root123
+     56 123
+     55 web
+     55 test
+     55 p@ssw0rd
+     55 abc123
+     55 000000
+     53 superuser
 ```
 
 #### Usernames
 The following are the top 3 usernames today, including the frequency of usage:
 ```
- 109592 root
-    156 bin
-    141 www
+ 225610 root
+    275 admin
+    205 www
 ```
 
 #### SSH Library Version
 The following are the top 5 SSH library versions today, including the frequency of usage:
 ```
-  35483 SSH-2.0-PUTTY
+  72838 SSH-2.0-PUTTY
+   4011 SSH-2.0-libssh-0.1
    2348 SSH-2.0-libssh-0.6.3
-   1223 SSH-2.0-libssh-0.1
-    364 SSH-2.0-OpenSSH_4.3
-    229 SSH-2.0-libssh2_1.4.3
+    881 SSH-2.0-libssh2_1.4.3
+    569 SSH-2.0-OpenSSH_4.3
 ```
