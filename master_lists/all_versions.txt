@@ -11,6 +11,7 @@ SSH-2.0-libssh-0.1
 SSH-2.0-libssh-0.11
 SSH-2.0-libssh-0.2
 SSH-2.0-libssh-0.4.2
+SSH-2.0-libssh-0.4.5
 SSH-2.0-libssh-0.4.6
 SSH-2.0-libssh-0.4.8
 SSH-2.0-libssh-0.5.0
@@ -60,6 +61,7 @@ SSH-2.0-Pipls-1.0
 SSH-2.0-PUTTY
 SSH-2.0-PuTTY_Local:_Jan_19_2014_13:17:57
 SSH-2.0-PuTTY_Local:_Jul_11_2013_01:54:07
+SSH-2.0-PuTTY_Local:_Mar__2_2015_21:30:06
 SSH-2.0-PuTTY_Local:_May_14_2009_21:12:18
 SSH-2.0-PuTTY_Release_0.58
 SSH-2.0-PuTTY_Release_0.60

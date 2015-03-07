@@ -22,18 +22,18 @@
     800 http://cs.frade8c.com:9162/byv832
     488 http://202.191.121.230/ou.pl
     186 http://61.218.226.170/
-    182 http://buhenge.com/z1
+    184 http://buhenge.com/z1
     120 http://202.191.121.230/mzer.pl
-    114 http://buhenge.com/z2
+    115 http://buhenge.com/z2
     109 http://185.63.253.93/.lu.pl
     104 http://64.32.12.152/gnu-bash-max-race
      80 http://202.202.121.27/bot.txt
-     78 http://buhenge.com/z4
+     79 http://buhenge.com/z4
      71 http://buhenge.com/z5
      63 http://23.234.60.140/install/8001
-     61 http://buhenge.com/z3
+     62 http://buhenge.com/z3
      60 http://23.234.60.140/install/8002
-     52 http://buhenge.com/z6
+     53 http://buhenge.com/z6
      50 http://188.212.103.234/private/auto/.xtkarmx
      48 http://23.234.60.140/install/8008
      36 http://178.33.196.164:53/
@@ -42,6 +42,7 @@
      36 http://122.10.85.54/
      32 http://23.234.60.140/install/8003
      31 http://188.212.103.234/private/auto/.xtki686x
+     27 http://23.234.60.140/install/8005
      26 http://ftp.rxxiaoao.com/install/n8002.rar
      26 http://ftp.rxxiaoao.com/install/n8000.rar
      24 http://ftp.rxxiaoao.com/install/n8008.rar
@@ -49,7 +50,6 @@
      24 http://209.236.71.188/midx
      22 http://23.234.60.140/install/8007
      21 http://ftp.rxxiaoao.com/install/n8005.rar
-     21 http://23.234.60.140/install/8005
      21 http://23.234.60.140/install/8004
      20 http://23.234.60.140/install/8000
      18 http://www.frade8c.com:9162/root
@@ -63,7 +63,9 @@
      13 http://115.29.165.174:53621/ssh77
      12 http://buhenge.com/2821
      12 http://93.184.66.196/.ztx.pl
+     12 http://93.174.93.45/mips-ktx
      11 http://ftp.rxxiaoao.com/install/n8007.rar
+     11 http://93.174.93.45/ktx-mipsel
      11 http://162.218.30.75:1818/ssh33
      10 http://ctrlcenter.pw/iz/payw
      10 http://ctrlcenter.pw/iz/payc
@@ -84,11 +86,9 @@
       8 http://root-arhive.serveftp.com/emech/system2.jpg
       8 http://download.microsoft.com/download/win2000platform/SP/SP3/NT5/EN-US/W2Ksp3.exe
       8 http://93.174.93.45/x64-ktx
-      8 http://93.174.93.45/mips-ktx
       8 http://210.56.50.13:8080/npc
       8 http://106.185.24.106/4
       7 http://stanislaw.altervista.org/2.php
-      7 http://93.174.93.45/ktx-mipsel
       7 http://185.63.253.93/.xtkarmx
       6 http://94.102.63.155/res.html
       6 http://204.44.104.93:8080/iten64
@@ -102,6 +102,7 @@
       4 http://93.174.93.45/.lu.pl
       4 http://93.174.93.45/ktx-i686er
       4 http://93.174.93.45/ktx-armer
+      4 http://93.174.93.45/.edu.pl
       4 http://60.173.10.177:8080/14.17
       4 http://39.109.0.113:8520/eee
       4 http://39.109.0.113:1111/Mm
@@ -192,6 +193,7 @@
       1 http://39.109.0.113:1111/TS64
       1 http://39.109.0.113:1111/666
       1 http://39.109.0.113:1111/32Mm
+      1 http://23.234.60.140/install/8005]
       1 http://23.234.60.140/install/8003]
       1 http://23.234.60.140/install/8002]
       1 http://185.63.253.93/.xtki686x
