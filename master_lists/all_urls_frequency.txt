@@ -30,16 +30,16 @@
      80 http://202.202.121.27/bot.txt
      78 http://buhenge.com/z4
      71 http://buhenge.com/z5
+     63 http://23.234.60.140/install/8001
      61 http://buhenge.com/z3
      60 http://23.234.60.140/install/8002
      52 http://buhenge.com/z6
-     52 http://23.234.60.140/install/8001
      50 http://188.212.103.234/private/auto/.xtkarmx
      48 http://23.234.60.140/install/8008
-     34 http://178.33.196.164:53/
-     34 http://178.33.196.164:443/
-     34 http://178.33.196.164/
-     34 http://122.10.85.54/
+     36 http://178.33.196.164:53/
+     36 http://178.33.196.164:443/
+     36 http://178.33.196.164/
+     36 http://122.10.85.54/
      32 http://23.234.60.140/install/8003
      31 http://188.212.103.234/private/auto/.xtki686x
      26 http://ftp.rxxiaoao.com/install/n8002.rar
@@ -83,6 +83,7 @@
       9 http://www.frade8c.com:9162/byv832
       8 http://root-arhive.serveftp.com/emech/system2.jpg
       8 http://download.microsoft.com/download/win2000platform/SP/SP3/NT5/EN-US/W2Ksp3.exe
+      8 http://93.174.93.45/x64-ktx
       8 http://93.174.93.45/mips-ktx
       8 http://210.56.50.13:8080/npc
       8 http://106.185.24.106/4
@@ -144,6 +145,7 @@
       2 http://50.116.13.237/profile
       2 http://39.109.0.113:1111/mm64
       2 http://39.109.0.113:1111/32.64
+      2 http://23.234.60.140/install/8001]
       2 http://222.186.56.46:9987/data5
       2 http://222.186.34.215:8989/msql
       2 http://222.186.31.73:8123/.azui
@@ -163,6 +165,7 @@
       2 http://185.11.147.246/tst2.pl
       2 http://183.61.254.11:8080/L24_24011
       2 http://183.60.197.231:5156/mazi
+      2 http://183.56.173.23:25816/asdq16
       2 http://183.136.213.96:8090/bash.bashrc
       2 http://182.254.247.118:8080/WIND
       2 http://122.224.55.86:8080/npc
@@ -191,7 +194,6 @@
       1 http://39.109.0.113:1111/32Mm
       1 http://23.234.60.140/install/8003]
       1 http://23.234.60.140/install/8002]
-      1 http://23.234.60.140/install/8001]
       1 http://185.63.253.93/.xtki686x
       1 http://183.136.213.96:8090/10991'
       1 http://176.102.38.77/search/e.php?h=cloudemotions.com/cgi-sys/entropysearch.cgi'

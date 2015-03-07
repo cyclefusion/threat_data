@@ -616,6 +616,7 @@ aceraspire
 acet1889
 achang5884
 acharya
+ache
 achmad
 achuan
 acision
@@ -731,6 +732,7 @@ adrien
 adrienn
 adrienne
 adrina
+adunare
 adupload
 adv
 advantus
@@ -1229,6 +1231,7 @@ aur
 aurel
 aurelia
 auser
+ausslander
 austin
 auth
 author
@@ -1442,6 +1445,7 @@ bianka
 bigalex
 bigman
 bijoy
+bike
 bill
 billie
 billina
@@ -1477,8 +1481,10 @@ B@llBu4t3rPWD!
 blmadhavan
 blog
 blogger
+blowjob
 blue
 bluebary
+bluff
 bmp
 bnc
 bo
@@ -1970,6 +1976,7 @@ craft
 crafty
 craig
 craigh
+creative
 credit
 creditcard
 crespo.wang
@@ -2198,6 +2205,7 @@ destiny
 details3
 deutch
 deutchland
+deutschland
 dev
 devan
 devcot
@@ -2338,6 +2346,7 @@ dragoss3fma
 draytek
 drcababu
 drckrajan
+dread
 dream
 dreamer
 dreamweaver
@@ -2435,6 +2444,7 @@ eee
 eeivoip@bauan
 effi
 efwef58sdf2cvsd1*&$#_)claudia69iLiE
+egg
 egg98<ZsuxG%
 eggbreaker2
 eggdrop
@@ -2510,6 +2520,7 @@ eniko
 enrique
 ens
 enshtainrfhfufylf
+enter
 entertaininstyleFZ21
 epaper
 epg
@@ -2787,6 +2798,7 @@ Fuck0llB0tWr!ter!
 fucker
 fucking
 fufu
+fullhouse
 fulop
 Fum4tulP0@t3Uc1d3R4uD3T0t!@#$%^%^&*?
 funny
@@ -2934,6 +2946,7 @@ gnu
 god
 gold
 gomsluft
+goncalo
 gonzalez
 good
 goodtv1975
@@ -2948,6 +2961,8 @@ gotit
 gov
 govegoil
 goverment
+govern
+governo
 gozfidan
 gr33nm00n
 grace
@@ -3016,6 +3031,7 @@ gusztav
 guta
 gutarupe$$$###starCOlaAIUD
 gutza
+guvern
 guy
 gvrama
 gwaf
@@ -4004,6 +4020,7 @@ lol
 lola
 loler11qqqq
 lolero99
+lolex
 lolitanebuna
 lomott
 london
@@ -4084,6 +4101,7 @@ mada
 maddes
 made
 madeline
+madge
 madhumita
 madhuparna
 madhuri
@@ -4119,6 +4137,7 @@ mailnull
 mailtest
 mailuser
 main
+mais
 majordom
 majordomo
 makar
@@ -4307,6 +4326,7 @@ member1
 memini
 mendez
 meng
+menos
 mensen
 menu
 mera
@@ -4374,6 +4394,7 @@ mingle
 minigee
 minigeee
 miniroot
+minus
 minzhi
 mira
 miracle
@@ -4600,6 +4621,7 @@ nessus
 nessus1
 nestor
 net
+netbsd
 netdisco
 netdump
 neteco
@@ -4647,6 +4669,8 @@ NICONEX
 nicu
 niels
 nieves
+nigeria
+nigery
 nik
 nikhil
 nikita
@@ -4684,6 +4708,7 @@ nobody4
 noc
 nodebb
 noel
+nogare
 nokia
 nologin
 noob
@@ -4719,6 +4744,7 @@ nuke
 numis
 nur
 nut
+nvidia
 nvp
 nx
 ny
@@ -5023,6 +5049,7 @@ plesk-root
 plmplmplmde
 plugins
 pluntke
+plus
 pluto
 pm
 Pmarvel2009
@@ -5044,6 +5071,7 @@ porta
 portal
 porteria
 portmap
+portugal
 pos
 poseidon
 posp
@@ -5520,6 +5548,7 @@ sc1ent1f1c5556
 SC-2101
 scan
 scanner
+scarface
 scennet2020t
 schoala
 school
@@ -5673,12 +5702,14 @@ skly
 sksharma
 sky
 skylar
+skyline
 skype
 skyrix
 slacker
 slap
 slayer
 sleepzz
+slide
 slike62
 slim
 slow
@@ -5793,6 +5824,7 @@ ss
 ss2701
 ss7
 ssh
+ssh22
 sshd
 sshpro
 sshusr
@@ -5984,6 +6016,7 @@ tatyana
 taufik
 taylor
 taz
+tcl
 tcpdump
 teach
 teacher
@@ -6328,6 +6361,7 @@ usuario
 usuario1
 usuario2
 usui
+utente
 utilidad
 utilidades
 utopia
@@ -6492,6 +6526,7 @@ we3frwtfwgtfw43tw
 web
 web1
 web2
+webadm
 webadmin
 webadministrator
 webalizer
