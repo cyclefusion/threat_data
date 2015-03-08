@@ -12,30 +12,34 @@ FFB1 47C1 326E A063
 ### Summary
 
 Date: March 07, 2015  
-Total attacks today: 63486  
-Attempted Malware Downloads: 27 
+Total attacks today: 126760  
+Attempted Malware Downloads: 67 
 
 #### IP addresses
 The following are the top 10 attacker IP addresses today, including the frequency of usage:
 ```
-   4843 103.41.124.48
-   4302 103.41.124.59
-   3915 103.41.124.36
-   3777 103.41.124.47
-   3772 103.41.124.49
-   3336 103.41.124.42
-   3314 103.41.124.17
-   3301 103.41.124.18
-   2917 61.160.215.102
-   2381 186.46.137.170
+   6667 103.41.124.104
+   5431 103.41.124.36
+   4988 103.41.124.18
+   4935 103.41.124.59
+   4866 103.41.124.16
+   4844 103.41.124.48
+   4488 103.41.124.26
+   4465 103.41.124.51
+   4424 103.41.124.58
+   4394 103.41.124.52
 ```
 
 #### Attempted URL Downloads
 The following are URLs attackers attempted to download and execute once they compromising a honeypot sensor:
 ```
 http://183.56.173.23:25816/asdq16
+http://185.61.137.109//.xml.pl
+http://185.61.137.109/.xml.pl
 http://23.234.60.140/install/8005
 http://23.234.60.140/install/8005]
+http://61.160.247.14:7711/Maintain.sh
+http://61.160.247.14:7711/Maintain.sh]
 http://93.174.93.45/.edu.pl
 http://93.174.93.45/ktx-mipsel
 http://93.174.93.45/mips-ktx
@@ -44,52 +48,59 @@ http://buhenge.com/z2
 http://buhenge.com/z3
 http://buhenge.com/z4
 http://buhenge.com/z6
+http://cachefly.cachefly.net/100mb.test
+http://cachefly.cachefly.net/100mb.test]
+http://download.microsoft.com/download/win2000platform/SP/SP3/NT5/EN-US/W2Ksp3.exe
+http://soft.hackrz.org/bnc/psy-linux.tgz
+http://soft.hackrz.org/bnc/psy-linux.tgz]
+http://speedtest.wdc01.softlayer.com/downloads/test10.zip
+http://speedtest.wdc01.softlayer.com/downloads/test10.zip]
 ```
 
 #### Passwords
 The following are the top 25 passwords today, including the frequency of usage:
 ```
-  14251 root
-    175 changeme
-    134 www
-    133 admin
-     85 test
-     84 default
-     79 oracle
-     71 123456
-     69 guest
-     67 postgres
-     51 operator
-     43 password
-     43 12345
-     39 ubnt
-     35 bin
-     34 -
-     32 12345678
-     31 
-     29 upload
-     28 abc123
-     26 password1
-     25 sql
-     24 support
-     24 PASSWORD
-     24 123456789
+  24154 root
+    292 changeme
+    222 admin
+    200 www
+    171 123456
+    143 default
+    124 test
+    113 password
+    112 oracle
+     87 guest
+     83 ubnt
+     77 postgres
+     76 operator
+     72 123456789
+     66 12345
+     64 
+     63 sql
+     58 qwerty
+     53 support
+     52 bin
+     49 12345678
+     49 -
+     44 sysadmin
+     44 123qwe
+     43 web
 ```
 
 #### Usernames
 The following are the top 3 usernames today, including the frequency of usage:
 ```
-  60897 root
-    172 admin
-    136 www
+ 122391 root
+    325 admin
+    215 oracle
 ```
 
 #### SSH Library Version
 The following are the top 5 SSH library versions today, including the frequency of usage:
 ```
-  18181 SSH-2.0-PUTTY
-   3396 SSH-2.0-libssh-0.1
-    780 SSH-2.0-libssh2_1.4.3
-    696 SSH-2.0-libssh-0.2
-    365 SSH-2.0-OpenSSH_4.3
+  38220 SSH-2.0-PUTTY
+   4996 SSH-2.0-libssh-0.1
+   1676 SSH-2.0-libssh-0.2
+    985 SSH-2.0-libssh2_1.4.3
+    870 SSH-2.0-libssh2_1.4.1
 ```
