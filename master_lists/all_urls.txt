@@ -48,6 +48,7 @@ http://183.61.164.167:8018/12316
 http://183.61.254.11:8080/L24_24011
 http://185.11.147.246/tst2.pl
 http://185.61.137.109//.xml.pl
+http://185.61.137.109/.xml.pl
 http://185.63.253.93/.lu.pl
 http://185.63.253.93/new
 http://185.63.253.93/.xtkarmx
@@ -191,6 +192,10 @@ http://root-arhive.serveftp.com/psybnc/psybnc-linux.jpg
 http://root-arhive.serveftp.com/scanner/gosh.jpg
 http://root-arhive.serveftp.com/scanner/mass.jpg
 http://r.o.o.t.hi2.ro/private/psybnc.c
+http://soft.hackrz.org/bnc/psy-linux.tgz
+http://soft.hackrz.org/bnc/psy-linux.tgz]
+http://speedtest.wdc01.softlayer.com/downloads/test10.zip
+http://speedtest.wdc01.softlayer.com/downloads/test10.zip]
 http://stanislaw.altervista.org/2.php
 http://wget.clan.su/moe.tar.gz
 http://wget.clan.su/moe.tar.gz>
