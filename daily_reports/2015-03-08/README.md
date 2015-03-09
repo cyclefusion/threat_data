@@ -12,22 +12,22 @@ FFB1 47C1 326E A063
 ### Summary
 
 Date: March 08, 2015  
-Total attacks today: 63211  
-Attempted Malware Downloads: 18 
+Total attacks today: 150288  
+Attempted Malware Downloads: 35 
 
 #### IP addresses
 The following are the top 10 attacker IP addresses today, including the frequency of usage:
 ```
-   4083 103.41.124.54
-   3852 103.41.124.61
-   3792 103.41.124.44
-   3565 103.41.124.41
-   3374 103.41.124.112
-   3062 103.41.124.53
-   2962 103.41.124.29
-   2578 103.41.124.45
-   2390 103.41.124.49
-   2160 103.41.124.42
+   8915 103.41.124.54
+   7449 103.41.124.53
+   6634 103.41.124.35
+   5541 103.41.124.103
+   5368 103.41.124.44
+   5165 103.41.124.61
+   5141 103.41.124.42
+   4657 103.41.124.112
+   4519 103.41.124.41
+   4509 103.41.124.101
 ```
 
 #### Attempted URL Downloads
@@ -37,6 +37,14 @@ http://185.61.137.109//.xml.pl
 http://185.61.137.109//.xml.pl]
 http://185.61.137.109/.xml.pl
 http://185.61.137.109/.xml.pl]
+http://23.234.60.140/install/8008
+http://93.174.93.45/ktx-armer
+http://buhenge.com/z1
+http://buhenge.com/z3
+http://buhenge.com/z5
+http://buhenge.com/z6
+http://listfiles.comoj.com/udp.pl
+http://listfiles.comoj.com/udp.pl]
 http://speedtest.wdc01.softlayer.com/downloads/test10.zip
 http://speedtest.wdc01.softlayer.com/downloads/test10.zip]
 ```
@@ -44,47 +52,47 @@ http://speedtest.wdc01.softlayer.com/downloads/test10.zip]
 #### Passwords
 The following are the top 25 passwords today, including the frequency of usage:
 ```
-   6780 root
-    155 changeme
-    119 www
-    109 default
-    104 admin
-     67 support
-     64 123456
-     60 ubnt
-     58 password
-     52 sql
-     46 123456789
-     44 sysadmin
-     43 operator
-     43 asteriskftp
-     40 12345
-     31 12345678
-     31 -
-     30 password1
-     30 oracle
-     30 abc123
-     29 PASSWORD
-     29 !@
-     28 
-     26 1234
-     18 test
+  14680 root
+    243 changeme
+    208 admin
+    192 www
+    188 123456
+    175 default
+    155 password
+    128 ubnt
+    121 
+    110 support
+     93 sql
+     89 12345
+     84 123
+     81 operator
+     78 oracle
+     76 sysadmin
+     76 123456789
+     74 asteriskftp
+     69 abc123
+     66 test
+     65 12345678
+     63 password1
+     59 1234
+     56 PASSWORD
+     56 !@
 ```
 
 #### Usernames
 The following are the top 3 usernames today, including the frequency of usage:
 ```
-  61807 root
-    186 admin
-    119 www
+ 146446 root
+    386 admin
+    199 www
 ```
 
 #### SSH Library Version
 The following are the top 5 SSH library versions today, including the frequency of usage:
 ```
-  20578 SSH-2.0-PUTTY
-    667 SSH-2.0-libssh-0.2
-    571 SSH-2.0-libssh2_1.4.1
-    508 SSH-2.0-libssh-0.1
-    331 SSH-2.0-OpenSSH_4.3
+  48309 SSH-2.0-PUTTY
+   2409 SSH-2.0-libssh-0.1
+   1188 SSH-2.0-libssh2_1.4.1
+    966 SSH-2.0-libssh-0.2
+    573 SSH-2.0-libssh-0.5.2
 ```
