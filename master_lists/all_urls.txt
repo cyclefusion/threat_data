@@ -187,6 +187,8 @@ http://ftp.rxxiaoao.com/install/n8007.rar
 http://ftp.rxxiaoao.com/install/n8008.rar
 http://kiss4u.go.ro/smoke.tgz
 http://kiss4u.go.ro/smoke.tgz]
+http://listfiles.comoj.com/udp.pl
+http://listfiles.comoj.com/udp.pl]
 http://moe.psybnc.org/Moe.tar.gz
 http://root-arhive.serveftp.com/emech/system2.jpg
 http://root-arhive.serveftp.com/flood/global/udp.tgz
