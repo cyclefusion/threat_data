@@ -21,21 +21,21 @@
     800 http://cs.frade8c.com:9162/dsgregd
     800 http://cs.frade8c.com:9162/byv832
     488 http://202.191.121.230/ou.pl
+    260 http://64.32.12.152/gnu-bash-max-race
     186 http://buhenge.com/z1
     186 http://61.218.226.170/
+    159 http://test.music-set.net/mobile/t3.log
     115 http://buhenge.com/z2
     109 http://185.63.253.93/.lu.pl
-    104 http://64.32.12.152/gnu-bash-max-race
+    103 http://23.234.60.140/install/8002
      80 http://202.202.121.27/bot.txt
      79 http://buhenge.com/z4
      72 http://buhenge.com/z5
      63 http://buhenge.com/z3
      63 http://23.234.60.140/install/8001
-     60 http://23.234.60.140/install/8002
      55 http://buhenge.com/z6
      54 http://23.234.60.140/install/8008
      50 http://188.212.103.234/private/auto/.xtkarmx
-     48 http://202.191.121.230/mzer.pl
      37 http://23.234.60.140/install/8005
      36 http://178.33.196.164:53/
      36 http://178.33.196.164:443/
@@ -55,6 +55,7 @@
      18 http://www.frade8c.com:9162/root
      17 http://23.234.60.140/install/48513
      16 http://93.184.66.196/.xml.pl
+     16 http://93.174.93.45/mips-ktx
      16 http://23.228.102.152:1818/bulong
      15 http://ftp.rxxiaoao.com/install/n8006.rar
      14 http://185.61.137.109//.xml.pl
@@ -64,7 +65,6 @@
      13 http://115.29.165.174:53621/ssh77
      12 http://buhenge.com/2821
      12 http://93.184.66.196/.ztx.pl
-     12 http://93.174.93.45/mips-ktx
      11 http://ftp.rxxiaoao.com/install/n8007.rar
      11 http://93.174.93.45/ktx-mipsel
      11 http://162.218.30.75:1818/ssh33
@@ -97,6 +97,7 @@
       6 http://cachefly.cachefly.net/100mb.test
       6 http://94.102.63.155/res.html
       6 http://61.160.247.14:7711/Maintain.sh
+      6 http://23.234.60.140/install/8002]
       6 http://204.44.104.93:8080/iten64
       6 http://183.61.164.167:8018/12316
       6 http://124.115.16.31:8009/xqq
@@ -106,6 +107,7 @@
       4 http://93.184.66.196/.ppw
       4 http://93.184.66.196/.ppc
       4 http://93.174.93.45/.lu.pl
+      4 http://93.174.93.45/ktx-mips
       4 http://93.174.93.45/ktx-i686er
       4 http://93.174.93.45/.edu.pl
       4 http://60.173.10.177:8080/14.17
@@ -117,6 +119,7 @@
       4 http://210.56.50.13:8080/bin.sh
       4 http://204.44.104.93:8080/npc
       4 http://204.44.104.93:8080/lin32
+      4 http://185.61.137.109//.bub.pl
       4 http://183.60.202.9:1560/qwe0x03qa0
       4 http://183.136.213.96:8090/Internet
       4 http://183.136.213.96:8090/10991
@@ -153,6 +156,7 @@
       2 http://50.116.13.237/profile
       2 http://39.109.0.113:1111/mm64
       2 http://39.109.0.113:1111/32.64
+      2 http://2u.girlshare.ro/download/37659522/sc_serv
       2 http://23.234.60.140/install/8001]
       2 http://222.186.56.46:9987/data5
       2 http://222.186.34.215:8989/msql
@@ -202,7 +206,6 @@
       1 http://39.109.0.113:1111/32Mm
       1 http://23.234.60.140/install/8005]
       1 http://23.234.60.140/install/8003]
-      1 http://23.234.60.140/install/8002]
       1 http://185.63.253.93/.xtki686x
       1 http://185.61.137.109/.xml.pl]
       1 http://185.61.137.109//.xml.pl]
