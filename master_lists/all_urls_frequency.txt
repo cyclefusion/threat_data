@@ -36,12 +36,12 @@
      57 http://buhenge.com/z6
      54 http://23.234.60.140/install/8008
      50 http://188.212.103.234/private/auto/.xtkarmx
+     44 http://23.234.60.140/install/8003
      37 http://23.234.60.140/install/8005
      36 http://178.33.196.164:53/
      36 http://178.33.196.164:443/
      36 http://178.33.196.164/
      36 http://122.10.85.54/
-     32 http://23.234.60.140/install/8003
      31 http://188.212.103.234/private/auto/.xtki686x
      26 http://ftp.rxxiaoao.com/install/n8002.rar
      26 http://ftp.rxxiaoao.com/install/n8000.rar
@@ -57,6 +57,7 @@
      16 http://93.184.66.196/.xml.pl
      16 http://93.174.93.45/mips-ktx
      16 http://23.228.102.152:1818/bulong
+     15 http://speedtest.wdc01.softlayer.com/downloads/test10.zip
      15 http://ftp.rxxiaoao.com/install/n8006.rar
      14 http://185.61.137.109//.xml.pl
      14 http://151.236.44.210/ft.exe
@@ -65,6 +66,7 @@
      13 http://115.29.165.174:53621/ssh77
      12 http://buhenge.com/2821
      12 http://93.184.66.196/.ztx.pl
+     12 http://93.174.93.45/ktx-armer
      11 http://ftp.rxxiaoao.com/install/n8007.rar
      11 http://93.174.93.45/ktx-mipsel
      11 http://162.218.30.75:1818/ssh33
@@ -89,12 +91,13 @@
       9 http://www.frade8c.com:9162/byv832
       8 http://root-arhive.serveftp.com/emech/system2.jpg
       8 http://93.174.93.45/x64-ktx
-      8 http://93.174.93.45/ktx-armer
+      8 http://93.174.93.45/ktx-i686er
+      8 http://218.244.148.238:8080/npc1
+      8 http://218.244.148.238:8080/npc
       8 http://210.56.50.13:8080/npc
       8 http://106.185.24.106/4
       7 http://stanislaw.altervista.org/2.php
       7 http://185.63.253.93/.xtkarmx
-      6 http://speedtest.wdc01.softlayer.com/downloads/test10.zip
       6 http://cachefly.cachefly.net/100mb.test
       6 http://94.102.63.155/res.html
       6 http://61.160.247.14:7711/Maintain.sh
@@ -103,20 +106,19 @@
       6 http://183.61.164.167:8018/12316
       6 http://124.115.16.31:8009/xqq
       6 http://100.42.30.34/lex
+      5 http://speedtest.wdc01.softlayer.com/downloads/test10.zip]
       5 http://23.234.60.140:8081/install/8007
       4 http://ctrlcenter.pw/iz/.z.pl
       4 http://93.184.66.196/.ppw
       4 http://93.184.66.196/.ppc
       4 http://93.174.93.45/.lu.pl
       4 http://93.174.93.45/ktx-mips
-      4 http://93.174.93.45/ktx-i686er
       4 http://93.174.93.45/.edu.pl
       4 http://60.173.10.177:8080/14.17
       4 http://39.109.0.113:8520/eee
       4 http://39.109.0.113:1111/Mm
       4 http://23.234.60.140:8081/install/8006
-      4 http://218.244.148.238:8080/npc1
-      4 http://218.244.148.238:8080/npc
+      4 http://218.244.148.238:8080/bin.sh
       4 http://210.56.50.13:8080/bin.sh
       4 http://204.44.104.93:8080/npc
       4 http://204.44.104.93:8080/lin32
@@ -137,7 +139,6 @@
       2 http://wget.clan.su/v.txt
       2 http://wget.clan.su/moe.tar.gz>
       2 http://wget.clan.su/moe.tar.gz
-      2 http://speedtest.wdc01.softlayer.com/downloads/test10.zip]
       2 http://r.o.o.t.hi2.ro/private/psybnc.c
       2 http://root-arhive.serveftp.com/scanner/mass.jpg
       2 http://root-arhive.serveftp.com/scanner/gosh.jpg
@@ -158,13 +159,13 @@
       2 http://39.109.0.113:1111/mm64
       2 http://39.109.0.113:1111/32.64
       2 http://2u.girlshare.ro/download/37659522/sc_serv
+      2 http://23.234.60.140/install/8003]
       2 http://23.234.60.140/install/8001]
       2 http://222.186.56.46:9987/data5
       2 http://222.186.34.215:8989/msql
       2 http://222.186.31.73:8123/.azui
       2 http://222.186.31.11:60/lan2.6
       2 http://218.75.153.137:8080/lin32
-      2 http://218.244.148.238:8080/bin.sh
       2 http://216.99.156.165:6597/.azui
       2 http://210.77.96.165:1111/linux-mips
       2 http://210.77.96.165:1111/linux-arm
@@ -207,7 +208,6 @@
       1 http://39.109.0.113:1111/666
       1 http://39.109.0.113:1111/32Mm
       1 http://23.234.60.140/install/8005]
-      1 http://23.234.60.140/install/8003]
       1 http://185.63.253.93/.xtki686x
       1 http://185.61.137.109/.xml.pl]
       1 http://185.61.137.109//.xml.pl]
