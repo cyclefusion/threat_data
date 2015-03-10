@@ -25,15 +25,15 @@
     186 http://buhenge.com/z1
     186 http://61.218.226.170/
     159 http://test.music-set.net/mobile/t3.log
-    115 http://buhenge.com/z2
+    116 http://buhenge.com/z2
     109 http://185.63.253.93/.lu.pl
     103 http://23.234.60.140/install/8002
+     80 http://buhenge.com/z4
      80 http://202.202.121.27/bot.txt
-     79 http://buhenge.com/z4
-     72 http://buhenge.com/z5
-     63 http://buhenge.com/z3
+     73 http://buhenge.com/z5
+     64 http://buhenge.com/z3
      63 http://23.234.60.140/install/8001
-     55 http://buhenge.com/z6
+     57 http://buhenge.com/z6
      54 http://23.234.60.140/install/8008
      50 http://188.212.103.234/private/auto/.xtkarmx
      37 http://23.234.60.140/install/8005
@@ -76,6 +76,7 @@
      10 http://185.63.253.93/new
      10 http://185.61.137.109/.xml.pl
      10 http://106.185.24.106/5
+     10 http://104.192.0.130/pl
       9 http://www.frade8c.com:9162/whitptabil
       9 http://www.frade8c.com:9162/smarvtd
       9 http://www.frade8c.com:9162/sfewfesfs
@@ -191,6 +192,7 @@
       2 http://115.29.165.174:25663/32
       2 http://115.239.248.55:8080/sshd
       2 http://104.194.20.23:8080/2222
+      2 http://104.192.0.130/pl]
       1 http://www.majestic12.co.uk/bot.php?+)
       1 http://wget.clan.su/v.txt)
       1 http://wget.clan.su/moe.tar.gz)
