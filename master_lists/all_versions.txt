@@ -80,6 +80,7 @@ SSH-2.0-PuTTY_Snapshot_2015_02_07.ced3a46
 SSH-2.0-Renci.SshNet.SshClient.0.0.1
 SSH-2.0-SecureCRT_6.5.0
 SSH-2.0-SecureCRT_7.3.1
+SSH-2.0-vngx-jsch-0.9-1.44
 SSH-2.0-WinSCP_release_4.1.9
 SSH-2.0-WinSCP_release_5.1.2
 SSH-2.0-WinSCP_release_5.1.4

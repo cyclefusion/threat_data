@@ -22,26 +22,27 @@
     800 http://cs.frade8c.com:9162/byv832
     488 http://202.191.121.230/ou.pl
     260 http://64.32.12.152/gnu-bash-max-race
-    186 http://buhenge.com/z1
+    187 http://buhenge.com/z1
     186 http://61.218.226.170/
     159 http://test.music-set.net/mobile/t3.log
     116 http://buhenge.com/z2
     109 http://185.63.253.93/.lu.pl
     103 http://23.234.60.140/install/8002
-     80 http://buhenge.com/z4
+     81 http://buhenge.com/z4
      80 http://202.202.121.27/bot.txt
-     73 http://buhenge.com/z5
-     64 http://buhenge.com/z3
+     74 http://buhenge.com/z5
+     65 http://buhenge.com/z3
      63 http://23.234.60.140/install/8001
-     57 http://buhenge.com/z6
+     59 http://buhenge.com/z6
      54 http://23.234.60.140/install/8008
+     50 http://206.132.160.38/icons/zeus.pl
      50 http://188.212.103.234/private/auto/.xtkarmx
      44 http://23.234.60.140/install/8003
+     39 http://178.33.196.164:53/
+     39 http://178.33.196.164:443/
+     39 http://178.33.196.164/
+     39 http://122.10.85.54/
      37 http://23.234.60.140/install/8005
-     36 http://178.33.196.164:53/
-     36 http://178.33.196.164:443/
-     36 http://178.33.196.164/
-     36 http://122.10.85.54/
      31 http://188.212.103.234/private/auto/.xtki686x
      26 http://ftp.rxxiaoao.com/install/n8002.rar
      26 http://ftp.rxxiaoao.com/install/n8000.rar
@@ -60,6 +61,7 @@
      15 http://speedtest.wdc01.softlayer.com/downloads/test10.zip
      15 http://ftp.rxxiaoao.com/install/n8006.rar
      14 http://185.61.137.109//.xml.pl
+     14 http://185.61.137.109//.bub.pl
      14 http://151.236.44.210/ft.exe
      13 http://ftp.rxxiaoao.com/install/n8001.rar
      13 http://45.56.89.67/5
@@ -89,6 +91,7 @@
       9 http://www.frade8c.com:9162/gdmorpen
       9 http://www.frade8c.com:9162/fdsfsfvff
       9 http://www.frade8c.com:9162/byv832
+      9 http://61.160.247.14:7711/Maintain.sh
       8 http://root-arhive.serveftp.com/emech/system2.jpg
       8 http://93.174.93.45/x64-ktx
       8 http://93.174.93.45/ktx-i686er
@@ -100,7 +103,6 @@
       7 http://185.63.253.93/.xtkarmx
       6 http://cachefly.cachefly.net/100mb.test
       6 http://94.102.63.155/res.html
-      6 http://61.160.247.14:7711/Maintain.sh
       6 http://23.234.60.140/install/8002]
       6 http://204.44.104.93:8080/iten64
       6 http://183.61.164.167:8018/12316
@@ -122,7 +124,6 @@
       4 http://210.56.50.13:8080/bin.sh
       4 http://204.44.104.93:8080/npc
       4 http://204.44.104.93:8080/lin32
-      4 http://185.61.137.109//.bub.pl
       4 http://183.60.202.9:1560/qwe0x03qa0
       4 http://183.136.213.96:8090/Internet
       4 http://183.136.213.96:8090/10991
@@ -134,6 +135,7 @@
       3 http://listfiles.comoj.com/udp.pl
       3 http://kiss4u.go.ro/smoke.tgz
       3 http://74.208.166.12/bot.txt
+      3 http://61.160.247.14:7711/Maintain.sh]
       3 http://23.234.60.140/install/8008]
       2 http://wget.clan.su/v.txt>
       2 http://wget.clan.su/v.txt
@@ -151,7 +153,6 @@
       2 http://buhenge.com/m1
       2 http://buhenge.com/2836
       2 http://buhenge.com/2828a6
-      2 http://61.160.247.14:7711/Maintain.sh]
       2 http://61.147.103.173:8080/9999
       2 http://60.173.10.177:10020/sperhong
       2 http://5.175.181.46/a/ssh5.5p1.jpg
@@ -211,6 +212,7 @@
       1 http://185.63.253.93/.xtki686x
       1 http://185.61.137.109/.xml.pl]
       1 http://185.61.137.109//.xml.pl]
+      1 http://185.61.137.109//.bub.pl]
       1 http://183.136.213.96:8090/10991'
       1 http://176.102.38.77/search/e.php?h=cloudemotions.com/cgi-sys/entropysearch.cgi'
       1 http://176.102.38.77/search/e.php?h=cloudemotions.com/cgi-bin/'
