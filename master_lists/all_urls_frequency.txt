@@ -20,7 +20,7 @@
     800 http://cs.frade8c.com:9162/fdsfsfvff
     800 http://cs.frade8c.com:9162/dsgregd
     800 http://cs.frade8c.com:9162/byv832
-    488 http://202.191.121.230/ou.pl
+    550 http://202.191.121.230/ou.pl
     260 http://64.32.12.152/gnu-bash-max-race
     187 http://buhenge.com/z1
     186 http://61.218.226.170/
@@ -48,6 +48,7 @@
      26 http://ftp.rxxiaoao.com/install/n8000.rar
      24 http://ftp.rxxiaoao.com/install/n8008.rar
      24 http://ftp.rxxiaoao.com/install/n8003.rar
+     24 http://93.174.93.45/mips-ktx
      24 http://209.236.71.188/midx
      22 http://23.234.60.140/install/8007
      21 http://ftp.rxxiaoao.com/install/n8005.rar
@@ -56,7 +57,6 @@
      18 http://www.frade8c.com:9162/root
      17 http://23.234.60.140/install/48513
      16 http://93.184.66.196/.xml.pl
-     16 http://93.174.93.45/mips-ktx
      16 http://23.228.102.152:1818/bulong
      15 http://speedtest.wdc01.softlayer.com/downloads/test10.zip
      15 http://ftp.rxxiaoao.com/install/n8006.rar
@@ -79,6 +79,7 @@
      10 http://204.44.104.93:8080/iten32
      10 http://185.63.253.93/new
      10 http://185.61.137.109/.xml.pl
+     10 http://185.61.137.109/.bub.pl
      10 http://106.185.24.106/5
      10 http://104.192.0.130/pl
       9 http://www.frade8c.com:9162/whitptabil
@@ -212,6 +213,7 @@
       1 http://185.63.253.93/.xtki686x
       1 http://185.61.137.109/.xml.pl]
       1 http://185.61.137.109//.xml.pl]
+      1 http://185.61.137.109/.bub.pl]
       1 http://185.61.137.109//.bub.pl]
       1 http://183.136.213.96:8090/10991'
       1 http://176.102.38.77/search/e.php?h=cloudemotions.com/cgi-sys/entropysearch.cgi'
