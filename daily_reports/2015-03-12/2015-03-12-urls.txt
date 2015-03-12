@@ -1,0 +1,4 @@
+http://185.61.137.109//.xml.pl
+http://185.61.137.109//.xml.pl]
+http://dl.packetstormsecurity.net/DoS/udp.pl
+http://dl.packetstormsecurity.net/DoS/udp.pl]
