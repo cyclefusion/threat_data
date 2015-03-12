@@ -12,22 +12,22 @@ FFB1 47C1 326E A063
 ### Summary
 
 Date: March 11, 2015  
-Total attacks today: 17947  
-Attempted Malware Downloads: 19 
+Total attacks today: 67800  
+Attempted Malware Downloads: 40 
 
 #### IP addresses
 The following are the top 10 attacker IP addresses today, including the frequency of usage:
 ```
+  14824 103.41.124.36
+  11100 103.41.124.45
+   7461 103.41.124.42
    7444 103.41.124.65
-   3057 103.41.124.103
+   6361 103.41.124.32
+   5220 103.41.124.103
+   4082 103.41.124.37
    2211 103.41.124.56
-    435 175.99.89.178
-    390 101.226.168.158
-    338 222.186.56.41
-    336 103.41.124.45
-    324 103.41.124.108
-    280 217.118.23.69
-    242 112.220.204.42
+    761 112.216.92.44
+    587 104.130.201.189
 ```
 
 #### Attempted URL Downloads
@@ -35,53 +35,62 @@ The following are URLs attackers attempted to download and execute once they com
 ```
 http://185.61.137.109/.bub.pl
 http://185.61.137.109/.bub.pl]
+http://185.61.137.109//.xml.pl
+http://185.61.137.109//.xml.pl]
+http://23.234.60.140/install/8002
+http://23.234.60.140/install/8002]
 http://93.174.93.45/mips-ktx
+http://buhenge.com/z1
+http://buhenge.com/z3
+http://buhenge.com/z5
+http://buhenge.com/z6
+http://justhiph0pmusic.altervista.org/done
 ```
 
 #### Passwords
 The following are the top 25 passwords today, including the frequency of usage:
 ```
-    505 root
-    223 changeme
-    122 www
-    105 default
-     77 admin
-     64 123456
-     62 alpine
-     54 support
-     51 password
-     51 operator
-     51 123456789
-     48 sysadmin
-     48 sql
-     48 asteriskftp
-     46 ubnt
-     40 1qaz2wsx
-     38 123qwe
-     36 1q2w3e4r
-     36 
-     35 qwe123
-     26 oracle
-     20 nagios
-     19 postgres
-     18 -
-     16 a
+    572 root
+    382 changeme
+    224 
+    196 www
+    155 default
+    135 admin
+    101 alpine
+     98 123456
+     92 password
+     82 support
+     81 123456789
+     76 ubnt
+     72 sysadmin
+     72 operator
+     65 sql
+     65 cloudatcost
+     63 asteriskftp
+     60 cloudatcost.com
+     56 1qaz2wsx
+     47 123qwe
+     41 qwe123
+     41 1q2w3e4r
+     38 test
+     38 oracle
+     32 -
 ```
 
 #### Usernames
 The following are the top 3 usernames today, including the frequency of usage:
 ```
-  15926 root
-    163 admin
-    124 www
+  63628 root
+    263 admin
+    198 www
 ```
 
 #### SSH Library Version
 The following are the top 5 SSH library versions today, including the frequency of usage:
 ```
-   4971 SSH-2.0-PUTTY
-   1231 SSH-2.0-libssh-0.1
-    774 SSH-2.0-libssh2_1.4.1
-    465 SSH-2.0-OpenSSH_4.3
-    380 SSH-2.0-libssh-0.2
+  20543 SSH-2.0-PUTTY
+   3361 SSH-2.0-libssh-0.1
+   1235 SSH-2.0-libssh2_1.4.1
+    764 SSH-2.0-OpenSSH_4.3
+    436 SSH-2.0-libssh-0.2
 ```
