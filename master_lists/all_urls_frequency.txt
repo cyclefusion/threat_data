@@ -22,18 +22,18 @@
     800 http://cs.frade8c.com:9162/byv832
     550 http://202.191.121.230/ou.pl
     260 http://64.32.12.152/gnu-bash-max-race
-    187 http://buhenge.com/z1
+    189 http://buhenge.com/z1
     186 http://61.218.226.170/
     159 http://test.music-set.net/mobile/t3.log
     116 http://buhenge.com/z2
+    109 http://23.234.60.140/install/8002
     109 http://185.63.253.93/.lu.pl
-    103 http://23.234.60.140/install/8002
      81 http://buhenge.com/z4
      80 http://202.202.121.27/bot.txt
-     74 http://buhenge.com/z5
-     65 http://buhenge.com/z3
+     75 http://buhenge.com/z5
+     67 http://buhenge.com/z3
      63 http://23.234.60.140/install/8001
-     59 http://buhenge.com/z6
+     60 http://buhenge.com/z6
      54 http://23.234.60.140/install/8008
      50 http://206.132.160.38/icons/zeus.pl
      50 http://188.212.103.234/private/auto/.xtkarmx
@@ -50,6 +50,7 @@
      24 http://ftp.rxxiaoao.com/install/n8003.rar
      24 http://93.174.93.45/mips-ktx
      24 http://209.236.71.188/midx
+     24 http://185.61.137.109//.xml.pl
      22 http://23.234.60.140/install/8007
      21 http://ftp.rxxiaoao.com/install/n8005.rar
      21 http://23.234.60.140/install/8004
@@ -60,7 +61,6 @@
      16 http://23.228.102.152:1818/bulong
      15 http://speedtest.wdc01.softlayer.com/downloads/test10.zip
      15 http://ftp.rxxiaoao.com/install/n8006.rar
-     14 http://185.61.137.109//.xml.pl
      14 http://185.61.137.109//.bub.pl
      14 http://151.236.44.210/ft.exe
      13 http://ftp.rxxiaoao.com/install/n8001.rar
@@ -101,10 +101,10 @@
       8 http://210.56.50.13:8080/npc
       8 http://106.185.24.106/4
       7 http://stanislaw.altervista.org/2.php
+      7 http://23.234.60.140/install/8002]
       7 http://185.63.253.93/.xtkarmx
       6 http://cachefly.cachefly.net/100mb.test
       6 http://94.102.63.155/res.html
-      6 http://23.234.60.140/install/8002]
       6 http://204.44.104.93:8080/iten64
       6 http://183.61.164.167:8018/12316
       6 http://124.115.16.31:8009/xqq
@@ -148,6 +148,7 @@
       2 http://root-arhive.serveftp.com/psybnc/psybnc-linux.jpg
       2 http://root-arhive.serveftp.com/flood/global/udp.tgz
       2 http://moe.psybnc.org/Moe.tar.gz
+      2 http://justhiph0pmusic.altervista.org/done
       2 http://dldir1.qq.com/qqfile/qq/QQ6.3/12390/QQ6.3.exe
       2 http://cachefly.cachefly.net/100mb.test]
       2 http://buhenge.com/p1
@@ -178,6 +179,7 @@
       2 http://204.44.104.93:8080/bin.sh
       2 http://198.2.209.133:7899/cao1.exe
       2 http://198.200.53.79:899/cymei
+      2 http://185.61.137.109//.xml.pl]
       2 http://185.11.147.246/tst2.pl
       2 http://183.61.254.11:8080/L24_24011
       2 http://183.60.197.231:5156/mazi
@@ -212,7 +214,6 @@
       1 http://23.234.60.140/install/8005]
       1 http://185.63.253.93/.xtki686x
       1 http://185.61.137.109/.xml.pl]
-      1 http://185.61.137.109//.xml.pl]
       1 http://185.61.137.109/.bub.pl]
       1 http://185.61.137.109//.bub.pl]
       1 http://183.136.213.96:8090/10991'
