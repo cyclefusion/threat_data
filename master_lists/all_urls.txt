@@ -184,6 +184,8 @@ http://ctrlcenter.pw/iz/payc
 http://ctrlcenter.pw/iz/payw
 http://ctrlcenter.pw/iz/.z.pl
 http://dldir1.qq.com/qqfile/qq/QQ6.3/12390/QQ6.3.exe
+http://dl.packetstormsecurity.net/DoS/udp.pl
+http://dl.packetstormsecurity.net/DoS/udp.pl]
 http://download.microsoft.com/download/win2000platform/SP/SP3/NT5/EN-US/W2Ksp3.exe
 http://ftp.rxxiaoao.com/install/n8000.rar
 http://ftp.rxxiaoao.com/install/n8001.rar
