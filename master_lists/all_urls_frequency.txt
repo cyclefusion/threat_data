@@ -22,19 +22,19 @@
     800 http://cs.frade8c.com:9162/byv832
     550 http://202.191.121.230/ou.pl
     260 http://64.32.12.152/gnu-bash-max-race
-    189 http://buhenge.com/z1
+    190 http://buhenge.com/z1
     186 http://61.218.226.170/
     159 http://test.music-set.net/mobile/t3.log
     116 http://buhenge.com/z2
     109 http://23.234.60.140/install/8002
     109 http://185.63.253.93/.lu.pl
-     81 http://buhenge.com/z4
+     83 http://buhenge.com/z4
      80 http://202.202.121.27/bot.txt
-     75 http://buhenge.com/z5
-     67 http://buhenge.com/z3
+     76 http://buhenge.com/z5
+     71 http://23.234.60.140/install/8008
+     68 http://buhenge.com/z3
      63 http://23.234.60.140/install/8001
-     60 http://buhenge.com/z6
-     54 http://23.234.60.140/install/8008
+     61 http://buhenge.com/z6
      50 http://206.132.160.38/icons/zeus.pl
      50 http://188.212.103.234/private/auto/.xtkarmx
      44 http://23.234.60.140/install/8003
@@ -120,6 +120,7 @@
       4 http://60.173.10.177:8080/14.17
       4 http://39.109.0.113:8520/eee
       4 http://39.109.0.113:1111/Mm
+      4 http://23.234.60.140/install/8008]
       4 http://23.234.60.140:8081/install/8006
       4 http://218.244.148.238:8080/bin.sh
       4 http://210.56.50.13:8080/bin.sh
@@ -133,12 +134,12 @@
       4 http://115.29.165.174:38886/ssh77
       4 http://115.239.248.55:8080/ssh88
       3 http://soft.hackrz.org/bnc/psy-linux.tgz
+      3 http://root-arhive.serveftp.com/altele/pico.jpg
       3 http://listfiles.comoj.com/udp.pl
       3 http://kiss4u.go.ro/smoke.tgz
       3 http://dl.packetstormsecurity.net/DoS/udp.pl
       3 http://74.208.166.12/bot.txt
       3 http://61.160.247.14:7711/Maintain.sh]
-      3 http://23.234.60.140/install/8008]
       2 http://wget.clan.su/v.txt>
       2 http://wget.clan.su/v.txt
       2 http://wget.clan.su/moe.tar.gz>
@@ -150,6 +151,7 @@
       2 http://root-arhive.serveftp.com/flood/global/udp.tgz
       2 http://moe.psybnc.org/Moe.tar.gz
       2 http://justhiph0pmusic.altervista.org/done
+      2 http://gblmkd.web44.net/.backup/god.zip
       2 http://dldir1.qq.com/qqfile/qq/QQ6.3/12390/QQ6.3.exe
       2 http://cachefly.cachefly.net/100mb.test]
       2 http://buhenge.com/p1
@@ -203,6 +205,7 @@
       1 http://wget.clan.su/v.txt)
       1 http://wget.clan.su/moe.tar.gz)
       1 http://soft.hackrz.org/bnc/psy-linux.tgz]
+      1 http://root-arhive.serveftp.com/altele/pico.jpg]
       1 http://listfiles.comoj.com/udp.pl]
       1 http://kiss4u.go.ro/smoke.tgz]
       1 http://dl.packetstormsecurity.net/DoS/udp.pl]
