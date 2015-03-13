@@ -12,4 +12,7 @@ SSH-2.0-OpenSSH_5.3p1
 SSH-2.0-PUTTY
 SSH-2.0-PuTTY_Release_0.62
 SSH-2.0-PuTTY_Release_0.63
+SSH-2.0-PuTTY_Release_0.64
 SSH-2.0-PuTTY_Snapshot_2015_02_07.ced3a46
+SSH-2.0-WinSCP_release_5.5.6
+SSH-2.0-WinSCP_release_5.7

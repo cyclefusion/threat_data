@@ -12,22 +12,22 @@ FFB1 47C1 326E A063
 ### Summary
 
 Date: March 12, 2015  
-Total attacks today: 31551  
-Attempted Malware Downloads: 11 
+Total attacks today: 66215  
+Attempted Malware Downloads: 41 
 
 #### IP addresses
 The following are the top 10 attacker IP addresses today, including the frequency of usage:
 ```
+   7466 103.41.124.101
+   5758 103.41.124.14
    5613 103.41.124.46
    5613 103.41.124.25
    4896 103.41.124.56
+   3111 103.41.124.62
    2420 103.41.124.37
-   1629 202.112.112.230
-   1380 103.41.124.62
-   1344 103.41.124.112
-   1162 112.216.92.44
-   1119 103.41.124.16
-    871 175.99.89.178
+   1887 103.41.124.35
+   1826 89.218.14.247
+   1775 176.57.141.103
 ```
 
 #### Attempted URL Downloads
@@ -35,54 +35,64 @@ The following are URLs attackers attempted to download and execute once they com
 ```
 http://185.61.137.109//.xml.pl
 http://185.61.137.109//.xml.pl]
+http://23.234.60.140/install/8008
+http://23.234.60.140/install/8008]
+http://buhenge.com/z1
+http://buhenge.com/z3
+http://buhenge.com/z4
+http://buhenge.com/z5
+http://buhenge.com/z6
 http://dl.packetstormsecurity.net/DoS/udp.pl
 http://dl.packetstormsecurity.net/DoS/udp.pl]
+http://gblmkd.web44.net/.backup/god.zip
+http://root-arhive.serveftp.com/altele/pico.jpg
+http://root-arhive.serveftp.com/altele/pico.jpg]
 ```
 
 #### Passwords
 The following are the top 25 passwords today, including the frequency of usage:
 ```
-   6234 root
-    233 changeme
-    178 admin
-    121 test
-    120 www
-    116 guest
-    113 
-     86 default
-     67 alpine
-     42 123456789
-     41 support
-     35 oracle
-     33 ubnt
-     33 postgres
-     33 password
-     32 qwerty
-     32 12345
-     29 asteriskftp
-     28 blahblah
-     26 sysadmin
-     25 rootme
-     25 123456
-     22 powerpc
-     21 sql
-     21 nomore532
+   7636 root
+    368 changeme
+    296 123456
+    223 admin
+    196 www
+    186 test
+    181 
+    180 qwe123
+    143 default
+    138 password
+    129 123qwe
+    121 guest
+    109 1q2w3e4r
+    103 alpine
+     93 12345
+     80 123456789
+     78 1
+     74 support
+     68 ubnt
+     67 qwerty
+     66 1234
+     63 123
+     54 oracle
+     53 letmein
+     52 sysadmin
 ```
 
 #### Usernames
 The following are the top 3 usernames today, including the frequency of usage:
 ```
-  29116 root
-    282 admin
-    132 test
+  59716 root
+    439 
+    376 admin
 ```
 
 #### SSH Library Version
 The following are the top 5 SSH library versions today, including the frequency of usage:
 ```
-   8750 SSH-2.0-PUTTY
-   3615 SSH-2.0-libssh-0.1
-    485 SSH-2.0-libssh2_1.4.1
-    465 SSH-2.0-OpenSSH_4.3
-    315 SSH-2.0-libssh-0.5.2
+  18255 SSH-2.0-PUTTY
+   6891 SSH-2.0-libssh-0.1
+   1226 SSH-2.0-libssh2_1.4.1
+    739 SSH-2.0-OpenSSH_4.3
+    452 SSH-2.0-libssh2_1.4.3
 ```
