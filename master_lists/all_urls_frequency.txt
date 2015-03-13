@@ -26,42 +26,42 @@
     186 http://61.218.226.170/
     159 http://test.music-set.net/mobile/t3.log
     116 http://buhenge.com/z2
-    109 http://23.234.60.140/install/8002
+    116 http://23.234.60.140/install/8002
     109 http://185.63.253.93/.lu.pl
      83 http://buhenge.com/z4
      80 http://202.202.121.27/bot.txt
      76 http://buhenge.com/z5
-     71 http://23.234.60.140/install/8008
+     75 http://23.234.60.140/install/8008
      68 http://buhenge.com/z3
-     63 http://23.234.60.140/install/8001
+     65 http://23.234.60.140/install/8001
      61 http://buhenge.com/z6
      50 http://206.132.160.38/icons/zeus.pl
      50 http://188.212.103.234/private/auto/.xtkarmx
-     44 http://23.234.60.140/install/8003
+     46 http://23.234.60.140/install/8003
      39 http://178.33.196.164:53/
      39 http://178.33.196.164:443/
      39 http://178.33.196.164/
      39 http://122.10.85.54/
-     37 http://23.234.60.140/install/8005
+     38 http://23.234.60.140/install/8005
      31 http://188.212.103.234/private/auto/.xtki686x
      26 http://ftp.rxxiaoao.com/install/n8002.rar
      26 http://ftp.rxxiaoao.com/install/n8000.rar
+     26 http://185.61.137.109//.xml.pl
+     25 http://23.234.60.140/install/8000
      24 http://ftp.rxxiaoao.com/install/n8008.rar
      24 http://ftp.rxxiaoao.com/install/n8003.rar
      24 http://93.174.93.45/mips-ktx
      24 http://209.236.71.188/midx
-     24 http://185.61.137.109//.xml.pl
      22 http://23.234.60.140/install/8007
      21 http://ftp.rxxiaoao.com/install/n8005.rar
      21 http://23.234.60.140/install/8004
-     20 http://23.234.60.140/install/8000
+     20 http://speedtest.wdc01.softlayer.com/downloads/test10.zip
      18 http://www.frade8c.com:9162/root
      17 http://23.234.60.140/install/48513
      16 http://93.184.66.196/.xml.pl
      16 http://23.228.102.152:1818/bulong
-     15 http://speedtest.wdc01.softlayer.com/downloads/test10.zip
      15 http://ftp.rxxiaoao.com/install/n8006.rar
-     14 http://185.61.137.109//.bub.pl
+     15 http://185.61.137.109//.bub.pl
      14 http://151.236.44.210/ft.exe
      13 http://ftp.rxxiaoao.com/install/n8001.rar
      13 http://45.56.89.67/5
@@ -69,8 +69,12 @@
      12 http://buhenge.com/2821
      12 http://93.184.66.196/.ztx.pl
      12 http://93.174.93.45/ktx-armer
+     12 http://61.160.247.14:7711/Maintain.sh
+     12 http://104.192.0.130/pl
      11 http://ftp.rxxiaoao.com/install/n8007.rar
      11 http://93.174.93.45/ktx-mipsel
+     11 http://185.61.137.109/.xml.pl
+     11 http://185.61.137.109/.bub.pl
      11 http://162.218.30.75:1818/ssh33
      10 http://download.microsoft.com/download/win2000platform/SP/SP3/NT5/EN-US/W2Ksp3.exe
      10 http://ctrlcenter.pw/iz/payw
@@ -78,10 +82,7 @@
      10 http://23.234.60.140/install/8006
      10 http://204.44.104.93:8080/iten32
      10 http://185.63.253.93/new
-     10 http://185.61.137.109/.xml.pl
-     10 http://185.61.137.109/.bub.pl
      10 http://106.185.24.106/5
-     10 http://104.192.0.130/pl
       9 http://www.frade8c.com:9162/whitptabil
       9 http://www.frade8c.com:9162/smarvtd
       9 http://www.frade8c.com:9162/sfewfesfs
@@ -92,8 +93,8 @@
       9 http://www.frade8c.com:9162/gdmorpen
       9 http://www.frade8c.com:9162/fdsfsfvff
       9 http://www.frade8c.com:9162/byv832
-      9 http://61.160.247.14:7711/Maintain.sh
       8 http://root-arhive.serveftp.com/emech/system2.jpg
+      8 http://cachefly.cachefly.net/100mb.test
       8 http://93.174.93.45/x64-ktx
       8 http://93.174.93.45/ktx-i686er
       8 http://218.244.148.238:8080/npc1
@@ -101,16 +102,18 @@
       8 http://210.56.50.13:8080/npc
       8 http://106.185.24.106/4
       7 http://stanislaw.altervista.org/2.php
-      7 http://23.234.60.140/install/8002]
       7 http://185.63.253.93/.xtkarmx
-      6 http://cachefly.cachefly.net/100mb.test
       6 http://94.102.63.155/res.html
       6 http://204.44.104.93:8080/iten64
       6 http://183.61.164.167:8018/12316
       6 http://124.115.16.31:8009/xqq
       6 http://100.42.30.34/lex
-      5 http://speedtest.wdc01.softlayer.com/downloads/test10.zip]
       5 http://23.234.60.140:8081/install/8007
+      4 http://soft.hackrz.org/bnc/psy-linux.tgz
+      4 http://root-arhive.serveftp.com/altele/pico.jpg
+      4 http://listfiles.comoj.com/udp.pl
+      4 http://kiss4u.go.ro/smoke.tgz
+      4 http://dl.packetstormsecurity.net/DoS/udp.pl
       4 http://ctrlcenter.pw/iz/.z.pl
       4 http://93.184.66.196/.ppw
       4 http://93.184.66.196/.ppc
@@ -120,7 +123,6 @@
       4 http://60.173.10.177:8080/14.17
       4 http://39.109.0.113:8520/eee
       4 http://39.109.0.113:1111/Mm
-      4 http://23.234.60.140/install/8008]
       4 http://23.234.60.140:8081/install/8006
       4 http://218.244.148.238:8080/bin.sh
       4 http://210.56.50.13:8080/bin.sh
@@ -133,13 +135,7 @@
       4 http://121.40.85.20:8181/xdp
       4 http://115.29.165.174:38886/ssh77
       4 http://115.239.248.55:8080/ssh88
-      3 http://soft.hackrz.org/bnc/psy-linux.tgz
-      3 http://root-arhive.serveftp.com/altele/pico.jpg
-      3 http://listfiles.comoj.com/udp.pl
-      3 http://kiss4u.go.ro/smoke.tgz
-      3 http://dl.packetstormsecurity.net/DoS/udp.pl
       3 http://74.208.166.12/bot.txt
-      3 http://61.160.247.14:7711/Maintain.sh]
       2 http://wget.clan.su/v.txt>
       2 http://wget.clan.su/v.txt
       2 http://wget.clan.su/moe.tar.gz>
@@ -153,7 +149,6 @@
       2 http://justhiph0pmusic.altervista.org/done
       2 http://gblmkd.web44.net/.backup/god.zip
       2 http://dldir1.qq.com/qqfile/qq/QQ6.3/12390/QQ6.3.exe
-      2 http://cachefly.cachefly.net/100mb.test]
       2 http://buhenge.com/p1
       2 http://buhenge.com/m1
       2 http://buhenge.com/2836
@@ -165,8 +160,6 @@
       2 http://39.109.0.113:1111/mm64
       2 http://39.109.0.113:1111/32.64
       2 http://2u.girlshare.ro/download/37659522/sc_serv
-      2 http://23.234.60.140/install/8003]
-      2 http://23.234.60.140/install/8001]
       2 http://222.186.56.46:9987/data5
       2 http://222.186.34.215:8989/msql
       2 http://222.186.31.73:8123/.azui
@@ -182,7 +175,6 @@
       2 http://204.44.104.93:8080/bin.sh
       2 http://198.2.209.133:7899/cao1.exe
       2 http://198.200.53.79:899/cymei
-      2 http://185.61.137.109//.xml.pl]
       2 http://185.11.147.246/tst2.pl
       2 http://183.61.254.11:8080/L24_24011
       2 http://183.60.197.231:5156/mazi
@@ -200,15 +192,9 @@
       2 http://115.29.165.174:25663/32
       2 http://115.239.248.55:8080/sshd
       2 http://104.194.20.23:8080/2222
-      2 http://104.192.0.130/pl]
       1 http://www.majestic12.co.uk/bot.php?+)
       1 http://wget.clan.su/v.txt)
       1 http://wget.clan.su/moe.tar.gz)
-      1 http://soft.hackrz.org/bnc/psy-linux.tgz]
-      1 http://root-arhive.serveftp.com/altele/pico.jpg]
-      1 http://listfiles.comoj.com/udp.pl]
-      1 http://kiss4u.go.ro/smoke.tgz]
-      1 http://dl.packetstormsecurity.net/DoS/udp.pl]
       1 http://98.126.15.42:88/escds
       1 http://68.64.167.10/4
       1 http://39.109.0.113:8520/jj
@@ -216,11 +202,7 @@
       1 http://39.109.0.113:1111/TS64
       1 http://39.109.0.113:1111/666
       1 http://39.109.0.113:1111/32Mm
-      1 http://23.234.60.140/install/8005]
       1 http://185.63.253.93/.xtki686x
-      1 http://185.61.137.109/.xml.pl]
-      1 http://185.61.137.109/.bub.pl]
-      1 http://185.61.137.109//.bub.pl]
       1 http://183.136.213.96:8090/10991'
       1 http://176.102.38.77/search/e.php?h=cloudemotions.com/cgi-sys/entropysearch.cgi'
       1 http://176.102.38.77/search/e.php?h=cloudemotions.com/cgi-bin/'

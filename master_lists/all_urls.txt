@@ -1,6 +1,5 @@
 http://100.42.30.34/lex
 http://104.192.0.130/pl
-http://104.192.0.130/pl]
 http://104.194.20.23:8080/2222
 http://106.185.24.106/4
 http://106.185.24.106/5
@@ -50,13 +49,9 @@ http://183.61.164.167:8018/12316
 http://183.61.254.11:8080/L24_24011
 http://185.11.147.246/tst2.pl
 http://185.61.137.109//.bub.pl
-http://185.61.137.109//.bub.pl]
 http://185.61.137.109/.bub.pl
-http://185.61.137.109/.bub.pl]
 http://185.61.137.109//.xml.pl
-http://185.61.137.109//.xml.pl]
 http://185.61.137.109/.xml.pl
-http://185.61.137.109/.xml.pl]
 http://185.63.253.93/.lu.pl
 http://185.63.253.93/new
 http://185.63.253.93/.xtkarmx
@@ -108,18 +103,13 @@ http://23.234.60.140:8081/install/8007
 http://23.234.60.140/install/48513
 http://23.234.60.140/install/8000
 http://23.234.60.140/install/8001
-http://23.234.60.140/install/8001]
 http://23.234.60.140/install/8002
-http://23.234.60.140/install/8002]
 http://23.234.60.140/install/8003
-http://23.234.60.140/install/8003]
 http://23.234.60.140/install/8004
 http://23.234.60.140/install/8005
-http://23.234.60.140/install/8005]
 http://23.234.60.140/install/8006
 http://23.234.60.140/install/8007
 http://23.234.60.140/install/8008
-http://23.234.60.140/install/8008]
 http://2u.girlshare.ro/download/37659522/sc_serv
 http://39.109.0.113:1111/32.64
 http://39.109.0.113:1111/32Mm
@@ -137,7 +127,6 @@ http://60.173.10.177:10020/sperhong
 http://60.173.10.177:8080/14.17
 http://61.147.103.173:8080/9999
 http://61.160.247.14:7711/Maintain.sh
-http://61.160.247.14:7711/Maintain.sh]
 http://61.218.226.170/
 http://64.32.12.152/gnu-bash-max-race
 http://68.64.167.10/4
@@ -168,7 +157,6 @@ http://buhenge.com/z4
 http://buhenge.com/z5
 http://buhenge.com/z6
 http://cachefly.cachefly.net/100mb.test
-http://cachefly.cachefly.net/100mb.test]
 http://cs.frade8c.com:9162/byv832
 http://cs.frade8c.com:9162/dsgregd
 http://cs.frade8c.com:9162/fdsfsfvff
@@ -185,7 +173,6 @@ http://ctrlcenter.pw/iz/payw
 http://ctrlcenter.pw/iz/.z.pl
 http://dldir1.qq.com/qqfile/qq/QQ6.3/12390/QQ6.3.exe
 http://dl.packetstormsecurity.net/DoS/udp.pl
-http://dl.packetstormsecurity.net/DoS/udp.pl]
 http://download.microsoft.com/download/win2000platform/SP/SP3/NT5/EN-US/W2Ksp3.exe
 http://ftp.rxxiaoao.com/install/n8000.rar
 http://ftp.rxxiaoao.com/install/n8001.rar
@@ -198,12 +185,9 @@ http://ftp.rxxiaoao.com/install/n8008.rar
 http://gblmkd.web44.net/.backup/god.zip
 http://justhiph0pmusic.altervista.org/done
 http://kiss4u.go.ro/smoke.tgz
-http://kiss4u.go.ro/smoke.tgz]
 http://listfiles.comoj.com/udp.pl
-http://listfiles.comoj.com/udp.pl]
 http://moe.psybnc.org/Moe.tar.gz
 http://root-arhive.serveftp.com/altele/pico.jpg
-http://root-arhive.serveftp.com/altele/pico.jpg]
 http://root-arhive.serveftp.com/emech/system2.jpg
 http://root-arhive.serveftp.com/flood/global/udp.tgz
 http://root-arhive.serveftp.com/psybnc/psybnc-linux.jpg
@@ -211,9 +195,7 @@ http://root-arhive.serveftp.com/scanner/gosh.jpg
 http://root-arhive.serveftp.com/scanner/mass.jpg
 http://r.o.o.t.hi2.ro/private/psybnc.c
 http://soft.hackrz.org/bnc/psy-linux.tgz
-http://soft.hackrz.org/bnc/psy-linux.tgz]
 http://speedtest.wdc01.softlayer.com/downloads/test10.zip
-http://speedtest.wdc01.softlayer.com/downloads/test10.zip]
 http://stanislaw.altervista.org/2.php
 http://test.music-set.net/mobile/t3.log
 http://wget.clan.su/moe.tar.gz
