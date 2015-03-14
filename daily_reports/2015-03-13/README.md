@@ -12,76 +12,82 @@ FFB1 47C1 326E A063
 ### Summary
 
 Date: March 13, 2015  
-Total attacks today: 35371  
-Attempted Malware Downloads: 9 
+Total attacks today: 120659  
+Attempted Malware Downloads: 38 
 
 #### IP addresses
 The following are the top 10 attacker IP addresses today, including the frequency of usage:
 ```
+  35631 103.41.124.34
+  13395 103.41.124.46
+   9921 103.41.124.33
+   9545 103.41.124.56
+   8529 103.41.124.22
    5153 103.41.124.37
-   4767 103.41.124.46
+   5127 103.41.124.54
    4737 103.41.124.45
    3029 61.160.247.14
-   2749 103.41.124.50
-   2741 103.41.124.19
-   2741 103.41.124.104
-   2374 186.46.137.170
-   1453 175.99.89.178
-    845 104.207.144.141
+   2823 95.77.16.45
 ```
 
 #### Attempted URL Downloads
 The following are URLs attackers attempted to download and execute once they compromising a honeypot sensor:
 ```
 http://23.234.60.140/install/8000
+http://buhenge.com/z1
+http://buhenge.com/z3
+http://buhenge.com/z4
+http://buhenge.com/z6
 http://gblmkd.web44.net/.backup/god.zip
 http://root-arhive.serveftp.com/altele/pico.jpg
+http://safe.home.ro/muhs.jpg
+http://thecaretaker3d.com/press/fresh.tgz
 ```
 
 #### Passwords
 The following are the top 25 passwords today, including the frequency of usage:
 ```
-  25831 root
-    164 changeme
-    111 123456
-     94 default
-     94 admin
-     89 www
-     68 password
-     55 test
-     54 alpine
-     52 123456789
-     51 ubnt
-     43 qwe123
-     42 1q2w3e4r
-     42 123qwe
-     39 support
-     37 qwerty
-     37 oracle
-     31 operator
-     28 postgres
-     28 123
-     28 
-     27 bin
-     25 test123
-     25 sysadmin
-     23 upload
+  52670 root
+    323 changeme
+    289 mulesystems
+    288 com
+    285 gateway
+    185 123456
+    172 www
+    163 admin
+    144 default
+    102 password
+     95 test
+     91 alpine
+     83 cloudatcost
+     78 cloudatcost.com
+     74 
+     70 qwerty
+     64 123456789
+     61 oracle
+     60 ubnt
+     56 123qwe
+     48 1q2w3e4r
+     47 support
+     46 qwe123
+     43 operator
+     43 c1893-11330
 ```
 
 #### Usernames
 The following are the top 3 usernames today, including the frequency of usage:
 ```
-  32412 root
-    156 admin
-     91 www
+ 113127 root
+    295 com
+    285 gateway
 ```
 
 #### SSH Library Version
 The following are the top 5 SSH library versions today, including the frequency of usage:
 ```
-   8716 SSH-2.0-PUTTY
-   4588 SSH-2.0-libssh-0.1
-    800 SSH-2.0-libssh-0.5.2
-    620 SSH-2.0-libssh2_1.4.3
-    502 SSH-2.0-libssh2_1.4.1
+  35337 SSH-2.0-PUTTY
+   9948 SSH-2.0-libssh-0.1
+    847 SSH-2.0-libssh-0.5.2
+    681 SSH-2.0-libssh2_1.4.1
+    647 SSH-2.0-OpenSSH_4.3
 ```
