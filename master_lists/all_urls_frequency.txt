@@ -35,6 +35,7 @@
      69 http://buhenge.com/z3
      65 http://23.234.60.140/install/8001
      63 http://buhenge.com/z6
+     55 http://23.234.60.140/install/8005
      50 http://206.132.160.38/icons/zeus.pl
      50 http://188.212.103.234/private/auto/.xtkarmx
      46 http://23.234.60.140/install/8003
@@ -43,7 +44,6 @@
      39 http://178.33.196.164:443/
      39 http://178.33.196.164/
      39 http://122.10.85.54/
-     38 http://23.234.60.140/install/8005
      31 http://188.212.103.234/private/auto/.xtki686x
      26 http://ftp.rxxiaoao.com/install/n8002.rar
      26 http://ftp.rxxiaoao.com/install/n8000.rar
@@ -113,6 +113,8 @@
       4 http://root-arhive.serveftp.com/altele/pico.jpg
       4 http://listfiles.comoj.com/udp.pl
       4 http://kiss4u.go.ro/smoke.tgz
+      4 http://ibrp.pl/wp-content/themes/socialreach/send.zip
+      4 http://dw4.convertfiles.com/files/0008476001426332651/send.tar
       4 http://dl.packetstormsecurity.net/DoS/udp.pl
       4 http://ctrlcenter.pw/iz/.z.pl
       4 http://93.184.66.196/.ppw
@@ -166,6 +168,7 @@
       2 http://222.186.34.215:8989/msql
       2 http://222.186.31.73:8123/.azui
       2 http://222.186.31.11:60/lan2.6
+      2 http://222.186.15.132:8087/demao.O
       2 http://218.75.153.137:8080/lin32
       2 http://216.99.156.165:6597/.azui
       2 http://210.77.96.165:1111/linux-mips

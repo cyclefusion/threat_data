@@ -93,6 +93,7 @@ http://219.135.56.219:9162/sjfedjr
 http://219.135.56.219:9162/smarvtd
 http://219.135.56.219:9162/udevd
 http://219.135.56.219:9162/vrgshth
+http://222.186.15.132:8087/demao.O
 http://222.186.31.11:60/lan2.6
 http://222.186.31.73:8123/.azui
 http://222.186.34.215:8989/msql
@@ -174,6 +175,7 @@ http://ctrlcenter.pw/iz/.z.pl
 http://dldir1.qq.com/qqfile/qq/QQ6.3/12390/QQ6.3.exe
 http://dl.packetstormsecurity.net/DoS/udp.pl
 http://download.microsoft.com/download/win2000platform/SP/SP3/NT5/EN-US/W2Ksp3.exe
+http://dw4.convertfiles.com/files/0008476001426332651/send.tar
 http://ftp.rxxiaoao.com/install/n8000.rar
 http://ftp.rxxiaoao.com/install/n8001.rar
 http://ftp.rxxiaoao.com/install/n8002.rar
@@ -183,6 +185,7 @@ http://ftp.rxxiaoao.com/install/n8006.rar
 http://ftp.rxxiaoao.com/install/n8007.rar
 http://ftp.rxxiaoao.com/install/n8008.rar
 http://gblmkd.web44.net/.backup/god.zip
+http://ibrp.pl/wp-content/themes/socialreach/send.zip
 http://justhiph0pmusic.altervista.org/done
 http://kiss4u.go.ro/smoke.tgz
 http://listfiles.comoj.com/udp.pl
