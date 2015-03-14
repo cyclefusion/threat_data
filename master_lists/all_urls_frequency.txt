@@ -22,22 +22,23 @@
     800 http://cs.frade8c.com:9162/byv832
     550 http://202.191.121.230/ou.pl
     260 http://64.32.12.152/gnu-bash-max-race
-    190 http://buhenge.com/z1
+    192 http://buhenge.com/z1
     186 http://61.218.226.170/
     159 http://test.music-set.net/mobile/t3.log
     116 http://buhenge.com/z2
     116 http://23.234.60.140/install/8002
     109 http://185.63.253.93/.lu.pl
-     83 http://buhenge.com/z4
+     84 http://buhenge.com/z4
      80 http://202.202.121.27/bot.txt
      76 http://buhenge.com/z5
      75 http://23.234.60.140/install/8008
-     68 http://buhenge.com/z3
+     69 http://buhenge.com/z3
      65 http://23.234.60.140/install/8001
-     61 http://buhenge.com/z6
+     63 http://buhenge.com/z6
      50 http://206.132.160.38/icons/zeus.pl
      50 http://188.212.103.234/private/auto/.xtkarmx
      46 http://23.234.60.140/install/8003
+     44 http://23.234.60.140/install/8000
      39 http://178.33.196.164:53/
      39 http://178.33.196.164:443/
      39 http://178.33.196.164/
@@ -47,7 +48,6 @@
      26 http://ftp.rxxiaoao.com/install/n8002.rar
      26 http://ftp.rxxiaoao.com/install/n8000.rar
      26 http://185.61.137.109//.xml.pl
-     25 http://23.234.60.140/install/8000
      24 http://ftp.rxxiaoao.com/install/n8008.rar
      24 http://ftp.rxxiaoao.com/install/n8003.rar
      24 http://93.174.93.45/mips-ktx
@@ -140,6 +140,8 @@
       2 http://wget.clan.su/v.txt
       2 http://wget.clan.su/moe.tar.gz>
       2 http://wget.clan.su/moe.tar.gz
+      2 http://thecaretaker3d.com/press/fresh.tgz
+      2 http://safe.home.ro/muhs.jpg
       2 http://r.o.o.t.hi2.ro/private/psybnc.c
       2 http://root-arhive.serveftp.com/scanner/mass.jpg
       2 http://root-arhive.serveftp.com/scanner/gosh.jpg
