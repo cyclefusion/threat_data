@@ -62,6 +62,7 @@ SSH-2.0-paramiko_1.8.1
 SSH-2.0-phpseclib_0.3
 SSH-2.0-Pipls-1.0
 SSH-2.0-PUTTY
+SSH-2.0-PuTTY_Local:_Feb__1_2015_12:17:22
 SSH-2.0-PuTTY_Local:_Jan_19_2014_13:17:57
 SSH-2.0-PuTTY_Local:_Jul_11_2013_01:54:07
 SSH-2.0-PuTTY_Local:_Mar__2_2015_21:30:06
