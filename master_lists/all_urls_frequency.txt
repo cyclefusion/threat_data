@@ -22,35 +22,35 @@
     800 http://cs.frade8c.com:9162/byv832
     550 http://202.191.121.230/ou.pl
     260 http://64.32.12.152/gnu-bash-max-race
-    192 http://buhenge.com/z1
+    193 http://buhenge.com/z1
     186 http://61.218.226.170/
     159 http://test.music-set.net/mobile/t3.log
-    116 http://buhenge.com/z2
+    117 http://buhenge.com/z2
     116 http://23.234.60.140/install/8002
     109 http://185.63.253.93/.lu.pl
-     84 http://buhenge.com/z4
+     85 http://buhenge.com/z4
      80 http://202.202.121.27/bot.txt
      76 http://buhenge.com/z5
      75 http://23.234.60.140/install/8008
-     69 http://buhenge.com/z3
+     70 http://buhenge.com/z3
+     65 http://buhenge.com/z6
      65 http://23.234.60.140/install/8001
-     63 http://buhenge.com/z6
-     55 http://23.234.60.140/install/8005
+     56 http://23.234.60.140/install/8005
      50 http://206.132.160.38/icons/zeus.pl
      50 http://188.212.103.234/private/auto/.xtkarmx
      46 http://23.234.60.140/install/8003
      44 http://23.234.60.140/install/8000
-     39 http://178.33.196.164:53/
-     39 http://178.33.196.164:443/
-     39 http://178.33.196.164/
-     39 http://122.10.85.54/
+     41 http://178.33.196.164:53/
+     41 http://178.33.196.164:443/
+     41 http://178.33.196.164/
+     41 http://122.10.85.54/
      31 http://188.212.103.234/private/auto/.xtki686x
+     28 http://93.174.93.45/mips-ktx
      26 http://ftp.rxxiaoao.com/install/n8002.rar
      26 http://ftp.rxxiaoao.com/install/n8000.rar
      26 http://185.61.137.109//.xml.pl
      24 http://ftp.rxxiaoao.com/install/n8008.rar
      24 http://ftp.rxxiaoao.com/install/n8003.rar
-     24 http://93.174.93.45/mips-ktx
      24 http://209.236.71.188/midx
      22 http://23.234.60.140/install/8007
      21 http://ftp.rxxiaoao.com/install/n8005.rar
