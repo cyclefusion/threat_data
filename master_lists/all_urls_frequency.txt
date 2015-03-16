@@ -36,9 +36,9 @@
      67 http://buhenge.com/z6
      65 http://23.234.60.140/install/8001
      56 http://23.234.60.140/install/8005
+     50 http://23.234.60.140/install/8003
      50 http://206.132.160.38/icons/zeus.pl
      50 http://188.212.103.234/private/auto/.xtkarmx
-     46 http://23.234.60.140/install/8003
      44 http://23.234.60.140/install/8000
      41 http://178.33.196.164:53/
      41 http://178.33.196.164:443/
@@ -73,6 +73,7 @@
      12 http://104.192.0.130/pl
      11 http://ftp.rxxiaoao.com/install/n8007.rar
      11 http://93.174.93.45/ktx-mipsel
+     11 http://218.244.148.238:8080/npc
      11 http://185.61.137.109/.xml.pl
      11 http://185.61.137.109/.bub.pl
      11 http://162.218.30.75:1818/ssh33
@@ -80,6 +81,7 @@
      10 http://ctrlcenter.pw/iz/payw
      10 http://ctrlcenter.pw/iz/payc
      10 http://23.234.60.140/install/8006
+     10 http://218.244.148.238:8080/npc1
      10 http://204.44.104.93:8080/iten32
      10 http://185.63.253.93/new
      10 http://106.185.24.106/5
@@ -97,13 +99,12 @@
       8 http://cachefly.cachefly.net/100mb.test
       8 http://93.174.93.45/x64-ktx
       8 http://93.174.93.45/ktx-i686er
-      8 http://218.244.148.238:8080/npc1
-      8 http://218.244.148.238:8080/npc
       8 http://210.56.50.13:8080/npc
       8 http://106.185.24.106/4
       7 http://stanislaw.altervista.org/2.php
       7 http://185.63.253.93/.xtkarmx
       6 http://94.102.63.155/res.html
+      6 http://218.244.148.238:8080/bin.sh
       6 http://204.44.104.93:8080/iten64
       6 http://183.61.164.167:8018/12316
       6 http://124.115.16.31:8009/xqq
@@ -122,13 +123,13 @@
       4 http://93.184.66.196/.ppc
       4 http://93.174.93.45/.lu.pl
       4 http://93.174.93.45/ktx-mips
+      4 http://93.174.93.45/h.sh
       4 http://93.174.93.45/.edu.pl
       4 http://93.174.93.45/.but.pl
       4 http://60.173.10.177:8080/14.17
       4 http://39.109.0.113:8520/eee
       4 http://39.109.0.113:1111/Mm
       4 http://23.234.60.140:8081/install/8006
-      4 http://218.244.148.238:8080/bin.sh
       4 http://210.56.50.13:8080/bin.sh
       4 http://204.44.104.93:8080/npc
       4 http://204.44.104.93:8080/lin32
@@ -144,6 +145,7 @@
       2 http://wget.clan.su/v.txt
       2 http://wget.clan.su/moe.tar.gz>
       2 http://wget.clan.su/moe.tar.gz
+      2 http://wget>
       2 http://thecaretaker3d.com/press/fresh.tgz
       2 http://safe.home.ro/muhs.jpg
       2 http://r.o.o.t.hi2.ro/private/psybnc.c
@@ -171,6 +173,7 @@
       2 http://222.186.56.46:9987/data5
       2 http://222.186.34.215:8989/msql
       2 http://222.186.31.73:8123/.azui
+      2 http://222.186.31.73:8080/Manager
       2 http://222.186.31.11:60/lan2.6
       2 http://222.186.15.132:8087/demao.O
       2 http://218.75.153.137:8080/lin32

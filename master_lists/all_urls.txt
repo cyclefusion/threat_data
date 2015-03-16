@@ -96,6 +96,7 @@ http://219.135.56.219:9162/udevd
 http://219.135.56.219:9162/vrgshth
 http://222.186.15.132:8087/demao.O
 http://222.186.31.11:60/lan2.6
+http://222.186.31.73:8080/Manager
 http://222.186.31.73:8123/.azui
 http://222.186.34.215:8989/msql
 http://222.186.56.46:9987/data5
@@ -135,6 +136,7 @@ http://68.64.167.10/4
 http://74.208.166.12/bot.txt
 http://93.174.93.45/.but.pl
 http://93.174.93.45/.edu.pl
+http://93.174.93.45/h.sh
 http://93.174.93.45/ktx-armer
 http://93.174.93.45/ktx-i686er
 http://93.174.93.45/ktx-mips
@@ -208,6 +210,7 @@ http://speedtest.wdc01.softlayer.com/downloads/test10.zip
 http://stanislaw.altervista.org/2.php
 http://test.music-set.net/mobile/t3.log
 http://thecaretaker3d.com/press/fresh.tgz
+http://wget>
 http://wget.clan.su/moe.tar.gz
 http://wget.clan.su/moe.tar.gz>
 http://wget.clan.su/moe.tar.gz)
