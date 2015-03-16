@@ -3,6 +3,7 @@ http://104.192.0.130/pl
 http://104.194.20.23:8080/2222
 http://106.185.24.106/4
 http://106.185.24.106/5
+http://115.234.208.145:8/.serv3
 http://115.239.248.55:8080/ssh88
 http://115.239.248.55:8080/sshd
 http://115.29.165.174:25663/32
@@ -132,6 +133,7 @@ http://61.218.226.170/
 http://64.32.12.152/gnu-bash-max-race
 http://68.64.167.10/4
 http://74.208.166.12/bot.txt
+http://93.174.93.45/.but.pl
 http://93.174.93.45/.edu.pl
 http://93.174.93.45/ktx-armer
 http://93.174.93.45/ktx-i686er
@@ -184,7 +186,9 @@ http://ftp.rxxiaoao.com/install/n8005.rar
 http://ftp.rxxiaoao.com/install/n8006.rar
 http://ftp.rxxiaoao.com/install/n8007.rar
 http://ftp.rxxiaoao.com/install/n8008.rar
+http://gblmkd.web44.net/.backup/gblteam2015.tgz
 http://gblmkd.web44.net/.backup/god.zip
+http://gblmkd.web44.net/.backup/mbs2015.tgz
 http://ibrp.pl/wp-content/themes/socialreach/send.zip
 http://justhiph0pmusic.altervista.org/done
 http://kiss4u.go.ro/smoke.tgz

@@ -25,15 +25,15 @@
     193 http://buhenge.com/z1
     186 http://61.218.226.170/
     159 http://test.music-set.net/mobile/t3.log
-    117 http://buhenge.com/z2
+    118 http://buhenge.com/z2
     116 http://23.234.60.140/install/8002
     109 http://185.63.253.93/.lu.pl
-     92 http://23.234.60.140/install/8008
-     85 http://buhenge.com/z4
+     94 http://23.234.60.140/install/8008
+     86 http://buhenge.com/z4
      80 http://202.202.121.27/bot.txt
-     76 http://buhenge.com/z5
-     70 http://buhenge.com/z3
-     65 http://buhenge.com/z6
+     77 http://buhenge.com/z5
+     71 http://buhenge.com/z3
+     67 http://buhenge.com/z6
      65 http://23.234.60.140/install/8001
      56 http://23.234.60.140/install/8005
      50 http://206.132.160.38/icons/zeus.pl
@@ -123,6 +123,7 @@
       4 http://93.174.93.45/.lu.pl
       4 http://93.174.93.45/ktx-mips
       4 http://93.174.93.45/.edu.pl
+      4 http://93.174.93.45/.but.pl
       4 http://60.173.10.177:8080/14.17
       4 http://39.109.0.113:8520/eee
       4 http://39.109.0.113:1111/Mm
@@ -152,7 +153,9 @@
       2 http://root-arhive.serveftp.com/flood/global/udp.tgz
       2 http://moe.psybnc.org/Moe.tar.gz
       2 http://justhiph0pmusic.altervista.org/done
+      2 http://gblmkd.web44.net/.backup/mbs2015.tgz
       2 http://gblmkd.web44.net/.backup/god.zip
+      2 http://gblmkd.web44.net/.backup/gblteam2015.tgz
       2 http://dldir1.qq.com/qqfile/qq/QQ6.3/12390/QQ6.3.exe
       2 http://buhenge.com/p1
       2 http://buhenge.com/m1
@@ -197,6 +200,7 @@
       2 http://115.29.165.174:25663/.sshdd
       2 http://115.29.165.174:25663/32
       2 http://115.239.248.55:8080/sshd
+      2 http://115.234.208.145:8/.serv3
       2 http://104.194.20.23:8080/2222
       1 http://www.majestic12.co.uk/bot.php?+)
       1 http://wget.clan.su/v.txt)
