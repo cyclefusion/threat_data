@@ -12,76 +12,83 @@ FFB1 47C1 326E A063
 ### Summary
 
 Date: March 15, 2015  
-Total attacks today: 20103  
-Attempted Malware Downloads: 25 
+Total attacks today: 130431  
+Attempted Malware Downloads: 39 
 
 #### IP addresses
 The following are the top 10 attacker IP addresses today, including the frequency of usage:
 ```
-   8628 103.41.124.29
-   4478 103.41.124.21
-   1859 176.57.141.103
-   1050 202.105.57.25
-    549 103.41.124.106
-    437 175.99.89.178
-    356 115.234.220.230
-    353 202.248.219.145
-    338 95.77.16.45
-    193 115.238.55.163
+  16407 103.41.124.21
+  12672 103.41.124.113
+  12428 103.41.124.38
+  12034 103.41.124.29
+  11627 103.41.124.20
+  10830 103.41.124.54
+  10071 103.41.124.62
+   9740 103.41.124.33
+   8747 103.41.124.52
+   7762 103.41.124.16
 ```
 
 #### Attempted URL Downloads
 The following are URLs attackers attempted to download and execute once they compromising a honeypot sensor:
 ```
+http://115.234.208.145:8/.serv3
 http://23.234.60.140/install/8008
+http://93.174.93.45/.but.pl
 http://93.174.93.45/mips-ktx
+http://buhenge.com/z2
+http://buhenge.com/z3
+http://buhenge.com/z4
+http://buhenge.com/z5
+http://buhenge.com/z6
 http://maddafaka.altervista.org/yoyo.pl
 ```
 
 #### Passwords
 The following are the top 25 passwords today, including the frequency of usage:
 ```
-   9651 root
-    213 changeme
-    144 www
+  25719 root
+    332 changeme
+    218 www
+    111 123456
+     98 alpine
+     90 admin
+     86 oracle
+     78 qwerty
+     75 password
+     71 git
      61 teamspeak
-     61 alpine
-     61 admin
-     56 git
-     55 123456
+     58 123456789
+     53 test
+     53 nagios
+     52 
+     51 postgres
+     49 avonline
+     47 zabbix
+     46 support
+     46 default
      45 ts
      45 minecraft
+     41 ubnt
      41 teamspeak3
-     41 oracle
-     41 nagios
-     40 zabbix
-     36 ts3
-     36 redmine
-     36 qwerty
-     35 jenkins
-     34 postgres
-     34 developer
-     33 password
-     33 123456789
-     33 -
-     32 www-data
-     32 alex
+     39 developer
 ```
 
 #### Usernames
 The following are the top 3 usernames today, including the frequency of usage:
 ```
-  17317 root
-    144 www
-     99 admin
+ 125933 root
+    219 www
+    161 admin
 ```
 
 #### SSH Library Version
 The following are the top 5 SSH library versions today, including the frequency of usage:
 ```
-   5040 SSH-2.0-PUTTY
-   2575 SSH-2.0-libssh-0.1
-    420 SSH-2.0-libssh-0.2
-    394 SSH-2.0-OpenSSH_4.3
-    237 SSH-2.0-libssh2_1.4.3
+  40218 SSH-2.0-PUTTY
+   4111 SSH-2.0-libssh-0.1
+    875 SSH-2.0-libssh2_1.4.3
+    802 SSH-2.0-libssh-0.2
+    629 SSH-2.0-OpenSSH_4.3
 ```
