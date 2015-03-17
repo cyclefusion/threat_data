@@ -22,21 +22,21 @@
     800 http://cs.frade8c.com:9162/byv832
     550 http://202.191.121.230/ou.pl
     260 http://64.32.12.152/gnu-bash-max-race
-    193 http://buhenge.com/z1
+    195 http://buhenge.com/z1
     186 http://61.218.226.170/
     159 http://test.music-set.net/mobile/t3.log
-    118 http://buhenge.com/z2
+    119 http://buhenge.com/z2
     116 http://23.234.60.140/install/8002
     109 http://185.63.253.93/.lu.pl
      94 http://23.234.60.140/install/8008
-     86 http://buhenge.com/z4
+     88 http://buhenge.com/z4
      80 http://202.202.121.27/bot.txt
      77 http://buhenge.com/z5
-     71 http://buhenge.com/z3
+     72 http://buhenge.com/z3
      67 http://buhenge.com/z6
      65 http://23.234.60.140/install/8001
+     64 http://23.234.60.140/install/8003
      56 http://23.234.60.140/install/8005
-     50 http://23.234.60.140/install/8003
      50 http://206.132.160.38/icons/zeus.pl
      50 http://188.212.103.234/private/auto/.xtkarmx
      44 http://23.234.60.140/install/8000
@@ -68,6 +68,7 @@
      12 http://buhenge.com/2821
      12 http://93.184.66.196/.ztx.pl
      12 http://93.174.93.45/ktx-armer
+     12 http://61.164.126.5:7401/sys
      12 http://61.160.247.14:7711/Maintain.sh
      12 http://151.236.44.210/ft.exe
      12 http://104.192.0.130/pl
@@ -126,6 +127,7 @@
       4 http://93.174.93.45/h.sh
       4 http://93.174.93.45/.edu.pl
       4 http://93.174.93.45/.but.pl
+      4 http://61.160.247.104:7711/Maintain.sh
       4 http://60.173.10.177:8080/14.17
       4 http://39.109.0.113:8520/eee
       4 http://39.109.0.113:1111/Mm
