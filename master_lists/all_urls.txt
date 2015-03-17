@@ -3,6 +3,7 @@ http://104.192.0.130/pl
 http://104.194.20.23:8080/2222
 http://106.185.24.106/4
 http://106.185.24.106/5
+http://107.150.63.178:88/disk
 http://115.234.208.145:8/.serv3
 http://115.239.248.55:8080/ssh88
 http://115.239.248.55:8080/sshd
@@ -22,6 +23,7 @@ http://117.21.173.30:6868/26ssh22
 http://117.21.173.30:6868/azwen
 http://117.21.225.131:9999/26ssh666666
 http://121.40.85.20:8181/xdp
+http://122.10.112.193:8080/wboh
 http://122.10.85.54/
 http://122.224.4.157:1111/dos32
 http://122.224.4.157:1111/dos64
@@ -32,9 +34,7 @@ http://124.115.16.31:8009/xqq
 http://151.236.44.210/ft.exe
 http://162.218.30.75:1818/ssh33
 http://162.218.30.75:1818/ssh66
-http://176.102.38.77/search/e.php?h=cloudemotions.com/'
-http://176.102.38.77/search/e.php?h=cloudemotions.com/cgi-bin/'
-http://176.102.38.77/search/e.php?h=cloudemotions.com/cgi-sys/entropysearch.cgi'
+http://176.102.38.77/search/e.php
 http://178.33.196.164/
 http://178.33.196.164:443/
 http://178.33.196.164:53/
@@ -59,6 +59,7 @@ http://185.63.253.93/.xtkarmx
 http://185.63.253.93/.xtki686x
 http://188.212.103.234/private/auto/.xtkarmx
 http://188.212.103.234/private/auto/.xtki686x
+http://198.11.176.45:8080/wboh
 http://198.200.53.79:899/cymei
 http://198.2.209.133:7899/cao1.exe
 http://202.191.121.230/ou.pl
@@ -129,6 +130,8 @@ http://5.175.181.46/a/ssh5.5p1.jpg
 http://60.173.10.177:10020/sperhong
 http://60.173.10.177:8080/14.17
 http://61.147.103.173:8080/9999
+http://61.160.212.21:5947/4weizhisfg
+http://61.160.212.21:5947/sungfjwwg
 http://61.160.247.104:7711/Maintain.sh
 http://61.160.247.14:7711/Maintain.sh
 http://61.164.126.5:7401/sys
@@ -212,12 +215,10 @@ http://speedtest.wdc01.softlayer.com/downloads/test10.zip
 http://stanislaw.altervista.org/2.php
 http://test.music-set.net/mobile/t3.log
 http://thecaretaker3d.com/press/fresh.tgz
-http://wget>
+http://wget
 http://wget.clan.su/moe.tar.gz
-http://wget.clan.su/moe.tar.gz>
 http://wget.clan.su/moe.tar.gz)
 http://wget.clan.su/v.txt
-http://wget.clan.su/v.txt>
 http://wget.clan.su/v.txt)
 http://www.frade8c.com:9162/byv832
 http://www.frade8c.com:9162/fdsfsfvff
@@ -230,4 +231,4 @@ http://www.frade8c.com:9162/root
 http://www.frade8c.com:9162/sfewfesfs
 http://www.frade8c.com:9162/smarvtd
 http://www.frade8c.com:9162/whitptabil
-http://www.majestic12.co.uk/bot.php?+)
+http://www.majestic12.co.uk/bot.php

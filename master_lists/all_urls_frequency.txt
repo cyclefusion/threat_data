@@ -26,7 +26,7 @@
     186 http://61.218.226.170/
     159 http://test.music-set.net/mobile/t3.log
     119 http://buhenge.com/z2
-    116 http://23.234.60.140/install/8002
+    118 http://23.234.60.140/install/8002
     109 http://185.63.253.93/.lu.pl
      94 http://23.234.60.140/install/8008
      88 http://buhenge.com/z4
@@ -70,6 +70,8 @@
      12 http://93.174.93.45/ktx-armer
      12 http://61.164.126.5:7401/sys
      12 http://61.160.247.14:7711/Maintain.sh
+     12 http://61.160.212.21:5947/sungfjwwg
+     12 http://61.160.212.21:5947/4weizhisfg
      12 http://151.236.44.210/ft.exe
      12 http://104.192.0.130/pl
      11 http://ftp.rxxiaoao.com/install/n8007.rar
@@ -108,9 +110,12 @@
       6 http://218.244.148.238:8080/bin.sh
       6 http://204.44.104.93:8080/iten64
       6 http://183.61.164.167:8018/12316
+      6 http://176.102.38.77/search/e.php
       6 http://124.115.16.31:8009/xqq
       6 http://100.42.30.34/lex
       5 http://23.234.60.140:8081/install/8007
+      4 http://wget.clan.su/v.txt
+      4 http://wget.clan.su/moe.tar.gz
       4 http://soft.hackrz.org/bnc/psy-linux.tgz
       4 http://root-arhive.serveftp.com/altele/pico.jpg
       4 http://maddafaka.altervista.org/yoyo.pl
@@ -142,12 +147,9 @@
       4 http://121.40.85.20:8181/xdp
       4 http://115.29.165.174:38886/ssh77
       4 http://115.239.248.55:8080/ssh88
+      4 http://107.150.63.178:88/disk
       3 http://74.208.166.12/bot.txt
-      2 http://wget.clan.su/v.txt>
-      2 http://wget.clan.su/v.txt
-      2 http://wget.clan.su/moe.tar.gz>
-      2 http://wget.clan.su/moe.tar.gz
-      2 http://wget>
+      2 http://wget
       2 http://thecaretaker3d.com/press/fresh.tgz
       2 http://safe.home.ro/muhs.jpg
       2 http://r.o.o.t.hi2.ro/private/psybnc.c
@@ -189,6 +191,7 @@
       2 http://204.44.104.93:8080/bin.sh
       2 http://198.2.209.133:7899/cao1.exe
       2 http://198.200.53.79:899/cymei
+      2 http://198.11.176.45:8080/wboh
       2 http://185.11.147.246/tst2.pl
       2 http://183.61.254.11:8080/L24_24011
       2 http://183.60.197.231:5156/mazi
@@ -199,6 +202,7 @@
       2 http://122.224.55.86:8080/bin.sh
       2 http://122.224.4.157:1111/dos64
       2 http://122.224.4.157:1111/dos32
+      2 http://122.10.112.193:8080/wboh
       2 http://117.21.225.131:9999/26ssh666666
       2 http://115.29.165.174:65326/.sshdd
       2 http://115.29.165.174:65326/32
@@ -207,7 +211,7 @@
       2 http://115.239.248.55:8080/sshd
       2 http://115.234.208.145:8/.serv3
       2 http://104.194.20.23:8080/2222
-      1 http://www.majestic12.co.uk/bot.php?+)
+      1 http://www.majestic12.co.uk/bot.php
       1 http://wget.clan.su/v.txt)
       1 http://wget.clan.su/moe.tar.gz)
       1 http://98.126.15.42:88/escds
@@ -219,9 +223,6 @@
       1 http://39.109.0.113:1111/32Mm
       1 http://185.63.253.93/.xtki686x
       1 http://183.136.213.96:8090/10991'
-      1 http://176.102.38.77/search/e.php?h=cloudemotions.com/cgi-sys/entropysearch.cgi'
-      1 http://176.102.38.77/search/e.php?h=cloudemotions.com/cgi-bin/'
-      1 http://176.102.38.77/search/e.php?h=cloudemotions.com/'
       1 http://162.218.30.75:1818/ssh66
       1 http://117.21.173.30:6868/azwen
       1 http://117.21.173.30:6868/26ssh22
