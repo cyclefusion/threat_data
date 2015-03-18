@@ -12,22 +12,22 @@ FFB1 47C1 326E A063
 ### Summary
 
 Date: March 17, 2015  
-Total attacks today: 38857  
-Attempted Malware Downloads: 34 
+Total attacks today: 45061  
+Attempted Malware Downloads: 97 
 
 #### IP addresses
 The following are the top 10 attacker IP addresses today, including the frequency of usage:
 ```
    2114 111.205.84.151
+   1160 103.41.125.21
+   1127 103.41.125.27
    1076 103.41.125.39
-   1046 103.41.125.27
-   1037 103.41.125.21
+   1024 103.41.125.14
+    983 103.41.125.112
     976 103.41.125.29
     885 103.41.125.111
-    863 103.41.125.112
-    821 103.41.125.104
-    801 103.41.125.14
-    786 103.41.125.59
+    880 103.41.125.62
+    850 61.160.247.14
 ```
 
 #### Attempted URL Downloads
@@ -35,56 +35,65 @@ The following are URLs attackers attempted to download and execute once they com
 ```
 http://107.150.63.178:88/disk
 http://122.10.112.193:8080/wboh
+http://122.10.85.54/
+http://178.33.196.164/
+http://178.33.196.164:443/
+http://178.33.196.164:53/
 http://198.11.176.45:8080/wboh
 http://23.234.60.140/install/8002
 http://61.160.212.21:5947/4weizhisfg
 http://61.160.212.21:5947/sungfjwwg
+http://buhenge.com/z1
+http://buhenge.com/z2
+http://buhenge.com/z3
+http://buhenge.com/z5
+http://buhenge.com/z6
 ```
 
 #### Passwords
 The following are the top 25 passwords today, including the frequency of usage:
 ```
-  14532 root
-    319 changeme
-    182 www
-    123 admin
-    119 ubnt
-    113 default
-     99 test
-     82 support
-     70 user1
-     70 guest
-     70 
-     69 user
-     64 pi
-     61 ftpuser
-     59 ftp
+  15714 root
+    602 changeme
+    402 www
+    234 default
+    167 admin
+    139 ubnt
+    127 test
+    119 123456
+     98 support
+     88 user
+     79 guest
+     75 
+     74 user1
+     73 ftpuser
+     69 password
+     67 pi
+     64 ftp
+     56 123456789
      54 plcmspip
-     52 admin1
+     53 admin1
      51 alpine
      49 thierry
-     46 password
-     40 123456789
-     32 aion
-     26 123456
-     21 test123
-     21 abc123
+     41 redhat
+     39 oracle
+     34 qwe123
 ```
 
 #### Usernames
 The following are the top 3 usernames today, including the frequency of usage:
 ```
-  36861 root
-    186 admin
-    181 www
+  41173 root
+    406 www
+    254 admin
 ```
 
 #### SSH Library Version
 The following are the top 5 SSH library versions today, including the frequency of usage:
 ```
-  11253 SSH-2.0-PUTTY
-    776 SSH-2.0-libssh-0.1
-    769 SSH-2.0-PuTTY_Release_0.63
-    658 SSH-2.0-OpenSSH_4.3
-    197 SSH-2.0-libssh2_1.4.1
+  12258 SSH-2.0-PUTTY
+   1835 SSH-2.0-libssh-0.1
+   1301 SSH-2.0-OpenSSH_4.3
+    772 SSH-2.0-PuTTY_Release_0.63
+    752 SSH-2.0-libssh-0.2
 ```
