@@ -28,7 +28,7 @@
     131 http://23.234.60.140/install/8002
     121 http://buhenge.com/z2
     109 http://185.63.253.93/.lu.pl
-     94 http://23.234.60.140/install/8008
+    101 http://23.234.60.140/install/8008
      88 http://buhenge.com/z4
      80 http://202.202.121.27/bot.txt
      78 http://buhenge.com/z5
@@ -39,11 +39,13 @@
      56 http://23.234.60.140/install/8005
      50 http://206.132.160.38/icons/zeus.pl
      50 http://188.212.103.234/private/auto/.xtkarmx
-     47 http://178.33.196.164:53/
-     47 http://178.33.196.164:443/
-     47 http://178.33.196.164/
-     47 http://122.10.85.54/
+     50 http://178.33.196.164:53/
+     50 http://178.33.196.164:443/
+     50 http://178.33.196.164/
+     50 http://122.10.85.54/
      44 http://23.234.60.140/install/8000
+     32 http://61.160.212.21:5947/sungfjwwg
+     32 http://61.160.212.21:5947/4weizhisfg
      31 http://188.212.103.234/private/auto/.xtki686x
      28 http://93.174.93.45/mips-ktx
      26 http://ftp.rxxiaoao.com/install/n8002.rar
@@ -59,9 +61,8 @@
      18 http://www.frade8c.com:9162/root
      17 http://23.234.60.140/install/48513
      16 http://93.184.66.196/.xml.pl
-     16 http://61.160.212.21:5947/sungfjwwg
-     16 http://61.160.212.21:5947/4weizhisfg
      16 http://23.228.102.152:1818/bulong
+     16 http://122.10.112.193:8080/wboh
      15 http://ftp.rxxiaoao.com/install/n8006.rar
      15 http://185.61.137.109//.bub.pl
      13 http://ftp.rxxiaoao.com/install/n8001.rar
@@ -104,7 +105,6 @@
       8 http://93.174.93.45/ktx-i686er
       8 http://210.56.50.13:8080/npc
       8 http://198.11.176.45:8080/wboh
-      8 http://122.10.112.193:8080/wboh
       8 http://106.185.24.106/4
       7 http://stanislaw.altervista.org/2.php
       7 http://185.63.253.93/.xtkarmx
@@ -114,6 +114,7 @@
       6 http://183.61.164.167:8018/12316
       6 http://176.102.38.77/search/e.php
       6 http://124.115.16.31:8009/xqq
+      6 http://111.73.46.22:8080/wboh
       6 http://100.42.30.34/lex
       5 http://23.234.60.140:8081/install/8007
       4 http://wget.clan.su/v.txt
@@ -169,6 +170,7 @@
       2 http://buhenge.com/m1
       2 http://buhenge.com/2836
       2 http://buhenge.com/2828a6
+      2 http://68.71.143.188:280/Admins
       2 http://61.160.212.172:911/ntldont
       2 http://61.147.103.173:8080/9999
       2 http://60.173.10.177:10020/sperhong
@@ -233,3 +235,4 @@
       1 http://115.29.165.174:25663/ss64
       1 http://115.29.165.174:25663/ss32
       1 http://115.29.165.174:25663/64
+      1 http://111.74.238.15:1/qq
