@@ -22,28 +22,28 @@
     800 http://cs.frade8c.com:9162/byv832
     550 http://202.191.121.230/ou.pl
     260 http://64.32.12.152/gnu-bash-max-race
-    195 http://buhenge.com/z1
+    196 http://buhenge.com/z1
     186 http://61.218.226.170/
     159 http://test.music-set.net/mobile/t3.log
-    119 http://buhenge.com/z2
-    118 http://23.234.60.140/install/8002
+    131 http://23.234.60.140/install/8002
+    121 http://buhenge.com/z2
     109 http://185.63.253.93/.lu.pl
      94 http://23.234.60.140/install/8008
      88 http://buhenge.com/z4
      80 http://202.202.121.27/bot.txt
-     77 http://buhenge.com/z5
-     72 http://buhenge.com/z3
-     67 http://buhenge.com/z6
+     78 http://buhenge.com/z5
+     73 http://buhenge.com/z3
+     68 http://buhenge.com/z6
      65 http://23.234.60.140/install/8001
      64 http://23.234.60.140/install/8003
      56 http://23.234.60.140/install/8005
      50 http://206.132.160.38/icons/zeus.pl
      50 http://188.212.103.234/private/auto/.xtkarmx
+     47 http://178.33.196.164:53/
+     47 http://178.33.196.164:443/
+     47 http://178.33.196.164/
+     47 http://122.10.85.54/
      44 http://23.234.60.140/install/8000
-     41 http://178.33.196.164:53/
-     41 http://178.33.196.164:443/
-     41 http://178.33.196.164/
-     41 http://122.10.85.54/
      31 http://188.212.103.234/private/auto/.xtki686x
      28 http://93.174.93.45/mips-ktx
      26 http://ftp.rxxiaoao.com/install/n8002.rar
@@ -59,6 +59,8 @@
      18 http://www.frade8c.com:9162/root
      17 http://23.234.60.140/install/48513
      16 http://93.184.66.196/.xml.pl
+     16 http://61.160.212.21:5947/sungfjwwg
+     16 http://61.160.212.21:5947/4weizhisfg
      16 http://23.228.102.152:1818/bulong
      15 http://ftp.rxxiaoao.com/install/n8006.rar
      15 http://185.61.137.109//.bub.pl
@@ -70,8 +72,6 @@
      12 http://93.174.93.45/ktx-armer
      12 http://61.164.126.5:7401/sys
      12 http://61.160.247.14:7711/Maintain.sh
-     12 http://61.160.212.21:5947/sungfjwwg
-     12 http://61.160.212.21:5947/4weizhisfg
      12 http://151.236.44.210/ft.exe
      12 http://104.192.0.130/pl
      11 http://ftp.rxxiaoao.com/install/n8007.rar
@@ -103,6 +103,8 @@
       8 http://93.174.93.45/x64-ktx
       8 http://93.174.93.45/ktx-i686er
       8 http://210.56.50.13:8080/npc
+      8 http://198.11.176.45:8080/wboh
+      8 http://122.10.112.193:8080/wboh
       8 http://106.185.24.106/4
       7 http://stanislaw.altervista.org/2.php
       7 http://185.63.253.93/.xtkarmx
@@ -167,6 +169,7 @@
       2 http://buhenge.com/m1
       2 http://buhenge.com/2836
       2 http://buhenge.com/2828a6
+      2 http://61.160.212.172:911/ntldont
       2 http://61.147.103.173:8080/9999
       2 http://60.173.10.177:10020/sperhong
       2 http://5.175.181.46/a/ssh5.5p1.jpg
@@ -191,7 +194,6 @@
       2 http://204.44.104.93:8080/bin.sh
       2 http://198.2.209.133:7899/cao1.exe
       2 http://198.200.53.79:899/cymei
-      2 http://198.11.176.45:8080/wboh
       2 http://185.11.147.246/tst2.pl
       2 http://183.61.254.11:8080/L24_24011
       2 http://183.60.197.231:5156/mazi
@@ -202,7 +204,6 @@
       2 http://122.224.55.86:8080/bin.sh
       2 http://122.224.4.157:1111/dos64
       2 http://122.224.4.157:1111/dos32
-      2 http://122.10.112.193:8080/wboh
       2 http://117.21.225.131:9999/26ssh666666
       2 http://115.29.165.174:65326/.sshdd
       2 http://115.29.165.174:65326/32

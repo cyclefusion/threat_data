@@ -8,6 +8,7 @@
 *****
 0
 00
+0000
 01
 0109824288
 01_10_riccio_
@@ -195,7 +196,11 @@
 12345
 123456
 12345678
+123456789
+123456qwerty
 123bin
+123qaz
+123qwe
 123sursa
 123surusa
 123ujm
@@ -226,6 +231,9 @@
 1mp0sibleZone7
 1nt&ll1tch&
 1pzmtla13
+1q2w3e
+1q2w3e4r
+1qaz2wsx
 1qaz@WSX
 1qaz@WSX#EDC
 1ShryWeavmevAnnAltab4Iratbap3AniotIck5Old
@@ -236,6 +244,7 @@
 2#%#@%$
 20
 201202293860770DB40A
+2015
 21
 2164823977newpass
 22
@@ -424,6 +433,16 @@
 54.164.234.80
 54.164.234.94
 54.164.235.1
+54.164.235.109
+54.164.235.194
+54.164.235.215
+54.164.235.250
+54.164.235.35
+54.164.235.83
+54.164.236.18
+54.164.236.51
+54.164.236.78
+54.164.236.8
 54.165.37.183
 54.165.37.197
 54.165.95.113
@@ -635,6 +654,7 @@
 5wqjF7eHCD
 6
 608096
+654321
 6992828766
 6DQiEyN2nX
 6gx2rawb
@@ -682,6 +702,7 @@ aaliyah
 Aaliyah
 aalvarez
 aamamun
+aan
 aarav
 aaren
 aaron
@@ -693,6 +714,7 @@ ab
 ab4t
 ab7cedb40ff4dd3a8f0e73310e62e0cd
 Aba
+abah
 abba
 abbas
 Abbeville
@@ -702,6 +724,7 @@ abby
 abc
 abc123
 abcd
+abcd1234
 abcde
 abcdef
 abcdefg
@@ -760,6 +783,7 @@ absurdir_deadphp
 abt
 abtbi
 abtsupport
+abu
 abuhanif
 abuse
 ac
@@ -858,6 +882,7 @@ adina
 adinalove86
 adine
 adit
+aditama
 aditi
 aditya
 aditza
@@ -868,6 +893,7 @@ admail
 admcku
 admftp
 admin
+﻿admin
 Admin
 ADMIN
 admin0
@@ -964,6 +990,7 @@ aggarwalmk
 aggies
 aghosh
 agi
+agil
 agile
 agiusa
 aglaya
@@ -1169,6 +1196,7 @@ alvaro
 Alvaro
 alvin
 always
+alwi
 alx
 aly
 alyn
@@ -1230,6 +1258,7 @@ ana
 anakin
 anamaria
 anandan
+anas
 anastacia
 anastasia
 anasztaz
@@ -1256,6 +1285,7 @@ andrew
 andreyd
 andri
 andris
+android
 andry
 andrzej
 andy
@@ -1387,6 +1417,7 @@ arczir
 ard
 ardei
 ardi
+ardian
 arendus
 aretha
 areyes
@@ -1400,6 +1431,7 @@ arianna
 arianne
 ariath
 ariba
+arie
 arief
 ariel
 arif
@@ -1443,6 +1475,7 @@ arumsari
 arun
 arundhati
 arvind
+arya
 as
 as1qw2AS!QW@
 as34rtxSyion
@@ -1909,6 +1942,7 @@ bot
 bots
 bouncer
 bountiful
+bowo
 box
 boxer
 boy
@@ -2050,6 +2084,7 @@ cady
 caesar
 cafe
 cafea
+cahyo
 caibin
 cain
 caine
@@ -2088,6 +2123,7 @@ cameron
 camila
 camille
 candid
+candie
 candle
 candra
 candy
@@ -2103,15 +2139,20 @@ caputa
 car
 car409
 card
+carey
+cargan
 carina
+carissa
 carl
 carla
 carlo
 carlos
 carlton
 carly
+carmela
 carmella
 carmen
+carmine
 carnage
 caro
 carol
@@ -2133,6 +2174,7 @@ Casa15am
 casandra
 cascboz
 casey
+casper
 cassandra
 cassidy
 cassie
@@ -2143,6 +2185,7 @@ cata
 catadmin
 catalin
 catalina
+cate
 catering
 catgHIW5UbQiEpM
 catharina
@@ -2164,6 +2207,7 @@ cdr
 cdrom
 cdvonline
 ce
+cecicle
 cecil
 cecile
 cecilia
@@ -2191,6 +2235,7 @@ cgb
 cgi
 cgi-bin
 ch
+chael
 chamfr
 chan
 chandimal
@@ -2231,6 +2276,7 @@ chiang
 chiangf
 chicago
 Chicago
+chick
 chicken
 chiem
 chile
@@ -2271,8 +2317,10 @@ chs
 chuck
 chucky
 chung
+chuong
 chxAO6HNoefoJOG2
 ciban
+cid
 cili
 cimlinux
 cimpeanu
@@ -2297,19 +2345,24 @@ clamav1
 clara
 Clara
 clare
+clarence
 clark
 clasic
 class
 class2004
 class2005
 claude
+claudette
 claudia
 Claudia
 claudio
 claudiu
 claudius
+clay
+clby
 clear!@#languang
 cleclu4O9s1l
+cleopatra
 cliadmin
 clickedin
 client
@@ -2317,6 +2370,7 @@ cliente
 clientsk
 cliff
 clinic
+clint
 clinton
 clips
 clock
@@ -2348,6 +2402,7 @@ co34n5794v
 coach
 coba
 cobra
+coby
 cock
 coco
 cocolino
@@ -2359,6 +2414,7 @@ codec
 codecmpeg4
 codeig
 cod_server
+cody
 coffee
 coiote
 cole
@@ -2391,12 +2447,15 @@ computador
 compute
 computer
 cona
+conan
 confixx
 connect
 connie
 connor
 conrad
 console
+consuela
+consuelo
 consultoria
 conta
 contabil
@@ -2422,6 +2481,7 @@ copila
 copy
 cora
 corbus
+corby
 cordell
 core
 corecess
@@ -2445,6 +2505,7 @@ costel
 costi
 costin
 cosy
+coty
 couchdb
 counter
 coupon
@@ -2486,9 +2547,11 @@ cris03
 crisan
 crisbuxybos
 criss
+crista
 cristi
 cristian
 cristina
+cristy
 cron
 crond
 cropweather
@@ -2528,6 +2591,7 @@ cvsadmin
 cvsroot
 cvsuser
 cw
+cy
 cyan
 cyber
 cyberbob
@@ -2535,6 +2599,7 @@ cybernetic
 cyborg
 cycle
 cyclop
+cyd
 cyndi
 cynthia
 cyp
@@ -2552,6 +2617,8 @@ d4mm6
 D6AkgdtP
 da
 daan
+dacian
+dadang
 dadmin
 daemon
 dagmar
@@ -2562,6 +2629,7 @@ dakota
 Dakota
 dale
 dalia
+dalton
 dam
 damemma
 damenna
@@ -2573,6 +2641,7 @@ dan14031988
 dana
 danang
 dance
+danelle
 Danes
 dani
 daniel
@@ -2593,6 +2662,7 @@ danu
 danutza
 daphne
 dara
+darby
 darcy
 daren
 daria
@@ -2613,6 +2683,7 @@ dasansmc!~
 dascal
 dascalu
 daseit
+dash
 dasusr1
 data
 database
@@ -2624,11 +2695,13 @@ daughter
 dausy
 dave
 david
+davida
 davidklc
 davids
 davis
 davox
 davy
+dawson
 dax
 day
 Dayan!01
@@ -2661,7 +2734,9 @@ dd
 dd-agent
 ddo
 de
+dea
 dean
+deana
 deathrun
 deb
 debadatta
@@ -2676,11 +2751,16 @@ debug
 decatlohn
 december
 deckelma
+decker
 ded4u
 dede
+deden
+dedi
 dedicated
 dedlogistica
 dedrick
+dedy
+dee
 dee2007
 deep
 deepak
@@ -2708,6 +2788,7 @@ denali
 denes
 deni
 denied
+denim
 denis
 denisa
 denise
@@ -2718,7 +2799,10 @@ deploy
 deployer
 deposito
 der
+derby
 derek
+derex
+deri
 desarrollo
 design
 designer
@@ -2734,6 +2818,7 @@ deutsch
 deutschland
 dev
 dev2
+deva
 devan
 devcot
 devdata
@@ -2741,6 +2826,7 @@ devdocs
 developer
 development
 devendra
+devi
 deviant
 device
 devil
@@ -2750,6 +2836,7 @@ devon
 devuser
 dewa
 dewi
+dex
 dexter
 dezso
 df
@@ -2770,16 +2857,19 @@ dian
 diana
 diana4ever
 diane
+dianne
 diavola
 dicianuqwe
 dick
 diddy
+didi
 didik
 die
 diego
 digital
 digital1
 dika
+diki
 dima
 dimas
 dimonstr
@@ -2788,6 +2878,7 @@ dinesh
 dinko
 dino
 dinsdale
+dion
 dipakmaroo
 diradmin
 direct
@@ -2800,6 +2891,7 @@ display
 displays
 divine
 dixie
+dixon
 django
 DjOnTheMix#kissmyicebabybaby***
 djslzjadltjqltm305
@@ -2835,12 +2927,14 @@ dogma808
 doina
 dois
 dokusyu
+dolly
 dolores
 dolph
 doming
 dominic
 dominick
 dominik
+dominique
 domino
 domn
 domonkos
@@ -2864,6 +2958,7 @@ doomi
 door
 dora
 doreen
+doria
 dorian
 dorigo
 dorin
@@ -2890,6 +2985,7 @@ downloader2
 downloads
 dpiuser
 dr
+draco
 dracula
 dragon
 dragos3443gff@665$G455454dragos2sd
@@ -2897,6 +2993,7 @@ dragosbogdanameteam
 dragoss3fma
 dragoste
 dragostea
+drake
 draytek
 drcababu
 drckrajan
@@ -2936,10 +3033,12 @@ DucadaM
 duci
 duckie
 dudley
+duff
 duffman
 dujoey
 duke
 dulap
+dulcinea
 dumbo
 dumitru
 dummy
@@ -2956,6 +3055,7 @@ dupa.8
 durga1953
 dust
 dustin
+dusty
 dutch
 dutta
 Duxvam1406
@@ -2973,6 +3073,7 @@ e
 e5IYGbLs
 E913Jpg1
 E9em7M76
+ea
 eagle
 eaguilar
 earl
@@ -3121,6 +3222,7 @@ enable
 enc0r3@#
 enci
 end
+endang
 endre
 ene
 eng
@@ -3150,9 +3252,11 @@ erick
 erik
 erika
 erin
+erna
 ernest
 ernie
 erno
+erwin
 eryn
 erzsebet
 erzsi
@@ -3240,6 +3344,7 @@ fabrice
 fac3mult3loguri
 facebook
 factoria
+fahmi
 fahri
 faina
 faisal
@@ -3249,11 +3354,13 @@ fajar
 Fake
 falcon
 Fall
+false
 famille
 family
 famins
 fanni
 fantastic
+farhan
 farid
 faridah
 farmacia
@@ -3276,6 +3383,7 @@ fckgwrhqq2
 fdabek
 FDES3$#@S$%#ss
 febi
+febri
 february
 feby
 federal
@@ -3338,6 +3446,7 @@ finance
 finder
 fion
 fionahsu
+firdaus
 fire
 firebird
 firewall
@@ -3440,6 +3549,7 @@ frederic
 frederik
 frederique
 fredrick
+fredy
 free
 freebsd
 freeman
@@ -3644,6 +3754,7 @@ gibson
 giez59xiaf
 gigi
 gil
+gilang
 gilbert
 gillian
 gina
@@ -3871,6 +3982,7 @@ hadoop6
 hadoop7
 hadoop8
 hadoop9
+hafiz
 haibis
 haiDaseoec83faclocbah###@@@@
 hailey
@@ -3888,6 +4000,7 @@ hallo
 halt
 ham
 hamburg
+hamdan
 hamel
 hamid
 hamilton
@@ -3988,6 +4101,7 @@ herman
 hermawan
 hermes
 herry
+heru
 hEsLo123
 hettinger
 hh
@@ -4070,6 +4184,7 @@ httpd2
 hu
 huang
 huawei
+huda
 hudson
 hue
 huercal
@@ -4171,6 +4286,7 @@ im
 image
 images
 imagin3
+imam
 imanabi
 imen
 imissu
@@ -4196,6 +4312,7 @@ india
 indiana
 indigo
 indra
+indro
 ines
 info
 info01
@@ -4271,6 +4388,7 @@ ipnet
 iptv
 iq
 Iq87Ue2
+iqbal
 iraf
 irak
 irc
@@ -4384,6 +4502,7 @@ jakob
 jakov
 jal
 jam
+jamal
 james
 jamey
 jamila
@@ -4503,6 +4622,7 @@ jill
 jillian
 jim
 jim3thes18tvl@thestival.gr
+jimi
 jimmy
 jingyanping
 jinseok
@@ -4708,6 +4828,7 @@ karolina
 karoly
 karp
 kartel
+kartika
 karyn
 kas
 kasa
@@ -4890,6 +5011,7 @@ ksawada
 ktkim
 ku
 kuba
+kucing
 kuhn
 @@kukkerh4x0r@@
 kukubau47
@@ -4902,6 +5024,7 @@ Kunal
 kundan
 kundu
 kuo
+kurnia
 kurniawan
 kuroiwa
 kurt
@@ -5192,6 +5315,7 @@ lukas
 lukasz
 luke
 lukman
+lulu
 luna
 lupdate
 lupeni2011barbateni
@@ -5831,6 +5955,7 @@ name
 named
 nameserver
 nan
+nanang
 nancy
 nano
 naomi
@@ -6002,6 +6127,7 @@ nogare
 nokia
 noll
 nologin
+nono
 noob
 nora
 norby
@@ -6024,8 +6150,10 @@ notice
 notorius
 notused
 nova
+noval
 nove
 november
+novi
 np321!
 NpC
 nr
@@ -6043,6 +6171,7 @@ nucleara
 nugroho
 nuke
 numis
+nunu
 nur
 nurul
 nut
@@ -6063,6 +6192,7 @@ obiee
 obitrento
 object
 ocean
+ocha
 ochi
 octav
 octavia
@@ -6084,6 +6214,7 @@ oidentd
 oi-dev
 ok
 oka
+okmnji
 oksana
 okshdtksanf
 old
@@ -6181,6 +6312,7 @@ orders
 oreacle
 org
 original
+orlando
 orourke
 os
 osborn
@@ -6208,6 +6340,7 @@ owen
 own
 oz
 ozbaki
+ozy
 ozzie
 p
 p01y1015
@@ -6265,8 +6398,10 @@ pasare
 pascal
 pass
 passpass
+passw0rd
 passwd
 password
+password123
 passworded
 paste
 pat
@@ -6574,6 +6709,7 @@ P@s521575
 psaadm
 psaftp
 pss
+p@ssw0rd
 P@ssw0rd420$69!
 psy
 psybnc
@@ -6612,7 +6748,9 @@ Q0R=6M?2lt
 q1
 q1w2
 q1w2e3
+q1w2e3r4
 qa_test
+qazwsx
 QbdT2TbQQAuW
 q,I;BFhu*7m{
 qingandbici
@@ -6671,6 +6809,7 @@ rahayu
 rahmat
 rahul
 rahulb
+raihan
 rain
 rainman
 raisa
@@ -6681,6 +6820,7 @@ rajeev
 rajeshkryadv
 rajeshsikhakoll
 rajiv
+raka
 rakeshsac
 rakha
 rakuya
@@ -6688,12 +6828,14 @@ ralf
 ralph
 raluca
 ram
+rama
 ramaganugapati
 ramchand
 ramenvjnu
 ramesh
 rameshkumar
 ramiro
+ramli
 ramon
 ramonika123
 ramrattan
@@ -6719,6 +6861,7 @@ rapi
 rapper
 raptor
 rar
+rara
 rares
 rashiya
 rasika
@@ -6781,10 +6924,13 @@ remote
 remus
 rena
 renato
+rendi
+rendy
 rene
 renee
 renew
 renko
+reno
 replica
 repos
 request
@@ -6831,10 +6977,13 @@ rickey
 ricki
 ricky
 rico
+ridho
 ridley
+ridwan
 right
 riley
 rinocente
+rio
 ripals
 ripley
 rishi
@@ -6844,6 +6993,8 @@ rita
 ritchie
 ritt
 Riverview
+riyan
+riza
 rizal
 rizki
 rizky
@@ -7064,6 +7215,7 @@ samper80
 sample
 samples
 samson
+samsul
 samsung
 samuel
 samurakami
@@ -7072,6 +7224,7 @@ sanda
 sandbox
 sandeep
 sanderson
+sandi
 sandie
 sandra
 sandy
@@ -7319,12 +7472,14 @@ sion
 sir
 sirhack123
 sirsi
+siska
 sistemas
 sit
 site
 siteadmin
 sitecove
 sites
+siti
 sitymoon
 six
 size
@@ -7663,6 +7818,7 @@ sugetzipula
 sugicocaru1$@121
 sugipixultot
 sulagnaray
+sule
 sullivan
 sumio
 sumitkumar
@@ -7855,6 +8011,7 @@ ted
 teddy
 teddybear
 tedy123tedy
+teguh
 tehnic
 tehnolog
 teknology
@@ -8133,11 +8290,14 @@ tone
 tong0804
 toni
 tonic
+tono
 tony
 tonys
 toor
 top
+topan
 topic
+topik
 tordai
 torify
 torque
@@ -8385,6 +8545,7 @@ valet
 valhalla
 vali
 valmar
+van
 vandidei12
 VaneMarioLyptel.2011
 vanesa
@@ -8785,6 +8946,7 @@ wireles
 wirote
 wish
 wishmaker
+wisnu
 wita
 WK?Af<;82pfW5K@f$)
 Wkdrnek...
@@ -8920,6 +9082,7 @@ yamaguchi
 Yamamoto2010
 yang
 yanru
+yanto
 yarn
 yaroslav
 yarul
@@ -8956,12 +9119,18 @@ yseult
 ystest
 YTSM5Z34@ps3news.com
 yuan
+yuda
+yudha
+yudi
 yuiMos239
 yulia
 yulian
+yuni
+yunita
 yunus
 yury
 yusuf
+yusup
 yves
 yy
 YYEezh4FL0X?jU@
