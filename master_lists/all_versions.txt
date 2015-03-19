@@ -35,6 +35,7 @@ SSH-2.0-libssh2_1.4.4_DEV
 SSH-2.0-MEDUSA_1.0
 SSH-2.0-Nmap-SSH2-Hostkey
 SSH-2.0-nsssh2_4.0.0031
+SSH-2.0-nsssh2_5.0.0009
 SSH-2.0-OpenSSH_3.9p1
 SSH-2.0-OpenSSH_4.3
 SSH-2.0-OpenSSH_4.3p2
