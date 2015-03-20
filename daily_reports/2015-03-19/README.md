@@ -12,22 +12,22 @@ FFB1 47C1 326E A063
 ### Summary
 
 Date: March 19, 2015  
-Total attacks today: 41112  
-Attempted Malware Downloads: 70 
+Total attacks today: 107871  
+Attempted Malware Downloads: 184 
 
 #### IP addresses
 The following are the top 10 attacker IP addresses today, including the frequency of usage:
 ```
+  18802 103.41.125.103
+  11578 103.41.125.29
+   8340 103.41.125.42
+   8325 103.41.125.100
+   8313 103.41.125.45
+   5599 103.41.125.14
+   3927 103.41.125.30
+   2769 61.160.247.14
    1828 103.41.125.19
-   1371 103.41.125.47
-   1115 103.41.125.63
-   1061 103.41.125.65
-   1047 103.41.125.13
-   1041 103.41.125.48
-   1040 103.41.125.54
-    979 103.41.125.53
-    967 103.41.125.26
-    904 190.210.182.225
+   1524 103.41.125.47
 ```
 
 #### Attempted URL Downloads
@@ -36,59 +36,74 @@ The following are URLs attackers attempted to download and execute once they com
 http://111.73.46.116:1234/123
 http://111.73.46.22:8080/wboh
 http://122.10.112.193:8080/wboh
+http://122.10.85.54/
+http://178.33.196.164/
+http://178.33.196.164:443/
+http://178.33.196.164:53/
 http://198.11.176.45:8080/wboh
 http://198.55.103.208:280/Admins
 http://222.186.42.27:8088/serv3
+http://23.234.60.140/install/8000
 http://42.121.19.80/c.tgz
+http://60.169.75.102:1556/linux-arm
+http://60.169.75.102:1556/mips
+http://60.169.75.102:1556/wins
+http://61.160.212.21:5947/3weizisdq
 http://61.160.212.21:5947/4weizhisfg
 http://61.160.212.21:5947/sungfjwwg
 http://68.71.143.188:280/Admins
+http://93.174.93.45/h.sh
+http://buhenge.com/z1
+http://buhenge.com/z2
+http://buhenge.com/z3
+http://buhenge.com/z4
+http://buhenge.com/z5
 ```
 
 #### Passwords
 The following are the top 25 passwords today, including the frequency of usage:
 ```
-   9918 root
-    185 123456
-    123 123qwe
-    105 1q2w3e4r
-    103 qwe123
-     51 postgres
-     42 password
-     38 admin
-     37 oracle
-     36 redmine
-     36 1234
-     35 default
-     35 12345
-     29 ubnt
-     29 openbravo
-     28 123
-     26 teamspeak
-     25 abc123
-     24 test
-     23 otrs
-     22 svn
-     22 root123
-     22 *963.
-     21 share
-     20 nagios
+  15167 root
+    227 123456
+    129 123qwe
+    109 1q2w3e4r
+    104 qwe123
+     95 admin
+     84 
+     82 password
+     69 oracle
+     63 teamspeak
+     63 postgres
+     49 12345
+     47 1234
+     46 test
+     46 default
+     44 ts
+     41 teamspeak3
+     39 ts3
+     39 redmine
+     38 ubnt
+     37 123
+     36 tomcat
+     34 nagios
+     33 deploy
+     32 123456789
 ```
 
 #### Usernames
 The following are the top 3 usernames today, including the frequency of usage:
 ```
-  38968 root
-     83 admin
-     79 oracle
+ 104514 root
+    166 admin
+    122 oracle
 ```
 
 #### SSH Library Version
 The following are the top 5 SSH library versions today, including the frequency of usage:
 ```
-  12602 SSH-2.0-PUTTY
-   2354 SSH-2.0-libssh-0.1
-    895 SSH-2.0-libssh-0.2
-    282 SSH-2.0-libssh2_1.4.1
-    184 SSH-2.0-libssh2_1.4.3
+  33875 SSH-2.0-PUTTY
+   3060 SSH-2.0-libssh-0.1
+   1697 SSH-2.0-libssh-0.2
+    568 SSH-2.0-libssh2_1.4.3
+    509 SSH-2.0-libssh2_1.4.1
 ```
