@@ -1,0 +1,14 @@
+http://183.56.173.66:8880/IndexerVolumeGu
+http://222.186.190.157:1556/win
+http://222.186.190.157:56789/1
+http://222.186.190.157:56789/2
+http://222.186.190.157:56789/3
+http://222.186.190.157:56789/4
+http://60.169.75.102:1556/linux-arm
+http://60.169.75.102:1556/mips
+http://60.169.75.102:1556/win
+http://61.160.212.21:5947/3weizisdq
+http://61.160.212.21:5947/4weizhisfg
+http://61.160.212.21:5947/sungfjwwg
+http://93.174.93.45/h.sh
+http://mariusica.altervista.org/maxx.txt
