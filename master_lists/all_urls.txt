@@ -4,6 +4,7 @@ http://104.194.20.23:8080/2222
 http://106.185.24.106/4
 http://106.185.24.106/5
 http://107.150.63.178:88/disk
+http://107.151.220.62:8080/cs223
 http://111.73.46.116:1234/123
 http://111.73.46.22:8080/wboh
 http://111.74.238.15:1/qq
@@ -47,6 +48,7 @@ http://183.136.213.96:8090/10991'
 http://183.136.213.96:8090/bash.bashrc
 http://183.136.213.96:8090/Internet
 http://183.56.173.23:25816/asdq16
+http://183.56.173.66:8880/IndexerVolumeGu
 http://183.60.197.231:5156/mazi
 http://183.60.202.9:1560/qwe0x03qa0
 http://183.61.164.167:8018/12316
@@ -100,6 +102,11 @@ http://219.135.56.219:9162/smarvtd
 http://219.135.56.219:9162/udevd
 http://219.135.56.219:9162/vrgshth
 http://222.186.15.132:8087/demao.O
+http://222.186.190.157:1556/win
+http://222.186.190.157:56789/1
+http://222.186.190.157:56789/2
+http://222.186.190.157:56789/3
+http://222.186.190.157:56789/4
 http://222.186.31.11:60/lan2.6
 http://222.186.31.73:8080/Manager
 http://222.186.31.73:8123/.azui
@@ -135,6 +142,7 @@ http://50.116.13.237/profile
 http://5.175.181.46/a/ssh5.5p1.jpg
 http://60.169.75.102:1556/linux-arm
 http://60.169.75.102:1556/mips
+http://60.169.75.102:1556/win
 http://60.169.75.102:1556/wins
 http://60.173.10.177:10020/sperhong
 http://60.173.10.177:8080/14.17
@@ -214,6 +222,7 @@ http://justhiph0pmusic.altervista.org/done
 http://kiss4u.go.ro/smoke.tgz
 http://listfiles.comoj.com/udp.pl
 http://maddafaka.altervista.org/yoyo.pl
+http://mariusica.altervista.org/maxx.txt
 http://moe.psybnc.org/Moe.tar.gz
 http://root-arhive.serveftp.com/altele/pico.jpg
 http://root-arhive.serveftp.com/emech/system2.jpg

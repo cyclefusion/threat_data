@@ -34,6 +34,7 @@
      79 http://buhenge.com/z5
      76 http://buhenge.com/z3
      69 http://buhenge.com/z6
+     68 http://61.160.212.21:5947/sungfjwwg
      65 http://23.234.60.140/install/8001
      64 http://23.234.60.140/install/8003
      59 http://178.33.196.164:53/
@@ -42,10 +43,9 @@
      59 http://122.10.85.54/
      56 http://23.234.60.140/install/8005
      54 http://23.234.60.140/install/8000
-     52 http://61.160.212.21:5947/sungfjwwg
      50 http://206.132.160.38/icons/zeus.pl
      50 http://188.212.103.234/private/auto/.xtkarmx
-     44 http://61.160.212.21:5947/4weizhisfg
+     49 http://61.160.212.21:5947/4weizhisfg
      31 http://188.212.103.234/private/auto/.xtki686x
      28 http://93.174.93.45/mips-ktx
      26 http://ftp.rxxiaoao.com/install/n8002.rar
@@ -70,6 +70,7 @@
      15 http://185.61.137.109//.bub.pl
      14 http://111.73.46.22:8080/wboh
      13 http://ftp.rxxiaoao.com/install/n8001.rar
+     13 http://61.160.212.21:5947/3weizisdq
      13 http://45.56.89.67/5
      13 http://115.29.165.174:53621/ssh77
      12 http://buhenge.com/2821
@@ -77,8 +78,10 @@
      12 http://93.174.93.45/ktx-armer
      12 http://61.164.126.5:7401/sys
      12 http://61.160.247.14:7711/Maintain.sh
+     12 http://60.169.75.102:1556/win
      12 http://60.169.75.102:1556/mips
      12 http://60.169.75.102:1556/linux-arm
+     12 http://222.186.190.157:1556/win
      12 http://151.236.44.210/ft.exe
      12 http://104.192.0.130/pl
      11 http://ftp.rxxiaoao.com/install/n8007.rar
@@ -110,7 +113,8 @@
       8 http://93.174.93.45/x64-ktx
       8 http://93.174.93.45/ktx-i686er
       8 http://93.174.93.45/h.sh
-      8 http://61.160.212.21:5947/3weizisdq
+      8 http://222.186.190.157:56789/2
+      8 http://222.186.190.157:56789/1
       8 http://210.56.50.13:8080/npc
       8 http://106.185.24.106/4
       7 http://stanislaw.altervista.org/2.php
@@ -124,6 +128,8 @@
       6 http://124.115.16.31:8009/xqq
       6 http://100.42.30.34/lex
       5 http://23.234.60.140:8081/install/8007
+      5 http://222.186.190.157:56789/4
+      5 http://222.186.190.157:56789/3
       4 http://wget.clan.su/v.txt
       4 http://wget.clan.su/moe.tar.gz
       4 http://soft.hackrz.org/bnc/psy-linux.tgz
@@ -169,6 +175,7 @@
       2 http://root-arhive.serveftp.com/psybnc/psybnc-linux.jpg
       2 http://root-arhive.serveftp.com/flood/global/udp.tgz
       2 http://moe.psybnc.org/Moe.tar.gz
+      2 http://mariusica.altervista.org/maxx.txt
       2 http://justhiph0pmusic.altervista.org/done
       2 http://gblmkd.web44.net/.backup/mbs2015.tgz
       2 http://gblmkd.web44.net/.backup/god.zip
@@ -222,6 +229,7 @@
       2 http://115.29.165.174:25663/32
       2 http://115.239.248.55:8080/sshd
       2 http://115.234.208.145:8/.serv3
+      2 http://107.151.220.62:8080/cs223
       2 http://104.194.20.23:8080/2222
       1 http://www.majestic12.co.uk/bot.php
       1 http://wget.clan.su/v.txt)
@@ -234,6 +242,7 @@
       1 http://39.109.0.113:1111/666
       1 http://39.109.0.113:1111/32Mm
       1 http://185.63.253.93/.xtki686x
+      1 http://183.56.173.66:8880/IndexerVolumeGu
       1 http://183.136.213.96:8090/10991'
       1 http://162.218.30.75:1818/ssh66
       1 http://117.21.173.30:6868/azwen
