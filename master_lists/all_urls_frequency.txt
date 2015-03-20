@@ -22,30 +22,30 @@
     800 http://cs.frade8c.com:9162/byv832
     550 http://202.191.121.230/ou.pl
     260 http://64.32.12.152/gnu-bash-max-race
-    197 http://buhenge.com/z1
+    198 http://buhenge.com/z1
     186 http://61.218.226.170/
     159 http://test.music-set.net/mobile/t3.log
     131 http://23.234.60.140/install/8002
-    122 http://buhenge.com/z2
+    123 http://buhenge.com/z2
     121 http://23.234.60.140/install/8008
     109 http://185.63.253.93/.lu.pl
-     90 http://buhenge.com/z4
+     91 http://buhenge.com/z4
      80 http://202.202.121.27/bot.txt
-     78 http://buhenge.com/z5
-     74 http://buhenge.com/z3
+     79 http://buhenge.com/z5
+     76 http://buhenge.com/z3
      69 http://buhenge.com/z6
      65 http://23.234.60.140/install/8001
      64 http://23.234.60.140/install/8003
+     59 http://178.33.196.164:53/
+     59 http://178.33.196.164:443/
+     59 http://178.33.196.164/
+     59 http://122.10.85.54/
      56 http://23.234.60.140/install/8005
-     53 http://178.33.196.164:53/
-     53 http://178.33.196.164:443/
-     53 http://178.33.196.164/
-     53 http://122.10.85.54/
+     54 http://23.234.60.140/install/8000
+     52 http://61.160.212.21:5947/sungfjwwg
      50 http://206.132.160.38/icons/zeus.pl
      50 http://188.212.103.234/private/auto/.xtkarmx
-     44 http://61.160.212.21:5947/sungfjwwg
      44 http://61.160.212.21:5947/4weizhisfg
-     44 http://23.234.60.140/install/8000
      31 http://188.212.103.234/private/auto/.xtki686x
      28 http://93.174.93.45/mips-ktx
      26 http://ftp.rxxiaoao.com/install/n8002.rar
@@ -54,6 +54,7 @@
      24 http://ftp.rxxiaoao.com/install/n8008.rar
      24 http://ftp.rxxiaoao.com/install/n8003.rar
      24 http://209.236.71.188/midx
+     24 http://111.73.46.116:1234/123
      22 http://23.234.60.140/install/8007
      22 http://198.11.176.45:8080/wboh
      22 http://122.10.112.193:8080/wboh
@@ -61,6 +62,7 @@
      21 http://23.234.60.140/install/8004
      20 http://speedtest.wdc01.softlayer.com/downloads/test10.zip
      18 http://www.frade8c.com:9162/root
+     18 http://60.169.75.102:1556/wins
      17 http://23.234.60.140/install/48513
      16 http://93.184.66.196/.xml.pl
      16 http://23.228.102.152:1818/bulong
@@ -75,8 +77,9 @@
      12 http://93.174.93.45/ktx-armer
      12 http://61.164.126.5:7401/sys
      12 http://61.160.247.14:7711/Maintain.sh
+     12 http://60.169.75.102:1556/mips
+     12 http://60.169.75.102:1556/linux-arm
      12 http://151.236.44.210/ft.exe
-     12 http://111.73.46.116:1234/123
      12 http://104.192.0.130/pl
      11 http://ftp.rxxiaoao.com/install/n8007.rar
      11 http://93.174.93.45/ktx-mipsel
@@ -106,11 +109,14 @@
       8 http://cachefly.cachefly.net/100mb.test
       8 http://93.174.93.45/x64-ktx
       8 http://93.174.93.45/ktx-i686er
+      8 http://93.174.93.45/h.sh
+      8 http://61.160.212.21:5947/3weizisdq
       8 http://210.56.50.13:8080/npc
       8 http://106.185.24.106/4
       7 http://stanislaw.altervista.org/2.php
       7 http://185.63.253.93/.xtkarmx
       6 http://94.102.63.155/res.html
+      6 http://61.160.212.172:911/java
       6 http://218.244.148.238:8080/bin.sh
       6 http://204.44.104.93:8080/iten64
       6 http://183.61.164.167:8018/12316
@@ -133,12 +139,10 @@
       4 http://93.184.66.196/.ppc
       4 http://93.174.93.45/.lu.pl
       4 http://93.174.93.45/ktx-mips
-      4 http://93.174.93.45/h.sh
       4 http://93.174.93.45/.edu.pl
       4 http://93.174.93.45/.but.pl
       4 http://68.71.143.188:280/Admins
       4 http://61.160.247.104:7711/Maintain.sh
-      4 http://61.160.212.172:911/java
       4 http://60.173.10.177:8080/14.17
       4 http://42.121.19.80/c.tgz
       4 http://39.109.0.113:8520/eee
