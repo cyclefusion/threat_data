@@ -64,6 +64,7 @@ http://185.63.253.93/.xtkarmx
 http://185.63.253.93/.xtki686x
 http://188.212.103.234/private/auto/.xtkarmx
 http://188.212.103.234/private/auto/.xtki686x
+http://190.248.133.186/friend.pl
 http://198.11.176.45:8080/wboh
 http://198.200.53.79:899/cymei
 http://198.2.209.133:7899/cao1.exe
@@ -103,10 +104,14 @@ http://219.135.56.219:9162/udevd
 http://219.135.56.219:9162/vrgshth
 http://222.186.15.132:8087/demao.O
 http://222.186.190.157:1556/win
+http://222.186.190.157:22345/1
+http://222.186.190.157:22345/2
+http://222.186.190.157:22345/3
 http://222.186.190.157:56789/1
 http://222.186.190.157:56789/2
 http://222.186.190.157:56789/3
 http://222.186.190.157:56789/4
+http://222.186.190.157:56789/5
 http://222.186.31.11:60/lan2.6
 http://222.186.31.73:8080/Manager
 http://222.186.31.73:8123/.azui
@@ -235,6 +240,7 @@ http://safe.home.ro/muhs.jpg
 http://soft.hackrz.org/bnc/psy-linux.tgz
 http://speedtest.wdc01.softlayer.com/downloads/test10.zip
 http://stanislaw.altervista.org/2.php
+http://system-arhive.at.ua/exploits/2.6.x.jpg
 http://test.music-set.net/mobile/t3.log
 http://thecaretaker3d.com/press/fresh.tgz
 http://wget
