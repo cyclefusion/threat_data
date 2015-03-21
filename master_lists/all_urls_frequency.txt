@@ -47,12 +47,14 @@
      50 http://188.212.103.234/private/auto/.xtkarmx
      49 http://61.160.212.21:5947/4weizhisfg
      31 http://188.212.103.234/private/auto/.xtki686x
+     29 http://222.186.190.157:56789/4
      28 http://93.174.93.45/mips-ktx
      26 http://ftp.rxxiaoao.com/install/n8002.rar
      26 http://ftp.rxxiaoao.com/install/n8000.rar
      26 http://185.61.137.109//.xml.pl
      24 http://ftp.rxxiaoao.com/install/n8008.rar
      24 http://ftp.rxxiaoao.com/install/n8003.rar
+     24 http://222.186.190.157:56789/1
      24 http://209.236.71.188/midx
      24 http://111.73.46.116:1234/123
      22 http://23.234.60.140/install/8007
@@ -60,16 +62,18 @@
      22 http://122.10.112.193:8080/wboh
      21 http://ftp.rxxiaoao.com/install/n8005.rar
      21 http://23.234.60.140/install/8004
+     21 http://222.186.190.157:56789/3
+     21 http://222.186.190.157:56789/2
      20 http://speedtest.wdc01.softlayer.com/downloads/test10.zip
-     20 http://222.186.190.157:56789/1
      18 http://www.frade8c.com:9162/root
      18 http://60.169.75.102:1556/wins
+     18 http://222.186.190.157:56789/5
      17 http://23.234.60.140/install/48513
-     17 http://222.186.190.157:56789/4
-     17 http://222.186.190.157:56789/3
-     17 http://222.186.190.157:56789/2
      16 http://93.184.66.196/.xml.pl
      16 http://23.228.102.152:1818/bulong
+     16 http://222.186.190.157:22345/3
+     16 http://222.186.190.157:22345/2
+     16 http://222.186.190.157:22345/1
      15 http://ftp.rxxiaoao.com/install/n8006.rar
      15 http://185.61.137.109//.bub.pl
      14 http://111.73.46.22:8080/wboh
@@ -85,9 +89,6 @@
      12 http://60.169.75.102:1556/win
      12 http://60.169.75.102:1556/mips
      12 http://60.169.75.102:1556/linux-arm
-     12 http://222.186.190.157:22345/3
-     12 http://222.186.190.157:22345/2
-     12 http://222.186.190.157:22345/1
      12 http://222.186.190.157:1556/win
      12 http://151.236.44.210/ft.exe
      12 http://104.192.0.130/pl
@@ -115,7 +116,6 @@
       9 http://www.frade8c.com:9162/gdmorpen
       9 http://www.frade8c.com:9162/fdsfsfvff
       9 http://www.frade8c.com:9162/byv832
-      9 http://222.186.190.157:56789/5
       8 http://root-arhive.serveftp.com/emech/system2.jpg
       8 http://cachefly.cachefly.net/100mb.test
       8 http://93.174.93.45/x64-ktx
@@ -160,6 +160,8 @@
       4 http://39.109.0.113:8520/eee
       4 http://39.109.0.113:1111/Mm
       4 http://23.234.60.140:8081/install/8006
+      4 http://222.186.190.157:55675/2
+      4 http://222.186.190.157:55675/1
       4 http://210.56.50.13:8080/bin.sh
       4 http://204.44.104.93:8080/npc
       4 http://204.44.104.93:8080/lin32
