@@ -22,39 +22,41 @@
     800 http://cs.frade8c.com:9162/byv832
     550 http://202.191.121.230/ou.pl
     260 http://64.32.12.152/gnu-bash-max-race
-    198 http://buhenge.com/z1
+    199 http://buhenge.com/z1
     186 http://61.218.226.170/
     159 http://test.music-set.net/mobile/t3.log
     143 http://23.234.60.140/install/8002
-    125 http://buhenge.com/z2
-    121 http://23.234.60.140/install/8008
+    136 http://23.234.60.140/install/8008
+    127 http://buhenge.com/z2
     109 http://185.63.253.93/.lu.pl
-     93 http://buhenge.com/z4
+     94 http://buhenge.com/z4
      80 http://buhenge.com/z5
      80 http://202.202.121.27/bot.txt
-     77 http://buhenge.com/z3
-     69 http://buhenge.com/z6
+     78 http://buhenge.com/z3
+     71 http://178.33.196.164:53/
+     71 http://178.33.196.164:443/
+     71 http://178.33.196.164/
+     71 http://122.10.85.54/
+     70 http://buhenge.com/z6
      68 http://61.160.212.21:5947/sungfjwwg
      65 http://23.234.60.140/install/8001
-     65 http://178.33.196.164:53/
-     65 http://178.33.196.164:443/
-     65 http://178.33.196.164/
-     65 http://122.10.85.54/
      64 http://23.234.60.140/install/8003
      56 http://23.234.60.140/install/8005
      54 http://23.234.60.140/install/8000
      50 http://206.132.160.38/icons/zeus.pl
      50 http://188.212.103.234/private/auto/.xtkarmx
      49 http://61.160.212.21:5947/4weizhisfg
+     32 http://222.186.190.157:56789/1
      31 http://188.212.103.234/private/auto/.xtki686x
      29 http://222.186.190.157:56789/4
+     29 http://222.186.190.157:56789/2
      28 http://93.174.93.45/mips-ktx
      26 http://ftp.rxxiaoao.com/install/n8002.rar
      26 http://ftp.rxxiaoao.com/install/n8000.rar
+     26 http://222.186.190.157:56789/5
      26 http://185.61.137.109//.xml.pl
      24 http://ftp.rxxiaoao.com/install/n8008.rar
      24 http://ftp.rxxiaoao.com/install/n8003.rar
-     24 http://222.186.190.157:56789/1
      24 http://209.236.71.188/midx
      24 http://111.73.46.116:1234/123
      22 http://23.234.60.140/install/8007
@@ -63,11 +65,9 @@
      21 http://ftp.rxxiaoao.com/install/n8005.rar
      21 http://23.234.60.140/install/8004
      21 http://222.186.190.157:56789/3
-     21 http://222.186.190.157:56789/2
      20 http://speedtest.wdc01.softlayer.com/downloads/test10.zip
      18 http://www.frade8c.com:9162/root
      18 http://60.169.75.102:1556/wins
-     18 http://222.186.190.157:56789/5
      17 http://23.234.60.140/install/48513
      16 http://93.184.66.196/.xml.pl
      16 http://23.228.102.152:1818/bulong
@@ -84,6 +84,7 @@
      12 http://buhenge.com/2821
      12 http://93.184.66.196/.ztx.pl
      12 http://93.174.93.45/ktx-armer
+     12 http://61.164.126.5:81/rss
      12 http://61.164.126.5:7401/sys
      12 http://61.160.247.14:7711/Maintain.sh
      12 http://60.169.75.102:1556/win
@@ -121,11 +122,15 @@
       8 http://93.174.93.45/x64-ktx
       8 http://93.174.93.45/ktx-i686er
       8 http://93.174.93.45/h.sh
+      8 http://222.186.190.157:55675/2
+      8 http://222.186.190.157:55675/1
       8 http://210.56.50.13:8080/npc
+      8 http://107.150.63.178:88/disk
       8 http://106.185.24.106/4
       7 http://stanislaw.altervista.org/2.php
       7 http://185.63.253.93/.xtkarmx
       6 http://94.102.63.155/res.html
+      6 http://61.160.247.104:7711/Maintain.sh
       6 http://61.160.212.172:911/java
       6 http://218.244.148.238:8080/bin.sh
       6 http://204.44.104.93:8080/iten64
@@ -154,14 +159,11 @@
       4 http://93.174.93.45/.edu.pl
       4 http://93.174.93.45/.but.pl
       4 http://68.71.143.188:280/Admins
-      4 http://61.160.247.104:7711/Maintain.sh
       4 http://60.173.10.177:8080/14.17
       4 http://42.121.19.80/c.tgz
       4 http://39.109.0.113:8520/eee
       4 http://39.109.0.113:1111/Mm
       4 http://23.234.60.140:8081/install/8006
-      4 http://222.186.190.157:55675/2
-      4 http://222.186.190.157:55675/1
       4 http://210.56.50.13:8080/bin.sh
       4 http://204.44.104.93:8080/npc
       4 http://204.44.104.93:8080/lin32
@@ -172,7 +174,6 @@
       4 http://121.40.85.20:8181/xdp
       4 http://115.29.165.174:38886/ssh77
       4 http://115.239.248.55:8080/ssh88
-      4 http://107.150.63.178:88/disk
       3 http://74.208.166.12/bot.txt
       2 http://wget
       2 http://thecaretaker3d.com/press/fresh.tgz
