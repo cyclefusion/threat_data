@@ -20,11 +20,10 @@
     800 http://cs.frade8c.com:9162/fdsfsfvff
     800 http://cs.frade8c.com:9162/dsgregd
     800 http://cs.frade8c.com:9162/byv832
-    550 http://202.191.121.230/ou.pl
-    260 http://64.32.12.152/gnu-bash-max-race
+    488 http://202.191.121.230/ou.pl
     199 http://buhenge.com/z1
     186 http://61.218.226.170/
-    159 http://test.music-set.net/mobile/t3.log
+    156 http://64.32.12.152/gnu-bash-max-race
     143 http://23.234.60.140/install/8002
     136 http://23.234.60.140/install/8008
     127 http://buhenge.com/z2
@@ -33,27 +32,27 @@
      80 http://buhenge.com/z5
      80 http://202.202.121.27/bot.txt
      78 http://buhenge.com/z3
+     72 http://test.music-set.net/mobile/t3.log
+     72 http://61.160.212.21:5947/sungfjwwg
      71 http://178.33.196.164:53/
      71 http://178.33.196.164:443/
      71 http://178.33.196.164/
      71 http://122.10.85.54/
      70 http://buhenge.com/z6
-     68 http://61.160.212.21:5947/sungfjwwg
+     65 http://23.234.60.140/install/8003
      65 http://23.234.60.140/install/8001
-     64 http://23.234.60.140/install/8003
      56 http://23.234.60.140/install/8005
      54 http://23.234.60.140/install/8000
-     50 http://206.132.160.38/icons/zeus.pl
+     53 http://61.160.212.21:5947/4weizhisfg
+     52 http://222.186.190.157:56789/1
      50 http://188.212.103.234/private/auto/.xtkarmx
-     49 http://61.160.212.21:5947/4weizhisfg
-     32 http://222.186.190.157:56789/1
+     49 http://222.186.190.157:56789/2
+     46 http://222.186.190.157:56789/5
      31 http://188.212.103.234/private/auto/.xtki686x
      29 http://222.186.190.157:56789/4
-     29 http://222.186.190.157:56789/2
      28 http://93.174.93.45/mips-ktx
      26 http://ftp.rxxiaoao.com/install/n8002.rar
      26 http://ftp.rxxiaoao.com/install/n8000.rar
-     26 http://222.186.190.157:56789/5
      26 http://185.61.137.109//.xml.pl
      24 http://ftp.rxxiaoao.com/install/n8008.rar
      24 http://ftp.rxxiaoao.com/install/n8003.rar
@@ -90,6 +89,8 @@
      12 http://60.169.75.102:1556/win
      12 http://60.169.75.102:1556/mips
      12 http://60.169.75.102:1556/linux-arm
+     12 http://222.186.190.157:55675/5
+     12 http://222.186.190.157:55675/4
      12 http://222.186.190.157:1556/win
      12 http://151.236.44.210/ft.exe
      12 http://104.192.0.130/pl
@@ -208,7 +209,6 @@
       2 http://222.186.31.73:8123/.azui
       2 http://222.186.31.73:8080/Manager
       2 http://222.186.31.11:60/lan2.6
-      2 http://222.186.15.132:8087/demao.O
       2 http://218.75.153.137:8080/lin32
       2 http://216.99.156.165:6597/.azui
       2 http://210.77.96.165:1111/linux-mips
