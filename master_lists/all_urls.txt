@@ -26,6 +26,7 @@ http://115.29.165.174:65326/.sshdd
 http://117.21.173.30:6868/26ssh22
 http://117.21.173.30:6868/azwen
 http://117.21.225.131:9999/26ssh666666
+http://118.193.241.192/wenge
 http://121.40.85.20:8181/xdp
 http://122.10.112.193:8080/wboh
 http://122.10.85.54/
@@ -109,6 +110,9 @@ http://222.186.190.157:55675/1
 http://222.186.190.157:55675/2
 http://222.186.190.157:55675/4
 http://222.186.190.157:55675/5
+http://222.186.190.157:55675/7
+http://222.186.190.157:55675/8
+http://222.186.190.157:55675/9
 http://222.186.190.157:56789/1
 http://222.186.190.157:56789/2
 http://222.186.190.157:56789/3
@@ -245,8 +249,8 @@ http://soft.hackrz.org/bnc/psy-linux.tgz
 http://speedtest.wdc01.softlayer.com/downloads/test10.zip
 http://stanislaw.altervista.org/2.php
 http://system-arhive.at.ua/exploits/2.6.x.jpg
-http://test.music-set.net/mobile/t3.log
 http://thecaretaker3d.com/press/fresh.tgz
+http://w
 http://wenge.f3322.net/wenddos
 http://wget
 http://wget.clan.su/moe.tar.gz

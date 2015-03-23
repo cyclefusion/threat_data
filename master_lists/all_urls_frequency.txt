@@ -22,25 +22,24 @@
     800 http://cs.frade8c.com:9162/byv832
     488 http://202.191.121.230/ou.pl
     199 http://buhenge.com/z1
+    192 http://23.234.60.140/install/8003
     186 http://61.218.226.170/
-    168 http://23.234.60.140/install/8003
-    156 http://64.32.12.152/gnu-bash-max-race
     143 http://23.234.60.140/install/8002
     136 http://23.234.60.140/install/8008
     128 http://buhenge.com/z2
     109 http://185.63.253.93/.lu.pl
+    104 http://64.32.12.152/gnu-bash-max-race
      96 http://buhenge.com/z4
-     88 http://61.160.212.21:5947/sungfjwwg
-     87 http://178.33.196.164:53/
-     87 http://178.33.196.164:443/
-     87 http://178.33.196.164/
-     87 http://122.10.85.54/
+     93 http://178.33.196.164:53/
+     93 http://178.33.196.164:443/
+     93 http://178.33.196.164/
+     93 http://122.10.85.54/
+     92 http://61.160.212.21:5947/sungfjwwg
      80 http://buhenge.com/z5
      80 http://buhenge.com/z3
      80 http://202.202.121.27/bot.txt
-     72 http://test.music-set.net/mobile/t3.log
+     73 http://61.160.212.21:5947/4weizhisfg
      71 http://buhenge.com/z6
-     69 http://61.160.212.21:5947/4weizhisfg
      65 http://23.234.60.140/install/8001
      64 http://222.186.190.157:56789/1
      61 http://222.186.190.157:56789/2
@@ -58,6 +57,9 @@
      26 http://185.61.137.109//.xml.pl
      24 http://ftp.rxxiaoao.com/install/n8008.rar
      24 http://ftp.rxxiaoao.com/install/n8003.rar
+     24 http://222.186.190.157:55675/9
+     24 http://222.186.190.157:55675/8
+     24 http://222.186.190.157:55675/7
      24 http://209.236.71.188/midx
      24 http://111.73.46.116:1234/123
      22 http://23.234.60.140/install/8007
@@ -174,11 +176,13 @@
       4 http://183.136.213.96:8090/10991
       4 http://122.224.55.86:8080/npc1
       4 http://121.40.85.20:8181/xdp
+      4 http://118.193.241.192/wenge
       4 http://115.29.165.174:38886/ssh77
       4 http://115.239.248.55:8080/ssh88
       3 http://74.208.166.12/bot.txt
       2 http://wget
       2 http://wenge.f3322.net/wenddos
+      2 http://w
       2 http://thecaretaker3d.com/press/fresh.tgz
       2 http://safe.home.ro/muhs.jpg
       2 http://r.o.o.t.hi2.ro/private/psybnc.c
