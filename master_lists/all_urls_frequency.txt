@@ -23,34 +23,36 @@
     488 http://202.191.121.230/ou.pl
     199 http://buhenge.com/z1
     186 http://61.218.226.170/
+    168 http://23.234.60.140/install/8003
     156 http://64.32.12.152/gnu-bash-max-race
     143 http://23.234.60.140/install/8002
     136 http://23.234.60.140/install/8008
-    127 http://buhenge.com/z2
+    128 http://buhenge.com/z2
     109 http://185.63.253.93/.lu.pl
-     94 http://buhenge.com/z4
+     96 http://buhenge.com/z4
+     88 http://61.160.212.21:5947/sungfjwwg
+     87 http://178.33.196.164:53/
+     87 http://178.33.196.164:443/
+     87 http://178.33.196.164/
+     87 http://122.10.85.54/
      80 http://buhenge.com/z5
+     80 http://buhenge.com/z3
      80 http://202.202.121.27/bot.txt
-     78 http://buhenge.com/z3
      72 http://test.music-set.net/mobile/t3.log
-     72 http://61.160.212.21:5947/sungfjwwg
-     71 http://178.33.196.164:53/
-     71 http://178.33.196.164:443/
-     71 http://178.33.196.164/
-     71 http://122.10.85.54/
-     70 http://buhenge.com/z6
-     65 http://23.234.60.140/install/8003
+     71 http://buhenge.com/z6
+     69 http://61.160.212.21:5947/4weizhisfg
      65 http://23.234.60.140/install/8001
+     64 http://222.186.190.157:56789/1
+     61 http://222.186.190.157:56789/2
+     58 http://222.186.190.157:56789/5
      56 http://23.234.60.140/install/8005
      54 http://23.234.60.140/install/8000
-     53 http://61.160.212.21:5947/4weizhisfg
-     52 http://222.186.190.157:56789/1
      50 http://188.212.103.234/private/auto/.xtkarmx
-     49 http://222.186.190.157:56789/2
-     46 http://222.186.190.157:56789/5
      31 http://188.212.103.234/private/auto/.xtki686x
      29 http://222.186.190.157:56789/4
      28 http://93.174.93.45/mips-ktx
+     28 http://222.186.190.157:55675/5
+     28 http://222.186.190.157:55675/4
      26 http://ftp.rxxiaoao.com/install/n8002.rar
      26 http://ftp.rxxiaoao.com/install/n8000.rar
      26 http://185.61.137.109//.xml.pl
@@ -68,6 +70,7 @@
      18 http://www.frade8c.com:9162/root
      18 http://60.169.75.102:1556/wins
      17 http://23.234.60.140/install/48513
+     16 http://download.microsoft.com/download/win2000platform/SP/SP3/NT5/EN-US/W2Ksp3.exe
      16 http://93.184.66.196/.xml.pl
      16 http://23.228.102.152:1818/bulong
      16 http://222.186.190.157:22345/3
@@ -89,8 +92,6 @@
      12 http://60.169.75.102:1556/win
      12 http://60.169.75.102:1556/mips
      12 http://60.169.75.102:1556/linux-arm
-     12 http://222.186.190.157:55675/5
-     12 http://222.186.190.157:55675/4
      12 http://222.186.190.157:1556/win
      12 http://151.236.44.210/ft.exe
      12 http://104.192.0.130/pl
@@ -100,7 +101,6 @@
      11 http://185.61.137.109/.xml.pl
      11 http://185.61.137.109/.bub.pl
      11 http://162.218.30.75:1818/ssh33
-     10 http://download.microsoft.com/download/win2000platform/SP/SP3/NT5/EN-US/W2Ksp3.exe
      10 http://ctrlcenter.pw/iz/payw
      10 http://ctrlcenter.pw/iz/payc
      10 http://23.234.60.140/install/8006
@@ -153,6 +153,7 @@
       4 http://dw4.convertfiles.com/files/0008476001426332651/send.tar
       4 http://dl.packetstormsecurity.net/DoS/udp.pl
       4 http://ctrlcenter.pw/iz/.z.pl
+      4 http://csmioveni.tripod.com//scanz.tar
       4 http://93.184.66.196/.ppw
       4 http://93.184.66.196/.ppc
       4 http://93.174.93.45/.lu.pl
@@ -177,6 +178,7 @@
       4 http://115.239.248.55:8080/ssh88
       3 http://74.208.166.12/bot.txt
       2 http://wget
+      2 http://wenge.f3322.net/wenddos
       2 http://thecaretaker3d.com/press/fresh.tgz
       2 http://safe.home.ro/muhs.jpg
       2 http://r.o.o.t.hi2.ro/private/psybnc.c
