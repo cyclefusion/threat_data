@@ -21,21 +21,21 @@
     800 http://cs.frade8c.com:9162/dsgregd
     800 http://cs.frade8c.com:9162/byv832
     488 http://202.191.121.230/ou.pl
-    199 http://buhenge.com/z1
+    201 http://buhenge.com/z1
     192 http://23.234.60.140/install/8003
     186 http://61.218.226.170/
     143 http://23.234.60.140/install/8002
     136 http://23.234.60.140/install/8008
-    128 http://buhenge.com/z2
+    129 http://buhenge.com/z2
     109 http://185.63.253.93/.lu.pl
     104 http://64.32.12.152/gnu-bash-max-race
-     96 http://buhenge.com/z4
-     93 http://178.33.196.164:53/
-     93 http://178.33.196.164:443/
-     93 http://178.33.196.164/
-     93 http://122.10.85.54/
+     99 http://178.33.196.164:53/
+     99 http://178.33.196.164:443/
+     99 http://178.33.196.164/
+     99 http://122.10.85.54/
+     97 http://buhenge.com/z4
      92 http://61.160.212.21:5947/sungfjwwg
-     80 http://buhenge.com/z5
+     82 http://buhenge.com/z5
      80 http://buhenge.com/z3
      80 http://202.202.121.27/bot.txt
      73 http://61.160.212.21:5947/4weizhisfg
@@ -70,9 +70,9 @@
      21 http://222.186.190.157:56789/3
      20 http://speedtest.wdc01.softlayer.com/downloads/test10.zip
      18 http://www.frade8c.com:9162/root
+     18 http://download.microsoft.com/download/win2000platform/SP/SP3/NT5/EN-US/W2Ksp3.exe
      18 http://60.169.75.102:1556/wins
      17 http://23.234.60.140/install/48513
-     16 http://download.microsoft.com/download/win2000platform/SP/SP3/NT5/EN-US/W2Ksp3.exe
      16 http://93.184.66.196/.xml.pl
      16 http://23.228.102.152:1818/bulong
      16 http://222.186.190.157:22345/3

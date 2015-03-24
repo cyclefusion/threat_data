@@ -54,6 +54,7 @@ SSH-2.0-OpenSSH_6.2p2
 SSH-2.0-OpenSSH_6.4_hpn13v11
 SSH-2.0-OpenSSH_6.6.1p1
 SSH-2.0-OpenSSH_6.6p1
+SSH-2.0-OpenSSH_6.7
 SSH-2.0-OpenSSH-keyscan
 SSH-2.0-paramiko_1.13.0
 SSH-2.0-paramiko_1.14.0
