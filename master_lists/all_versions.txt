@@ -37,6 +37,7 @@ SSH-2.0-Nmap-SSH2-Hostkey
 SSH-2.0-nsssh2_4.0.0031
 SSH-2.0-nsssh2_5.0.0009
 SSH-2.0-nsssh2_5.0.0012
+SSH-2.0-nsssh2_5.0.0013
 SSH-2.0-OpenSSH_3.9p1
 SSH-2.0-OpenSSH_4.3
 SSH-2.0-OpenSSH_4.3p2
