@@ -252,6 +252,7 @@ http://listfiles.comoj.com/udp.pl
 http://maddafaka.altervista.org/yoyo.pl
 http://mariusica.altervista.org/maxx.txt
 http://moe.psybnc.org/Moe.tar.gz
+http://notest.3vcn.net/d32_64.txt
 http://root-arhive.serveftp.com/altele/pico.jpg
 http://root-arhive.serveftp.com/emech/system2.jpg
 http://root-arhive.serveftp.com/flood/global/udp.tgz
@@ -272,6 +273,7 @@ http://wget.clan.su/moe.tar.gz
 http://wget.clan.su/moe.tar.gz)
 http://wget.clan.su/v.txt
 http://wget.clan.su/v.txt)
+http://www.baoshijz.com/en/upload/f36d-db06cccf-96965e6d-8d3df1f8-e44a.jpg
 http://www.frade8c.com:9162/byv832
 http://www.frade8c.com:9162/fdsfsfvff
 http://www.frade8c.com:9162/gdmorpen
@@ -284,3 +286,4 @@ http://www.frade8c.com:9162/sfewfesfs
 http://www.frade8c.com:9162/smarvtd
 http://www.frade8c.com:9162/whitptabil
 http://www.majestic12.co.uk/bot.php
+http://www.shartex.net/uploads/2015032504174839405.jpg

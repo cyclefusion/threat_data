@@ -1,6 +1,7 @@
 
 SSH-1.99-3.2.9
 SSH-2.0-1.91
+SSH-2.0-BATC-1.1.51
 SSH-2.0-dropbear_0.47
 SSH-2.0-Erlang
 SSH-2.0-Go
@@ -93,6 +94,7 @@ SSH-2.0-SecureCRT_7.3.1
 SSH-2.0-vngx-jsch-0.9-1.44
 SSH-2.0-WinSCP_release_4.1.9
 SSH-2.0-WinSCP_release_4.2.7
+SSH-2.0-WinSCP_release_4.3.6
 SSH-2.0-WinSCP_release_5.1.2
 SSH-2.0-WinSCP_release_5.1.4
 SSH-2.0-WinSCP_release_5.1.5
