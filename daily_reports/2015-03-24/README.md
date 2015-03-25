@@ -12,22 +12,22 @@ FFB1 47C1 326E A063
 ### Summary
 
 Date: March 24, 2015  
-Total attacks today: 169384  
-Attempted Malware Downloads: 204 
+Total attacks today: 356862  
+Attempted Malware Downloads: 347 
 
 #### IP addresses
 The following are the top 10 attacker IP addresses today, including the frequency of usage:
 ```
-   5031 103.41.124.139
-   4553 103.41.124.144
-   4145 103.41.124.123
-   3748 103.41.124.164
-   3700 103.41.124.166
-   3325 103.41.124.167
-   3311 103.41.124.145
-   3268 103.41.124.159
-   3196 61.160.247.104
-   3149 103.41.124.90
+   8587 103.41.124.182
+   8344 103.41.124.159
+   8252 103.41.124.154
+   8250 103.41.124.130
+   6986 103.41.124.174
+   6953 103.41.124.144
+   6746 103.41.124.121
+   6669 103.41.124.123
+   6517 103.41.124.160
+   6501 103.41.124.117
 ```
 
 #### Attempted URL Downloads
@@ -53,54 +53,60 @@ http://222.186.190.157:56789/7
 http://222.186.190.157:56789/8
 http://222.186.190.157:56789/9
 http://23.234.60.140/install/8006
+http://buhenge.com/z2
 http://buhenge.com/z3
+http://buhenge.com/z4
 http://buhenge.com/z5
+http://buhenge.com/z6
+http://notest.3vcn.net/d32_64.txt
+http://www.baoshijz.com/en/upload/f36d-db06cccf-96965e6d-8d3df1f8-e44a.jpg
+http://www.shartex.net/uploads/2015032504174839405.jpg
 ```
 
 #### Passwords
 The following are the top 25 passwords today, including the frequency of usage:
 ```
-  10278 root
-    134 admin
-    121 123456
-     97 test
-     88 
-     79 oracle
-     72 12345
-     70 git
-     65 123456789
-     63 ubnt
-     62 jiamima
-     61 qwerty
-     61 123
-     59 alberto
-     54 56789
-     52 user
-     52 password
-     50 wubao
-     48 -
-     47 bin
-     47 alex
-     46 philip
-     46 1234
-     45 monique
-     45 info
+  21866 root
+    406 
+    399 123456
+    303 gateway
+    287 com
+    285 mulesystems
+    243 admin
+    173 test
+    155 ts
+    154 123
+    141  -*
+    126 teamspeak
+    123 oracle
+    112 password
+    112 12345
+    110 ubnt
+    110 qwerty
+     92 git
+     85 123456789
+     79 teamspeak3
+     77 user
+     77 info
+     77 default
+     73 1234
+     69 games
 ```
 
 #### Usernames
 The following are the top 3 usernames today, including the frequency of usage:
 ```
- 164509 root
-    327 ubnt
-    115 admin
+ 348590 root
+    387 ubnt
+    287 com
 ```
 
 #### SSH Library Version
 The following are the top 5 SSH library versions today, including the frequency of usage:
 ```
-  53151 SSH-2.0-PUTTY
-   6339 SSH-2.0-libssh-0.1
-    914 SSH-2.0-libssh2_1.4.3
-    662 SSH-2.0-libssh-0.5.2
-    642 SSH-2.0-libssh-0.2
+ 111289 SSH-2.0-PUTTY
+   9418 SSH-2.0-libssh-0.1
+   4605 SSH-2.0-libssh-0.2
+   2427 SSH-2.0-libssh2_1.4.3
+    933 SSH-2.0-libssh-0.5.2
 ```
