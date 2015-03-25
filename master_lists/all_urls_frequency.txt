@@ -28,32 +28,33 @@
     136 http://23.234.60.140/install/8008
     132 http://buhenge.com/z2
     109 http://185.63.253.93/.lu.pl
-    105 http://178.33.196.164:53/
-    105 http://178.33.196.164:443/
-    105 http://178.33.196.164/
-    105 http://122.10.85.54/
+    109 http://178.33.196.164:53/
+    109 http://178.33.196.164:443/
+    109 http://178.33.196.164/
+    109 http://122.10.85.54/
     104 http://64.32.12.152/gnu-bash-max-race
+     99 http://23.234.60.140/install/8005
      98 http://buhenge.com/z4
      92 http://61.160.212.21:5947/sungfjwwg
      87 http://23.234.60.140/install/8006
-     84 http://buhenge.com/z5
+     85 http://buhenge.com/z5
      84 http://buhenge.com/z3
      80 http://202.202.121.27/bot.txt
      73 http://61.160.212.21:5947/4weizhisfg
      72 http://buhenge.com/z6
+     72 http://182.92.223.34:1211/rss
+     70 http://222.186.190.157:56789/5
      65 http://23.234.60.140/install/8001
      64 http://222.186.190.157:56789/1
      61 http://222.186.190.157:56789/2
-     58 http://222.186.190.157:56789/5
-     56 http://23.234.60.140/install/8005
      54 http://23.234.60.140/install/8000
      50 http://188.212.103.234/private/auto/.xtkarmx
      48 http://218.5.71.227:12/rss
-     32 http://222.186.190.157:55675/33
-     32 http://222.186.190.157:55675/11
+     36 http://222.186.190.157:55675/33
+     36 http://222.186.190.157:55675/11
+     33 http://222.186.190.157:55675/22
      31 http://188.212.103.234/private/auto/.xtki686x
      29 http://222.186.190.157:56789/4
-     29 http://222.186.190.157:55675/22
      28 http://93.174.93.45/mips-ktx
      28 http://222.186.190.157:55675/5
      28 http://222.186.190.157:55675/4
@@ -66,7 +67,6 @@
      24 http://222.186.190.157:55675/8
      24 http://222.186.190.157:55675/7
      24 http://209.236.71.188/midx
-     24 http://182.92.223.34:1211/rss
      24 http://111.73.46.116:1234/123
      22 http://23.234.60.140/install/8007
      22 http://198.11.176.45:8080/wboh
@@ -75,8 +75,8 @@
      21 http://23.234.60.140/install/8004
      21 http://222.186.190.157:56789/3
      20 http://speedtest.wdc01.softlayer.com/downloads/test10.zip
+     20 http://download.microsoft.com/download/win2000platform/SP/SP3/NT5/EN-US/W2Ksp3.exe
      18 http://www.frade8c.com:9162/root
-     18 http://download.microsoft.com/download/win2000platform/SP/SP3/NT5/EN-US/W2Ksp3.exe
      18 http://60.169.75.102:1556/wins
      17 http://23.234.60.140/install/48513
      16 http://93.184.66.196/.xml.pl
@@ -97,6 +97,7 @@
      12 http://61.164.126.5:81/rss
      12 http://61.164.126.5:7401/sys
      12 http://61.160.247.14:7711/Maintain.sh
+     12 http://61.147.107.91:1231/rss
      12 http://60.169.75.102:1556/win
      12 http://60.169.75.102:1556/mips
      12 http://60.169.75.102:1556/linux-arm
@@ -141,6 +142,7 @@
       8 http://106.185.24.106/4
       7 http://stanislaw.altervista.org/2.php
       7 http://185.63.253.93/.xtkarmx
+      6 http://soft.hackrz.org/bnc/psy-linux.tgz
       6 http://94.102.63.155/res.html
       6 http://61.160.247.104:7711/Maintain.sh
       6 http://61.160.212.172:911/java
@@ -160,7 +162,6 @@
       4 http://wget.clan.su/v.txt
       4 http://wget.clan.su/moe.tar.gz
       4 http://system-arhive.at.ua/exploits/2.6.x.jpg
-      4 http://soft.hackrz.org/bnc/psy-linux.tgz
       4 http://root-arhive.serveftp.com/altele/pico.jpg
       4 http://notest.3vcn.net/d32_64.txt
       4 http://maddafaka.altervista.org/yoyo.pl
@@ -207,6 +208,7 @@
       2 http://root-arhive.serveftp.com/scanner/gosh.jpg
       2 http://root-arhive.serveftp.com/psybnc/psybnc-linux.jpg
       2 http://root-arhive.serveftp.com/flood/global/udp.tgz
+      2 http://root-arhive.at.ua/flood/global/udp.tgz
       2 http://moe.psybnc.org/Moe.tar.gz
       2 http://mariusica.altervista.org/maxx.txt
       2 http://justhiph0pmusic.altervista.org/done

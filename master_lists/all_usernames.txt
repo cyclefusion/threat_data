@@ -200,6 +200,7 @@
 12345678
 123456789
 123456qwerty
+1234asdf
 123bin
 123qaz
 123qwe
@@ -279,6 +280,7 @@
 313wane
 32
 33
+336331jum
 34
 35
 35Zulrhd3EEs
@@ -586,8 +588,12 @@
 54.164.252.64
 54.164.252.97
 54.164.253.153
+54.164.253.157
 54.164.253.179
+54.164.253.184
+54.164.253.238
 54.164.253.25
+54.164.253.252
 54.164.253.29
 54.164.253.3
 54.164.253.45
@@ -595,6 +601,12 @@
 54.164.253.52
 54.164.253.92
 54.164.253.97
+54.164.254.25
+54.164.254.5
+54.164.254.50
+54.164.254.72
+54.164.254.87
+54.164.254.9
 54.165.100.111
 54.165.100.127
 54.165.100.150
@@ -1268,6 +1280,7 @@ adrien
 adrienn
 adrienne
 adrina
+adul
 adunare
 adupload
 adv
@@ -1429,6 +1442,7 @@ akira
 akirkorian
 akmnairjrf
 akos
+akram
 Akseli
 aksinya
 Aku
@@ -2055,6 +2069,7 @@ babe
 babes
 babies
 babilon001
+babs
 babty
 babugovindraj
 baby
@@ -2076,6 +2091,8 @@ backup6
 backup7
 backup8
 backup9
+backupadmin
+backupdb
 backuppc
 backups
 bacula
@@ -2457,6 +2474,7 @@ bremar
 brend
 brenda
 brendan
+brenn
 brent
 bret
 brett
@@ -2578,6 +2596,7 @@ cabron
 caca
 cache
 cacti
+cactiadmin
 CactiEZ
 cactiuser
 cad
@@ -2654,6 +2673,7 @@ carey
 cargan
 carina
 carissa
+caritta
 carl
 carla
 carllos
@@ -2796,6 +2816,7 @@ chemaleg
 chemistry
 chen
 cheng
+chen-jung
 chenyu
 cher
 cheryl
@@ -3845,6 +3866,7 @@ elian
 eliane
 elias
 elijah
+elio
 eliot
 eliott
 elis
@@ -4050,6 +4072,7 @@ fa
 fa1linl0v3
 fabes
 fabian
+fabien
 fabio
 fabo
 fabrice
@@ -4372,6 +4395,7 @@ fulop
 fulton
 Fum4tulP0@t3Uc1d3R4uD3T0t!@#$%^%^&*?
 fun
+fung
 funny
 funt
 furious
@@ -4523,6 +4547,7 @@ Ghencea
 gherman
 ghost
 gia
+giang
 Giani
 gianluca
 gib
@@ -4709,6 +4734,7 @@ guest7
 guest8
 guest9
 guestuser
+guestx
 gui
 guide
 guilhermep
@@ -4828,6 +4854,7 @@ haproxy
 harada
 hard
 hardik
+hardja
 hardy
 hari
 harigaya
@@ -4967,6 +4994,7 @@ ho
 hoeun
 hohoho
 hola
+holli
 holly
 hom
 home
@@ -5784,6 +5812,7 @@ karin
 karina
 karl
 karla
+karlee
 karlos
 karmegam
 karmina
@@ -6134,6 +6163,7 @@ lauren
 laurence
 laurent
 laurentiu
+lauretta
 laurie
 lausir
 laven
@@ -6142,6 +6172,7 @@ lavinia
 lavonne
 law
 lawrence
+layla
 lazar
 lazaro
 lb
@@ -7157,6 +7188,7 @@ mysql6
 mysql7
 mysql8
 mysql9
+mysqladm
 mysqladmin
 mysqll
 mysquel
@@ -7450,6 +7482,7 @@ novi
 nox
 nozomi
 np321!
+Npc
 NpC
 nr
 ns
@@ -7482,6 +7515,7 @@ nyx
 nz
 o
 o12nu27
+o12nu27password
 O1VEQiQcIEc5
 o2
 oa
@@ -7700,6 +7734,7 @@ palmer
 paloma
 pam
 pamela
+pammi
 pams
 panabit
 panama
@@ -8528,6 +8563,7 @@ rooter
 root fix pula
 rootkit
 root:qwerty1234
+rootroot
 root !root
 root x
 rory
@@ -8958,6 +8994,7 @@ sid
 sidney
 sientelo
 sierra
+siesa1
 sigmund
 signalhill
 sIIzgxxnwim.cfm1tt9j
@@ -9679,6 +9716,8 @@ tescommrun
 tess
 test
 test0
+test002
+test003
 test01
 test02
 test03
@@ -9715,21 +9754,28 @@ tester
 testftp
 testgay
 testguy
+testi
 testid
 testing
+testmail
 testme
+testpatch
+testpatch3
+testReseller
 tests
 testtest
 testunyou
 testuser
 test-user
 testUser
+testx
 tetranet
 tetsuser
 tex
 texas
 text
 tez
+tezt
 tfc
 tflogs
 tgkmurthy
@@ -10499,6 +10545,7 @@ vyos
 VZUilm6vVcPf
 w
 W1nn1ETh3P00h
+w3lc0m3
 w3LC0M31
 W3stw1ndfu11@cc355
 w4

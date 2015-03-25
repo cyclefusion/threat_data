@@ -173,6 +173,7 @@ http://60.169.75.102:1556/wins
 http://60.173.10.177:10020/sperhong
 http://60.173.10.177:8080/14.17
 http://61.147.103.173:8080/9999
+http://61.147.107.91:1231/rss
 http://61.160.212.172:911/java
 http://61.160.212.172:911/ntldont
 http://61.160.212.21:5947/3weizisdq
@@ -253,6 +254,7 @@ http://maddafaka.altervista.org/yoyo.pl
 http://mariusica.altervista.org/maxx.txt
 http://moe.psybnc.org/Moe.tar.gz
 http://notest.3vcn.net/d32_64.txt
+http://root-arhive.at.ua/flood/global/udp.tgz
 http://root-arhive.serveftp.com/altele/pico.jpg
 http://root-arhive.serveftp.com/emech/system2.jpg
 http://root-arhive.serveftp.com/flood/global/udp.tgz
