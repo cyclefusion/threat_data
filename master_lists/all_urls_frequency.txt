@@ -24,6 +24,7 @@
     203 http://buhenge.com/z1
     192 http://23.234.60.140/install/8003
     186 http://61.218.226.170/
+    162 http://23.234.60.140/install/8006
     158 http://23.234.60.140/install/8008
     143 http://23.234.60.140/install/8002
     132 http://buhenge.com/z2
@@ -33,22 +34,22 @@
     124 http://122.10.85.54/
     109 http://185.63.253.93/.lu.pl
     104 http://64.32.12.152/gnu-bash-max-race
+    100 http://61.160.212.21:5947/sungfjwwg
      99 http://23.234.60.140/install/8005
      98 http://buhenge.com/z4
-     92 http://61.160.212.21:5947/sungfjwwg
+     98 http://222.186.190.157:56789/5
      88 http://buhenge.com/z5
-     87 http://23.234.60.140/install/8006
+     88 http://222.186.190.157:56789/1
      86 http://buhenge.com/z3
+     85 http://222.186.190.157:56789/2
+     84 http://182.92.223.34:1211/rss
      80 http://202.202.121.27/bot.txt
      76 http://buhenge.com/z6
-     74 http://222.186.190.157:56789/5
      73 http://61.160.212.21:5947/4weizhisfg
-     72 http://182.92.223.34:1211/rss
      65 http://23.234.60.140/install/8001
-     64 http://222.186.190.157:56789/1
-     61 http://222.186.190.157:56789/2
      54 http://23.234.60.140/install/8000
      50 http://188.212.103.234/private/auto/.xtkarmx
+     48 http://61.147.107.91:1231/rss
      48 http://218.5.71.227:12/rss
      36 http://222.186.190.157:55675/33
      36 http://222.186.190.157:55675/11
@@ -63,7 +64,7 @@
      26 http://185.61.137.109//.xml.pl
      24 http://ftp.rxxiaoao.com/install/n8008.rar
      24 http://ftp.rxxiaoao.com/install/n8003.rar
-     24 http://61.147.107.91:1231/rss
+     24 http://61.147.107.91:65534/rss
      24 http://222.186.190.157:55675/9
      24 http://222.186.190.157:55675/8
      24 http://222.186.190.157:55675/7
