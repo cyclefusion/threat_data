@@ -1,6 +1,7 @@
 
 SSH-1.99-3.2.9
 SSH-2.0-1.91
+SSH-2.0-5.27
 SSH-2.0-BATC-1.1.51
 SSH-2.0-dropbear_0.47
 SSH-2.0-Erlang

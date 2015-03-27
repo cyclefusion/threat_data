@@ -22,6 +22,7 @@
     800 http://cs.frade8c.com:9162/byv832
     488 http://202.191.121.230/ou.pl
     203 http://buhenge.com/z1
+    196 http://61.160.212.21:5947/sungfjwwg
     192 http://23.234.60.140/install/8003
     186 http://61.218.226.170/
     162 http://23.234.60.140/install/8006
@@ -33,20 +34,20 @@
     127 http://178.33.196.164/
     127 http://122.10.85.54/
     118 http://222.186.190.157:56789/5
-    116 http://61.160.212.21:5947/sungfjwwg
     109 http://185.63.253.93/.lu.pl
     105 http://222.186.190.157:56789/2
     105 http://222.186.190.157:56789/1
     104 http://64.32.12.152/gnu-bash-max-race
      99 http://buhenge.com/z4
      99 http://23.234.60.140/install/8005
+     96 http://182.92.223.34:1211/rss
      90 http://buhenge.com/z5
      86 http://buhenge.com/z3
-     84 http://182.92.223.34:1211/rss
      80 http://202.202.121.27/bot.txt
      76 http://buhenge.com/z6
      73 http://61.160.212.21:5947/4weizhisfg
      65 http://23.234.60.140/install/8001
+     60 http://61.147.107.91:65534/rss
      54 http://23.234.60.140/install/8000
      50 http://188.212.103.234/private/auto/.xtkarmx
      48 http://61.147.107.91:1231/rss
@@ -64,7 +65,6 @@
      26 http://185.61.137.109//.xml.pl
      24 http://ftp.rxxiaoao.com/install/n8008.rar
      24 http://ftp.rxxiaoao.com/install/n8003.rar
-     24 http://61.147.107.91:65534/rss
      24 http://222.186.190.157:55675/9
      24 http://222.186.190.157:55675/8
      24 http://222.186.190.157:55675/7
@@ -199,6 +199,7 @@
       4 http://115.29.165.174:38886/ssh77
       4 http://115.239.248.55:8080/ssh88
       3 http://74.208.166.12/bot.txt
+      3 http://62.210.209.198/79
       2 http://wget
       2 http://wenge.f3322.net/wenddos
       2 http://w
