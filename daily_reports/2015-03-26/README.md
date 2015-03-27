@@ -12,27 +12,31 @@ FFB1 47C1 326E A063
 ### Summary
 
 Date: March 26, 2015  
-Total attacks today: 203760  
-Attempted Malware Downloads: 215 
+Total attacks today: 394794  
+Attempted Malware Downloads: 305 
 
 #### IP addresses
 The following are the top 10 attacker IP addresses today, including the frequency of usage:
 ```
+  62695 103.41.124.134
+  52088 103.41.124.185
+  46113 103.41.124.131
   29946 103.41.124.163
-  27459 103.41.124.185
   20568 103.41.124.165
-  11856 103.41.124.131
+  13832 103.41.124.169
   11575 103.41.124.181
+  11094 103.41.124.149
   10526 103.41.124.157
-  10520 103.41.124.149
    9717 103.41.124.151
-   7639 103.41.124.138
-   7525 103.41.124.161
 ```
 
 #### Attempted URL Downloads
 The following are URLs attackers attempted to download and execute once they compromise a honeypot sensor:
 ```
+http://122.10.85.54/
+http://178.33.196.164/
+http://178.33.196.164:443/
+http://178.33.196.164:53/
 http://182.92.223.34:1211/rss
 http://222.186.190.157:56789/1
 http://222.186.190.157:56789/2
@@ -41,52 +45,55 @@ http://23.234.60.140/install/8006
 http://61.147.107.91:1231/rss
 http://61.147.107.91:65534/rss
 http://61.160.212.21:5947/sungfjwwg
+http://buhenge.com/z2
+http://buhenge.com/z4
+http://buhenge.com/z5
 ```
 
 #### Passwords
 The following are the top 25 passwords today, including the frequency of usage:
 ```
-  17824 root
-    484 123456
-    280 password
-    254 1234
-    251 12345
-    235 123
-    224 1
-    169 12
-    163 admin
-    161 test
-    114 
-    112 qwe123
-     91 qwerty
-     87 1q2w3e4r
-     84 qwertyuiop
-     84 123qwe
-     73 ubnt
-     70 qwerty123
-     69 123456789
-     63 12345678
-     61 oracle
-     58 ts
-     57 1234567
-     55 git
-     49 teamspeak
+  24588 root
+    631 123456
+    310 password
+    279 1234
+    274 12345
+    249 123
+    230 1
+    225 admin
+    222 test
+    173 12
+    136 
+    117 qwerty
+    117 qwe123
+    106 1q2w3e4r
+    100 qwertyuiop
+    100 123qwe
+     98 123456789
+     89 oracle
+     89 12345678
+     83 ubnt
+     83 qwerty123
+     76 git
+     75 nagios
+     73 letmein
+     72 1qaz2wsx
 ```
 
 #### Usernames
 The following are the top 3 usernames today, including the frequency of usage:
 ```
- 196148 root
-    540 teamspeak
-    406 minecraft
+ 385468 root
+    561 teamspeak
+    421 minecraft
 ```
 
 #### SSH Library Version
 The following are the top 5 SSH library versions today, including the frequency of usage:
 ```
-  65001 SSH-2.0-PUTTY
-   9144 SSH-2.0-libssh-0.1
-    925 SSH-2.0-libssh-0.2
-    274 SSH-2.0-libssh2_1.4.1
-    212 SSH-2.0-libssh-0.5.2
+ 126911 SSH-2.0-PUTTY
+  15987 SSH-2.0-libssh-0.1
+   1519 SSH-2.0-libssh-0.2
+    332 SSH-2.0-libssh2_1.4.1
+    218 SSH-2.0-libssh-0.5.2
 ```
