@@ -79,6 +79,7 @@ SSH-2.0-PuTTY_Local:_Mar__2_2015_21:30:06
 SSH-2.0-PuTTY_Local:_May_14_2009_21:12:18
 SSH-2.0-PuTTY_Local:_Nov_21_2010_15:53:55
 SSH-2.0-PuTTY_Release_0.58
+SSH-2.0-PuTTY_Release_0.59
 SSH-2.0-PuTTY_Release_0.60
 SSH-2.0-PuTTY_Release_0.61
 SSH-2.0-PuTTY_Release_0.61cn

@@ -47,6 +47,7 @@ http://178.33.196.164:443/
 http://178.33.196.164:53/
 http://182.254.247.118:8080/WIND
 http://182.92.223.34:1211/rss
+http://182.92.238.165:86/zuos
 http://183.136.213.96:8090/10991
 http://183.136.213.96:8090/10991'
 http://183.136.213.96:8090/bash.bashrc
@@ -185,6 +186,7 @@ http://61.160.247.14:7711/Maintain.sh
 http://61.164.126.5:7401/sys
 http://61.164.126.5:81/rss
 http://61.218.226.170/
+http://62.210.209.198/49
 http://62.210.209.198/79
 http://64.32.12.152/gnu-bash-max-race
 http://68.64.167.10/4
@@ -256,6 +258,7 @@ http://listfiles.comoj.com/udp.pl
 http://maddafaka.altervista.org/yoyo.pl
 http://mariusica.altervista.org/maxx.txt
 http://moe.psybnc.org/Moe.tar.gz
+http://m.uploadedit.com/ba3a/1425126711588.txt
 http://notest.3vcn.net/d32_64.txt
 http://root-arhive.at.ua/flood/global/udp.tgz
 http://root-arhive.serveftp.com/altele/pico.jpg
