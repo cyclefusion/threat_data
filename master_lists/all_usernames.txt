@@ -724,9 +724,19 @@
 54.165.3.99
 54.165.4.11
 54.165.4.111
+54.165.4.136
+54.165.4.152
+54.165.4.173
+54.165.4.178
+54.165.4.185
+54.165.4.211
+54.165.4.251
 54.165.4.52
 54.165.4.72
 54.165.4.90
+54.165.5.29
+54.165.5.49
+54.165.5.67
 54.165.95.113
 54.165.95.66
 54.165.95.70
@@ -983,6 +993,7 @@ a4
 A63h6SyR
 a6c543c17fdd01439ff37f345a039992
 aa
+Aa12345root
 aaa
 aaaa
 aaaaa
@@ -2974,6 +2985,7 @@ cfg
 cgadmin
 cgarcia
 cgb
+cgc-admin
 cgi
 cgi-bin
 ch
@@ -4637,6 +4649,7 @@ fong
 foo
 foobar
 foolproof
+foot
 football
 force
 ford
@@ -5073,6 +5086,7 @@ govern
 governo
 gozfidan
 gpadmin
+gpmon
 gr
 gr33nm00n
 grace
@@ -5572,6 +5586,7 @@ iclock
 ict
 id
 ida
+idcadm
 idci
 idclicksucai
 ide
@@ -5824,6 +5839,7 @@ itpro*.8FS
 its
 itsenter
 itsupport
+itv-admin
 iubi
 iubire
 iuli
@@ -6316,6 +6332,7 @@ kana
 kandalf
 kane
 kang
+kanms
 kaori
 kapil
 kapustka
@@ -8305,6 +8322,7 @@ oschmold
 oshima
 osilvera
 ospatar
+ospfd
 osse
 ostgres
 osvaldo
@@ -9928,6 +9946,7 @@ spy
 sPzL4
 sq
 sql
+SQLDebugger
 sqoop
 squid
 squirrelmail
@@ -10431,6 +10450,7 @@ terry
 tery
 tes
 tescommrun
+tese123
 tess
 test
 Test
@@ -11756,6 +11776,7 @@ yves
 yvon
 yy
 YYEezh4FL0X?jU@
+yzh001
 z
 Z+2.0q!w@e#r$108
 z3r0c00l
@@ -11805,6 +11826,7 @@ ZfdvqDD8
 zha
 zhanghui
 zhangjin
+zhangjun
 zhangyan
 zhen
 zhi
