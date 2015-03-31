@@ -257,6 +257,8 @@ http://kiss4u.go.ro/smoke.tgz
 http://listfiles.comoj.com/udp.pl
 http://maddafaka.altervista.org/yoyo.pl
 http://mariusica.altervista.org/maxx.txt
+http://mikutul.altervista.org/arhive/authorized_keys
+http://mikutul.altervista.org/arhive/miau-MiK.tgz
 http://moe.psybnc.org/Moe.tar.gz
 http://m.uploadedit.com/ba3a/1425126711588.txt
 http://notest.3vcn.net/d32_64.txt
