@@ -25,7 +25,7 @@
     196 http://61.160.212.21:5947/sungfjwwg
     192 http://23.234.60.140/install/8003
     186 http://61.218.226.170/
-    162 http://23.234.60.140/install/8006
+    164 http://23.234.60.140/install/8006
     158 http://23.234.60.140/install/8008
     143 http://23.234.60.140/install/8002
     136 http://buhenge.com/z2
