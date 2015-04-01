@@ -1,25 +1,25 @@
-14248799 root
- 311499 admin
-   8403 test
-   7524 oracle
+14253540 root
+ 311502 admin
+   8404 test
+   7535 oracle
    6799 ubnt
    5537 user
    4823 www
    4391 guest
-   4382 postgres
-   3400 support
+   4387 postgres
+   3401 support
    3306 ftpuser
    3294 
-   2981 nagios
-   2281 git
-   2232 ubuntu
+   2990 nagios
+   2287 git
+   2238 ubuntu
    2158 com
    2096 mulesystems
-   2010 teamspeak
+   2011 teamspeak
    1841 info
    1799 ftp
    1706 bin
-   1447 ts
+   1448 ts
    1411 pi
    1396 PlcmSpIp
    1301 tomcat
@@ -30,7 +30,7 @@
    1169 ts3
    1160 gateway
    1086 apache
-   1080 zabbix
+   1084 zabbix
    1039 backup
    1037 alex
    1025 deploy
@@ -57,7 +57,7 @@
     546 user2
     541 test1
     538 temp
-    529 sales
+    530 sales
     527 www-data
     524 suporte
     515 asterisk
@@ -81,7 +81,7 @@
     430 apresley
     426 marc
     419 informix
-    411 sshd
+    412 sshd
     410 svn
     391 john
     390 shiva
@@ -109,16 +109,16 @@
     310 weblogic
     300 zhangyan
     300 renew
+    299 send
     299 debug
     299 debian
-    298 send
     293 ts3srv
+    290 sebastian
     289 vnc
-    289 sebastian
     289 log
     286 xbmc
     286 postfix
-    283 smtp
+    284 smtp
     278 deployer
     276 master
     272 service
@@ -9363,8 +9363,10 @@
       2 54.173.58.111
       2 54.173.58.105
       2 54.173.58.101
+      2 54.167.132.157
       2 54.165.95.66
       2 54.165.95.113
+      2 54.165.8.70
       2 54.165.6.241
       2 54.165.6.237
       2 54.165.6.231
