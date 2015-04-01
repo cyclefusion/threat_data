@@ -50,6 +50,7 @@
      73 http://61.160.212.21:5947/4weizhisfg
      65 http://23.234.60.140/install/8001
      54 http://23.234.60.140/install/8000
+     52 http://23.234.25.74:1547/ttxsyg
      50 http://188.212.103.234/private/auto/.xtkarmx
      48 http://61.147.107.91:1231/rss
      48 http://218.5.71.227:12/rss
@@ -57,6 +58,7 @@
      36 http://222.186.190.157:55675/33
      36 http://222.186.190.157:55675/11
      33 http://222.186.190.157:55675/22
+     32 http://222.186.190.157:56789/win5
      31 http://188.212.103.234/private/auto/.xtki686x
      30 http://62.210.209.198/79
      29 http://222.186.190.157:56789/4
@@ -116,6 +118,7 @@
      11 http://185.61.137.109/.xml.pl
      11 http://185.61.137.109/.bub.pl
      11 http://162.218.30.75:1818/ssh33
+     10 http://m.uploadedit.com/ba3a/1425126711588.txt
      10 http://ctrlcenter.pw/iz/payw
      10 http://ctrlcenter.pw/iz/payc
      10 http://218.244.148.238:8080/npc1
@@ -138,7 +141,6 @@
       8 http://93.174.93.45/x64-ktx
       8 http://93.174.93.45/ktx-i686er
       8 http://93.174.93.45/h.sh
-      8 http://23.234.25.74:1547/ttxsyg
       8 http://222.186.190.157:56789/7
       8 http://222.186.190.157:55675/qz2
       8 http://222.186.190.157:55675/qz1
@@ -188,9 +190,10 @@
       4 http://39.109.0.113:8520/eee
       4 http://39.109.0.113:1111/Mm
       4 http://23.234.60.140:8081/install/8006
-      4 http://222.186.190.157:56789/win5
+      4 http://222.186.190.157:56789/win8
       4 http://222.174.5.25:1234/2
       4 http://222.174.5.25:1234/1
+      4 http://219.117.229.91/
       4 http://210.56.50.13:8080/bin.sh
       4 http://204.44.104.93:8080/npc
       4 http://204.44.104.93:8080/lin32
@@ -214,7 +217,6 @@
       2 http://root-arhive.serveftp.com/psybnc/psybnc-linux.jpg
       2 http://root-arhive.serveftp.com/flood/global/udp.tgz
       2 http://root-arhive.at.ua/flood/global/udp.tgz
-      2 http://m.uploadedit.com/ba3a/1425126711588.txt
       2 http://moe.psybnc.org/Moe.tar.gz
       2 http://mikutul.altervista.org/arhive/miau-MiK.tgz
       2 http://mikutul.altervista.org/arhive/authorized_keys
