@@ -22,13 +22,13 @@
     800 http://cs.frade8c.com:9162/byv832
     488 http://202.191.121.230/ou.pl
     264 http://61.160.212.21:5947/sungfjwwg
-    206 http://buhenge.com/z1
-    192 http://23.234.60.140/install/8003
+    208 http://buhenge.com/z1
+    197 http://23.234.60.140/install/8003
     186 http://61.218.226.170/
     164 http://23.234.60.140/install/8006
     158 http://23.234.60.140/install/8008
     143 http://23.234.60.140/install/8002
-    138 http://buhenge.com/z2
+    139 http://buhenge.com/z2
     131 http://178.33.196.164:53/
     131 http://178.33.196.164:443/
     131 http://178.33.196.164/
@@ -42,10 +42,10 @@
     104 http://64.32.12.152/gnu-bash-max-race
     102 http://buhenge.com/z4
      99 http://23.234.60.140/install/8005
-     96 http://buhenge.com/z5
+     97 http://buhenge.com/z5
      96 http://182.92.223.34:1211/rss
      88 http://buhenge.com/z3
-     82 http://buhenge.com/z6
+     83 http://buhenge.com/z6
      80 http://202.202.121.27/bot.txt
      73 http://61.160.212.21:5947/4weizhisfg
      65 http://23.234.60.140/install/8001
@@ -53,6 +53,7 @@
      50 http://188.212.103.234/private/auto/.xtkarmx
      48 http://61.147.107.91:1231/rss
      48 http://218.5.71.227:12/rss
+     37 http://62.210.209.198/59
      36 http://222.186.190.157:55675/33
      36 http://222.186.190.157:55675/11
      33 http://222.186.190.157:55675/22
@@ -137,6 +138,7 @@
       8 http://93.174.93.45/x64-ktx
       8 http://93.174.93.45/ktx-i686er
       8 http://93.174.93.45/h.sh
+      8 http://23.234.25.74:1547/ttxsyg
       8 http://222.186.190.157:56789/7
       8 http://222.186.190.157:55675/qz2
       8 http://222.186.190.157:55675/qz1
@@ -186,6 +188,7 @@
       4 http://39.109.0.113:8520/eee
       4 http://39.109.0.113:1111/Mm
       4 http://23.234.60.140:8081/install/8006
+      4 http://222.186.190.157:56789/win5
       4 http://222.174.5.25:1234/2
       4 http://222.174.5.25:1234/1
       4 http://210.56.50.13:8080/bin.sh
