@@ -12,40 +12,46 @@ FFB1 47C1 326E A063
 ### Summary
 
 Date: April 02, 2015  
-Total attacks today: 49043  
-Attempted Malware Downloads: 137 
+Total attacks today: 57705  
+Attempted Malware Downloads: 169 
 
 #### IP addresses
 The following are the top 10 attacker IP addresses today, including the frequency of usage:
 ```
-   4866 58.218.213.254
-   3787 221.229.166.29
-   3237 58.218.204.241
-   3027 61.160.215.102
-   2834 58.218.204.245
-   2417 221.229.166.30
-   2357 221.229.166.27
-   2046 221.229.166.98
-   1915 58.218.204.226
-   1907 221.229.166.240
+   5343 58.218.213.254
+   4117 221.229.166.29
+   3916 58.218.204.241
+   3628 61.160.215.102
+   3074 58.218.204.245
+   2934 221.229.166.98
+   2771 221.229.166.30
+   2756 221.229.166.27
+   2332 221.229.166.28
+   2227 58.218.204.226
 ```
 
 #### Attempted URL Downloads
 The following are URLs attackers attempted to download and execute once they compromise a honeypot sensor:
 ```
+http://122.10.85.54/
+http://178.33.196.164/
+http://178.33.196.164:443/
+http://178.33.196.164:53/
 http://183.61.171.143:9190/Ultras
 http://222.186.190.157:56789/win5
 http://222.186.190.157:56789/win8
 http://23.234.25.74:1547/ttxsyg
+http://62.210.209.198/59
 http://rupe.cf/udp.pl
 ```
 
 #### Passwords
 The following are the top 25 passwords today, including the frequency of usage:
 ```
-   6715 root
+   7835 root
+     93 123456
      74 xensystem
-     70 123456
+     64 1q2w3e!Q@W#E
      63 p0stf1x
      63 p00kie
      63 ownage
@@ -67,23 +73,22 @@ The following are the top 25 passwords today, including the frequency of usage:
      58 TANDBERG
      58 Predictlabs4
      58 openmail
-     58 open1234
 ```
 
 #### Usernames
 The following are the top 3 usernames today, including the frequency of usage:
 ```
-  48088 root
-     55 admin
-     30 git
+  56681 root
+     58 admin
+     36 git
 ```
 
 #### SSH Library Version
 The following are the top 5 SSH library versions today, including the frequency of usage:
 ```
-  15471 SSH-2.0-PUTTY
-   1134 SSH-2.0-libssh-0.1
-    638 SSH-2.0-libssh2_1.4.3
-    191 SSH-2.0-libssh2_1.4.1
+  18174 SSH-2.0-PUTTY
+   1187 SSH-2.0-libssh-0.1
+    763 SSH-2.0-libssh2_1.4.3
+    216 SSH-2.0-libssh2_1.4.1
      93 SSH-2.0-libssh-0.5.2
 ```
