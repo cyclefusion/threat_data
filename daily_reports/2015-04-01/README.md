@@ -12,78 +12,86 @@ FFB1 47C1 326E A063
 ### Summary
 
 Date: April 01, 2015  
-Total attacks today: 24768  
-Attempted Malware Downloads: 88 
+Total attacks today: 81202  
+Attempted Malware Downloads: 259 
 
 #### IP addresses
 The following are the top 10 attacker IP addresses today, including the frequency of usage:
 ```
-   2062 58.218.204.248
-   1965 117.21.174.111
-   1829 221.229.166.30
-   1666 58.218.204.226
-   1561 221.229.166.98
-   1370 58.218.199.49
-   1153 221.229.160.230
-   1121 221.229.166.28
-   1077 58.218.204.245
-    969 117.21.191.23
+   6853 117.21.174.111
+   5234 58.218.199.49
+   4715 221.229.166.30
+   4690 221.229.166.27
+   4448 221.229.166.28
+   4041 58.218.213.254
+   3962 221.229.166.98
+   3854 58.218.199.195
+   3709 221.229.166.29
+   3127 221.229.166.254
 ```
 
 #### Attempted URL Downloads
 The following are URLs attackers attempted to download and execute once they compromise a honeypot sensor:
 ```
+http://122.10.85.54/
+http://178.33.196.164/
+http://178.33.196.164:443/
+http://178.33.196.164:53/
 http://219.117.229.91/
 http://222.186.190.157:56789/win5
 http://222.186.190.157:56789/win8
 http://23.234.25.74:1547/ttxsyg
+http://62.210.209.198/49
+http://buhenge.com/z1
+http://buhenge.com/z2
+http://buhenge.com/z5
 http://m.uploadedit.com/ba3a/1425126711588.txt
 ```
 
 #### Passwords
 The following are the top 25 passwords today, including the frequency of usage:
 ```
-   2039 root
-    100 changeme
-     69 1q2w3e4r
-     67 123456
-     55 admin
-     49 12345678
-     45 123456789
-     44 1qaz2wsx
-     43 qwerty
-     42 12345
-     39 mysql
-     38 123qwe
-     36 qwe123
-     36 elettronicapm
-     36 dorinel1234
-     36 dominique1234
-     36 diana123
-     36 demo123
-     35 bonsignore123
-     35 bartek1
-     35 balthazar
-     35 antrax
-     34 ubnt
-     34 anonymous
-     34 alessio12
+   4805 root
+    194 123456
+    123 1q2w3e4r
+    107 changeme
+     91 admin
+     89 123qwe
+     85 qwe123
+     64 12345678
+     63 admin!@#$
+     63 adm2
+     62 ab1cd2efg
+     61 95217189
+     61 89456
+     61 885522
+     59 qwerty
+     58 7hur@y@t3am
+     58 7849516203
+     58 6992828766
+     56 400800
+     55 362951847
+     55 1qaz2wsx
+     55 123456789
+     54 3062951847
+     53 12345
+     50 mysql
 ```
 
 #### Usernames
 The following are the top 3 usernames today, including the frequency of usage:
 ```
-  23431 root
-     59 admin
-     55 oracle
+  78765 root
+     96 admin
+     91 oracle
 ```
 
 #### SSH Library Version
 The following are the top 5 SSH library versions today, including the frequency of usage:
 ```
-   8269 SSH-2.0-PUTTY
-   1361 SSH-2.0-libssh-0.1
-    280 SSH-2.0-libssh2_1.4.1
-    182 SSH-2.0-libssh-0.2
-     47 SSH-2.0-OpenSSH_4.3
+  26755 SSH-2.0-PUTTY
+   3590 SSH-2.0-libssh-0.1
+    375 SSH-2.0-libssh2_1.4.1
+    302 SSH-2.0-libssh2_1.4.3
+    261 SSH-2.0-libssh-0.2
 ```
