@@ -35,6 +35,7 @@
     137 http://122.10.85.54/
     126 http://222.186.190.157:56789/5
     124 http://ubimed.com/cata.txt
+    120 http://23.234.25.74:1547/ttxsyg
     113 http://222.186.190.157:56789/2
     113 http://222.186.190.157:56789/1
     109 http://185.63.253.93/.lu.pl
@@ -45,14 +46,14 @@
      99 http://23.234.60.140/install/8005
      96 http://182.92.223.34:1211/rss
      88 http://buhenge.com/z3
-     88 http://23.234.25.74:1547/ttxsyg
+     84 http://222.186.190.157:56789/win5
      83 http://buhenge.com/z6
      80 http://202.202.121.27/bot.txt
      73 http://62.210.209.198/49
      73 http://61.160.212.21:5947/4weizhisfg
      65 http://23.234.60.140/install/8001
      54 http://23.234.60.140/install/8000
-     52 http://222.186.190.157:56789/win5
+     53 http://222.186.190.157:56789/win8
      50 http://188.212.103.234/private/auto/.xtkarmx
      48 http://61.147.107.91:1231/rss
      48 http://218.5.71.227:12/rss
@@ -73,7 +74,6 @@
      24 http://ftp.rxxiaoao.com/install/n8008.rar
      24 http://ftp.rxxiaoao.com/install/n8003.rar
      24 http://download.microsoft.com/download/win2000platform/SP/SP3/NT5/EN-US/W2Ksp3.exe
-     24 http://222.186.190.157:56789/win8
      24 http://222.186.190.157:55675/9
      24 http://222.186.190.157:55675/8
      24 http://222.186.190.157:55675/7
@@ -86,6 +86,7 @@
      21 http://23.234.60.140/install/8004
      20 http://speedtest.wdc01.softlayer.com/downloads/test10.zip
      18 http://www.frade8c.com:9162/root
+     18 http://rupe.cf/udp.pl
      18 http://60.169.75.102:1556/wins
      17 http://23.234.60.140/install/48513
      16 http://93.184.66.196/.xml.pl
@@ -197,6 +198,7 @@
       4 http://210.56.50.13:8080/bin.sh
       4 http://204.44.104.93:8080/npc
       4 http://204.44.104.93:8080/lin32
+      4 http://183.61.171.143:9190/Ultras
       4 http://183.60.202.9:1560/qwe0x03qa0
       4 http://183.136.213.96:8090/Internet
       4 http://183.136.213.96:8090/10991
@@ -269,6 +271,7 @@
       2 http://122.224.55.86:8080/bin.sh
       2 http://122.224.4.157:1111/dos64
       2 http://122.224.4.157:1111/dos32
+      2 http://117.21.226.160:8080/77y
       2 http://117.21.225.131:9999/26ssh666666
       2 http://117.21.176.79:333/l3600
       2 http://115.29.165.174:65326/.sshdd

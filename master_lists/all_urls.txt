@@ -28,6 +28,7 @@ http://117.21.176.54:9191/choushabi
 http://117.21.176.79:333/l3600
 http://117.21.176.79:333/lyly
 http://117.21.225.131:9999/26ssh666666
+http://117.21.226.160:8080/77y
 http://118.193.241.192/wenge
 http://121.40.85.20:8181/xdp
 http://122.10.112.193:8080/wboh
@@ -57,6 +58,7 @@ http://183.56.173.66:8880/IndexerVolumeGu
 http://183.60.197.231:5156/mazi
 http://183.60.202.9:1560/qwe0x03qa0
 http://183.61.164.167:8018/12316
+http://183.61.171.143:9190/Ultras
 http://183.61.254.11:8080/L24_24011
 http://185.11.147.246/tst2.pl
 http://185.61.137.109//.bub.pl
@@ -275,6 +277,7 @@ http://root-arhive.serveftp.com/psybnc/psybnc-linux.jpg
 http://root-arhive.serveftp.com/scanner/gosh.jpg
 http://root-arhive.serveftp.com/scanner/mass.jpg
 http://r.o.o.t.hi2.ro/private/psybnc.c
+http://rupe.cf/udp.pl
 http://safe.home.ro/muhs.jpg
 http://soft.hackrz.org/bnc/psy-linux.tgz
 http://speedtest.wdc01.softlayer.com/downloads/test10.zip

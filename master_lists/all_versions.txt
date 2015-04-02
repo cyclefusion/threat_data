@@ -100,6 +100,7 @@ SSH-2.0-SecureCRT_6.5.0
 SSH-2.0-SecureCRT_7.3.1
 SSH-2.0-Twisted
 SSH-2.0-vngx-jsch-0.9-1.44
+SSH-2.0-WinSCP-release-3.5
 SSH-2.0-WinSCP_release_4.1.9
 SSH-2.0-WinSCP_release_4.2.7
 SSH-2.0-WinSCP_release_4.3.6
