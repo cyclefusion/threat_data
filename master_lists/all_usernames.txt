@@ -924,12 +924,20 @@
 54.165.7.254
 54.165.7.50
 54.165.7.63
+54.165.8.110
+54.165.8.116
+54.165.8.146
+54.165.8.155
+54.165.8.171
+54.165.8.191
 54.165.8.27
 54.165.8.48
 54.165.8.70
 54.165.8.72
 54.165.8.78
+54.165.8.79
 54.165.8.8
+54.165.8.89
 54.165.95.113
 54.165.95.66
 54.165.95.70
@@ -940,6 +948,10 @@
 54.167.132.125
 54.167.132.14
 54.167.132.157
+54.167.132.191
+54.167.132.237
+54.167.181.171
+54.167.182.58
 54.168.122.110
 54.168.122.178
 54.168.122.191
@@ -1794,6 +1806,7 @@ aidstonav
 aihara
 Aija
 aijun0118
+aikeocrtbwrn
 aikido
 aikman
 aiko
@@ -2968,6 +2981,7 @@ bbsd-client
 bbuser
 bcampion
 bcd1234
+bclark
 bcs
 bd
 bduser
@@ -4719,6 +4733,7 @@ cvsadmin
 cvsroot
 cvsuser
 cw
+cxibeccommha
 cy
 cyan
 cyb
@@ -7036,6 +7051,7 @@ glory
 %glubat&
 glynn
 gm
+gmd
 gmod
 gmorris
 gN2S6Pg3lemailfm
@@ -10627,6 +10643,7 @@ mcserver
 mcxalr
 MD110
 MDaemon
+mday
 mdb
 MDh0me15good
 mdnsresponder
@@ -11178,6 +11195,7 @@ mun-hang
 munin
 munir
 muppet
+murali
 murder
 mureil
 muri
@@ -14723,6 +14741,7 @@ super1
 superadmin
 superbass
 superduperwesman
+superkkx
 superman
 supermbox
 superstar
@@ -16739,6 +16758,7 @@ wish
 wishbone
 wishmaker
 wisnu
+wit
 wita
 witch
 wits
