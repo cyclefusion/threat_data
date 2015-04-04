@@ -22,18 +22,18 @@
     800 http://cs.frade8c.com:9162/byv832
     488 http://202.191.121.230/ou.pl
     264 http://61.160.212.21:5947/sungfjwwg
+    224 http://23.234.25.74:1547/ttxsyg
     210 http://buhenge.com/z1
     197 http://23.234.60.140/install/8003
     186 http://61.218.226.170/
-    176 http://23.234.25.74:1547/ttxsyg
     164 http://23.234.60.140/install/8006
     158 http://23.234.60.140/install/8008
     143 http://23.234.60.140/install/8002
+    143 http://178.33.196.164:53/
+    143 http://178.33.196.164:443/
+    143 http://178.33.196.164/
+    143 http://122.10.85.54/
     140 http://buhenge.com/z2
-    140 http://178.33.196.164:53/
-    140 http://178.33.196.164:443/
-    140 http://178.33.196.164/
-    140 http://122.10.85.54/
     126 http://222.186.190.157:56789/5
     124 http://ubimed.com/cata.txt
     113 http://222.186.190.157:56789/2
@@ -58,11 +58,11 @@
      50 http://188.212.103.234/private/auto/.xtkarmx
      49 http://62.210.209.198/59
      48 http://61.147.107.91:1231/rss
+     48 http://222.186.190.157:56789/win7
      48 http://218.5.71.227:12/rss
      36 http://222.186.190.157:55675/33
      36 http://222.186.190.157:55675/11
      33 http://222.186.190.157:55675/22
-     32 http://222.186.190.157:56789/win7
      31 http://188.212.103.234/private/auto/.xtki686x
      30 http://62.210.209.198/79
      29 http://222.186.190.157:56789/4
@@ -76,6 +76,7 @@
      24 http://ftp.rxxiaoao.com/install/n8008.rar
      24 http://ftp.rxxiaoao.com/install/n8003.rar
      24 http://download.microsoft.com/download/win2000platform/SP/SP3/NT5/EN-US/W2Ksp3.exe
+     24 http://222.186.190.157:56789/win9
      24 http://222.186.190.157:55675/9
      24 http://222.186.190.157:55675/8
      24 http://222.186.190.157:55675/7
@@ -89,6 +90,7 @@
      20 http://speedtest.wdc01.softlayer.com/downloads/test10.zip
      18 http://www.frade8c.com:9162/root
      18 http://rupe.cf/udp.pl
+     18 http://93.174.93.45/h.sh
      18 http://60.169.75.102:1556/wins
      17 http://23.234.60.140/install/48513
      16 http://93.184.66.196/.xml.pl
@@ -100,7 +102,6 @@
      15 http://185.61.137.109//.bub.pl
      14 http://111.73.46.22:8080/wboh
      13 http://ftp.rxxiaoao.com/install/n8001.rar
-     13 http://93.174.93.45/h.sh
      13 http://61.160.212.21:5947/3weizisdq
      13 http://45.56.89.67/5
      13 http://115.29.165.174:53621/ssh77
@@ -146,7 +147,6 @@
       8 http://cachefly.cachefly.net/100mb.test
       8 http://93.174.93.45/x64-ktx
       8 http://93.174.93.45/ktx-i686er
-      8 http://222.186.190.157:56789/win9
       8 http://222.186.190.157:56789/7
       8 http://222.186.190.157:55675/qz2
       8 http://222.186.190.157:55675/qz1
