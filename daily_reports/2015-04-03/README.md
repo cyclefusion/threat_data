@@ -12,28 +12,32 @@ FFB1 47C1 326E A063
 ### Summary
 
 Date: April 03, 2015  
-Total attacks today: 26144  
-Attempted Malware Downloads: 109 
+Total attacks today: 61058  
+Attempted Malware Downloads: 202 
 
 #### IP addresses
 The following are the top 10 attacker IP addresses today, including the frequency of usage:
 ```
+   4534 221.229.166.27
+   3679 58.218.204.248
+   3244 221.229.166.30
+   2835 58.218.199.195
+   2770 58.218.204.241
    2768 61.160.215.102
-   1576 58.218.204.248
-   1302 58.218.199.49
-   1295 58.218.204.245
-   1233 58.218.204.226
-   1167 221.229.166.30
-   1110 117.21.174.111
-   1102 221.229.166.240
-   1051 58.218.213.254
-    993 58.218.201.17
+   2664 221.229.166.28
+   2620 117.21.174.111
+   2481 58.218.204.226
+   2420 117.21.191.23
 ```
 
 #### Attempted URL Downloads
 The following are URLs attackers attempted to download and execute once they compromise a honeypot sensor:
 ```
 http://115.231.222.107:81/qw
+http://122.10.85.54/
+http://178.33.196.164/
+http://178.33.196.164:443/
+http://178.33.196.164:53/
 http://222.186.190.157:56789/win7
 http://222.186.190.157:56789/win8
 http://222.186.190.157:56789/win9
@@ -44,47 +48,47 @@ http://93.174.93.45/h.sh
 #### Passwords
 The following are the top 25 passwords today, including the frequency of usage:
 ```
-   1170 root
-    113 
-     60 admin
-     43 12345
+   4853 root
+    211 
+    127 admin
+    103 123456
+     69 test
+     67 password
+     64 ubnt
+     61 12345
+     61 1234
+     60 qwerty
+     54 administrator
+     47 PlcmSpIp
+     47 320
+     45 oracle
+     42 united
+     42 support
      41 woofer
-     41 united
      41 samantha1
      41 moonwalk
      41 imagine
      41 cortina
      41 AMAD2222
-     40 louloubelle
-     40 chorley
-     40 alex01
-     39 test
-     39 connor34
-     39 amateur
-     39 123456
-     38 rosetta
-     38 nutcourne
-     38 griffon
-     37 www2010
-     37 password
-     37 hunter123
-     37 arjan
+     41 1q2w3e4r
+     41 123
+     40 user
 ```
 
 #### Usernames
 The following are the top 3 usernames today, including the frequency of usage:
 ```
-  24838 root
-    133 admin
-     87 user
+  58741 root
+    231 admin
+    123 user
 ```
 
 #### SSH Library Version
 The following are the top 5 SSH library versions today, including the frequency of usage:
 ```
-   6733 SSH-2.0-PUTTY
-   1296 SSH-2.0-libssh-0.5.2
-    862 SSH-2.0-libssh-0.1
-    661 SSH-2.0-libssh2_1.4.3
-    401 SSH-2.0-PuTTY_Release_0.63
+  17641 SSH-2.0-PUTTY
+   2462 SSH-2.0-libssh-0.1
+   1640 SSH-2.0-libssh-0.5.2
+    694 SSH-2.0-libssh2_1.4.3
+    598 SSH-2.0-libssh-0.2
 ```
