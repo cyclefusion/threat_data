@@ -1,14 +1,14 @@
-  10066 http://219.135.56.219:9162/root
-   5033 http://219.135.56.219:9162/vrgshth
-   5033 http://219.135.56.219:9162/udevd
-   5033 http://219.135.56.219:9162/smarvtd
-   5033 http://219.135.56.219:9162/sjfedjr
-   5033 http://219.135.56.219:9162/rewgtf3er4t
-   5033 http://219.135.56.219:9162/nhgbhhj
-   5033 http://219.135.56.219:9162/jdhe
-   5033 http://219.135.56.219:9162/fdsfsfvff
-   5033 http://219.135.56.219:9162/dsgregd
-   5033 http://219.135.56.219:9162/byv832
+  10070 http://219.135.56.219:9162/root
+   5035 http://219.135.56.219:9162/vrgshth
+   5035 http://219.135.56.219:9162/udevd
+   5035 http://219.135.56.219:9162/smarvtd
+   5035 http://219.135.56.219:9162/sjfedjr
+   5035 http://219.135.56.219:9162/rewgtf3er4t
+   5035 http://219.135.56.219:9162/nhgbhhj
+   5035 http://219.135.56.219:9162/jdhe
+   5035 http://219.135.56.219:9162/fdsfsfvff
+   5035 http://219.135.56.219:9162/dsgregd
+   5035 http://219.135.56.219:9162/byv832
    1600 http://cs.frade8c.com:9162/root
     800 http://cs.frade8c.com:9162/vrgshth
     800 http://cs.frade8c.com:9162/udevd
@@ -21,7 +21,7 @@
     800 http://cs.frade8c.com:9162/dsgregd
     800 http://cs.frade8c.com:9162/byv832
     488 http://202.191.121.230/ou.pl
-    304 http://23.234.25.74:1547/ttxsyg
+    320 http://23.234.25.74:1547/ttxsyg
     264 http://61.160.212.21:5947/sungfjwwg
     210 http://buhenge.com/z1
     197 http://23.234.60.140/install/8003
@@ -35,7 +35,6 @@
     143 http://122.10.85.54/
     140 http://buhenge.com/z2
     126 http://222.186.190.157:56789/5
-    124 http://ubimed.com/cata.txt
     113 http://222.186.190.157:56789/2
     113 http://222.186.190.157:56789/1
     109 http://185.63.253.93/.lu.pl
@@ -44,7 +43,9 @@
     102 http://buhenge.com/z4
      99 http://buhenge.com/z5
      99 http://23.234.60.140/install/8005
+     97 http://23.234.19.202/i/a06
      96 http://182.92.223.34:1211/rss
+     92 http://222.186.190.157:56789/win7
      91 http://115.231.222.107:81/qw
      89 http://62.210.209.198/79
      88 http://buhenge.com/z3
@@ -52,12 +53,12 @@
      83 http://buhenge.com/z6
      81 http://222.186.190.157:56789/win8
      80 http://202.202.121.27/bot.txt
-     76 http://222.186.190.157:56789/win7
      73 http://62.210.209.198/49
      73 http://61.160.212.21:5947/4weizhisfg
+     68 http://222.186.190.157:56789/win9
      65 http://23.234.60.140/install/8001
+     62 http://ubimed.com/cata.txt
      54 http://23.234.60.140/install/8000
-     52 http://222.186.190.157:56789/win9
      50 http://188.212.103.234/private/auto/.xtkarmx
      49 http://62.210.209.198/59
      48 http://61.147.107.91:1231/rss
@@ -99,7 +100,6 @@
      16 http://222.186.190.157:22345/2
      16 http://222.186.190.157:22345/1
      15 http://ftp.rxxiaoao.com/install/n8006.rar
-     15 http://23.234.19.202/i/a06
      15 http://185.61.137.109//.bub.pl
      14 http://111.73.46.22:8080/wboh
      13 http://ftp.rxxiaoao.com/install/n8001.rar
@@ -112,7 +112,6 @@
      12 http://61.164.126.5:81/rss
      12 http://61.164.126.5:7401/sys
      12 http://61.160.247.14:7711/Maintain.sh
-     12 http://61.160.212.172:911/java
      12 http://60.169.75.102:1556/win
      12 http://60.169.75.102:1556/mips
      12 http://60.169.75.102:1556/linux-arm
@@ -130,6 +129,7 @@
      10 http://m.uploadedit.com/ba3a/1425126711588.txt
      10 http://ctrlcenter.pw/iz/payw
      10 http://ctrlcenter.pw/iz/payc
+     10 http://61.160.212.172:911/java
      10 http://218.244.148.238:8080/npc1
      10 http://204.44.104.93:8080/iten32
      10 http://185.63.253.93/new
