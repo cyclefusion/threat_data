@@ -6,6 +6,7 @@ SSH-2.0-BATC-1.1.51
 SSH-2.0-ChilkatSSH_2.0.0
 SSH-2.0-customSSH.2.0x97bb1c
 SSH-2.0-customSSH.2.0x97be1c
+SSH-2.0-customSSH.2.0x97bf9c
 SSH-2.0-dropbear_0.47
 SSH-2.0-Erlang
 SSH-2.0-Go

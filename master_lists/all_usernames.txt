@@ -794,12 +794,17 @@
 54.165.100.75
 54.165.100.79
 54.165.100.90
+54.165.10.103
+54.165.10.109
 54.165.10.11
 54.165.101.118
 54.165.101.124
+54.165.10.113
+54.165.10.114
 54.165.101.148
 54.165.101.150
 54.165.101.160
+54.165.10.117
 54.165.101.193
 54.165.101.201
 54.165.101.202
@@ -809,9 +814,13 @@
 54.165.101.40
 54.165.101.53
 54.165.10.17
+54.165.10.174
 54.165.101.79
 54.165.10.37
 54.165.10.42
+54.165.10.65
+54.165.10.92
+54.165.10.98
 54.165.1.136
 54.165.1.156
 54.165.1.17
@@ -997,8 +1006,15 @@
 54.167.189.133
 54.167.189.150
 54.167.189.155
+54.167.189.159
+54.167.189.217
+54.167.189.251
 54.167.189.28
 54.167.189.33
+54.167.190.17
+54.167.190.20
+54.167.190.66
+54.167.190.92
 54.168.122.110
 54.168.122.178
 54.168.122.191
@@ -1683,6 +1699,7 @@ Admin4YH!@#$
 admin5
 admin6
 admin65
+admIndian
 adminftp
 administraator
 administracao
@@ -2478,6 +2495,7 @@ appluat
 appolonia
 appowner
 appraisals
+apps
 appserver
 apresley
 april
@@ -4146,6 +4164,7 @@ charon
 chase
 chaser
 chat
+chat2b
 chatmail
 chau
 chaz
@@ -8335,6 +8354,7 @@ jack
 jackass
 jackbj
 jackdillon
+jackholdem
 jacki
 jackie
 jacklin
@@ -10599,6 +10619,7 @@ masters
 masudrana
 masukawa
 mat
+matao
 matei
 matelda
 matematica
@@ -15769,6 +15790,7 @@ ubnt0
 ubuntu
 Ubuntu
 ubuntu2
+ubuntut
 uby
 uchat
 uchida
@@ -16553,6 +16575,7 @@ wieslaw
 wiew
 wifey
 wii
+wiki
 wil
 wilbur
 wild
