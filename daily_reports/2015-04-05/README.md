@@ -12,22 +12,22 @@ FFB1 47C1 326E A063
 ### Summary
 
 Date: April 05, 2015  
-Total attacks today: 235453  
-Attempted Malware Downloads: 146 
+Total attacks today: 502924  
+Attempted Malware Downloads: 240 
 
 #### IP addresses
 The following are the top 10 attacker IP addresses today, including the frequency of usage:
 ```
+  61201 43.255.190.154
+  50369 43.255.190.153
   41883 43.255.190.126
+  27046 43.255.190.150
+  23466 43.255.190.185
+  23406 43.255.190.90
   22321 43.255.190.174
-  18977 43.255.190.153
+  20346 43.255.190.168
+  17091 43.255.190.118
   16179 43.255.190.120
-  15975 43.255.190.156
-  14651 43.255.190.179
-   8524 43.255.190.191
-   8055 43.255.190.90
-   8055 43.255.190.154
-   7992 43.255.190.185
 ```
 
 #### Attempted URL Downloads
@@ -37,52 +37,53 @@ http://222.186.190.157:56789/win7
 http://222.186.190.157:56789/win9
 http://23.234.19.202/i/a06
 http://23.234.25.74:1547/ttxsyg
+http://62.210.209.198/79
 ```
 
 #### Passwords
 The following are the top 25 passwords today, including the frequency of usage:
 ```
-   2232 root
-    166 123456
-    121 
-     80 123
-     77 qwerty
+   2962 root
+    233 123456
+    153 
+    112 qwerty
+    107 123
+     87 123456789
+     86 12345678
+     78 test
+     78 12345
+     77 password
+     77 1q2w3e4r
+     75 1qaz2wsx
+     72 admin
+     69 !@
+     66 123qwe
      64 ,.
-     56 test
-     56 !@
-     52 123qwertz456
-     52 12345
-     49 12345678
-     48 x
-     48 pippo
-     48 123456789
-     46 shahid
-     46 openerp
-     46 lifeisgood
-     46 kambing
-     45 psychology
-     45 gdm
-     44 wwe12345
-     44 whatthefuck
-     44 ohyeah
-     44 newworld
-     44 macmac
+     61 oracle
+     59 postgres
+     59 1234
+     56 default
+     54 ubuntu
+     54 google.com
+     53 madagaskar
+     53 babadelacolt
+     52 guess
 ```
 
 #### Usernames
 The following are the top 3 usernames today, including the frequency of usage:
 ```
- 234242 root
-     93 test
-     88 oracle
+ 498407 root
+    228 test
+    199 oracle
 ```
 
 #### SSH Library Version
 The following are the top 5 SSH library versions today, including the frequency of usage:
 ```
-  78364 SSH-2.0-PUTTY
-   1018 SSH-2.0-libssh-0.2
-    940 SSH-2.0-libssh-0.1
-    666 SSH-2.0-libssh-0.5.2
-    186 SSH-2.0-libssh2_1.4.1
+ 165805 SSH-2.0-PUTTY
+   6502 SSH-2.0-libssh-0.1
+   1785 SSH-2.0-libssh-0.2
+    762 SSH-2.0-libssh-0.5.2
+    349 SSH-2.0-libssh2_1.4.1
 ```
