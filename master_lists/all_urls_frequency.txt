@@ -1,14 +1,14 @@
-  10070 http://219.135.56.219:9162/root
-   5035 http://219.135.56.219:9162/vrgshth
-   5035 http://219.135.56.219:9162/udevd
-   5035 http://219.135.56.219:9162/smarvtd
-   5035 http://219.135.56.219:9162/sjfedjr
-   5035 http://219.135.56.219:9162/rewgtf3er4t
-   5035 http://219.135.56.219:9162/nhgbhhj
-   5035 http://219.135.56.219:9162/jdhe
-   5035 http://219.135.56.219:9162/fdsfsfvff
-   5035 http://219.135.56.219:9162/dsgregd
-   5035 http://219.135.56.219:9162/byv832
+  10066 http://219.135.56.219:9162/root
+   5033 http://219.135.56.219:9162/vrgshth
+   5033 http://219.135.56.219:9162/udevd
+   5033 http://219.135.56.219:9162/smarvtd
+   5033 http://219.135.56.219:9162/sjfedjr
+   5033 http://219.135.56.219:9162/rewgtf3er4t
+   5033 http://219.135.56.219:9162/nhgbhhj
+   5033 http://219.135.56.219:9162/jdhe
+   5033 http://219.135.56.219:9162/fdsfsfvff
+   5033 http://219.135.56.219:9162/dsgregd
+   5033 http://219.135.56.219:9162/byv832
    1600 http://cs.frade8c.com:9162/root
     800 http://cs.frade8c.com:9162/vrgshth
     800 http://cs.frade8c.com:9162/udevd
@@ -21,7 +21,7 @@
     800 http://cs.frade8c.com:9162/dsgregd
     800 http://cs.frade8c.com:9162/byv832
     488 http://202.191.121.230/ou.pl
-    320 http://23.234.25.74:1547/ttxsyg
+    344 http://23.234.25.74:1547/ttxsyg
     264 http://61.160.212.21:5947/sungfjwwg
     210 http://buhenge.com/z1
     197 http://23.234.60.140/install/8003
@@ -35,27 +35,27 @@
     143 http://122.10.85.54/
     140 http://buhenge.com/z2
     126 http://222.186.190.157:56789/5
+    125 http://62.210.209.198/79
+    115 http://23.234.19.202/i/a06
     113 http://222.186.190.157:56789/2
     113 http://222.186.190.157:56789/1
     109 http://185.63.253.93/.lu.pl
     108 http://61.147.107.91:65534/rss
     104 http://64.32.12.152/gnu-bash-max-race
     102 http://buhenge.com/z4
+    100 http://222.186.190.157:56789/win7
      99 http://buhenge.com/z5
      99 http://23.234.60.140/install/8005
-     97 http://23.234.19.202/i/a06
      96 http://182.92.223.34:1211/rss
-     92 http://222.186.190.157:56789/win7
      91 http://115.231.222.107:81/qw
-     89 http://62.210.209.198/79
      88 http://buhenge.com/z3
      84 http://222.186.190.157:56789/win5
      83 http://buhenge.com/z6
      81 http://222.186.190.157:56789/win8
      80 http://202.202.121.27/bot.txt
+     76 http://222.186.190.157:56789/win9
      73 http://62.210.209.198/49
      73 http://61.160.212.21:5947/4weizhisfg
-     68 http://222.186.190.157:56789/win9
      65 http://23.234.60.140/install/8001
      62 http://ubimed.com/cata.txt
      54 http://23.234.60.140/install/8000
