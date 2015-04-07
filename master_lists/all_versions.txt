@@ -26,6 +26,7 @@ SSH-2.0-libssh-0.5.5
 SSH-2.0-libssh-0.6.0
 SSH-2.0-libssh-0.6.1
 SSH-2.0-libssh-0.6.3
+SSH-2.0-libssh-0.6.4
 SSH-2.0-libssh2_1.0
 SSH-2.0-libssh2_1.2.2
 SSH-2.0-libssh2_1.2.6
