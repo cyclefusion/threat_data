@@ -20,30 +20,31 @@
     800 http://cs.frade8c.com:9162/fdsfsfvff
     800 http://cs.frade8c.com:9162/dsgregd
     800 http://cs.frade8c.com:9162/byv832
-    488 http://202.191.121.230/ou.pl
-    344 http://23.234.25.74:1547/ttxsyg
+    550 http://202.191.121.230/ou.pl
+    412 http://23.234.25.74:1547/ttxsyg
     264 http://61.160.212.21:5947/sungfjwwg
     210 http://buhenge.com/z1
     197 http://23.234.60.140/install/8003
     186 http://61.218.226.170/
     164 http://23.234.60.140/install/8006
     158 http://23.234.60.140/install/8008
+    151 http://62.210.209.198/79
     143 http://23.234.60.140/install/8002
     143 http://178.33.196.164:53/
     143 http://178.33.196.164:443/
     143 http://178.33.196.164/
     143 http://122.10.85.54/
     140 http://buhenge.com/z2
+    128 http://222.186.190.157:56789/win7
     126 http://222.186.190.157:56789/5
-    125 http://62.210.209.198/79
-    115 http://23.234.19.202/i/a06
+    125 http://23.234.19.202/i/a06
     113 http://222.186.190.157:56789/2
     113 http://222.186.190.157:56789/1
     109 http://185.63.253.93/.lu.pl
     108 http://61.147.107.91:65534/rss
     104 http://64.32.12.152/gnu-bash-max-race
     102 http://buhenge.com/z4
-    100 http://222.186.190.157:56789/win7
+    101 http://222.186.190.157:56789/win9
      99 http://buhenge.com/z5
      99 http://23.234.60.140/install/8005
      96 http://182.92.223.34:1211/rss
@@ -53,11 +54,9 @@
      83 http://buhenge.com/z6
      81 http://222.186.190.157:56789/win8
      80 http://202.202.121.27/bot.txt
-     76 http://222.186.190.157:56789/win9
      73 http://62.210.209.198/49
      73 http://61.160.212.21:5947/4weizhisfg
      65 http://23.234.60.140/install/8001
-     62 http://ubimed.com/cata.txt
      54 http://23.234.60.140/install/8000
      50 http://188.212.103.234/private/auto/.xtkarmx
      49 http://62.210.209.198/59
@@ -69,6 +68,7 @@
      31 http://188.212.103.234/private/auto/.xtki686x
      29 http://222.186.190.157:56789/4
      29 http://222.186.190.157:56789/3
+     28 http://download.microsoft.com/download/win2000platform/SP/SP3/NT5/EN-US/W2Ksp3.exe
      28 http://93.174.93.45/mips-ktx
      28 http://222.186.190.157:55675/5
      28 http://222.186.190.157:55675/4
@@ -77,7 +77,6 @@
      26 http://185.61.137.109//.xml.pl
      24 http://ftp.rxxiaoao.com/install/n8008.rar
      24 http://ftp.rxxiaoao.com/install/n8003.rar
-     24 http://download.microsoft.com/download/win2000platform/SP/SP3/NT5/EN-US/W2Ksp3.exe
      24 http://222.186.190.157:55675/9
      24 http://222.186.190.157:55675/8
      24 http://222.186.190.157:55675/7
@@ -89,6 +88,7 @@
      21 http://ftp.rxxiaoao.com/install/n8005.rar
      21 http://23.234.60.140/install/8004
      20 http://speedtest.wdc01.softlayer.com/downloads/test10.zip
+     20 http://root-arhive.serveftp.com/emech/system2.jpg
      18 http://www.frade8c.com:9162/root
      18 http://rupe.cf/udp.pl
      18 http://93.174.93.45/h.sh
@@ -145,7 +145,7 @@
       9 http://www.frade8c.com:9162/fdsfsfvff
       9 http://www.frade8c.com:9162/byv832
       8 http://www.baoshijz.com/en/upload/f36d-db06cccf-96965e6d-8d3df1f8-e44a.jpg
-      8 http://root-arhive.serveftp.com/emech/system2.jpg
+      8 http://dl.4players.de/ts/releases/3.0.11.2/teamspeak3-server_linux-amd64-3.0.11.2.tar.gz
       8 http://cachefly.cachefly.net/100mb.test
       8 http://93.174.93.45/x64-ktx
       8 http://93.174.93.45/ktx-i686er
@@ -191,7 +191,9 @@
       4 http://ibrp.pl/wp-content/themes/socialreach/send.zip
       4 http://dw4.convertfiles.com/files/0008476001426332651/send.tar
       4 http://dl.packetstormsecurity.net/DoS/udp.pl
+      4 http://dinoo.fisierul.ro/shadowfire.jpg
       4 http://csmioveni.tripod.com//scanz.tar
+      4 http://coxspeed.webs.com/cox.tgz
       4 http://93.184.66.196/.ppw
       4 http://93.184.66.196/.ppc
       4 http://93.174.93.45/.lu.pl
@@ -218,6 +220,7 @@
       4 http://118.193.241.192/wenge
       4 http://115.29.165.174:38886/ssh77
       4 http://115.239.248.55:8080/ssh88
+      4 http://107.160.23.42:8080/linuxdoor
       3 http://74.208.166.12/bot.txt
       2 http://wget
       2 http://wenge.f3322.net/wenddos
