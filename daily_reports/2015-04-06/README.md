@@ -12,74 +12,84 @@ FFB1 47C1 326E A063
 ### Summary
 
 Date: April 06, 2015  
-Total attacks today: 1174  
-Attempted Malware Downloads: 2 
+Total attacks today: 143695  
+Attempted Malware Downloads: 195 
 
 #### IP addresses
 The following are the top 10 attacker IP addresses today, including the frequency of usage:
 ```
-    224 58.218.204.241
-    189 58.218.213.254
-    120 58.218.199.195
-    112 43.255.190.187
-    112 43.255.190.174
-    112 43.255.190.141
-    104 221.229.166.30
-     54 180.210.234.87
-     53 222.236.44.115
-     42 60.190.71.52
+  15040 43.255.190.164
+   9914 43.255.190.150
+   9240 43.255.190.160
+   9205 43.255.190.124
+   7866 43.255.190.169
+   7584 43.255.190.179
+   5724 43.255.190.146
+   4980 43.255.190.180
+   4917 43.255.190.126
+   4669 221.229.166.28
 ```
 
 #### Attempted URL Downloads
 The following are URLs attackers attempted to download and execute once they compromise a honeypot sensor:
 ```
+http://107.160.23.42:8080/linuxdoor
+http://222.186.190.157:56789/win7
+http://222.186.190.157:56789/win9
+http://23.234.19.202/i/a06
 http://23.234.25.74:1547/ttxsyg
+http://62.210.209.198/79
+http://coxspeed.webs.com/cox.tgz
+http://dinoo.fisierul.ro/shadowfire.jpg
+http://dl.4players.de/ts/releases/3.0.11.2/teamspeak3-server_linux-amd64-3.0.11.2.tar.gz
+http://download.microsoft.com/download/win2000platform/SP/SP3/NT5/EN-US/W2Ksp3.exe
+http://root-arhive.serveftp.com/emech/system2.jpg
 ```
 
 #### Passwords
 The following are the top 25 passwords today, including the frequency of usage:
 ```
-     12 123456
-      9 123456789
-      8 qwerty
-      7 PASSWORD
-      7 12345
-      7 !@
-      6 oracle
-      5 pecineaga
-      5 gubaucea
-      5 12qwaszx
-      4 q1w2e3r4
-      4 passw0rd
-      4 pass
-      4 gamedesire
-      4 ciombii112
-      4 54.169.7.199
-      4 54.165.11.97
-      4 54.165.11.116
-      4 1qaz@wsx
-      4 1qaz2wsx
-      4 1q2w3e4r5t
-      4 123qwe
-      4 12345678
-      3 zzidc!@
-      3 zxcvbnm
+  25203 root
+    132 123456
+    120 admin
+     92 
+     89 TeYub3sckMx11x134xx
+     67 test
+     66 password
+     59 123
+     57 ubnt
+     54 iDirect
+     54 1q2w3e4r5t6y1q2w3e4r5t
+     52 12345
+     50 qwerty
+     46 oracle
+     45 abc123
+     44 google.com
+     43 123456789
+     42 octopus
+     42 8owmpiyddyo
+     42 111111
+     41 admin@123
+     40 iJ93MnFj4VnWf0sA78gCx
+     40 cookie11
+     40 123qwertz456
+     38 rush2112
 ```
 
 #### Usernames
 The following are the top 3 usernames today, including the frequency of usage:
 ```
-   1032 root
-     15 oracle
-     12 nagios
+ 140895 root
+    236 test
+    193 admin
 ```
 
 #### SSH Library Version
 The following are the top 5 SSH library versions today, including the frequency of usage:
 ```
-    338 SSH-2.0-PUTTY
-    149 SSH-2.0-libssh-0.1
-     26 SSH-2.0-libssh2_1.4.1
-      2 SSH-2.0-OpenSSH_4.3
-      1 SSH-2.0-libssh-0.2
+  45227 SSH-2.0-PUTTY
+   3482 SSH-2.0-libssh-0.1
+   2266 SSH-2.0-libssh-0.5.2
+    648 SSH-2.0-libssh2_1.4.3
+    537 SSH-2.0-libssh-0.2
 ```
