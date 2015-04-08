@@ -1,4 +1,5 @@
 http://100.42.30.34/lex
+http://104.167.16.5/
 http://104.192.0.130/pl
 http://104.194.20.23:8080/2222
 http://106.185.24.106/4
@@ -274,6 +275,7 @@ http://gblmkd.web44.net/.backup/gblteam2015.tgz
 http://gblmkd.web44.net/.backup/god.zip
 http://gblmkd.web44.net/.backup/mbs2015.tgz
 http://ibrp.pl/wp-content/themes/socialreach/send.zip
+http://javadl.sun.com/webapps/download/AutoDL
 http://justhiph0pmusic.altervista.org/done
 http://kiss4u.go.ro/smoke.tgz
 http://listfiles.comoj.com/udp.pl

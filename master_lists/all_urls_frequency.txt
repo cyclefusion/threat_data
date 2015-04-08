@@ -1,14 +1,14 @@
-  10042 http://219.135.56.219:9162/root
-   5021 http://219.135.56.219:9162/vrgshth
-   5021 http://219.135.56.219:9162/udevd
-   5021 http://219.135.56.219:9162/smarvtd
-   5021 http://219.135.56.219:9162/sjfedjr
-   5021 http://219.135.56.219:9162/rewgtf3er4t
-   5021 http://219.135.56.219:9162/nhgbhhj
-   5021 http://219.135.56.219:9162/jdhe
-   5021 http://219.135.56.219:9162/fdsfsfvff
-   5021 http://219.135.56.219:9162/dsgregd
-   5021 http://219.135.56.219:9162/byv832
+  10066 http://219.135.56.219:9162/root
+   5033 http://219.135.56.219:9162/vrgshth
+   5033 http://219.135.56.219:9162/udevd
+   5033 http://219.135.56.219:9162/smarvtd
+   5033 http://219.135.56.219:9162/sjfedjr
+   5033 http://219.135.56.219:9162/rewgtf3er4t
+   5033 http://219.135.56.219:9162/nhgbhhj
+   5033 http://219.135.56.219:9162/jdhe
+   5033 http://219.135.56.219:9162/fdsfsfvff
+   5033 http://219.135.56.219:9162/dsgregd
+   5033 http://219.135.56.219:9162/byv832
    1600 http://cs.frade8c.com:9162/root
     800 http://cs.frade8c.com:9162/vrgshth
     800 http://cs.frade8c.com:9162/udevd
@@ -21,26 +21,26 @@
     800 http://cs.frade8c.com:9162/dsgregd
     800 http://cs.frade8c.com:9162/byv832
     550 http://202.191.121.230/ou.pl
-    444 http://23.234.25.74:1547/ttxsyg
+    484 http://23.234.25.74:1547/ttxsyg
     264 http://61.160.212.21:5947/sungfjwwg
-    229 http://23.234.19.202/i/a06
+    241 http://23.234.19.202/i/a06
     210 http://buhenge.com/z1
     197 http://23.234.60.140/install/8003
     186 http://61.218.226.170/
+    175 http://62.210.209.198/79
     164 http://23.234.60.140/install/8006
+    164 http://222.186.190.157:56789/win7
     158 http://23.234.60.140/install/8008
-    151 http://62.210.209.198/79
     143 http://23.234.60.140/install/8002
     143 http://178.33.196.164:53/
     143 http://178.33.196.164:443/
     143 http://178.33.196.164/
     143 http://122.10.85.54/
     140 http://buhenge.com/z2
-    136 http://222.186.190.157:56789/win7
+    131 http://222.186.190.157:56789/win9
     126 http://222.186.190.157:56789/5
     113 http://222.186.190.157:56789/2
     113 http://222.186.190.157:56789/1
-    109 http://222.186.190.157:56789/win9
     109 http://185.63.253.93/.lu.pl
     108 http://61.147.107.91:65534/rss
     104 http://64.32.12.152/gnu-bash-max-race
@@ -82,6 +82,7 @@
      24 http://222.186.190.157:55675/7
      24 http://209.236.71.188/midx
      24 http://111.73.46.116:1234/123
+     23 http://93.174.93.45/h.sh
      22 http://23.234.60.140/install/8007
      22 http://198.11.176.45:8080/wboh
      22 http://122.10.112.193:8080/wboh
@@ -91,7 +92,6 @@
      20 http://root-arhive.serveftp.com/emech/system2.jpg
      18 http://www.frade8c.com:9162/root
      18 http://rupe.cf/udp.pl
-     18 http://93.174.93.45/h.sh
      18 http://60.169.75.102:1556/wins
      17 http://23.234.60.140/install/48513
      16 http://93.184.66.196/.xml.pl
@@ -144,7 +144,9 @@
       9 http://www.frade8c.com:9162/gdmorpen
       9 http://www.frade8c.com:9162/fdsfsfvff
       9 http://www.frade8c.com:9162/byv832
+      9 http://93.174.93.45/.but.pl
       8 http://www.baoshijz.com/en/upload/f36d-db06cccf-96965e6d-8d3df1f8-e44a.jpg
+      8 http://javadl.sun.com/webapps/download/AutoDL
       8 http://dl.4players.de/ts/releases/3.0.11.2/teamspeak3-server_linux-amd64-3.0.11.2.tar.gz
       8 http://cachefly.cachefly.net/100mb.test
       8 http://93.174.93.45/x64-ktx
@@ -199,7 +201,6 @@
       4 http://93.174.93.45/.lu.pl
       4 http://93.174.93.45/ktx-mips
       4 http://93.174.93.45/.edu.pl
-      4 http://93.174.93.45/.but.pl
       4 http://60.173.10.177:8080/14.17
       4 http://42.121.19.80/c.tgz
       4 http://39.109.0.113:8520/eee
@@ -222,6 +223,7 @@
       4 http://115.239.248.55:8080/ssh88
       4 http://107.160.23.42:8080/linuxdoor
       3 http://74.208.166.12/bot.txt
+      3 http://104.167.16.5/
       2 http://wget
       2 http://wenge.f3322.net/wenddos
       2 http://w
