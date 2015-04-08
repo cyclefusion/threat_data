@@ -16,6 +16,9 @@ SSH-2.0-paramiko_1.15.1
 SSH-2.0-PUTTY
 SSH-2.0-PuTTY_Release_0.59
 SSH-2.0-PuTTY_Release_0.60
+SSH-2.0-PuTTY_Release_0.61
 SSH-2.0-PuTTY_Release_0.63
 SSH-2.0-PuTTY_Release_0.64
+SSH-2.0-Renci.SshNet.SshClient.0.0.1
+SSH-2.0-WinSCP_release_5.7
 SSH-2.0-ZGrab
