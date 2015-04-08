@@ -882,10 +882,19 @@
 54.165.1.247
 54.165.12.67
 54.165.12.73
+54.165.13.101
+54.165.13.104
+54.165.13.109
+54.165.13.111
+54.165.13.112
 54.165.13.14
 54.165.13.42
 54.165.13.52
+54.165.13.58
+54.165.13.61
+54.165.13.68
 54.165.13.7
+54.165.13.83
 54.165.1.43
 54.165.1.46
 54.165.1.72
@@ -1084,6 +1093,8 @@
 54.168.192.210
 54.168.192.63
 54.168.193.191
+54.168.193.211
+54.168.194.43
 54.169.131.113
 54.169.131.117
 54.169.131.138
@@ -2030,6 +2041,7 @@ ajie
 ajiro
 ajoy
 ak
+akang
 akar
 akbar
 akeem
@@ -2878,6 +2890,7 @@ authcloud
 author
 auth-passwd.cv1.0.1authfd.c
 auto
+autocad
 autralia
 autumn
 ava
@@ -4811,6 +4824,7 @@ cretin
 cretu
 cretzu
 crew332745
+cri
 crichard
 cricket
 criminal
@@ -6848,6 +6862,7 @@ ftp1
 ftp123
 ftp2
 ftpadmin
+ftpc
 ftpclient
 ftpd
 ftpguest
@@ -7310,6 +7325,7 @@ goth
 gotit
 gotohell
 gouge
+gouveia1
 gov
 govegoil
 goverment
@@ -7687,6 +7703,7 @@ hbabr
 hbahk
 hbala
 hbase
+hbistc
 hcat
 hchaib
 hdd
@@ -7796,6 +7813,7 @@ hestia
 hettie
 hettinger
 hewlett
+hexiao
 hh
 hhh
 hhhh
@@ -7888,6 +7906,7 @@ homer
 homer 
 homer3
 homers
+homes
 homework
 homo
 honda
@@ -7959,6 +7978,7 @@ hoyt
 hp
 hplip
 hqftp
+hqq
 hr
 hrcr
 hrdata
@@ -7969,6 +7989,7 @@ hsiang
 hsiao
 hsieh
 hsing-ju
+hsm
 hspark
 hsubhadeep
 htd
@@ -8583,6 +8604,7 @@ janina
 janine
 janitor
 janna
+jannik
 jannine
 janos
 janson
@@ -8641,6 +8663,7 @@ jazz
 jazzy
 jb
 jbauer
+jbc
 jboddy
 jbodyalberta
 jboss
@@ -9563,6 +9586,7 @@ korie
 korpss
 korry
 kory
+koscom
 koto
 kouji
 kov09
@@ -9621,6 +9645,7 @@ kuan
 kuang
 kuang-tsan
 kuba
+kubota
 kucing
 kuhn
 kui
@@ -10841,6 +10866,7 @@ mckenna
 mckey
 mclaernjoe
 mclarenjoe65
+mclark
 mclarrey
 mclarry
 mcomes
@@ -13752,6 +13778,7 @@ ruthie
 rutucuserver1mumu323
 rux
 rvenki
+rwa
 rwas
 ryan
 ryana
