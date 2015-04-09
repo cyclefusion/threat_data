@@ -9,6 +9,7 @@
    5033 http://219.135.56.219:9162/fdsfsfvff
    5033 http://219.135.56.219:9162/dsgregd
    5033 http://219.135.56.219:9162/byv832
+   1788 http://109.228.25.87/.c.txt
    1600 http://cs.frade8c.com:9162/root
     800 http://cs.frade8c.com:9162/vrgshth
     800 http://cs.frade8c.com:9162/udevd
@@ -21,17 +22,17 @@
     800 http://cs.frade8c.com:9162/dsgregd
     800 http://cs.frade8c.com:9162/byv832
     550 http://202.191.121.230/ou.pl
-    512 http://23.234.25.74:1547/ttxsyg
+    548 http://23.234.25.74:1547/ttxsyg
     264 http://61.160.212.21:5947/sungfjwwg
     241 http://23.234.19.202/i/a06
+    228 http://222.186.190.157:56789/win7
     210 http://buhenge.com/z1
     197 http://23.234.60.140/install/8003
-    192 http://222.186.190.157:56789/win7
     186 http://61.218.226.170/
+    177 http://222.186.190.157:56789/win9
     175 http://62.210.209.198/79
     164 http://23.234.60.140/install/8006
     158 http://23.234.60.140/install/8008
-    156 http://222.186.190.157:56789/win9
     143 http://23.234.60.140/install/8002
     143 http://178.33.196.164:53/
     143 http://178.33.196.164:443/
@@ -59,6 +60,7 @@
      73 http://61.160.212.21:5947/4weizhisfg
      65 http://23.234.60.140/install/8001
      54 http://23.234.60.140/install/8000
+     50 http://222.186.190.157:56789/win6
      50 http://188.212.103.234/private/auto/.xtkarmx
      48 http://61.147.107.91:1231/rss
      48 http://218.5.71.227:12/rss
@@ -72,6 +74,7 @@
      28 http://93.174.93.45/mips-ktx
      28 http://222.186.190.157:55675/5
      28 http://222.186.190.157:55675/4
+     27 http://23.234.19.202/i/a07
      26 http://ftp.rxxiaoao.com/install/n8002.rar
      26 http://ftp.rxxiaoao.com/install/n8000.rar
      26 http://185.61.137.109//.xml.pl
@@ -81,9 +84,9 @@
      24 http://222.186.190.157:55675/8
      24 http://222.186.190.157:55675/7
      24 http://209.236.71.188/midx
+     24 http://118.244.158.9:8081/Rape[11
      24 http://111.73.46.116:1234/123
      23 http://93.174.93.45/h.sh
-     23 http://23.234.19.202/i/a07
      22 http://23.234.60.140/install/8007
      22 http://198.11.176.45:8080/wboh
      22 http://122.10.112.193:8080/wboh
@@ -102,7 +105,6 @@
      16 http://222.186.190.157:22345/1
      15 http://ftp.rxxiaoao.com/install/n8006.rar
      15 http://185.61.137.109//.bub.pl
-     15 http://118.244.158.9:8081/Rape[11
      14 http://111.73.46.22:8080/wboh
      13 http://ftp.rxxiaoao.com/install/n8001.rar
      13 http://61.160.212.21:5947/3weizisdq
@@ -149,12 +151,13 @@
       9 http://www.frade8c.com:9162/byv832
       9 http://93.174.93.45/.but.pl
       8 http://www.baoshijz.com/en/upload/f36d-db06cccf-96965e6d-8d3df1f8-e44a.jpg
+      8 http://szrtech.16mb.com/szr.plperl
+      8 http://szrtech.16mb.com/szr.pl
       8 http://javadl.sun.com/webapps/download/AutoDL
       8 http://dl.4players.de/ts/releases/3.0.11.2/teamspeak3-server_linux-amd64-3.0.11.2.tar.gz
       8 http://cachefly.cachefly.net/100mb.test
       8 http://93.174.93.45/x64-ktx
       8 http://93.174.93.45/ktx-i686er
-      8 http://222.186.190.157:56789/win6
       8 http://222.186.190.157:56789/7
       8 http://222.186.190.157:55675/qz2
       8 http://222.186.190.157:55675/qz1
@@ -181,6 +184,7 @@
       6 http://176.102.38.77/search/e.php
       6 http://124.115.16.31:8009/xqq
       6 http://117.21.176.54:9191/choushabi
+      6 http://104.167.16.5/
       6 http://100.42.30.34/lex
       5 http://ctrlcenter.pw/iz/.z.pl
       5 http://23.234.60.140:8081/install/8007
@@ -227,9 +231,9 @@
       4 http://121.40.85.20:8181/xdp
       4 http://118.193.241.192/wenge
       4 http://115.29.165.174:38886/ssh77
+      4 http://115.239.248.55:8080/ssh88
       4 http://107.160.23.42:8080/linuxdoor
       3 http://74.208.166.12/bot.txt
-      3 http://104.167.16.5/
       2 http://wget
       2 http://wenge.f3322.net/wenddos
       2 http://w
@@ -301,6 +305,7 @@
       2 http://115.29.165.174:65326/32
       2 http://115.29.165.174:25663/.sshdd
       2 http://115.29.165.174:25663/32
+      2 http://115.239.248.55:8080/sshd
       2 http://115.234.208.145:8/.serv3
       2 http://104.194.20.23:8080/2222
       1 http://www.majestic12.co.uk/bot.php

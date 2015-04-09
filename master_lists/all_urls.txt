@@ -8,11 +8,14 @@ http://107.150.63.178:88/disk
 http://107.160.23.42:8080/linuxcy
 http://107.160.23.42:8080/linuxdoor
 http://107.160.23.42:8080/Rape[1
+http://109.228.25.87/.c.txt
 http://111.73.46.116:1234/123
 http://111.73.46.22:8080/wboh
 http://111.74.238.15:1/qq
 http://115.231.222.107:81/qw
 http://115.234.208.145:8/.serv3
+http://115.239.248.55:8080/ssh88
+http://115.239.248.55:8080/sshd
 http://115.28.137.1:8081/linuxcy
 http://115.29.165.174:25663/32
 http://115.29.165.174:25663/64
@@ -306,6 +309,8 @@ http://soft.hackrz.org/bnc/psy-linux.tgz
 http://speedtest.wdc01.softlayer.com/downloads/test10.zip
 http://stanislaw.altervista.org/2.php
 http://system-arhive.at.ua/exploits/2.6.x.jpg
+http://szrtech.16mb.com/szr.pl
+http://szrtech.16mb.com/szr.plperl
 http://thecaretaker3d.com/press/fresh.tgz
 http://w
 http://wenge.f3322.net/wenddos
