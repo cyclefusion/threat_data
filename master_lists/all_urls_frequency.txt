@@ -1,4 +1,5 @@
   10066 http://219.135.56.219:9162/root
+   6568 http://109.228.25.87/.c.txt
    5033 http://219.135.56.219:9162/vrgshth
    5033 http://219.135.56.219:9162/udevd
    5033 http://219.135.56.219:9162/smarvtd
@@ -9,7 +10,6 @@
    5033 http://219.135.56.219:9162/fdsfsfvff
    5033 http://219.135.56.219:9162/dsgregd
    5033 http://219.135.56.219:9162/byv832
-   1788 http://109.228.25.87/.c.txt
    1600 http://cs.frade8c.com:9162/root
     800 http://cs.frade8c.com:9162/vrgshth
     800 http://cs.frade8c.com:9162/udevd
@@ -21,15 +21,15 @@
     800 http://cs.frade8c.com:9162/fdsfsfvff
     800 http://cs.frade8c.com:9162/dsgregd
     800 http://cs.frade8c.com:9162/byv832
+    576 http://23.234.25.74:1547/ttxsyg
     550 http://202.191.121.230/ou.pl
-    548 http://23.234.25.74:1547/ttxsyg
     264 http://61.160.212.21:5947/sungfjwwg
-    241 http://23.234.19.202/i/a06
-    228 http://222.186.190.157:56789/win7
+    256 http://222.186.190.157:56789/win7
+    248 http://23.234.19.202/i/a06
     210 http://buhenge.com/z1
+    199 http://222.186.190.157:56789/win9
     197 http://23.234.60.140/install/8003
     186 http://61.218.226.170/
-    177 http://222.186.190.157:56789/win9
     175 http://62.210.209.198/79
     164 http://23.234.60.140/install/8006
     158 http://23.234.60.140/install/8008
@@ -50,17 +50,17 @@
      99 http://23.234.60.140/install/8005
      96 http://182.92.223.34:1211/rss
      91 http://115.231.222.107:81/qw
-     88 http://buhenge.com/z3
+     89 http://buhenge.com/z3
      86 http://62.210.209.198/59
      84 http://222.186.190.157:56789/win5
      83 http://buhenge.com/z6
      81 http://222.186.190.157:56789/win8
      80 http://202.202.121.27/bot.txt
+     78 http://222.186.190.157:56789/win6
      73 http://62.210.209.198/49
      73 http://61.160.212.21:5947/4weizhisfg
      65 http://23.234.60.140/install/8001
      54 http://23.234.60.140/install/8000
-     50 http://222.186.190.157:56789/win6
      50 http://188.212.103.234/private/auto/.xtkarmx
      48 http://61.147.107.91:1231/rss
      48 http://218.5.71.227:12/rss
@@ -94,6 +94,7 @@
      21 http://23.234.60.140/install/8004
      20 http://speedtest.wdc01.softlayer.com/downloads/test10.zip
      20 http://root-arhive.serveftp.com/emech/system2.jpg
+     20 http://14.29.49.13:3306/Maintain
      18 http://www.frade8c.com:9162/root
      18 http://rupe.cf/udp.pl
      18 http://60.169.75.102:1556/wins
@@ -109,6 +110,8 @@
      13 http://ftp.rxxiaoao.com/install/n8001.rar
      13 http://61.160.212.21:5947/3weizisdq
      13 http://45.56.89.67/5
+     13 http://118.244.158.9:8082/wlcqg1
+     13 http://118.244.158.9:8082/wlcqg
      13 http://118.193.178.19:823/usteeb
      13 http://115.29.165.174:53621/ssh77
      12 http://buhenge.com/2821
@@ -121,6 +124,7 @@
      12 http://60.169.75.102:1556/mips
      12 http://60.169.75.102:1556/linux-arm
      12 http://222.186.190.157:1556/win
+     12 http://222.174.5.3:1124/qz1
      12 http://222.174.5.25:1124/DDos
      12 http://151.236.44.210/ft.exe
      12 http://107.150.63.178:88/disk
@@ -165,6 +169,7 @@
       8 http://222.186.190.157:55675/1
       8 http://222.174.5.3:1124/DDos
       8 http://210.56.50.13:8080/npc
+      8 http://14.29.49.13:3306/network-v
       8 http://118.244.158.9:882/Rape[1
       8 http://118.244.151.18:8080/linuxcy
       8 http://118.244.136.170:8080/Linux_2.4

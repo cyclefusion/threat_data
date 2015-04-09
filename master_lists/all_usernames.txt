@@ -906,8 +906,16 @@
 54.165.13.68
 54.165.13.7
 54.165.13.83
+54.165.14.11
+54.165.14.116
+54.165.14.117
+54.165.14.24
 54.165.1.43
+54.165.14.39
+54.165.14.41
 54.165.1.46
+54.165.14.75
+54.165.14.93
 54.165.1.72
 54.165.1.88
 54.165.2.121
@@ -1107,6 +1115,8 @@
 54.168.193.211
 54.168.194.133
 54.168.194.43
+54.168.195.119
+54.168.195.31
 54.169.131.113
 54.169.131.117
 54.169.131.138
@@ -11844,6 +11854,7 @@ nestor
 net
 netadmin
 netas
+netbackup
 netbsd
 netcool
 netdisco
@@ -11879,6 +11890,7 @@ newadmin
 newbie
 newcastl
 newell
+newgaudi
 newlife
 newman
 newpass
@@ -11990,6 +12002,7 @@ nithindevg
 nitin
 nitram
 nitro
+niuchao
 nivea
 niz
 NK11oxte
@@ -12154,6 +12167,7 @@ oblivion
 ocean
 ocha
 ochi
+ocsi
 octa
 octav
 octavia
@@ -12318,6 +12332,7 @@ oracle1
 oracle10
 oracle10g
 oracle11
+oracle11g
 oracle12
 oracle123
 oracle13
@@ -12372,6 +12387,8 @@ orion
 orlando
 orly
 orourke
+orsap
+orsapinf
 orsola
 os
 osborn
@@ -12457,6 +12474,7 @@ pak
 pakirus
 pakistan
 pal
+palak
 palamos%^
 palermo
 palex
@@ -12585,6 +12603,7 @@ pawel1
 pax
 payment
 paypal
+pbeunk
 PBX
 pc
 pc01
@@ -12858,6 +12877,7 @@ poke
 pokemon
 poker
 pol
+pol03
 poland
 police
 polina
@@ -12967,6 +12987,7 @@ prashant
 pratama
 pratibha
 pratima
+praveen
 prayson
 preacher
 predator
