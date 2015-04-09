@@ -2,6 +2,7 @@ SSH-2.0-customSSH.2.0x97c99c
 SSH-2.0-Granados-1.0
 SSH-2.0-JSCH-0.1.51
 SSH-2.0-libssh-0.1
+SSH-2.0-libssh-0.11
 SSH-2.0-libssh-0.2
 SSH-2.0-libssh-0.4.5
 SSH-2.0-libssh-0.4.6
@@ -18,6 +19,8 @@ SSH-2.0-OpenSSH_4.3
 SSH-2.0-OpenSSH_5.5
 SSH-2.0-OpenSSH_6.0
 SSH-2.0-OpenSSH_6.4_hpn13v11
+SSH-2.0-OpenSSH_6.6p1
+SSH-2.0-paramiko_1.15.1
 SSH-2.0-PUTTY
 SSH-2.0-PuTTY_Local:_May_14_2009_21:12:18
 SSH-2.0-PuTTY_Release_0.63
