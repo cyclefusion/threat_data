@@ -10,6 +10,8 @@
    5033 http://219.135.56.219:9162/fdsfsfvff
    5033 http://219.135.56.219:9162/dsgregd
    5033 http://219.135.56.219:9162/byv832
+   1727 http://google.com
+   1727 http://54.248.244.82/s.php
    1600 http://cs.frade8c.com:9162/root
     800 http://cs.frade8c.com:9162/vrgshth
     800 http://cs.frade8c.com:9162/udevd
@@ -23,11 +25,11 @@
     800 http://cs.frade8c.com:9162/byv832
     576 http://23.234.25.74:1547/ttxsyg
     550 http://202.191.121.230/ou.pl
+    333 http://23.234.19.202/i/a06
+    284 http://222.186.190.157:56789/win7
     264 http://61.160.212.21:5947/sungfjwwg
-    256 http://222.186.190.157:56789/win7
-    248 http://23.234.19.202/i/a06
+    215 http://222.186.190.157:56789/win9
     210 http://buhenge.com/z1
-    199 http://222.186.190.157:56789/win9
     197 http://23.234.60.140/install/8003
     186 http://61.218.226.170/
     175 http://62.210.209.198/79
@@ -40,6 +42,7 @@
     143 http://122.10.85.54/
     140 http://buhenge.com/z2
     126 http://222.186.190.157:56789/5
+    114 http://62.210.209.198/49
     113 http://222.186.190.157:56789/2
     113 http://222.186.190.157:56789/1
     109 http://185.63.253.93/.lu.pl
@@ -49,15 +52,14 @@
      99 http://buhenge.com/z5
      99 http://23.234.60.140/install/8005
      96 http://182.92.223.34:1211/rss
+     94 http://222.186.190.157:56789/win6
      91 http://115.231.222.107:81/qw
-     89 http://buhenge.com/z3
+     88 http://buhenge.com/z3
      86 http://62.210.209.198/59
      84 http://222.186.190.157:56789/win5
      83 http://buhenge.com/z6
      81 http://222.186.190.157:56789/win8
      80 http://202.202.121.27/bot.txt
-     78 http://222.186.190.157:56789/win6
-     73 http://62.210.209.198/49
      73 http://61.160.212.21:5947/4weizhisfg
      65 http://23.234.60.140/install/8001
      54 http://23.234.60.140/install/8000
@@ -92,12 +94,14 @@
      22 http://122.10.112.193:8080/wboh
      21 http://ftp.rxxiaoao.com/install/n8005.rar
      21 http://23.234.60.140/install/8004
+     21 http://185.61.137.109/.xml.pl
      20 http://speedtest.wdc01.softlayer.com/downloads/test10.zip
      20 http://root-arhive.serveftp.com/emech/system2.jpg
      20 http://14.29.49.13:3306/Maintain
      18 http://www.frade8c.com:9162/root
      18 http://rupe.cf/udp.pl
      18 http://60.169.75.102:1556/wins
+     18 http://118.244.151.18:8080/linuxcy
      17 http://23.234.60.140/install/48513
      16 http://93.184.66.196/.xml.pl
      16 http://23.228.102.152:1818/bulong
@@ -126,13 +130,13 @@
      12 http://222.186.190.157:1556/win
      12 http://222.174.5.3:1124/qz1
      12 http://222.174.5.25:1124/DDos
+     12 http://222.174.5.20:1124/zaq1
      12 http://151.236.44.210/ft.exe
      12 http://107.150.63.178:88/disk
      12 http://104.192.0.130/pl
      11 http://ftp.rxxiaoao.com/install/n8007.rar
      11 http://93.174.93.45/ktx-mipsel
      11 http://218.244.148.238:8080/npc
-     11 http://185.61.137.109/.xml.pl
      11 http://185.61.137.109/.bub.pl
      11 http://162.218.30.75:1818/ssh33
      10 http://m.uploadedit.com/ba3a/1425126711588.txt
@@ -154,6 +158,7 @@
       9 http://www.frade8c.com:9162/fdsfsfvff
       9 http://www.frade8c.com:9162/byv832
       9 http://93.174.93.45/.but.pl
+      9 http://104.167.16.5/
       8 http://www.baoshijz.com/en/upload/f36d-db06cccf-96965e6d-8d3df1f8-e44a.jpg
       8 http://szrtech.16mb.com/szr.plperl
       8 http://szrtech.16mb.com/szr.pl
@@ -171,7 +176,6 @@
       8 http://210.56.50.13:8080/npc
       8 http://14.29.49.13:3306/network-v
       8 http://118.244.158.9:882/Rape[1
-      8 http://118.244.151.18:8080/linuxcy
       8 http://118.244.136.170:8080/Linux_2.4
       8 http://118.193.245.31:8080/linuxdoor
       8 http://115.28.137.1:8081/linuxcy
@@ -189,7 +193,6 @@
       6 http://176.102.38.77/search/e.php
       6 http://124.115.16.31:8009/xqq
       6 http://117.21.176.54:9191/choushabi
-      6 http://104.167.16.5/
       6 http://100.42.30.34/lex
       5 http://ctrlcenter.pw/iz/.z.pl
       5 http://23.234.60.140:8081/install/8007
@@ -206,8 +209,10 @@
       4 http://listfiles.comoj.com/udp.pl
       4 http://kiss4u.go.ro/smoke.tgz
       4 http://ibrp.pl/wp-content/themes/socialreach/send.zip
+      4 http://huthos.com/script/minidebian7.sh
       4 http://dw4.convertfiles.com/files/0008476001426332651/send.tar
       4 http://dl.packetstormsecurity.net/DoS/udp.pl
+      4 http://dl.4players.de/ts/releases/3.0.11.2/teamspeak3-server_linux-x86-3.0.11.2.tar.gz
       4 http://dinoo.fisierul.ro/shadowfire.jpg
       4 http://csmioveni.tripod.com//scanz.tar
       4 http://coxspeed.webs.com/cox.tgz
