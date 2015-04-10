@@ -1,0 +1,12 @@
+http://118.244.151.18:8080/linuxcy
+http://118.244.158.9:8082/shele
+http://222.174.5.20:1124/zaq1
+http://222.186.190.157:56789/win6
+http://222.186.190.157:56789/win7
+http://222.186.190.157:56789/win9
+http://23.234.19.202/i/a07
+http://files.sa-mp.com/samp03zsvr_R1.tar.gz
+http://ftp.freepark.org/pub/FreeBSD/ISO-IMAGES-amd64/9.1/FreeBSD-9.1-RELEASE-amd64-bootonly.iso
+http://layer1.cpanel.net/latest
+http://sourceforge.net/projects/freeman015/files/flood.exe/download
+http://sourceforge.net/projects/freeman015/files/latest/download
