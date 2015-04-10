@@ -26,9 +26,10 @@
     576 http://23.234.25.74:1547/ttxsyg
     550 http://202.191.121.230/ou.pl
     333 http://23.234.19.202/i/a06
-    284 http://222.186.190.157:56789/win7
+    322 http://222.186.190.157:56789/win7
     264 http://61.160.212.21:5947/sungfjwwg
-    215 http://222.186.190.157:56789/win9
+    248 http://94.102.153.210/.ips/.dd
+    247 http://222.186.190.157:56789/win9
     210 http://buhenge.com/z1
     197 http://23.234.60.140/install/8003
     186 http://61.218.226.170/
@@ -42,6 +43,7 @@
     143 http://122.10.85.54/
     140 http://buhenge.com/z2
     126 http://222.186.190.157:56789/5
+    120 http://222.186.190.157:56789/win6
     114 http://62.210.209.198/49
     113 http://222.186.190.157:56789/2
     113 http://222.186.190.157:56789/1
@@ -52,7 +54,6 @@
      99 http://buhenge.com/z5
      99 http://23.234.60.140/install/8005
      96 http://182.92.223.34:1211/rss
-     94 http://222.186.190.157:56789/win6
      91 http://115.231.222.107:81/qw
      88 http://buhenge.com/z3
      86 http://62.210.209.198/59
@@ -62,21 +63,23 @@
      80 http://202.202.121.27/bot.txt
      73 http://61.160.212.21:5947/4weizhisfg
      65 http://23.234.60.140/install/8001
+     62 http://167.114.159.146/eflix.php
      54 http://23.234.60.140/install/8000
      50 http://188.212.103.234/private/auto/.xtkarmx
      48 http://61.147.107.91:1231/rss
      48 http://218.5.71.227:12/rss
+     44 http://118.244.151.18:8080/linuxcy
      36 http://222.186.190.157:55675/33
      36 http://222.186.190.157:55675/11
      33 http://222.186.190.157:55675/22
      31 http://188.212.103.234/private/auto/.xtki686x
+     29 http://23.234.19.202/i/a07
      29 http://222.186.190.157:56789/4
      29 http://222.186.190.157:56789/3
      28 http://download.microsoft.com/download/win2000platform/SP/SP3/NT5/EN-US/W2Ksp3.exe
      28 http://93.174.93.45/mips-ktx
      28 http://222.186.190.157:55675/5
      28 http://222.186.190.157:55675/4
-     27 http://23.234.19.202/i/a07
      26 http://ftp.rxxiaoao.com/install/n8002.rar
      26 http://ftp.rxxiaoao.com/install/n8000.rar
      26 http://185.61.137.109//.xml.pl
@@ -85,6 +88,7 @@
      24 http://222.186.190.157:55675/9
      24 http://222.186.190.157:55675/8
      24 http://222.186.190.157:55675/7
+     24 http://222.174.5.20:1124/zaq1
      24 http://209.236.71.188/midx
      24 http://118.244.158.9:8081/Rape[11
      24 http://111.73.46.116:1234/123
@@ -101,7 +105,6 @@
      18 http://www.frade8c.com:9162/root
      18 http://rupe.cf/udp.pl
      18 http://60.169.75.102:1556/wins
-     18 http://118.244.151.18:8080/linuxcy
      17 http://23.234.60.140/install/48513
      16 http://93.184.66.196/.xml.pl
      16 http://23.228.102.152:1818/bulong
@@ -130,7 +133,6 @@
      12 http://222.186.190.157:1556/win
      12 http://222.174.5.3:1124/qz1
      12 http://222.174.5.25:1124/DDos
-     12 http://222.174.5.20:1124/zaq1
      12 http://151.236.44.210/ft.exe
      12 http://107.150.63.178:88/disk
      12 http://104.192.0.130/pl
@@ -146,6 +148,7 @@
      10 http://218.244.148.238:8080/npc1
      10 http://204.44.104.93:8080/iten32
      10 http://185.63.253.93/new
+     10 http://118.244.158.9:8082/shele
      10 http://106.185.24.106/5
       9 http://www.frade8c.com:9162/whitptabil
       9 http://www.frade8c.com:9162/smarvtd
@@ -162,7 +165,9 @@
       8 http://www.baoshijz.com/en/upload/f36d-db06cccf-96965e6d-8d3df1f8-e44a.jpg
       8 http://szrtech.16mb.com/szr.plperl
       8 http://szrtech.16mb.com/szr.pl
+      8 http://sourceforge.net/projects/freeman015/files/flood.exe/download
       8 http://javadl.sun.com/webapps/download/AutoDL
+      8 http://ftp.freepark.org/pub/FreeBSD/ISO-IMAGES-amd64/9.1/FreeBSD-9.1-RELEASE-amd64-bootonly.iso
       8 http://dl.4players.de/ts/releases/3.0.11.2/teamspeak3-server_linux-amd64-3.0.11.2.tar.gz
       8 http://cachefly.cachefly.net/100mb.test
       8 http://93.174.93.45/x64-ktx
@@ -203,13 +208,16 @@
       4 http://wget.clan.su/v.txt
       4 http://wget.clan.su/moe.tar.gz
       4 http://system-arhive.at.ua/exploits/2.6.x.jpg
+      4 http://sourceforge.net/projects/freeman015/files/latest/download
       4 http://root-arhive.serveftp.com/altele/pico.jpg
       4 http://notest.3vcn.net/d32_64.txt
       4 http://maddafaka.altervista.org/yoyo.pl
       4 http://listfiles.comoj.com/udp.pl
+      4 http://layer1.cpanel.net/latest
       4 http://kiss4u.go.ro/smoke.tgz
       4 http://ibrp.pl/wp-content/themes/socialreach/send.zip
       4 http://huthos.com/script/minidebian7.sh
+      4 http://files.sa-mp.com/samp03zsvr_R1.tar.gz
       4 http://dw4.convertfiles.com/files/0008476001426332651/send.tar
       4 http://dl.packetstormsecurity.net/DoS/udp.pl
       4 http://dl.4players.de/ts/releases/3.0.11.2/teamspeak3-server_linux-x86-3.0.11.2.tar.gz
