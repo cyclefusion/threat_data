@@ -13,6 +13,7 @@
 0000
 0.0.000
 0.0.0.000
+0000000
 0002593w
 01
 0109824288
@@ -67,6 +68,7 @@
 104.236.122.34
 104.236.122.36
 104.236.122.37
+104.236.122.40
 104.236.122.41
 104.236.122.9
 104.236.214.8
@@ -284,6 +286,7 @@
 147147
 147258
 15
+1502
 15121512
 1515
 159753
@@ -293,6 +296,7 @@
 17
 1701
 1717
+1.79
 18
 1818
 181818
@@ -387,6 +391,7 @@
 25a04
 26
 26072535
+266344
 27
 272727
 28
@@ -408,6 +413,7 @@
 313131
 313wane
 31415926
+31994
 32
 321
 321321
@@ -941,13 +947,23 @@
 54.165.14.75
 54.165.14.93
 54.165.15.1
+54.165.15.102
+54.165.15.127
+54.165.15.140
+54.165.15.173
+54.165.15.175
+54.165.15.189
 54.165.15.21
+54.165.15.214
 54.165.15.22
 54.165.15.40
 54.165.15.52
 54.165.15.66
 54.165.15.70
+54.165.15.71
 54.165.15.8
+54.165.15.80
+54.165.15.91
 54.165.1.72
 54.165.1.88
 54.165.2.121
@@ -1152,6 +1168,8 @@
 54.168.195.31
 54.168.196.181
 54.168.196.26
+54.168.197.153
+54.168.197.75
 54.169.131.113
 54.169.131.117
 54.169.131.138
@@ -1168,6 +1186,11 @@
 54.169.7.193
 54.169.7.194
 54.169.7.228
+54.169.97.149
+54.169.97.161
+54.169.97.162
+54.169.97.184
+54.169.97.190
 54.173.55.206
 54.173.55.212
 54.173.55.214
@@ -1470,6 +1493,7 @@ aaboe
 aabraham
 aaby
 aaccf
+aacevedo
 aad
 aade
 aadel
@@ -1646,6 +1670,7 @@ Abel
 abela
 abelin
 Aberdeen
+aberto
 abey
 abez
 abfl!pner!whvpr
@@ -1846,6 +1871,7 @@ aditza
 adjohn
 adlai
 adm
+adm1n
 admail
 admcku
 admftp
@@ -1875,15 +1901,20 @@ administrateur
 administration
 administrator
 Administrator
+ADMINISTRATOR
 administrators
 administretor
 adminnagios
 admins
 adminssh
+adminstat
+adminstrator
 adminttd
 adminuser
+adminview
 admiral
 admissions
+ADMN
 adnan
 ado23t07oasidas
 adocado
@@ -1925,6 +1956,7 @@ adrienne
 adrina
 adrion
 adrock
+ADSL
 adul
 adult
 adunare
@@ -2647,6 +2679,7 @@ anuprem
 anurag
 anver
 any
+Any
 anymouse
 anyone
 anything
@@ -3250,7 +3283,11 @@ bbsd-client
 bbuser
 bcampion
 bcd1234
+bciim
+bcim
 bclark
+bcms
+bcnas
 bcs
 bd
 bduser
@@ -3845,6 +3882,7 @@ brother
 brown
 browning
 browns
+browse
 bruce
 bruddy
 brune
@@ -3995,6 +4033,7 @@ cablecom
 cabo
 cabron
 caca
+cac_admin
 cacatpisat
 cache
 cacilia
@@ -4266,6 +4305,7 @@ ccentore
 !CCid0528$&@
 ccn123qwe
 ccreech
+ccrusr
 cd
 cdc
 cdh
@@ -4990,6 +5030,7 @@ csenge
 csenior
 cserv
 csf00l$#
+CSG
 csgo
 csgoserver
 CshGu3wZsItk
@@ -5021,6 +5062,7 @@ cursos
 curt
 curtis
 cusadmin
+cust
 custom
 customer
 cute
@@ -5337,6 +5379,7 @@ debmic
 debor
 deborah
 debug
+d.e.b.u.g
 decatlohn
 december
 deckelma
@@ -5459,7 +5502,10 @@ designer
 desire
 desiree
 desiri
+deskalt
 deskjet
+deskman
+deskres
 desktop
 desliga
 desperate
@@ -5610,6 +5656,7 @@ disney
 dispecer
 display
 displays
+disttech
 diva
 divine
 divya
@@ -5938,6 +5985,8 @@ dyno
 dyuliya
 dzmitry
 e
+e250
+e500
 e5IYGbLs
 E913Jpg1
 E9em7M76
@@ -6270,6 +6319,7 @@ end
 endang
 endeca
 endre
+enduser
 ene
 enemser
 enemy
@@ -6283,12 +6333,14 @@ engineer
 england
 engleza
 english
+engmode
 enid
 eniko
 enis
 enjoy
 enoch 
 enquiries
+enquiry
 enrichetta
 enrike
 enrique
@@ -6521,6 +6573,7 @@ fac3mult3loguri
 facebook
 factoria
 factory
+Factory
 fadli
 fady
 fagot
@@ -7178,6 +7231,7 @@ gccftp
 gdm
 gdnslog
 ge
+Gearguy
 gecko
 gedas
 geena
@@ -7194,6 +7248,8 @@ gem
 gemma
 gemss
 gen
+GEN1
+GEN2
 gene
 general
 generalmanager
@@ -7390,6 +7446,7 @@ glennis
 gline
 glined
 global
+GlobalAdmin
 globalflash
 globe
 globin
@@ -7900,6 +7957,7 @@ heliopic
 hellen
 hellena
 hello
+HELLO
 hellojapan
 helloo
 helmut
@@ -8129,6 +8187,7 @@ howie
 hoyt
 hp
 hplip
+HPN
 hqftp
 hqq
 hr
@@ -8138,6 +8197,7 @@ hrhatwar
 hrr
 hrtuser
 hsa
+hscroot
 hsiang
 hsiao
 hsieh
@@ -8377,6 +8437,7 @@ in
 ina
 inaba
 inada
+inads
 inam
 inanc
 Inbinc!@#
@@ -8461,6 +8522,7 @@ interacial
 interchange
 intergye
 interior
+intermec
 internet
 intesens
 intranet
@@ -9878,6 +9940,8 @@ kyra
 Kyushu1####
 l
 l1a4e7i2wlt
+l2
+l3
 l3mu13c0ap10
 l3pcOa4SYMao
 l3tsm@k3m0n3y
@@ -10306,6 +10370,7 @@ lobster
 local
 localadmin
 localfax
+locate
 lock
 lockdown
 lockerroom
@@ -10433,6 +10498,8 @@ lowietje
 loyd
 lp
 lpa
+lpadm
+lpadmin
 lpd
 LPGSj8Ud
 lrv
@@ -10454,6 +10521,8 @@ lubos
 luc
 luca
 lucas
+LUCENT01
+LUCENT02
 luchian
 luchiano
 luci
@@ -10546,6 +10615,7 @@ lyubov
 m
 m0b1sy.c0m
 M0nt32011+
+m1122
 m1cr0t4lk
 m1@m1!!
 m2df0rl1f3
@@ -10642,6 +10712,7 @@ maidlab
 maidsir
 maiga
 mail
+MAIL
 mail2
 mailadmin
 mail-backup
@@ -10709,6 +10780,7 @@ mana
 manage
 manager
 Manager
+MANAGER
 manager01
 manami
 manas
@@ -11091,6 +11163,7 @@ medical
 medicine
 medie
 medina
+medion
 medisafe
 medtech
 meena
@@ -11255,6 +11328,7 @@ mick
 mickey
 mickey1
 micro
+MICRO
 micron
 micropayment
 micros
@@ -11414,6 +11488,7 @@ mlopes
 mlopez
 mlt
 mlturner
+mlusr
 mm
 mmadmin
 mmc
@@ -11586,6 +11661,7 @@ msg
 msi
 msmith
 msnayeem_iitd
+mso
 msp
 msql
 msr
@@ -11732,6 +11808,7 @@ n3wc0m3rt3nr3tn1
 n3xus
 n4k4mur41sh3r3
 n89LmT57x0
+naadmin
 nabaladas
 nac
 nad
@@ -11848,6 +11925,7 @@ natural
 nature
 naty
 natyabe
+NAU
 naufal
 naumetsa
 nauthy
@@ -11928,6 +12006,7 @@ neto:1603
 netopia
 netrangr
 netscape
+netscreen
 netshell
 netsplit
 netstat
@@ -12952,6 +13031,7 @@ pollyanna
 polo
 polska
 polycom
+Polycom
 pomelnic
 pong
 pony
@@ -13089,6 +13169,7 @@ processing
 processor
 prod
 prod2
+PRODDTA
 produce
 product
 production
@@ -13135,6 +13216,7 @@ P@s521575
 psaadm
 psaftp
 psd
+PSEAdmin
 psoft
 pss
 pssandhu
@@ -13303,6 +13385,7 @@ radoslav
 radu
 raducu
 radvd
+radware
 raeann
 raekwon
 rafa
@@ -13419,6 +13502,7 @@ rapi
 rapid
 rapp
 rapper
+rapport
 raptor
 raquel
 raquela
@@ -13469,6 +13553,7 @@ rbj
 rbuth41
 rcb
 rchlab
+rcust
 rd
 RD6NJLFkExgi
 rdadmin
@@ -13481,6 +13566,7 @@ reader
 readers
 reading
 readonly
+readwrite
 ready
 reagan
 real
@@ -13592,6 +13678,7 @@ rennie
 renny
 reno
 replica
+replicator
 report
 reporter
 reports
@@ -13731,6 +13818,7 @@ rm
 rm3jrvgmcc423835
 rmartinez
 rme5968079
+RMUser1
 ro
 ro0t
 road
@@ -14014,6 +14102,7 @@ ruthie
 rutucuserver1mumu323
 rux
 rvenki
+rw
 rwa
 rwas
 ryan
@@ -14242,6 +14331,7 @@ schyndel
 science
 sclav
 scm
+scmadmin
 scmftp
 scoala
 scooby
@@ -14737,6 +14827,7 @@ smb
 smbguest
 smbuse
 smbuser
+smc
 smcgrath
 sme
 smecher
@@ -14893,6 +14984,7 @@ spart
 sparta
 spartak
 spawn
+spcl
 spd
 speak
 speaker
@@ -14972,6 +15064,7 @@ sry
 ss
 ss2701
 ss7
+SSA
 ssh
 ssh22
 sshadmin
@@ -15149,12 +15242,14 @@ stormbine
 stormi
 stormie
 stormy
+storwatch
 storys
 strand
 strange
 stranger
 Strannik
 strap
+stratacom
 stratocust
 stratosec
 stream
@@ -15277,6 +15372,7 @@ superkkx
 superman
 supermbox
 superstar
+super.super
 supersys
 superuser
 SUPERUSER
@@ -15292,6 +15388,7 @@ support;support
 supreme
 suprin
 suraj
+surecom
 surfersr
 surfing
 suriya
@@ -15351,6 +15448,8 @@ sweden
 sweet
 sweet1
 sweety
+sweex
+Sweex
 swets
 swett
 swimmer
@@ -15401,6 +15500,7 @@ synful
 syntax
 sys
 sysadm
+SYSADM
 sysadmin
 sys_admin
 sysbin
@@ -15585,7 +15685,9 @@ telecontrolt3
 telefon
 telegest
 telegraf
+telekom
 televideo
+tellabs
 telnet
 telnetd
 temp
@@ -15819,6 +15921,7 @@ tianadi
 tianbao
 tiang
 tiao
+tiara
 tiasa
 tiat
 tibaldi
@@ -15918,6 +16021,7 @@ tl
 tlf
 tlijani
 tm
+tmadmin
 tmax
 tmcat
 TmCPhOnEsrockit!@#$
@@ -16012,6 +16116,9 @@ topdog
 topgun
 tophat
 topic
+topicalt
+topicnorm
+topicres
 topik
 topper
 torcac
@@ -16298,6 +16405,7 @@ unban
 unbound
 underdog
 undernet
+UNIDEN
 unimex
 union
 uniserver.root.2145
@@ -16384,6 +16492,8 @@ usmc
 usnavy
 uspro
 usr
+usr1
+usr2
 usrouter
 uss
 ustinia
@@ -16497,7 +16607,9 @@ vbnm
 vbnt
 vbox
 vbs
+vc
 vcloud
+vcr
 vcs
 vcsa
 vdi
@@ -16746,10 +16858,12 @@ vmware
 vn
 vnavda
 vnc
+VNC
 vncuser
 vnetoo@26server
 vnkaduskar
 vnstat
+vodafone
 vodca
 vodka
 voice
@@ -16789,6 +16903,7 @@ vsip123
 vsr7773
 vt
 vt100
+VTech
 vtl
 vtm
 vto
@@ -17314,6 +17429,7 @@ wisnu
 wit
 wita
 witch
+witpack
 wits
 witte
 wives
@@ -17326,6 +17442,7 @@ wladyslaw
 wlse
 wlseuser
 wlutfy
+wm
 wma
 wmd$ky44
 wnn
@@ -17370,6 +17487,7 @@ wouterv
 wow
 wp
 WP
+wradmin
 wrangler
 wrench
 wrennie
@@ -17418,6 +17536,7 @@ x
 ~X4CK3R
 xadrez
 XAINGwei27863795
+xakal
 xander
 xanto
 xapolicymgr
@@ -17432,8 +17551,10 @@ xbian:raspberry
 xbmc
 xbox
 xc450r
+xcakal
 xchat
 XCUTERKVImN07J2uFi
+xd
 xena
 xenia
 xenos
@@ -17816,6 +17937,7 @@ zxcvbn123456
 ZXCVB:!"£$%^:QWERTY:YUIP{
 ZXCVB:!"ï¿½$%^:QWERTY:YUIP{
 zxczxc
+ZXDSL
 zxin10
 zxiptv
 zxr10

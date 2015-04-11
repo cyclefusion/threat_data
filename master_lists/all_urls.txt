@@ -47,6 +47,7 @@ http://118.244.158.9:8082/wlcqg
 http://118.244.158.9:8082/wlcqg1
 http://118.244.158.9:882/Rape[1
 http://121.40.85.20:8181/xdp
+http://121.41.74.174:8086/linux32
 http://122.10.112.193:8080/wboh
 http://122.10.85.54/
 http://122.224.4.157:1111/dos32
@@ -225,6 +226,7 @@ http://61.164.126.5:81/rss
 http://61.218.226.170/
 http://62.210.209.198/49
 http://62.210.209.198/59
+http://62.210.209.198/76
 http://62.210.209.198/79
 http://64.32.12.152/gnu-bash-max-race
 http://68.64.167.10/4
@@ -329,6 +331,7 @@ http://stanislaw.altervista.org/2.php
 http://system-arhive.at.ua/exploits/2.6.x.jpg
 http://szrtech.16mb.com/szr.pl
 http://szrtech.16mb.com/szr.plperl
+http://team.sa-mp.com/files/samp03dsvr_R2.tar.gz
 http://thecaretaker3d.com/press/fresh.tgz
 http://w
 http://wenge.f3322.net/wenddos
