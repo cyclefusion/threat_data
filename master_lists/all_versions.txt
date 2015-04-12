@@ -15,6 +15,7 @@ SSH-2.0-Erlang
 SSH-2.0-Go
 SSH-2.0-Granados-1.0
 SSH-2.0-JSCH-0.1.44
+SSH-2.0-JSCH-0.1.48
 SSH-2.0-JSCH-0.1.51
 SSH-2.0-KBM
 SSH-2.0-libssh-0.1
