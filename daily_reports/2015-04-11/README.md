@@ -12,3 +12,95 @@ FFB1 47C1 326E A063
 ### Summary
 
 Date: April 11, 2015  
+Total attacks today: 338847  
+Attempted Malware Downloads: 361 
+
+#### IP addresses
+The following are the top 10 attacker IP addresses today, including the frequency of usage:
+```
+   8718 43.255.190.176
+   8558 43.255.190.138
+   8454 43.255.190.188
+   8351 43.255.190.126
+   6833 43.255.190.120
+   6520 43.255.190.141
+   6519 43.255.190.164
+   6289 43.255.190.190
+   6013 43.255.190.157
+   5786 43.255.190.152
+```
+
+#### Attempted URL Downloads
+The following are URLs attackers attempted to download and execute once they compromise a honeypot sensor:
+```
+http://104.167.16.5/
+http://118.244.151.18:8080/linuxcy
+http://118.244.158.9:8081/Raroo
+http://122.224.19.112:888/TSm12343124123%2523@!%2523m
+http://185.61.137.109/.xml.pl
+http://222.186.190.157:56789/win6
+http://222.186.190.157:56789/win7
+http://222.186.190.157:56789/win9
+http://23.234.19.202/i/a07
+http://66.117.8.158/79
+http://dl.fedoraproject.org/pub/epel/5/i386/epel-release-5-4.noarch.rpm
+http://files.sa-mp.com/samp03xsvr_R1-2.tar.gz
+http://files.sa-mp.com/samp03zsvr
+http://files.sa-mp.com/samp03zsvr_R1-2.tar.gz
+http://files.samp.com//samp03zsvr_R1-2.tar.gz
+http://files.sa-mp.com/samp03zsvr_R1.tar.gz
+http://files.sa-mp.com/samp03zsvr.tar.gz
+http://files.samp.comsvr_R1-2.tar.gz
+http://files.sa-mp.c..sr_R1-2tar.gz
+http://files.sa-mp.c...svr_R1-2.tar.gz
+http://files.samp.c...svr_R1-2.tar.gz
+http://files.sa-mp...svr_R1-2.tar.gz
+```
+
+#### Passwords
+The following are the top 25 passwords today, including the frequency of usage:
+```
+  23733 root
+    481 
+    140 123456
+    122 admin
+     74 1qazxsw2
+     74 1q2w3e4r
+     66 -
+     62 password
+     58 p0w3rOF
+     54 sshd
+     54 !q@w#e$r%t
+     54 !q@w#e$r
+     54 !QAZ@WSX#EDC
+     52 MilleniuM
+     51 ROOT!@#
+     51 Passwd1
+     51 $hack4m3baby#b1gbroth3r$
+     50 P@ssw0rd
+     50 postgres
+     50 passion@9999
+     50 NU-E-BUN
+     49 PASS1
+     49 oily
+     49 ohnedich
+     49 24075986
+```
+
+#### Usernames
+The following are the top 3 usernames today, including the frequency of usage:
+```
+ 335431 root
+    563 oracle
+    373 ubnt
+```
+
+#### SSH Library Version
+The following are the top 5 SSH library versions today, including the frequency of usage:
+```
+ 112037 SSH-2.0-PUTTY
+   3608 SSH-2.0-libssh-0.1
+    578 SSH-2.0-libssh2_1.4.3
+    500 SSH-2.0-libssh2_1.4.1
+    223 SSH-2.0-libssh-0.2
+```
