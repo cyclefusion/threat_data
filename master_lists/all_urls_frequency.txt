@@ -25,19 +25,19 @@
     800 http://cs.frade8c.com:9162/byv832
     576 http://23.234.25.74:1547/ttxsyg
     550 http://202.191.121.230/ou.pl
-    360 http://222.186.190.157:56789/win7
+    400 http://222.186.190.157:56789/win7
     333 http://23.234.19.202/i/a06
-    282 http://222.186.190.157:56789/win9
+    322 http://222.186.190.157:56789/win9
     264 http://61.160.212.21:5947/sungfjwwg
     248 http://94.102.153.210/.ips/.dd
     210 http://buhenge.com/z1
+    210 http://23.234.19.202/i/a07
     197 http://23.234.60.140/install/8003
+    189 http://222.186.190.157:56789/win6
     186 http://61.218.226.170/
     175 http://62.210.209.198/79
-    165 http://23.234.60.140/install/8006
+    164 http://23.234.60.140/install/8006
     158 http://23.234.60.140/install/8008
-    152 http://222.186.190.157:56789/win6
-    144 http://23.234.19.202/i/a07
     143 http://23.234.60.140/install/8002
     143 http://178.33.196.164:53/
     143 http://178.33.196.164:443/
@@ -56,6 +56,7 @@
      99 http://23.234.60.140/install/8005
      96 http://182.92.223.34:1211/rss
      91 http://115.231.222.107:81/qw
+     89 http://118.244.151.18:8080/linuxcy
      88 http://buhenge.com/z3
      86 http://62.210.209.198/59
      84 http://222.186.190.157:56789/win5
@@ -63,13 +64,15 @@
      81 http://222.186.190.157:56789/win8
      80 http://202.202.121.27/bot.txt
      73 http://61.160.212.21:5947/4weizhisfg
-     68 http://118.244.151.18:8080/linuxcy
      65 http://23.234.60.140/install/8001
      62 http://167.114.159.146/eflix.php
+     54 http://ubimed.com/cata.txt
      54 http://23.234.60.140/install/8000
      50 http://188.212.103.234/private/auto/.xtkarmx
      48 http://61.147.107.91:1231/rss
      48 http://218.5.71.227:12/rss
+     39 http://185.61.137.109/.xml.pl
+     36 http://66.117.8.158/79
      36 http://222.186.190.157:55675/33
      36 http://222.186.190.157:55675/11
      33 http://222.186.190.157:55675/22
@@ -98,10 +101,11 @@
      22 http://122.10.112.193:8080/wboh
      21 http://ftp.rxxiaoao.com/install/n8005.rar
      21 http://23.234.60.140/install/8004
-     21 http://185.61.137.109/.xml.pl
      21 http://121.41.74.174:8086/linux32
      20 http://speedtest.wdc01.softlayer.com/downloads/test10.zip
      20 http://root-arhive.serveftp.com/emech/system2.jpg
+     20 http://files.sa-mp.com/samp03zsvr_R1.tar.gz
+     20 http://files.sa-mp.com/samp03zsvr_R1-2.tar.gz
      20 http://14.29.49.13:3306/Maintain
      18 http://www.frade8c.com:9162/root
      18 http://rupe.cf/udp.pl
@@ -114,6 +118,7 @@
      16 http://222.186.190.157:22345/1
      15 http://ftp.rxxiaoao.com/install/n8006.rar
      15 http://185.61.137.109//.bub.pl
+     15 http://104.167.16.5/
      14 http://111.73.46.22:8080/wboh
      13 http://ftp.rxxiaoao.com/install/n8001.rar
      13 http://61.160.212.21:5947/3weizisdq
@@ -139,7 +144,6 @@
      12 http://151.236.44.210/ft.exe
      12 http://107.150.63.178:88/disk
      12 http://104.192.0.130/pl
-     12 http://104.167.16.5/
      11 http://ftp.rxxiaoao.com/install/n8007.rar
      11 http://93.174.93.45/ktx-mipsel
      11 http://218.244.148.238:8080/npc
@@ -171,6 +175,8 @@
       8 http://sourceforge.net/projects/freeman015/files/flood.exe/download
       8 http://javadl.sun.com/webapps/download/AutoDL
       8 http://ftp.freepark.org/pub/FreeBSD/ISO-IMAGES-amd64/9.1/FreeBSD-9.1-RELEASE-amd64-bootonly.iso
+      8 http://files.samp.c...svr_R1-2.tar.gz
+      8 http://files.sa-mp.c...svr_R1-2.tar.gz
       8 http://dl.4players.de/ts/releases/3.0.11.2/teamspeak3-server_linux-amd64-3.0.11.2.tar.gz
       8 http://cachefly.cachefly.net/100mb.test
       8 http://93.174.93.45/x64-ktx
@@ -209,6 +215,8 @@
       5 http://222.186.190.157:56789/9
       5 http://222.186.190.157:56789/8
       5 http://222.186.190.157:55675/qz3
+      5 http://122.224.19.112:888/TSm12343124123%2523@!%2523m
+      5 http://118.244.158.9:8081/Raroo
       5 http://115.29.165.174:25663/ss64
       5 http://115.29.165.174:25663/ss32
       5 http://115.29.165.174:25663/64
@@ -226,9 +234,16 @@
       4 http://kiss4u.go.ro/smoke.tgz
       4 http://ibrp.pl/wp-content/themes/socialreach/send.zip
       4 http://huthos.com/script/minidebian7.sh
-      4 http://files.sa-mp.com/samp03zsvr_R1.tar.gz
+      4 http://files.sa-mp...svr_R1-2.tar.gz
+      4 http://files.sa-mp.c..sr_R1-2tar.gz
+      4 http://files.samp.comsvr_R1-2.tar.gz
+      4 http://files.sa-mp.com/samp03zsvr.tar.gz
+      4 http://files.samp.com//samp03zsvr_R1-2.tar.gz
+      4 http://files.sa-mp.com/samp03zsvr
+      4 http://files.sa-mp.com/samp03xsvr_R1-2.tar.gz
       4 http://dw4.convertfiles.com/files/0008476001426332651/send.tar
       4 http://dl.packetstormsecurity.net/DoS/udp.pl
+      4 http://dl.fedoraproject.org/pub/epel/5/i386/epel-release-5-4.noarch.rpm
       4 http://dinoo.fisierul.ro/shadowfire.jpg
       4 http://csmioveni.tripod.com//scanz.tar
       4 http://coxspeed.webs.com/cox.tgz
@@ -254,6 +269,7 @@
       4 http://183.136.213.96:8090/Internet
       4 http://183.136.213.96:8090/10991
       4 http://122.224.55.86:8080/npc1
+      4 http://122.224.19.112:888/TS.exe
       4 http://121.40.85.20:8181/xdp
       4 http://118.193.241.192/wenge
       4 http://115.29.165.174:38886/ssh77
